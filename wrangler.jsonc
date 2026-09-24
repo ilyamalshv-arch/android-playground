@@ -1,0 +1,10 @@
+// Cloudflare Worker for the optional AI reflection (see worker/README.md).
+// Cloudflare Workers Builds deploys it from this repo on every push to main.
+{
+  "name": "android-playground",
+  "main": "worker/worker.js",
+  "compatibility_date": "2025-09-01",
+  "workers_dev": true,
+  "ai": { "binding": "AI" }
+  // The APP_TOKEN secret is set in the dashboard (Settings → Variables and Secrets), never here.
+}
