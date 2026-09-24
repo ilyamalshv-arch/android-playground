@@ -1,5 +1,6 @@
 package com.ilyamalshv.vnutri.ui
 
+import com.ilyamalshv.vnutri.data.tr
 import android.content.Intent
 import android.net.Uri
 import androidx.compose.foundation.layout.Arrangement
@@ -34,7 +35,7 @@ fun CrisisScreen(fromText: Boolean, onContinue: (() -> Unit)?, onBack: () -> Uni
         runCatching { context.startActivity(Intent(action, Uri.parse(uri))) }
     }
 
-    Scaffold(topBar = { BackTopBar("Поддержка", onBack) }) { padding ->
+    Scaffold(topBar = { BackTopBar(tr("Поддержка", "Support"), onBack) }) { padding ->
         Column(
             Modifier
                 .fillMaxSize()
@@ -46,11 +47,11 @@ fun CrisisScreen(fromText: Boolean, onContinue: (() -> Unit)?, onBack: () -> Uni
             verticalArrangement = Arrangement.spacedBy(12.dp),
         ) {
             Text(
-                if (fromText) "Похоже, сейчас очень тяжело. Спасибо, что написали об этом." else "Вы не обязаны справляться с этим в одиночку.",
+                if (fromText) tr("Похоже, сейчас очень тяжело. Спасибо, что написали об этом.", "It sounds very hard right now. Thank you for writing about it.") else tr("Вы не обязаны справляться с этим в одиночку.", "You don't have to face this alone."),
                 style = MaterialTheme.typography.headlineSmall,
             )
             Text(
-                "Если есть мысли причинить себе вред или кажется, что не выдержать, — пожалуйста, поговорите с живым человеком прямо сейчас. Звонок анонимный, и вам не нужно заранее знать, что сказать.",
+                tr("Если есть мысли причинить себе вред или кажется, что не выдержать, — пожалуйста, поговорите с живым человеком прямо сейчас. Звонок анонимный, и вам не нужно заранее знать, что сказать.", "If you have thoughts of hurting yourself or feel you can't hold on, please talk to a real person right now. Calls are anonymous, and you don't need to know in advance what to say."),
                 style = MaterialTheme.typography.bodyLarge,
             )
             Safety.resources.forEach { r ->
@@ -64,19 +65,19 @@ fun CrisisScreen(fromText: Boolean, onContinue: (() -> Unit)?, onBack: () -> Uni
                         Text(r.details, style = MaterialTheme.typography.bodyMedium, color = MaterialTheme.colorScheme.onSurfaceVariant)
                         r.phone?.let { phone ->
                             Button(onClick = { open("tel:$phone", Intent.ACTION_DIAL) }, modifier = Modifier.padding(top = 8.dp)) {
-                                Text("Позвонить")
+                                Text(tr("Позвонить", "Call"))
                             }
                         }
                         r.url?.let { url ->
                             OutlinedButton(onClick = { open(url, Intent.ACTION_VIEW) }, modifier = Modifier.padding(top = 8.dp)) {
-                                Text("Открыть сайт")
+                                Text(tr("Открыть сайт", "Open website"))
                             }
                         }
                     }
                 }
             }
             Text(
-                "Можно также написать или позвонить тому, кому вы доверяете: другу, родственнику, врачу. Просто «мне сейчас плохо, побудь со мной» — уже достаточно.",
+                tr("Можно также написать или позвонить тому, кому вы доверяете: другу, родственнику, врачу. Просто «мне сейчас плохо, побудь со мной» — уже достаточно.", "You can also text or call someone you trust: a friend, a relative, a doctor. Just “I'm not OK right now, stay with me” is enough."),
                 style = MaterialTheme.typography.bodyLarge,
             )
             Card(
@@ -85,16 +86,16 @@ fun CrisisScreen(fromText: Boolean, onContinue: (() -> Unit)?, onBack: () -> Uni
                 modifier = Modifier.fillMaxWidth(),
             ) {
                 Column(Modifier.padding(16.dp)) {
-                    Text("Прямо сейчас, на минуту", style = MaterialTheme.typography.titleMedium)
+                    Text(tr("Прямо сейчас, на минуту", "Right now, for a minute"), style = MaterialTheme.typography.titleMedium)
                     Text(
-                        "Поставьте ноги на пол и почувствуйте опору. Сделайте медленный вдох на 4 счёта и ещё более медленный выдох на 6. Повторите пять раз. Назовите про себя пять вещей, которые вы видите вокруг.",
+                        tr("Поставьте ноги на пол и почувствуйте опору. Сделайте медленный вдох на 4 счёта и ещё более медленный выдох на 6. Повторите пять раз. Назовите про себя пять вещей, которые вы видите вокруг.", "Put your feet on the floor and feel the support. Breathe in slowly for 4 counts and out even more slowly for 6. Repeat five times. Name to yourself five things you can see around you."),
                         style = MaterialTheme.typography.bodyMedium,
                     )
                 }
             }
             if (onContinue != null) {
                 OutlinedButton(onClick = onContinue, modifier = Modifier.fillMaxWidth()) {
-                    Text("Продолжить к размышлениям")
+                    Text(tr("Продолжить к размышлениям", "Continue to reflection"))
                 }
             }
         }

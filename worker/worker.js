@@ -96,7 +96,8 @@ async function classify(body, env) {
   if (CRISIS.some((re) => re.test(normalized))) return json({ crisis: true });
 
   const list = states.map((s) => `${s.id} — ${s.name}`).join("\n");
-  const prompt = `Список состояний (id — название):\n${list}\n\nТекст человека:\n"""\n${text}\n"""\n\n` +
+  const lang = body.lang === "en" ? "Текст может быть на английском; названия состояний — на языке приложения. " : "";
+  const prompt = lang + `Список состояний (id — название):\n${list}\n\nТекст человека:\n"""\n${text}\n"""\n\n` +
     "Выбери от 1 до 4 состояний из списка, которые точнее всего описывают то, что человек переживает в этом тексте. " +
     "Учитывай весь текст, а не отдельные слова; конкретные состояния (например, похмелье, предательство) важнее общих. " +
     'Ответь ТОЛЬКО JSON-массивом id по убыванию важности, например ["hangover","shame"]. Без пояснений.';
@@ -171,7 +172,9 @@ export default {
       `Тексты школ из библиотеки приложения:\n\n${lenses.join("\n\n")}`,
     ].join("\n\n");
 
-    const style = STYLES[body.style] || STYLES.gentle;
+    const style = (STYLES[body.style] || STYLES.gentle) + (body.lang === "en"
+      ? "\n\nLANGUAGE: the person uses the app in English. Write your whole answer in natural, warm English, addressing them as \"you\"."
+      : "");
     const model = MODELS[body.model] || env.MODEL || DEFAULT_MODEL;
 
     try {

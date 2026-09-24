@@ -1,5 +1,6 @@
 package com.ilyamalshv.vnutri.ui
 
+import com.ilyamalshv.vnutri.data.tr
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.PaddingValues
@@ -26,7 +27,7 @@ import com.ilyamalshv.vnutri.data.School
 
 @Composable
 fun LibraryScreen(library: Library, onOpen: (String) -> Unit, onBack: () -> Unit) {
-    Scaffold(topBar = { BackTopBar("Школы и мыслители", onBack) }) { padding ->
+    Scaffold(topBar = { BackTopBar(tr("Школы и мыслители", "Schools and thinkers"), onBack) }) { padding ->
         LazyColumn(
             Modifier.padding(padding),
             contentPadding = PaddingValues(16.dp),
@@ -78,10 +79,10 @@ fun SchoolScreen(school: School, onBack: () -> Unit) {
             }
             item { Text(school.summary, style = MaterialTheme.typography.bodyLarge) }
             item {
-                Text("Как эта школа видит чувства", style = MaterialTheme.typography.titleSmall)
+                Text(tr("Как эта школа видит чувства", "How this school sees feelings"), style = MaterialTheme.typography.titleSmall)
                 Text(school.onEmotions, style = MaterialTheme.typography.bodyLarge)
             }
-            item { Text("Взгляд на каждое чувство", style = MaterialTheme.typography.titleSmall, modifier = Modifier.padding(top = 8.dp)) }
+            item { Text(tr("Взгляд на каждое чувство", "Its view of each feeling"), style = MaterialTheme.typography.titleSmall, modifier = Modifier.padding(top = 8.dp)) }
             items(Emotions.all.filter { school.lenses.containsKey(it.id) }, key = { it.id }) { e ->
                 LensCard(
                     heading = e.name,

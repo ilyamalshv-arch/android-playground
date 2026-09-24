@@ -1,5 +1,6 @@
 package com.ilyamalshv.vnutri.ui
 
+import com.ilyamalshv.vnutri.data.tr
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.PaddingValues
@@ -65,7 +66,7 @@ fun ResultScreen(
     val lenses = library.lensesFor(emotionId).filter { family == null || it.first.family == family }
     val presentFamilies = Families.all.filter { f -> library.schools.any { it.family == f.id } }
 
-    Scaffold(topBar = { BackTopBar("Взгляды на чувства", onBack) }) { padding ->
+    Scaffold(topBar = { BackTopBar(tr("Взгляды на чувства", "Views on feelings"), onBack) }) { padding ->
         Column(Modifier.fillMaxSize().padding(padding).consumeWindowInsets(padding).imePadding()) {
             if (entry.emotions.size > 1) {
                 ScrollableTabRow(selectedTabIndex = tab, edgePadding = 16.dp) {
@@ -78,7 +79,7 @@ fun ResultScreen(
                 contentPadding = PaddingValues(horizontal = 16.dp, vertical = 8.dp),
                 horizontalArrangement = Arrangement.spacedBy(8.dp),
             ) {
-                item { FilterChip(selected = family == null, onClick = { family = null }, label = { Text("Все") }) }
+                item { FilterChip(selected = family == null, onClick = { family = null }, label = { Text(tr("Все", "All")) }) }
                 items(presentFamilies, key = { it.id }) { f ->
                     FilterChip(selected = family == f.id, onClick = { family = f.id }, label = { Text(f.name) })
                 }
@@ -95,17 +96,17 @@ fun ResultScreen(
                         ) {
                             Column(Modifier.padding(16.dp)) {
                                 Text(
-                                    "Похоже, сейчас вам по-настоящему тяжело. Философия может помочь осмыслить, но не обязана справляться с этим одна — живой человек рядом или на линии поддержки тоже может помочь.",
+                                    tr("Похоже, сейчас вам по-настоящему тяжело. Философия может помочь осмыслить, но не обязана справляться с этим одна — живой человек рядом или на линии поддержки тоже может помочь.", "It seems things are really hard right now. Philosophy can help you make sense of it, but it doesn't have to carry this alone — a person nearby or on a support line can help too."),
                                     style = MaterialTheme.typography.bodyMedium,
                                 )
-                                TextButton(onClick = onHelp) { Text("Куда обратиться") }
+                                TextButton(onClick = onHelp) { Text(tr("Куда обратиться", "Where to turn")) }
                             }
                         }
                     }
                 }
                 item {
                     Text(
-                        "Здесь нет правильного ответа. Прочитайте несколько взглядов и заметьте, какой из них отзывается.",
+                        tr("Здесь нет правильного ответа. Прочитайте несколько взглядов и заметьте, какой из них отзывается.", "There is no right answer here. Read a few views and notice which one resonates."),
                         style = MaterialTheme.typography.bodyMedium,
                         color = MaterialTheme.colorScheme.onSurfaceVariant,
                     )
@@ -141,14 +142,14 @@ fun ResultScreen(
                 if (emotionId in setOf("craving", "addiction", "hangover")) {
                     item(key = "addiction-note") {
                         Text(
-                            "Зависимость — не слабость характера. Если захочется поддержки, помогают люди, которые прошли через то же: группы взаимопомощи (например, АА или АН, есть и онлайн-встречи) и врач-нарколог — в том числе анонимно.",
+                            tr("Зависимость — не слабость характера. Если захочется поддержки, помогают люди, которые прошли через то же: группы взаимопомощи (например, АА или АН, есть и онлайн-встречи) и врач-нарколог — в том числе анонимно.", "Addiction is not a weakness of character. If you want support, people who have been through the same can help: mutual-help groups (such as AA or NA, including online meetings) and addiction doctors — anonymously too."),
                             style = MaterialTheme.typography.bodySmall,
                             color = MaterialTheme.colorScheme.onSurfaceVariant,
                         )
                     }
                 }
                 if (lenses.isEmpty()) {
-                    item { Text("Для этого чувства в выбранной группе пока нет текстов.") }
+                    item { Text(tr("Для этого чувства в выбранной группе пока нет текстов.", "No texts for this feeling in the selected group yet.")) }
                 }
                 item {
                     Card(
@@ -156,9 +157,9 @@ fun ResultScreen(
                         colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.surfaceContainer),
                     ) {
                         Column(Modifier.padding(16.dp)) {
-                            Text("Что откликнулось?", style = MaterialTheme.typography.titleMedium)
+                            Text(tr("Что откликнулось?", "What resonated?"), style = MaterialTheme.typography.titleMedium)
                             Text(
-                                "Одна-две фразы для себя: какая мысль задела, что стало чуть понятнее.",
+                                tr("Одна-две фразы для себя: какая мысль задела, что стало чуть понятнее.", "A line or two for yourself: which thought touched you, what became a little clearer."),
                                 style = MaterialTheme.typography.bodySmall,
                                 color = MaterialTheme.colorScheme.onSurfaceVariant,
                             )
@@ -171,7 +172,7 @@ fun ResultScreen(
                             Button(onClick = {
                                 onUpdate(entry.copy(reflection = reflection.trim()))
                                 reflectionSaved = true
-                            }) { Text(if (reflectionSaved) "Сохранено ✓" else "Сохранить в дневник") }
+                            }) { Text(if (reflectionSaved) tr("Сохранено ✓", "Saved ✓") else tr("Сохранить в дневник", "Save to journal")) }
                         }
                     }
                 }

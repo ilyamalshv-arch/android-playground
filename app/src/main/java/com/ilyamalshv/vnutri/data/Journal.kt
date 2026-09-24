@@ -27,9 +27,9 @@ data class JournalEntry(
 }
 
 fun intensityLabel(intensity: Int): String = when (intensity) {
-    1 -> "слегка"
-    3 -> "сильно"
-    else -> "заметно"
+    1 -> tr("слегка", "slightly")
+    3 -> tr("сильно", "strongly")
+    else -> tr("заметно", "noticeably")
 }
 
 /** The journal lives in one private JSON file; nothing leaves the phone. */

@@ -77,6 +77,78 @@ object EmotionGuess {
         "melancholy" to w("меланхол", "светлая печаль", "светлая грусть", "осенн", "грустно, но хорошо"),
     )
 
+    // English cues (word starts, lowercase). Kept short: the AI button handles subtle cases.
+    private fun e(vararg stems: String) = stems.map { Regex("(?<![a-z])$it") }
+
+    private val rulesEn: List<Pair<String, List<Regex>>> = listOf(
+        "anxiety" to e("anxi", "worr", "nervous", "on edge", "overthink"),
+        "fear" to e("afraid", "scared", "fear", "terrif", "frighten"),
+        "panic" to e("panic", "can'?t breathe", "heart (is )?racing", "going crazy"),
+        "dread" to e("dread", "what'?s the point", "meaningless", "mortality"),
+        "fomo" to e("missing out", "fomo", "everyone else is", "life is passing"),
+        "sleepless" to e("can'?t sleep", "insomnia", "awake at", "3 ?am"),
+        "social_anxiety" to e("shy", "awkward around", "what people think", "judged", "social anxiety"),
+        "uncertainty" to e("uncertain", "don'?t know what will happen", "unknown", "limbo"),
+        "waiting" to e("waiting", "waiting for", "still no answer"),
+        "sadness" to e("sad", "cry", "crying", "tears", "down", "blue"),
+        "grief" to e("died", "death", "passed away", "funeral", "grief", "griev", "loss of"),
+        "loneliness" to e("lonely", "alone", "no one to talk", "nobody (cares|understands)", "isolated"),
+        "heartbreak" to e("broke up", "breakup", "break-up", "dumped", "heartbr", "my ex"),
+        "uprooted" to e("emigrat", "moved abroad", "relocat", "homesick", "foreign country"),
+        "regret" to e("regret", "should have", "wish i had", "if only"),
+        "longing" to e("miss (him|her|you|them|my)", "long for", "yearn"),
+        "world_pain" to e("war", "the news", "injustice", "refugee", "the world is"),
+        "anger" to e("angry", "anger", "furious", "pissed", "mad at", "rage"),
+        "resentment" to e("resent", "can'?t forgive", "still hurt by", "grudge"),
+        "betrayal" to e("betray", "cheated on", "lied to me", "stabbed in the back"),
+        "jealousy" to e("jealous"),
+        "envy" to e("envy", "envious", "they have everything"),
+        "rejection" to e("rejected", "rejection", "ignored me", "turned me down", "ghosted"),
+        "abandonment" to e("will leave me", "afraid (he|she|they) will leave", "abandon"),
+        "unrequited" to e("unrequited", "doesn'?t love me back", "one-sided"),
+        "humiliation" to e("humiliat", "laughed at me", "made fun of"),
+        "shame" to e("ashamed", "shame", "embarrass"),
+        "guilt" to e("guilt", "my fault", "blame myself", "let (them|her|him) down"),
+        "self_hatred" to e("hate myself", "i'?m worthless", "i'?m disgusting", "i'?m a failure"),
+        "impostor" to e("impostor", "imposter", "don'?t deserve", "found out", "fraud"),
+        "helplessness" to e("helpless", "powerless", "nothing i can do"),
+        "confusion" to e("confused", "lost", "don'?t know what to do", "torn"),
+        "body_shame" to e("hate my body", "fat", "ugly", "my body"),
+        "fatigue" to e("tired", "exhausted", "burn(ed|t)? ?out", "drained", "no energy"),
+        "emptiness" to e("empty", "numb", "apath", "don'?t care about anything"),
+        "boredom" to e("bored", "boring", "nothing to do", "same every day"),
+        "overload" to e("overwhelm", "too much information", "doomscroll", "notifications", "overload"),
+        "procrastination" to e("procrastinat", "can'?t start", "keep putting off", "deadline"),
+        "unreality" to e("unreal", "not real", "like a dream", "derealiz", "depersonaliz", "foggy"),
+        "craving" to e("craving", "crave", "want a drink", "relapse", "urge to"),
+        "addiction" to e("addict", "can'?t quit", "can'?t stop drinking", "hooked", "binge"),
+        "hangover" to e("hangover", "hungover", "drank too much", "blackout", "last night i drank"),
+        "euphoria" to e("euphori", "on top of the world", "high as", "buzzing"),
+        "crash" to e("crash", "come ?down", "after the high", "mood dropped"),
+        "illness" to e("sick", "ill", "illness", "diagnos", "hospital", "pain in"),
+        "schadenfreude" to e("serves (him|her|them) right", "glad (he|she|they) failed", "schadenfreude"),
+        "contempt" to e("contempt", "despise", "pathetic"),
+        "disgust" to e("disgust", "gross", "repuls", "sickening"),
+        "revenge" to e("revenge", "get back at", "make (him|her|them) pay"),
+        "anger_at_loved" to e("yelled at (my )?(kid|child|son|daughter|partner|wife|husband|mom|dad)", "snapped at", "angry (at|with) my (mom|dad|mother|father|partner|wife|husband|kid|child)"),
+        "ambivalence" to e("love and hate", "mixed feelings", "torn about (him|her|them)"),
+        "guilty_relief" to e("relieved and guilty", "guilty for feeling relieved", "feel relief and"),
+        "indifference" to e("indifferent", "felt nothing", "should care"),
+        "escape" to e("run away", "drop everything", "quit everything", "start over", "escape"),
+        "forbidden_attraction" to e("married (man|woman)", "shouldn'?t want", "forbidden", "attracted to (my|a) (friend|colleague|boss)"),
+        "nostalgia" to e("nostalg", "the old days", "when i was young", "childhood"),
+        "melancholy" to e("melanchol", "bittersweet", "wistful"),
+        "pride" to e("proud", "i did it", "managed to"),
+        "joy" to e("happy", "joy", "glad", "delight"),
+        "love" to e("love", "tender", "in love", "adore"),
+        "gratitude" to e("grateful", "thankful", "gratitude", "thank"),
+        "hope" to e("hope", "hopeful", "optimis"),
+        "awe" to e("awe", "breathtaking", "vast", "sublime"),
+        "relief" to e("relief", "relieved", "finally over", "weight off"),
+        "calm" to e("calm", "peaceful", "serene", "at peace"),
+        "inspiration" to e("inspir", "creative", "new idea", "motivated"),
+    )
+
     // Broad feelings get matched by many everyday words («страшно», «грустно»); specific states
     // («похмелье», «предательство») usually appear once but say much more — so they weigh more.
     private val broad = setOf(
@@ -88,7 +160,8 @@ object EmotionGuess {
     fun guess(text: String, limit: Int = 4): List<String> {
         val t = text.lowercase().replace('ё', 'е')
         if (t.isBlank()) return emptyList()
-        return rules
+        val cyrillic = t.count { it in 'а'..'я' } >= t.count { it in 'a'..'z' }
+        return (if (cyrillic) rules else rulesEn)
             .map { (id, patterns) ->
                 val hits = patterns.sumOf { p -> p.findAll(t).count() }
                 id to if (id in broad) hits else hits * 3

@@ -1,5 +1,6 @@
 package com.ilyamalshv.vnutri.ui
 
+import com.ilyamalshv.vnutri.data.tr
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.ExperimentalLayoutApi
@@ -53,7 +54,7 @@ import kotlinx.coroutines.launch
 private val DEFAULT_SCHOOLS = listOf("byung_chul_han", "existentialism", "deleuze_guattari", "stoicism", "spinoza", "butler")
 private const val MAX_SCHOOLS = 4
 
-val AI_STYLES = listOf("gentle" to "Мягче", "deep" to "Глубже", "practical" to "Практичнее")
+fun aiStyles() = listOf("gentle" to tr("Мягче", "Gentler"), "deep" to tr("Глубже", "Deeper"), "practical" to tr("Практичнее", "Practical"))
 
 /** Schools the person opened or saved come first; a varied default set fills the rest. */
 fun defaultSchoolIds(library: Library, entry: JournalEntry, opened: Collection<String>): List<String> {
@@ -140,17 +141,17 @@ fun AiCard(
         modifier = Modifier.fillMaxWidth(),
     ) {
         Column(Modifier.padding(16.dp), verticalArrangement = Arrangement.spacedBy(8.dp)) {
-            Text("✦ Разобрать мою ситуацию", style = MaterialTheme.typography.titleMedium)
+            Text(tr("✦ Разобрать мою ситуацию", "✦ Reflect on my situation"), style = MaterialTheme.typography.titleMedium)
             if (!open) {
-                Text("ИИ свяжет взгляды школ с тем, что происходит именно у вас.", style = MaterialTheme.typography.bodyMedium)
+                Text(tr("ИИ свяжет взгляды школ с тем, что происходит именно у вас.", "AI will connect the schools' views to what is happening in your life."), style = MaterialTheme.typography.bodyMedium)
                 return@Column
             }
             if (!settings.aiConfigured) {
                 Text(
-                    "ИИ-режим ещё не настроен: нужен ваш бесплатный сервер Cloudflare. Инструкция — в репозитории, в папке worker.",
+                    tr("ИИ-режим ещё не настроен: нужен ваш бесплатный сервер Cloudflare. Инструкция — в репозитории, в папке worker.", "AI mode isn't set up yet: it needs your own free Cloudflare server. Instructions are in the repository, in the worker folder."),
                     style = MaterialTheme.typography.bodyMedium,
                 )
-                TextButton(onClick = onOpenSettings) { Text("Открыть настройки") }
+                TextButton(onClick = onOpenSettings) { Text(tr("Открыть настройки", "Open settings")) }
                 return@Column
             }
 
@@ -158,13 +159,13 @@ fun AiCard(
                 OutlinedTextField(
                     value = note,
                     onValueChange = { note = it },
-                    label = { Text("Что происходит?") },
+                    label = { Text(tr("Что происходит?", "What's happening?")) },
                     minLines = 3,
                     modifier = Modifier.fillMaxWidth(),
                 )
             }
 
-            Text("Школы для разбора", style = MaterialTheme.typography.labelLarge)
+            Text(tr("Школы для разбора", "Schools for the reflection"), style = MaterialTheme.typography.labelLarge)
             FlowRow(horizontalArrangement = Arrangement.spacedBy(6.dp)) {
                 schools.forEach { sid ->
                     val title = library.school(sid)?.title ?: sid
@@ -175,13 +176,13 @@ fun AiCard(
                     )
                 }
                 if (schools.size < MAX_SCHOOLS) {
-                    AssistChip(onClick = { pickSchool = true }, label = { Text("+ школа") })
+                    AssistChip(onClick = { pickSchool = true }, label = { Text(tr("+ школа", "+ school")) })
                 }
             }
 
-            Text("Тон", style = MaterialTheme.typography.labelLarge)
+            Text(tr("Тон", "Tone"), style = MaterialTheme.typography.labelLarge)
             Row(horizontalArrangement = Arrangement.spacedBy(6.dp)) {
-                AI_STYLES.forEach { (key, label) ->
+                aiStyles().forEach { (key, label) ->
                     FilterChip(selected = settings.aiStyle == key, onClick = { settings.aiStyle = key }, label = { Text(label) })
                 }
             }
@@ -199,7 +200,7 @@ fun AiCard(
             }
             if (conversation.isNotEmpty()) {
                 Text(
-                    "Ответы пишет ИИ, он может ошибаться. Опирайтесь на то, что откликается.",
+                    tr("Ответы пишет ИИ, он может ошибаться. Опирайтесь на то, что откликается.", "Answers are written by AI and may be wrong. Lean on what resonates."),
                     style = MaterialTheme.typography.bodySmall,
                     color = MaterialTheme.colorScheme.onSurfaceVariant,
                 )
@@ -210,7 +211,7 @@ fun AiCard(
             if (conversation.isEmpty()) {
                 Row(verticalAlignment = Alignment.CenterVertically) {
                     Button(onClick = { if (settings.aiConsent) start() else askConsent = true }, enabled = !loading) {
-                        Text("Разобрать")
+                        Text(tr("Разобрать", "Reflect"))
                     }
                     if (loading) CircularProgressIndicator(Modifier.padding(start = 16.dp).size(24.dp), strokeWidth = 2.dp)
                 }
@@ -218,15 +219,15 @@ fun AiCard(
                 OutlinedTextField(
                     value = reply,
                     onValueChange = { reply = it },
-                    label = { Text("Ответить или спросить ещё") },
+                    label = { Text(tr("Ответить или спросить ещё", "Reply or ask more")) },
                     minLines = 2,
                     modifier = Modifier.fillMaxWidth(),
                 )
                 Row(verticalAlignment = Alignment.CenterVertically) {
                     Button(onClick = { continueWith(reply.trim()) }, enabled = !loading && reply.isNotBlank()) {
-                        Text("Отправить")
+                        Text(tr("Отправить", "Send"))
                     }
-                    TextButton(onClick = { start() }, enabled = !loading) { Text("Разобрать заново") }
+                    TextButton(onClick = { start() }, enabled = !loading) { Text(tr("Разобрать заново", "Reflect again")) }
                     if (loading) CircularProgressIndicator(Modifier.padding(start = 8.dp).size(24.dp), strokeWidth = 2.dp)
                 }
             }
@@ -236,7 +237,7 @@ fun AiCard(
     if (pickSchool) {
         AlertDialog(
             onDismissRequest = { pickSchool = false },
-            title = { Text("Добавить школу") },
+            title = { Text(tr("Добавить школу", "Add a school")) },
             text = {
                 LazyColumn(Modifier.heightIn(max = 420.dp)) {
                     items(library.schools.filter { it.id !in schools }, key = { it.id }) { s ->
@@ -256,19 +257,19 @@ fun AiCard(
                     }
                 }
             },
-            confirmButton = { TextButton(onClick = { pickSchool = false }) { Text("Закрыть") } },
+            confirmButton = { TextButton(onClick = { pickSchool = false }) { Text(tr("Закрыть", "Close")) } },
         )
     }
 
     if (askConsent) {
         AlertDialog(
             onDismissRequest = { askConsent = false },
-            title = { Text("Перед первым разбором") },
+            title = { Text(tr("Перед первым разбором", "Before the first reflection")) },
             text = {
                 Text(
-                    "Выбранные чувства, ваш текст и несколько текстов школ будут отправлены на ваш сервер Cloudflare и обработаны открытой моделью ИИ. " +
-                        "Дневник, имя и другие записи не отправляются, сервер ничего не сохраняет.\n\n" +
-                        "Лучше не писать имён, адресов и других личных данных.",
+                    tr("Выбранные чувства, ваш текст и несколько текстов школ будут отправлены на ваш сервер Cloudflare и обработаны открытой моделью ИИ. ", "The chosen feelings, your text and a few school texts will be sent to your Cloudflare server and processed by an open AI model. ") +
+                        tr("Дневник, имя и другие записи не отправляются, сервер ничего не сохраняет.\n\n", "Your journal, name and other entries are not sent; the server stores nothing.\n\n") +
+                        tr("Лучше не писать имён, адресов и других личных данных.", "Better not to include names, addresses or other personal details."),
                 )
             },
             confirmButton = {
@@ -276,9 +277,9 @@ fun AiCard(
                     settings.aiConsent = true
                     askConsent = false
                     start()
-                }) { Text("Согласен(на)") }
+                }) { Text(tr("Согласен(на)", "I agree")) }
             },
-            dismissButton = { TextButton(onClick = { askConsent = false }) { Text("Отмена") } },
+            dismissButton = { TextButton(onClick = { askConsent = false }) { Text(tr("Отмена", "Cancel")) } },
         )
     }
 }

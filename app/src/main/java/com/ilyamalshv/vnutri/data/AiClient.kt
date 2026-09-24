@@ -26,6 +26,7 @@ class AiClient(private val settings: Settings) {
     suspend fun classify(text: String): AiReply {
         val body = JSONObject()
             .put("text", text)
+            .put("lang", settings.lang)
             .put("model", settings.aiModel)
             .put("states", JSONArray().apply {
                 Emotions.all.forEach { put(JSONObject().put("id", it.id).put("name", it.name)) }
@@ -50,6 +51,7 @@ class AiClient(private val settings: Settings) {
         val body = JSONObject()
             .put("note", note)
             .put("style", settings.aiStyle)
+            .put("lang", settings.lang)
             .put("model", settings.aiModel)
             .put("history", JSONArray().apply {
                 history.forEach { put(JSONObject().put("role", it.role).put("text", it.text)) }
@@ -72,7 +74,7 @@ class AiClient(private val settings: Settings) {
             when {
                 json.optBoolean("crisis") -> AiReply.Crisis
                 json.optString("text").isNotBlank() -> AiReply.Text(json.getString("text"))
-                else -> AiReply.Failure("Пустой ответ")
+                else -> AiReply.Failure(tr("Пустой ответ", "Empty response"))
             }
         }
     }
@@ -80,7 +82,7 @@ class AiClient(private val settings: Settings) {
     private suspend fun request(method: String, path: String, body: String?, parse: (JSONObject) -> AiReply): AiReply =
         withContext(Dispatchers.IO) {
             val conn = runCatching { URL(settings.aiUrl.trimEnd('/') + path).openConnection() as HttpURLConnection }
-                .getOrElse { return@withContext AiReply.Failure("Неверный адрес сервера") }
+                .getOrElse { return@withContext AiReply.Failure(tr("Неверный адрес сервера", "Invalid server address")) }
             try {
                 conn.requestMethod = method
                 conn.connectTimeout = 15_000
@@ -96,13 +98,13 @@ class AiClient(private val settings: Settings) {
                 val text = stream?.bufferedReader(Charsets.UTF_8)?.use { it.readText() }.orEmpty()
                 when (code) {
                     in 200..299 -> parse(JSONObject(text))
-                    401 -> AiReply.Failure("Сервер не принял ключ доступа. Проверьте его в настройках.")
-                    429 -> AiReply.Failure("Бесплатный лимит на сегодня исчерпан. Он обновится в 00:00 UTC (3:00 по Москве).")
-                    502 -> AiReply.Failure("Модель не ответила. Попробуйте ещё раз или выберите другую модель в настройках.")
-                    else -> AiReply.Failure("Сервер ответил ошибкой ($code). Попробуйте позже.")
+                    401 -> AiReply.Failure(tr("Сервер не принял ключ доступа. Проверьте его в настройках.", "The server rejected the access key. Check it in settings."))
+                    429 -> AiReply.Failure(tr("Бесплатный лимит на сегодня исчерпан. Он обновится в 00:00 UTC (3:00 по Москве).", "Today's free limit is used up. It resets at 00:00 UTC."))
+                    502 -> AiReply.Failure(tr("Модель не ответила. Попробуйте ещё раз или выберите другую модель в настройках.", "The model didn't respond. Try again or choose another model in settings."))
+                    else -> AiReply.Failure(tr("Сервер ответил ошибкой ($code). Попробуйте позже.", "The server returned an error ($code). Try again later."))
                 }
             } catch (e: Exception) {
-                AiReply.Failure("Нет связи с сервером. Проверьте интернет и адрес в настройках.")
+                AiReply.Failure(tr("Нет связи с сервером. Проверьте интернет и адрес в настройках.", "Can't reach the server. Check your internet and the address in settings."))
             } finally {
                 conn.disconnect()
             }

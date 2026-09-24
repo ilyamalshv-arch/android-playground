@@ -1,5 +1,6 @@
 package com.ilyamalshv.vnutri
 
+import com.ilyamalshv.vnutri.data.tr
 import android.content.Context
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -33,6 +34,7 @@ import com.ilyamalshv.vnutri.data.AiReply
 import com.ilyamalshv.vnutri.data.EmotionGuess
 import com.ilyamalshv.vnutri.data.EmotionMark
 import com.ilyamalshv.vnutri.data.JournalEntry
+import com.ilyamalshv.vnutri.data.Lang
 import com.ilyamalshv.vnutri.data.JournalStore
 import com.ilyamalshv.vnutri.data.Library
 import com.ilyamalshv.vnutri.data.Safety
@@ -67,6 +69,7 @@ class MainActivity : ComponentActivity() {
         ambient = Ambient(this)
         feedback = Feedback(this, settings)
         ambient.setEnabled(settings.music)
+        Lang.current = settings.lang
         setContent {
             feedback.view = LocalView.current
             VnutriTheme {
@@ -111,8 +114,9 @@ private sealed interface Screen {
 @Composable
 private fun App(settings: Settings, ambient: Ambient, feedback: Feedback) {
     val context = LocalContext.current
-    val library by produceState<Library?>(null) {
-        value = withContext(Dispatchers.IO) { Library.load(context) }
+    val lang = Lang.current
+    val library by produceState<Library?>(null, lang) {
+        value = withContext(Dispatchers.IO) { Library.load(context, lang) }
     }
     val store = remember { JournalStore(context) }
     val ai = remember { AiClient(settings) }
@@ -162,7 +166,7 @@ private fun App(settings: Settings, ambient: Ambient, feedback: Feedback) {
     when (val screen = current) {
         Screen.Intro -> {
             val quote = remember(lib) { pickSplashQuote(lib) }
-            SplashScreen(quote = quote, onEnter = {
+            SplashScreen(quote = quote, lang = lang, onLang = { settings.lang = it; Lang.current = it }, onEnter = {
                 feedback.confirm()
                 replaceTop(Screen.Home)
             })
@@ -171,6 +175,7 @@ private fun App(settings: Settings, ambient: Ambient, feedback: Feedback) {
         Screen.Settings -> SettingsScreen(
             settings = settings,
             ai = ai,
+            onLang = { settings.lang = it; Lang.current = it },
             onMusic = {
                 settings.music = it
                 ambient.setEnabled(it)
@@ -281,11 +286,11 @@ private fun App(settings: Settings, ambient: Ambient, feedback: Feedback) {
     if (askConsent) {
         AlertDialog(
             onDismissRequest = { askConsent = false },
-            title = { Text("ИИ прочитает текст") },
+            title = { Text(tr("ИИ прочитает текст", "AI will read the text")) },
             text = {
                 Text(
-                    "Чтобы распознать состояния точнее, ваш текст будет отправлен на ваш сервер Cloudflare и обработан открытой моделью ИИ. " +
-                        "Сервер ничего не сохраняет. Лучше не писать имён, адресов и других личных данных.",
+                    tr("Чтобы распознать состояния точнее, ваш текст будет отправлен на ваш сервер Cloudflare и обработан открытой моделью ИИ. ", "To recognise your states more precisely, your text will be sent to your Cloudflare server and processed by an open AI model. ") +
+                        tr("Сервер ничего не сохраняет. Лучше не писать имён, адресов и других личных данных.", "The server stores nothing. Better not to include names, addresses or other personal details."),
                 )
             },
             confirmButton = {
@@ -293,9 +298,9 @@ private fun App(settings: Settings, ambient: Ambient, feedback: Feedback) {
                     settings.aiConsent = true
                     askConsent = false
                     classify()
-                }) { Text("Согласен(на)") }
+                }) { Text(tr("Согласен(на)", "I agree")) }
             },
-            dismissButton = { TextButton(onClick = { askConsent = false }) { Text("Отмена") } },
+            dismissButton = { TextButton(onClick = { askConsent = false }) { Text(tr("Отмена", "Cancel")) } },
         )
     }
 }
@@ -308,19 +313,19 @@ private fun WelcomeDialog() {
     if (!show) return
     AlertDialog(
         onDismissRequest = {},
-        title = { Text("Добро пожаловать") },
+        title = { Text(tr("Добро пожаловать", "Welcome")) },
         text = {
             Text(
-                "Sincerer помогает посмотреть на свои чувства глазами философов — от стоиков до мыслителей XXI века — и принять их, а не бороться с ними.\n\n" +
-                    "Это не терапия и не замена психологу. Если вам очень плохо, на главном экране всегда есть кнопка помощи.\n\n" +
-                    "Всё, что вы пишете, остаётся только на этом телефоне. Исключение — необязательный ИИ-разбор: он включается отдельно и перед первым использованием всё объяснит.",
+                tr("Sincerer помогает посмотреть на свои чувства глазами философов — от стоиков до мыслителей XXI века — и принять их, а не бороться с ними.\n\n", "Sincerer helps you look at your feelings through the eyes of philosophers — from the Stoics to 21st-century thinkers — and accept them rather than fight them.\n\n") +
+                    tr("Это не терапия и не замена психологу. Если вам очень плохо, на главном экране всегда есть кнопка помощи.\n\n", "This is not therapy and not a replacement for a psychologist. If you feel really bad, there is always a help button on the home screen.\n\n") +
+                    tr("Всё, что вы пишете, остаётся только на этом телефоне. Исключение — необязательный ИИ-разбор: он включается отдельно и перед первым использованием всё объяснит.", "Everything you write stays on this phone. The only exception is the optional AI reflection: it is switched on separately and explains everything before its first use."),
             )
         },
         confirmButton = {
             TextButton(onClick = {
                 prefs.edit().putBoolean("welcomed", true).apply()
                 show = false
-            }) { Text("Понятно") }
+            }) { Text(tr("Понятно", "Got it")) }
         },
     )
 }

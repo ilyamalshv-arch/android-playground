@@ -1,5 +1,6 @@
 package com.ilyamalshv.vnutri.ui
 
+import com.ilyamalshv.vnutri.data.tr
 import android.graphics.Bitmap
 import android.view.HapticFeedbackConstants
 import androidx.compose.animation.core.Animatable
@@ -182,7 +183,7 @@ private class Mass(val w: Int, val h: Int) {
 }
 
 @Composable
-fun SplashScreen(quote: Quote?, onEnter: () -> Unit) {
+fun SplashScreen(quote: Quote?, lang: String, onLang: (String) -> Unit, onEnter: () -> Unit) {
     val view = LocalView.current
     var size by remember { mutableStateOf(IntSize.Zero) }
     var mass by remember { mutableStateOf<Mass?>(null) }
@@ -262,7 +263,7 @@ fun SplashScreen(quote: Quote?, onEnter: () -> Unit) {
                 color = Color(0xFFF3E9DA),
             )
             Text(
-                "искренность начинается внутри",
+                tr("искренность начинается внутри", "sincerity begins within"),
                 fontFamily = FontFamily.Serif,
                 fontSize = 15.sp,
                 color = Color(0xFFE6D3C0).copy(alpha = 0.85f),
@@ -289,10 +290,16 @@ fun SplashScreen(quote: Quote?, onEnter: () -> Unit) {
             )
         }
 
+        Surface(
+            color = Color(0xFF1B0B0C).copy(alpha = 0.55f),
+            shape = RoundedCornerShape(20.dp),
+            modifier = Modifier.align(Alignment.TopStart).statusBarsPadding().padding(8.dp),
+        ) { LangSwitch(lang, onLang, light = true) }
+
         TextButton(
             onClick = onEnter,
             modifier = Modifier.align(Alignment.TopEnd).statusBarsPadding().padding(8.dp),
-        ) { Text("Пропустить", color = Color(0xFF6B5E55)) }
+        ) { Text(tr("Пропустить", "Skip"), color = Color(0xFF6B5E55)) }
 
         Column(
             Modifier.align(Alignment.BottomCenter).fillMaxWidth().navigationBarsPadding().padding(bottom = 28.dp),
@@ -300,7 +307,7 @@ fun SplashScreen(quote: Quote?, onEnter: () -> Unit) {
         ) {
             if (ready) {
                 OutlinedButton(onClick = onEnter, modifier = Modifier.padding(bottom = 16.dp)) {
-                    Text("Войти", color = Color(0xFFF3E9DA))
+                    Text(tr("Войти", "Enter"), color = Color(0xFFF3E9DA))
                 }
             }
             quote?.let { q ->

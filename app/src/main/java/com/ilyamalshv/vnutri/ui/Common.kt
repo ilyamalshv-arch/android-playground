@@ -1,5 +1,6 @@
 package com.ilyamalshv.vnutri.ui
 
+import com.ilyamalshv.vnutri.data.tr
 import androidx.compose.animation.core.animateFloatAsState
 import androidx.compose.animation.core.spring
 import androidx.compose.foundation.interaction.MutableInteractionSource
@@ -30,6 +31,7 @@ import androidx.compose.material3.FilterChip
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.remember
+import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.graphicsLayer
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.text.font.FontStyle
@@ -70,7 +72,7 @@ fun BackTopBar(title: String, onBack: () -> Unit, actions: @Composable () -> Uni
         title = { Text(title, maxLines = 1, overflow = TextOverflow.Ellipsis) },
         navigationIcon = {
             IconButton(onClick = onBack) {
-                Icon(Icons.AutoMirrored.Filled.ArrowBack, contentDescription = "Назад")
+                Icon(Icons.AutoMirrored.Filled.ArrowBack, contentDescription = tr("Назад", "Back"))
             }
         },
         actions = { actions() },
@@ -115,7 +117,7 @@ fun LensCard(
             )
             if (!expanded) {
                 Text(
-                    "Читать дальше",
+                    tr("Читать дальше", "Read more"),
                     style = MaterialTheme.typography.labelLarge,
                     color = MaterialTheme.colorScheme.primary,
                     modifier = Modifier.padding(top = 6.dp),
@@ -146,16 +148,38 @@ fun LensCard(
                         modifier = Modifier.fillMaxWidth(),
                     ) {
                         Column(Modifier.padding(12.dp)) {
-                            Text("Попробуйте", style = MaterialTheme.typography.labelLarge)
+                            Text(tr("Попробуйте", "Try this"), style = MaterialTheme.typography.labelLarge)
                             Text(lens.practice, style = MaterialTheme.typography.bodyMedium)
                         }
                     }
                 }
                 if (saved != null) {
                     TextButton(onClick = { feedback?.select(); onToggleSave() }, modifier = Modifier.padding(top = 4.dp)) {
-                        Text(if (saved) "★ Мысль сохранена в дневник" else "☆ Сохранить эту мысль")
+                        Text(if (saved) tr("★ Мысль сохранена в дневник", "★ Thought saved to journal") else tr("☆ Сохранить эту мысль", "☆ Save this thought"))
                     }
                 }
+            }
+        }
+    }
+}
+
+/** RU | EN switch, used on the splash and in settings. */
+@Composable
+fun LangSwitch(lang: String, onLang: (String) -> Unit, light: Boolean = false) {
+    Row {
+        listOf("ru" to "RU", "en" to "EN").forEach { (code, label) ->
+            val selected = lang == code
+            TextButton(onClick = { onLang(code) }) {
+                Text(
+                    label,
+                    style = MaterialTheme.typography.labelLarge,
+                    color = when {
+                        light && selected -> Color(0xFFF3E9DA)
+                        light -> Color(0xFFF3E9DA).copy(alpha = 0.45f)
+                        selected -> MaterialTheme.colorScheme.primary
+                        else -> MaterialTheme.colorScheme.onSurfaceVariant
+                    },
+                )
             }
         }
     }

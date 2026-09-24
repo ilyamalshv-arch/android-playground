@@ -1,5 +1,6 @@
 package com.ilyamalshv.vnutri.ui
 
+import com.ilyamalshv.vnutri.data.tr
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
@@ -30,23 +31,23 @@ import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
 import com.ilyamalshv.vnutri.data.Emotions
 import com.ilyamalshv.vnutri.data.JournalEntry
+import com.ilyamalshv.vnutri.data.Lang
 import com.ilyamalshv.vnutri.data.Library
 import com.ilyamalshv.vnutri.data.intensityLabel
 import java.text.SimpleDateFormat
 import java.util.Date
 import java.util.Locale
 
-private val dateFormat = SimpleDateFormat("d MMMM yyyy, HH:mm", Locale.forLanguageTag("ru"))
-
-fun formatDate(millis: Long): String = dateFormat.format(Date(millis))
+fun formatDate(millis: Long): String =
+    SimpleDateFormat("d MMMM yyyy, HH:mm", Locale.forLanguageTag(Lang.current)).format(Date(millis))
 
 @Composable
 fun JournalScreen(entries: List<JournalEntry>, onOpen: (Long) -> Unit, onBack: () -> Unit) {
-    Scaffold(topBar = { BackTopBar("Дневник", onBack) }) { padding ->
+    Scaffold(topBar = { BackTopBar(tr("Дневник", "Journal"), onBack) }) { padding ->
         if (entries.isEmpty()) {
             Box(Modifier.fillMaxSize().padding(padding).padding(32.dp), contentAlignment = Alignment.Center) {
                 Text(
-                    "Здесь будут ваши записи: что вы чувствовали, какие мысли откликнулись.",
+                    tr("Здесь будут ваши записи: что вы чувствовали, какие мысли откликнулись.", "Your entries will live here: what you felt and which thoughts resonated."),
                     style = MaterialTheme.typography.bodyLarge,
                     color = MaterialTheme.colorScheme.onSurfaceVariant,
                 )
@@ -97,7 +98,7 @@ fun JournalDetailScreen(
             verticalArrangement = Arrangement.spacedBy(12.dp),
         ) {
             item {
-                Text("Чувства", style = MaterialTheme.typography.titleSmall)
+                Text(tr("Чувства", "Feelings"), style = MaterialTheme.typography.titleSmall)
                 Text(
                     entry.emotions.joinToString(", ") { "${Emotions.name(it.emotionId).lowercase()} (${intensityLabel(it.intensity)})" },
                     style = MaterialTheme.typography.bodyLarge,
@@ -105,16 +106,16 @@ fun JournalDetailScreen(
             }
             if (entry.note.isNotBlank()) {
                 item {
-                    Text("Своими словами", style = MaterialTheme.typography.titleSmall)
+                    Text(tr("Своими словами", "In your own words"), style = MaterialTheme.typography.titleSmall)
                     Text(entry.note, style = MaterialTheme.typography.bodyLarge)
                 }
             }
             if (entry.conversation.isNotEmpty()) {
                 item {
-                    Text("Разбор ИИ", style = MaterialTheme.typography.titleSmall)
+                    Text(tr("Разбор ИИ", "AI reflection"), style = MaterialTheme.typography.titleSmall)
                     entry.conversation.forEach { turn ->
                         Text(
-                            if (turn.role == "user") "Вы: ${turn.text}" else turn.text,
+                            if (turn.role == "user") tr("Вы: ${turn.text}", "You: ${turn.text}") else turn.text,
                             style = if (turn.role == "user") MaterialTheme.typography.bodyMedium else MaterialTheme.typography.bodyLarge,
                             color = if (turn.role == "user") MaterialTheme.colorScheme.onSurfaceVariant else MaterialTheme.colorScheme.onSurface,
                             modifier = Modifier.padding(top = 6.dp),
@@ -124,12 +125,12 @@ fun JournalDetailScreen(
             }
             if (entry.reflection.isNotBlank()) {
                 item {
-                    Text("Что откликнулось", style = MaterialTheme.typography.titleSmall)
+                    Text(tr("Что откликнулось", "What resonated"), style = MaterialTheme.typography.titleSmall)
                     Text(entry.reflection, style = MaterialTheme.typography.bodyLarge)
                 }
             }
             if (entry.saved.isNotEmpty()) {
-                item { Text("Сохранённые мысли", style = MaterialTheme.typography.titleSmall) }
+                item { Text(tr("Сохранённые мысли", "Saved thoughts"), style = MaterialTheme.typography.titleSmall) }
                 items(entry.saved, key = { it.schoolId + ":" + it.emotionId }) { s ->
                     val school = library.school(s.schoolId)
                     val lens = school?.lenses?.get(s.emotionId)
@@ -146,9 +147,9 @@ fun JournalDetailScreen(
                 }
             }
             item {
-                Button(onClick = onReopen, modifier = Modifier.fillMaxWidth()) { Text("Открыть взгляды снова") }
+                Button(onClick = onReopen, modifier = Modifier.fillMaxWidth()) { Text(tr("Открыть взгляды снова", "Open the views again")) }
                 TextButton(onClick = { confirmDelete = true }, modifier = Modifier.fillMaxWidth()) {
-                    Text("Удалить запись", color = MaterialTheme.colorScheme.error)
+                    Text(tr("Удалить запись", "Delete entry"), color = MaterialTheme.colorScheme.error)
                 }
             }
         }
@@ -157,12 +158,12 @@ fun JournalDetailScreen(
     if (confirmDelete) {
         AlertDialog(
             onDismissRequest = { confirmDelete = false },
-            title = { Text("Удалить запись?") },
-            text = { Text("Её нельзя будет восстановить.") },
+            title = { Text(tr("Удалить запись?", "Delete this entry?")) },
+            text = { Text(tr("Её нельзя будет восстановить.", "It can't be restored.")) },
             confirmButton = {
-                TextButton(onClick = { confirmDelete = false; onDelete() }) { Text("Удалить") }
+                TextButton(onClick = { confirmDelete = false; onDelete() }) { Text(tr("Удалить", "Delete")) }
             },
-            dismissButton = { TextButton(onClick = { confirmDelete = false }) { Text("Отмена") } },
+            dismissButton = { TextButton(onClick = { confirmDelete = false }) { Text(tr("Отмена", "Cancel")) } },
         )
     }
 }

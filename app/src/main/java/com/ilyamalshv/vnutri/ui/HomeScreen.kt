@@ -1,5 +1,6 @@
 package com.ilyamalshv.vnutri.ui
 
+import com.ilyamalshv.vnutri.data.tr
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.ExperimentalLayoutApi
@@ -63,9 +64,9 @@ fun HomeScreen(
             TopAppBar(
                 title = { Text("Sincerer") },
                 actions = {
-                    TextButton(onClick = onJournal) { Text("Дневник") }
-                    TextButton(onClick = onLibrary) { Text("Школы") }
-                    IconButton(onClick = onSettings) { Icon(Icons.Default.Settings, contentDescription = "Настройки") }
+                    TextButton(onClick = onJournal) { Text(tr("Дневник", "Journal")) }
+                    TextButton(onClick = onLibrary) { Text(tr("Школы", "Schools")) }
+                    IconButton(onClick = onSettings) { Icon(Icons.Default.Settings, contentDescription = tr("Настройки", "Settings")) }
                 },
             )
         },
@@ -79,9 +80,9 @@ fun HomeScreen(
                 .verticalScroll(rememberScrollState())
                 .padding(horizontal = 16.dp, vertical = 8.dp),
         ) {
-            Text("Что вы чувствуете сейчас?", style = MaterialTheme.typography.headlineSmall)
+            Text(tr("Что вы чувствуете сейчас?", "What are you feeling right now?"), style = MaterialTheme.typography.headlineSmall)
             Text(
-                "Можно выбрать несколько. Любое чувство имеет право быть.",
+                tr("Можно выбрать несколько. Любое чувство имеет право быть.", "You can pick several. Every feeling has a right to be."),
                 style = MaterialTheme.typography.bodyMedium,
                 color = MaterialTheme.colorScheme.onSurfaceVariant,
                 modifier = Modifier.padding(top = 4.dp, bottom = 12.dp),
@@ -98,7 +99,7 @@ fun HomeScreen(
             }
 
             if (marks.isNotEmpty()) {
-                Text("Насколько сильно?", style = MaterialTheme.typography.titleSmall, modifier = Modifier.padding(top = 16.dp))
+                Text(tr("Насколько сильно?", "How strong?"), style = MaterialTheme.typography.titleSmall, modifier = Modifier.padding(top = 16.dp))
                 marks.forEach { m ->
                     Row(
                         verticalAlignment = Alignment.CenterVertically,
@@ -120,8 +121,8 @@ fun HomeScreen(
             OutlinedTextField(
                 value = note,
                 onValueChange = onNote,
-                label = { Text("Своими словами") },
-                placeholder = { Text("Что происходит? Что вы замечаете в себе?") },
+                label = { Text(tr("Своими словами", "In your own words")) },
+                placeholder = { Text(tr("Что происходит? Что вы замечаете в себе?", "What's happening? What do you notice in yourself?")) },
                 minLines = 3,
                 modifier = Modifier.fillMaxWidth().padding(top = 16.dp),
             )
@@ -132,14 +133,14 @@ fun HomeScreen(
             if (aiAvailable && note.trim().length >= 30) {
                 Row(verticalAlignment = Alignment.CenterVertically) {
                     TextButton(onClick = onAiClassify, enabled = !aiLoading) {
-                        Text(if (aiIds == null) "✦ Распознать точнее с ИИ" else "✦ Распознано ИИ — обновить")
+                        Text(if (aiIds == null) tr("✦ Распознать точнее с ИИ", "✦ Recognise more precisely with AI") else tr("✦ Распознано ИИ — обновить", "✦ Recognised by AI — refresh"))
                     }
                     if (aiLoading) CircularProgressIndicator(Modifier.size(18.dp), strokeWidth = 2.dp)
                 }
             }
             if (suggestions.isNotEmpty()) {
                 Text(
-                    if (marks.isEmpty()) "Похоже на это — нажмите, чтобы отметить:" else "Возможно, ещё:",
+                    if (marks.isEmpty()) tr("Похоже на это — нажмите, чтобы отметить:", "Sounds like this — tap to mark:") else tr("Возможно, ещё:", "Maybe also:"),
                     style = MaterialTheme.typography.bodySmall,
                     color = MaterialTheme.colorScheme.onSurfaceVariant,
                     modifier = Modifier.padding(top = 8.dp),
@@ -161,29 +162,29 @@ fun HomeScreen(
                 interactionSource = submitInteraction,
                 modifier = Modifier.fillMaxWidth().then(submitPress),
             ) {
-                Text("Осмыслить")
+                Text(tr("Осмыслить", "Reflect"))
             }
             if (!canSubmit) {
                 Text(
-                    if (note.isBlank()) "Отметьте чувство или опишите, что происходит."
-                    else "Не получилось узнать чувство по тексту — отметьте его выше, и я подберу взгляды философов.",
+                    if (note.isBlank()) tr("Отметьте чувство или опишите, что происходит.", "Mark a feeling or describe what's happening.")
+                    else tr("Не получилось узнать чувство по тексту — отметьте его выше, и я подберу взгляды философов.", "Couldn't recognise a feeling in the text — mark one above and I'll find the philosophers' views."),
                     style = MaterialTheme.typography.bodySmall,
                     color = MaterialTheme.colorScheme.onSurfaceVariant,
                     modifier = Modifier.padding(top = 6.dp),
                 )
             } else if (marks.isEmpty() && suggestions.isNotEmpty()) {
                 Text(
-                    "Возьму чувства из подсказки: " + suggestions.joinToString(", ") { Emotions.name(it).lowercase() } + ".",
+                    tr("Возьму чувства из подсказки: ", "I'll use the suggested feelings: ") + suggestions.joinToString(", ") { Emotions.name(it).lowercase() } + ".",
                     style = MaterialTheme.typography.bodySmall,
                     color = MaterialTheme.colorScheme.onSurfaceVariant,
                     modifier = Modifier.padding(top = 6.dp),
                 )
             }
             OutlinedButton(onClick = onHelp, modifier = Modifier.fillMaxWidth().padding(top = 8.dp)) {
-                Text("Мне очень плохо — нужна помощь", color = MaterialTheme.colorScheme.error)
+                Text(tr("Мне очень плохо — нужна помощь", "I feel really bad — I need help"), color = MaterialTheme.colorScheme.error)
             }
             Text(
-                "Это пространство для размышлений, а не замена психологу. Всё, что вы пишете, хранится только на этом телефоне.",
+                tr("Это пространство для размышлений, а не замена психологу. Всё, что вы пишете, хранится только на этом телефоне.", "This is a space for reflection, not a replacement for a psychologist. Everything you write stays on this phone."),
                 style = MaterialTheme.typography.bodySmall,
                 color = MaterialTheme.colorScheme.onSurfaceVariant,
                 modifier = Modifier.padding(vertical = 16.dp),

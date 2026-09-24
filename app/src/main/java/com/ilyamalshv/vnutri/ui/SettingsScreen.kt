@@ -1,5 +1,6 @@
 package com.ilyamalshv.vnutri.ui
 
+import com.ilyamalshv.vnutri.data.tr
 import android.content.ClipData
 import android.content.ClipboardManager
 import android.content.Context
@@ -42,21 +43,21 @@ import com.ilyamalshv.vnutri.data.Settings
 import kotlinx.coroutines.launch
 import java.security.SecureRandom
 
-private val AI_MODELS = listOf(
-    Triple("llama33", "Llama 3.3 70B", "По умолчанию. Крупная и надёжная, ~50 разборов в день"),
-    Triple("llama4", "Llama 4 Scout", "Новее, быстрее, больше разборов в день"),
-    Triple("mistral", "Mistral Small 3.1", "Европейская модель, хорошо держит стиль"),
-    Triple("gemma", "Gemma 3 12B", "Модель Google, небольшая и быстрая"),
+private fun aiModels() = listOf(
+    Triple("llama33", "Llama 3.3 70B", tr("По умолчанию. Крупная и надёжная, ~50 разборов в день", "Default. Large and reliable, ~50 reflections a day")),
+    Triple("llama4", "Llama 4 Scout", tr("Новее, быстрее, больше разборов в день", "Newer, faster, more reflections per day")),
+    Triple("mistral", "Mistral Small 3.1", tr("Европейская модель, хорошо держит стиль", "European model, keeps the style well")),
+    Triple("gemma", "Gemma 3 12B", tr("Модель Google, небольшая и быстрая", "Google's model, small and fast")),
 )
 
 @OptIn(ExperimentalLayoutApi::class)
 @Composable
-fun SettingsScreen(settings: Settings, ai: AiClient, onMusic: (Boolean) -> Unit, onBack: () -> Unit) {
+fun SettingsScreen(settings: Settings, ai: AiClient, onLang: (String) -> Unit, onMusic: (Boolean) -> Unit, onBack: () -> Unit) {
     val scope = rememberCoroutineScope()
     val context = LocalContext.current
     var check by remember { mutableStateOf<String?>(null) }
 
-    Scaffold(topBar = { BackTopBar("Настройки", onBack) }) { padding ->
+    Scaffold(topBar = { BackTopBar(tr("Настройки", "Settings"), onBack) }) { padding ->
         Column(
             Modifier
                 .fillMaxSize()
@@ -66,23 +67,27 @@ fun SettingsScreen(settings: Settings, ai: AiClient, onMusic: (Boolean) -> Unit,
                 .verticalScroll(rememberScrollState())
                 .padding(horizontal = 16.dp),
         ) {
-            Toggle("Фоновая музыка", "Тихий эмбиент, пока открыто приложение", settings.music, onMusic)
-            Toggle("Звуки касаний", "Мягкие звуки при выборе и нажатиях", settings.sounds) { settings.sounds = it }
-            Toggle("Вибрация", "Лёгкий тактильный отклик", settings.haptics) { settings.haptics = it }
-            Toggle("Заставка при запуске", "Живая масса, которую можно стереть пальцем", settings.intro) { settings.intro = it }
+            Row(verticalAlignment = Alignment.CenterVertically, modifier = Modifier.padding(vertical = 12.dp)) {
+                Text(tr("Язык", "Language"), style = MaterialTheme.typography.titleMedium, modifier = Modifier.weight(1f))
+                LangSwitch(settings.lang, onLang)
+            }
+            Toggle(tr("Фоновая музыка", "Background music"), tr("Тихий эмбиент, пока открыто приложение", "Quiet ambient while the app is open"), settings.music, onMusic)
+            Toggle(tr("Звуки касаний", "Touch sounds"), tr("Мягкие звуки при выборе и нажатиях", "Soft sounds on selection and taps"), settings.sounds) { settings.sounds = it }
+            Toggle(tr("Вибрация", "Vibration"), tr("Лёгкий тактильный отклик", "Light haptic feedback"), settings.haptics) { settings.haptics = it }
+            Toggle(tr("Заставка при запуске", "Splash on launch"), tr("Живая масса, которую можно стереть пальцем", "A living mass you can wipe away with your finger"), settings.intro) { settings.intro = it }
 
             HorizontalDivider(Modifier.padding(vertical = 16.dp))
-            Text("ИИ-разбор", style = MaterialTheme.typography.titleMedium)
+            Text(tr("ИИ-разбор", "AI reflection"), style = MaterialTheme.typography.titleMedium)
             Text(
-                "Работает через ваш собственный бесплатный сервер Cloudflare. Как его создать — в файле worker/README.md в репозитории. Без этих настроек приложение не выходит в интернет.",
+                tr("Работает через ваш собственный бесплатный сервер Cloudflare. Как его создать — в файле worker/README.md в репозитории. Без этих настроек приложение не выходит в интернет.", "Works through your own free Cloudflare server. How to create it is in worker/README.md in the repository. Without these settings the app never goes online."),
                 style = MaterialTheme.typography.bodySmall,
                 color = MaterialTheme.colorScheme.onSurfaceVariant,
             )
             OutlinedTextField(
                 value = settings.aiUrl,
                 onValueChange = { settings.aiUrl = it.trim(); check = null },
-                label = { Text("Адрес сервера") },
-                placeholder = { Text("https://vnutri.имя.workers.dev") },
+                label = { Text(tr("Адрес сервера", "Server address")) },
+                placeholder = { Text("https://….workers.dev") },
                 singleLine = true,
                 keyboardOptions = KeyboardOptions(keyboardType = KeyboardType.Uri),
                 modifier = Modifier.fillMaxWidth().padding(top = 8.dp),
@@ -90,7 +95,7 @@ fun SettingsScreen(settings: Settings, ai: AiClient, onMusic: (Boolean) -> Unit,
             OutlinedTextField(
                 value = settings.aiToken,
                 onValueChange = { settings.aiToken = it.trim(); check = null },
-                label = { Text("Ключ доступа (APP_TOKEN)") },
+                label = { Text(tr("Ключ доступа (APP_TOKEN)", "Access key (APP_TOKEN)")) },
                 singleLine = true,
                 visualTransformation = PasswordVisualTransformation(),
                 keyboardOptions = KeyboardOptions(keyboardType = KeyboardType.Password),
@@ -108,30 +113,30 @@ fun SettingsScreen(settings: Settings, ai: AiClient, onMusic: (Boolean) -> Unit,
                     settings.aiToken = token
                     val clipboard = context.getSystemService(Context.CLIPBOARD_SERVICE) as ClipboardManager
                     clipboard.setPrimaryClip(ClipData.newPlainText("APP_TOKEN", token))
-                    check = "Новый ключ скопирован. Вставьте его в Cloudflare как секрет APP_TOKEN."
-                }) { Text("Создать ключ") }
+                    check = tr("Новый ключ скопирован. Вставьте его в Cloudflare как секрет APP_TOKEN.", "New key copied. Paste it into Cloudflare as the APP_TOKEN secret.")
+                }) { Text(tr("Создать ключ", "Create key")) }
                 OutlinedButton(
                     enabled = settings.aiConfigured,
                     onClick = {
-                        check = "Проверяю…"
+                        check = tr("Проверяю…", "Checking…")
                         scope.launch {
                             check = when (val r = ai.health()) {
                                 is AiReply.Failure -> r.message
-                                else -> "Соединение работает ✓"
+                                else -> tr("Соединение работает ✓", "Connection works ✓")
                             }
                         }
                     },
-                ) { Text("Проверить соединение") }
+                ) { Text(tr("Проверить соединение", "Check connection")) }
             }
             check?.let { Text(it, style = MaterialTheme.typography.bodyMedium) }
 
-            Text("Модель", style = MaterialTheme.typography.titleSmall, modifier = Modifier.padding(top = 12.dp))
+            Text(tr("Модель", "Model"), style = MaterialTheme.typography.titleSmall, modifier = Modifier.padding(top = 12.dp))
             Text(
-                "Все бесплатные. Если ответы кажутся слабыми или модель не отвечает — попробуйте другую.",
+                tr("Все бесплатные. Если ответы кажутся слабыми или модель не отвечает — попробуйте другую.", "All free. If answers feel weak or a model doesn't respond, try another one."),
                 style = MaterialTheme.typography.bodySmall,
                 color = MaterialTheme.colorScheme.onSurfaceVariant,
             )
-            AI_MODELS.forEach { (key, title, hint) ->
+            aiModels().forEach { (key, title, hint) ->
                 Row(
                     verticalAlignment = Alignment.CenterVertically,
                     modifier = Modifier.fillMaxWidth().clickable { settings.aiModel = key }.padding(vertical = 4.dp),
@@ -144,7 +149,7 @@ fun SettingsScreen(settings: Settings, ai: AiClient, onMusic: (Boolean) -> Unit,
                 }
             }
             if (settings.aiUrl.isNotBlank() && !settings.aiUrl.startsWith("https://")) {
-                Text("Адрес должен начинаться с https://", color = MaterialTheme.colorScheme.error, style = MaterialTheme.typography.bodySmall)
+                Text(tr("Адрес должен начинаться с https://", "The address must start with https://"), color = MaterialTheme.colorScheme.error, style = MaterialTheme.typography.bodySmall)
             }
             Text(" ", Modifier.padding(bottom = 24.dp))
         }
