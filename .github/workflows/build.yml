@@ -2,7 +2,7 @@ name: Build APK
 
 on:
   push:
-    branches: [main]
+    branches: ['**']
   workflow_dispatch:
 
 permissions:
@@ -25,19 +25,20 @@ jobs:
         run: ./gradlew assembleDebug --no-daemon
 
       - name: Rename APK
-        run: cp app/build/outputs/apk/debug/app-debug.apk playground-${{ github.run_number }}.apk
+        run: cp app/build/outputs/apk/debug/app-debug.apk vnutri-${{ github.run_number }}.apk
 
       - uses: actions/upload-artifact@v4
         with:
-          name: playground-apk
-          path: playground-${{ github.run_number }}.apk
+          name: vnutri-apk
+          path: vnutri-${{ github.run_number }}.apk
 
       # A release gives a direct .apk download link that opens nicely on the phone.
       - name: Publish release
+        if: github.ref == 'refs/heads/main'
         uses: softprops/action-gh-release@v2
         with:
           tag_name: build-${{ github.run_number }}
           name: Build ${{ github.run_number }}
           body: ${{ github.event.head_commit.message }}
-          files: playground-${{ github.run_number }}.apk
+          files: vnutri-${{ github.run_number }}.apk
           make_latest: true

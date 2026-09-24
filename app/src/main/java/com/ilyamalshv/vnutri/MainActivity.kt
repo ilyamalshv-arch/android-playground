@@ -1,0 +1,195 @@
+package com.ilyamalshv.vnutri
+
+import android.content.Context
+import android.os.Bundle
+import androidx.activity.ComponentActivity
+import androidx.activity.compose.BackHandler
+import androidx.activity.compose.setContent
+import androidx.activity.enableEdgeToEdge
+import androidx.compose.foundation.layout.Box
+import androidx.compose.foundation.layout.fillMaxSize
+import androidx.compose.material3.AlertDialog
+import androidx.compose.material3.CircularProgressIndicator
+import androidx.compose.material3.MaterialTheme
+import androidx.compose.material3.Surface
+import androidx.compose.material3.Text
+import androidx.compose.material3.TextButton
+import androidx.compose.runtime.Composable
+import androidx.compose.runtime.LaunchedEffect
+import androidx.compose.runtime.getValue
+import androidx.compose.runtime.mutableStateListOf
+import androidx.compose.runtime.mutableStateOf
+import androidx.compose.runtime.produceState
+import androidx.compose.runtime.remember
+import androidx.compose.runtime.setValue
+import androidx.compose.ui.Alignment
+import androidx.compose.ui.Modifier
+import androidx.compose.ui.platform.LocalContext
+import com.ilyamalshv.vnutri.data.EmotionMark
+import com.ilyamalshv.vnutri.data.JournalEntry
+import com.ilyamalshv.vnutri.data.JournalStore
+import com.ilyamalshv.vnutri.data.Library
+import com.ilyamalshv.vnutri.data.Safety
+import com.ilyamalshv.vnutri.ui.CrisisScreen
+import com.ilyamalshv.vnutri.ui.HomeScreen
+import com.ilyamalshv.vnutri.ui.JournalDetailScreen
+import com.ilyamalshv.vnutri.ui.JournalScreen
+import com.ilyamalshv.vnutri.ui.LibraryScreen
+import com.ilyamalshv.vnutri.ui.ResultScreen
+import com.ilyamalshv.vnutri.ui.SchoolScreen
+import com.ilyamalshv.vnutri.ui.VnutriTheme
+import kotlinx.coroutines.Dispatchers
+import kotlinx.coroutines.withContext
+
+class MainActivity : ComponentActivity() {
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        enableEdgeToEdge()
+        setContent {
+            VnutriTheme {
+                Surface(Modifier.fillMaxSize(), color = MaterialTheme.colorScheme.background) {
+                    App()
+                }
+            }
+        }
+    }
+}
+
+private sealed interface Screen {
+    data object Home : Screen
+    data class Result(val entryId: Long) : Screen
+    data class Crisis(val fromText: Boolean, val continueTo: Long?) : Screen
+    data object Journal : Screen
+    data class JournalDetail(val entryId: Long) : Screen
+    data object Library : Screen
+    data class School(val schoolId: String) : Screen
+}
+
+@Composable
+private fun App() {
+    val context = LocalContext.current
+    val library by produceState<Library?>(null) {
+        value = withContext(Dispatchers.IO) { Library.load(context) }
+    }
+    val store = remember { JournalStore(context) }
+    val journal = remember { mutableStateListOf<JournalEntry>().apply { addAll(store.load()) } }
+    val stack = remember { mutableStateListOf<Screen>(Screen.Home) }
+    val marks = remember { mutableStateListOf<EmotionMark>() }
+    var note by remember { mutableStateOf("") }
+
+    fun push(s: Screen) = stack.add(s)
+    fun pop() { if (stack.size > 1) stack.removeAt(stack.lastIndex) }
+    fun replaceTop(s: Screen) { stack[stack.lastIndex] = s }
+    fun upsert(e: JournalEntry) {
+        val i = journal.indexOfFirst { it.id == e.id }
+        if (i >= 0) journal[i] = e else journal.add(e)
+        store.save(journal.toList())
+    }
+
+    BackHandler(enabled = stack.size > 1) { pop() }
+
+    val lib = library
+    if (lib == null) {
+        Box(Modifier.fillMaxSize(), contentAlignment = Alignment.Center) { CircularProgressIndicator() }
+        return
+    }
+
+    when (val screen = stack.last()) {
+        Screen.Home -> HomeScreen(
+            marks = marks,
+            onToggle = { id ->
+                val i = marks.indexOfFirst { it.emotionId == id }
+                if (i >= 0) marks.removeAt(i) else marks.add(EmotionMark(id, 2))
+            },
+            onIntensity = { id, level ->
+                val i = marks.indexOfFirst { it.emotionId == id }
+                if (i >= 0) marks[i] = EmotionMark(id, level)
+            },
+            note = note,
+            onNote = { note = it },
+            onSubmit = {
+                val entry = JournalEntry(id = System.currentTimeMillis(), emotions = marks.toList(), note = note.trim())
+                upsert(entry)
+                val crisis = Safety.isCrisis(note)
+                marks.clear()
+                note = ""
+                push(if (crisis) Screen.Crisis(fromText = true, continueTo = entry.id) else Screen.Result(entry.id))
+            },
+            onJournal = { push(Screen.Journal) },
+            onLibrary = { push(Screen.Library) },
+            onHelp = { push(Screen.Crisis(fromText = false, continueTo = null)) },
+        )
+
+        is Screen.Result -> {
+            val entry = journal.firstOrNull { it.id == screen.entryId }
+            if (entry == null || entry.emotions.isEmpty()) LaunchedEffect(screen) { pop() } else ResultScreen(
+                library = lib,
+                entry = entry,
+                onUpdate = ::upsert,
+                onBack = ::pop,
+                onHelp = { push(Screen.Crisis(fromText = false, continueTo = null)) },
+            )
+        }
+
+        is Screen.Crisis -> CrisisScreen(
+            fromText = screen.fromText,
+            onContinue = screen.continueTo?.let { id -> { replaceTop(Screen.Result(id)) } },
+            onBack = ::pop,
+        )
+
+        Screen.Journal -> JournalScreen(
+            entries = journal,
+            onOpen = { push(Screen.JournalDetail(it)) },
+            onBack = ::pop,
+        )
+
+        is Screen.JournalDetail -> {
+            val entry = journal.firstOrNull { it.id == screen.entryId }
+            if (entry == null) LaunchedEffect(screen) { pop() } else JournalDetailScreen(
+                library = lib,
+                entry = entry,
+                onReopen = { push(Screen.Result(entry.id)) },
+                onDelete = {
+                    journal.removeAll { it.id == entry.id }
+                    store.save(journal.toList())
+                    pop()
+                },
+                onBack = ::pop,
+            )
+        }
+
+        Screen.Library -> LibraryScreen(lib, onOpen = { push(Screen.School(it)) }, onBack = ::pop)
+
+        is Screen.School -> {
+            val school = lib.school(screen.schoolId)
+            if (school == null) LaunchedEffect(screen) { pop() } else SchoolScreen(school, onBack = ::pop)
+        }
+    }
+
+    WelcomeDialog()
+}
+
+@Composable
+private fun WelcomeDialog() {
+    val context = LocalContext.current
+    val prefs = remember { context.getSharedPreferences("vnutri", Context.MODE_PRIVATE) }
+    var show by remember { mutableStateOf(!prefs.getBoolean("welcomed", false)) }
+    if (!show) return
+    AlertDialog(
+        onDismissRequest = {},
+        title = { Text("Добро пожаловать") },
+        text = {
+            Text(
+                "«Внутри» помогает посмотреть на свои чувства глазами философов — от стоиков до мыслителей XXI века — и принять их, а не бороться с ними.\n\n" +
+                    "Это не терапия и не замена психологу. Если вам очень плохо, на главном экране всегда есть кнопка помощи.\n\n" +
+                    "Приложение работает без интернета: всё, что вы пишете, остаётся только на этом телефоне.",
+            )
+        },
+        confirmButton = {
+            TextButton(onClick = {
+                prefs.edit().putBoolean("welcomed", true).apply()
+                show = false
+            }) { Text("Понятно") }
+        },
+    )
+}
