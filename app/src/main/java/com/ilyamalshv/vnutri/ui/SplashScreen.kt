@@ -75,6 +75,8 @@ fun pickSplashQuote(library: Library): Quote? =
  * pushing ridges aside, and it slowly flows back when left alone. Underneath: a red room.
  * The mass is a height field simulated on a grid and lit per pixel (diffuse + specular).
  */
+private const val RIDGE = 0f
+
 private class Mass(val w: Int, val h: Int) {
     var height = FloatArray(w * h)
     private var scratch = FloatArray(w * h)
@@ -116,8 +118,10 @@ private class Mass(val w: Int, val h: Int) {
         var ringWeight = 0f
         for (y in minY..maxY) for (x in minX..maxX) {
             val d = hypot(x - cx, y - cy) / r
-            if (d < 1f) {
-                val k = (1f - d * d).let { it * it } * 0.6f
+            if (d < 1.35f) {
+                // Wide, gentle falloff so the stroke has soft shoulders instead of a cliff.
+                val q = (1f - (d / 1.35f) * (d / 1.35f)).coerceIn(0f, 1f)
+                val k = q * q * q * 0.95f
                 val i = y * w + x
                 val take = height[i] * k
                 height[i] -= take
@@ -126,8 +130,9 @@ private class Mass(val w: Int, val h: Int) {
                 ringWeight += 1f - abs(d - 1.2f) / 0.25f
             }
         }
-        if (ringWeight <= 0f) return
-        val share = removed * 0.85f / ringWeight
+        // No ridge: pushed-aside material read as a dark rim around the stroke. The mass simply thins out.
+        if (ringWeight <= 0f || RIDGE <= 0f) return
+        val share = removed * RIDGE / ringWeight
         for (y in minY..maxY) for (x in minX..maxX) {
             val d = hypot(x - cx, y - cy) / r
             if (d in 1f..1.45f) height[y * w + x] += share * (1f - abs(d - 1.2f) / 0.25f)
@@ -167,17 +172,21 @@ private class Mass(val w: Int, val h: Int) {
         for (y in 0 until h) for (x in 0 until w) {
             val i = y * w + x
             val v = hf[i]
-            val a = ((v - 0.03f) / 0.22f).coerceIn(0f, 1f).let { it * it * (3 - 2 * it) }
+            // A wide translucent zone: thin mass lets the room show through, like thinned paint.
+            val a = ((v - 0.02f) / 0.55f).coerceIn(0f, 1f).let { it * it * (3 - 2 * it) }
+            val a3 = a * a * a
             if (a <= 0f) { pixels[i] = 0; continue }
             val l = hf[if (x > 0) i - 1 else i]; val r = hf[if (x < w - 1) i + 1 else i]
             val u = hf[if (y > 0) i - w else i]; val d = hf[if (y < h - 1) i + w else i]
-            val nx = (l - r) * 5f; val ny = (u - d) * 5f
+            val relief = 5f * a3 // thin edges are lit flat, so the stroke's border melts instead of outlining
+            val nx = (l - r) * relief; val ny = (u - d) * relief
             val inv = 1f / sqrt(nx * nx + ny * ny + 1f)
             val nX = nx * inv; val nY = ny * inv; val nZ = inv
             val diffuse = max(0f, nX * lx + nY * ly + nZ * lz)
             var s = max(0f, nX * hx + nY * hy + nZ * hz)
             s *= s; s *= s; s *= s; s *= s; s *= s // ^32: a wet, glossy highlight
-            val cavity = ((l + r + u + d) * 0.25f - v) * 1.6f // valleys a touch darker
+            s *= a * a // no glints on the thin edge
+            val cavity = ((l + r + u + d) * 0.25f - v) * 0.5f * a3 // valleys a touch darker, never at the edge
             val shade = 0.52f + 0.52f * diffuse - cavity
             val warm = (v - 1f) * 0.06f
             val rr = (0.95f * shade + 0.75f * s + warm).coerceIn(0f, 1f)
@@ -205,7 +214,7 @@ fun SplashScreen(quote: Quote?, lang: String, onLang: (String) -> Unit, onEnter:
 
     LaunchedEffect(size) {
         if (size.width == 0) return@LaunchedEffect
-        val gw = 200
+        val gw = 240
         val gh = (gw * size.height / size.width.toFloat()).toInt().coerceIn(200, 480)
         val m = Mass(gw, gh)
         mass = m
@@ -218,10 +227,7 @@ fun SplashScreen(quote: Quote?, lang: String, onLang: (String) -> Unit, onEnter:
                 m.render()
                 frame++
             }
-            if (frame % 30 == 0 && !m.melting && m.coverage() < 0.8f) {
-                m.melting = true
-                ready = true
-            }
+            if (frame % 30 == 0 && !ready && m.coverage() < 0.88f) ready = true
         }
     }
 
@@ -233,7 +239,7 @@ fun SplashScreen(quote: Quote?, lang: String, onLang: (String) -> Unit, onEnter:
                 val m = mass ?: return@pointerInput
                 val sx = m.w / size.width.toFloat()
                 val sy = m.h / size.height.toFloat()
-                val radius = m.w * 0.09f
+                val radius = m.w * 0.075f
                 awaitEachGesture {
                     val down = awaitFirstDown()
                     var prev = down.position
