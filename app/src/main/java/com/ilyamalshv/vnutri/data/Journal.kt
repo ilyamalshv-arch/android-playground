@@ -15,6 +15,7 @@ data class JournalEntry(
     val note: String,
     val reflection: String = "",
     val saved: List<SavedLens> = emptyList(),
+    val ai: String = "",
 )
 
 fun intensityLabel(intensity: Int): String = when (intensity) {
@@ -45,6 +46,7 @@ class JournalStore(context: Context) {
         put("id", e.id)
         put("note", e.note)
         put("reflection", e.reflection)
+        put("ai", e.ai)
         put("emotions", JSONArray().apply {
             e.emotions.forEach { put(JSONObject().put("id", it.emotionId).put("intensity", it.intensity)) }
         })
@@ -60,6 +62,7 @@ class JournalStore(context: Context) {
             id = o.getLong("id"),
             note = o.optString("note"),
             reflection = o.optString("reflection"),
+            ai = o.optString("ai"),
             emotions = List(emotions.length()) {
                 val m = emotions.getJSONObject(it)
                 EmotionMark(m.getString("id"), m.optInt("intensity", 2))

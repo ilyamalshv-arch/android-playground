@@ -31,12 +31,14 @@ import androidx.compose.runtime.saveable.rememberSaveable
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
+import com.ilyamalshv.vnutri.data.AiClient
 import com.ilyamalshv.vnutri.data.Emotions
 import com.ilyamalshv.vnutri.data.Families
 import com.ilyamalshv.vnutri.data.JournalEntry
 import com.ilyamalshv.vnutri.data.Library
 import com.ilyamalshv.vnutri.data.Safety
 import com.ilyamalshv.vnutri.data.SavedLens
+import com.ilyamalshv.vnutri.data.Settings
 
 @Composable
 fun ResultScreen(
@@ -45,6 +47,9 @@ fun ResultScreen(
     onUpdate: (JournalEntry) -> Unit,
     onBack: () -> Unit,
     onHelp: () -> Unit,
+    settings: Settings,
+    ai: AiClient,
+    onOpenSettings: () -> Unit,
 ) {
     var tab by rememberSaveable { mutableIntStateOf(0) }
     var family by rememberSaveable { mutableStateOf<String?>(null) }
@@ -99,6 +104,18 @@ fun ResultScreen(
                         "Здесь нет правильного ответа. Прочитайте несколько взглядов и заметьте, какой из них отзывается.",
                         style = MaterialTheme.typography.bodyMedium,
                         color = MaterialTheme.colorScheme.onSurfaceVariant,
+                    )
+                }
+                item(key = "ai") {
+                    AiCard(
+                        library = library,
+                        entry = entry,
+                        opened = expanded.filterValues { it }.keys,
+                        settings = settings,
+                        ai = ai,
+                        onUpdate = onUpdate,
+                        onCrisis = onHelp,
+                        onOpenSettings = onOpenSettings,
                     )
                 }
                 items(lenses, key = { it.first.id + ":" + emotionId }) { (school, lens) ->

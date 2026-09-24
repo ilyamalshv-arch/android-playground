@@ -109,6 +109,12 @@ fun JournalDetailScreen(
                     Text(entry.note, style = MaterialTheme.typography.bodyLarge)
                 }
             }
+            if (entry.ai.isNotBlank()) {
+                item {
+                    Text("Разбор ИИ", style = MaterialTheme.typography.titleSmall)
+                    Text(entry.ai, style = MaterialTheme.typography.bodyLarge)
+                }
+            }
             if (entry.reflection.isNotBlank()) {
                 item {
                     Text("Что откликнулось", style = MaterialTheme.typography.titleSmall)

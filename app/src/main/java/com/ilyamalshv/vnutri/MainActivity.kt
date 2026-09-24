@@ -27,6 +27,7 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.platform.LocalView
+import com.ilyamalshv.vnutri.data.AiClient
 import com.ilyamalshv.vnutri.data.EmotionMark
 import com.ilyamalshv.vnutri.data.JournalEntry
 import com.ilyamalshv.vnutri.data.JournalStore
@@ -109,6 +110,7 @@ private fun App(settings: Settings, ambient: Ambient, feedback: Feedback) {
         value = withContext(Dispatchers.IO) { Library.load(context) }
     }
     val store = remember { JournalStore(context) }
+    val ai = remember { AiClient(settings) }
     val journal = remember { mutableStateListOf<JournalEntry>().apply { addAll(store.load()) } }
     val stack = remember { mutableStateListOf<Screen>(if (settings.intro) Screen.Intro else Screen.Home) }
     val marks = remember { mutableStateListOf<EmotionMark>() }
@@ -144,6 +146,7 @@ private fun App(settings: Settings, ambient: Ambient, feedback: Feedback) {
 
         Screen.Settings -> SettingsScreen(
             settings = settings,
+            ai = ai,
             onMusic = {
                 settings.music = it
                 ambient.setEnabled(it)
@@ -188,6 +191,9 @@ private fun App(settings: Settings, ambient: Ambient, feedback: Feedback) {
                 onUpdate = ::upsert,
                 onBack = ::pop,
                 onHelp = { push(Screen.Crisis(fromText = false, continueTo = null)) },
+                settings = settings,
+                ai = ai,
+                onOpenSettings = { push(Screen.Settings) },
             )
         }
 
@@ -242,7 +248,7 @@ private fun WelcomeDialog() {
             Text(
                 "«Внутри» помогает посмотреть на свои чувства глазами философов — от стоиков до мыслителей XXI века — и принять их, а не бороться с ними.\n\n" +
                     "Это не терапия и не замена психологу. Если вам очень плохо, на главном экране всегда есть кнопка помощи.\n\n" +
-                    "Приложение работает без интернета: всё, что вы пишете, остаётся только на этом телефоне.",
+                    "Всё, что вы пишете, остаётся только на этом телефоне. Исключение — необязательный ИИ-разбор: он включается отдельно и перед первым использованием всё объяснит.",
             )
         },
         confirmButton = {

@@ -15,6 +15,24 @@ class Settings(context: Context) {
     var sounds by BoolPref(prefs, "sounds", true)
     var haptics by BoolPref(prefs, "haptics", true)
     var intro by BoolPref(prefs, "intro", true)
+
+    // AI mode: the person's own Cloudflare Worker. Never hardcoded — the repo is public.
+    var aiUrl by StringPref(prefs, "ai_url")
+    var aiToken by StringPref(prefs, "ai_token")
+    var aiConsent by BoolPref(prefs, "ai_consent", false)
+
+    val aiConfigured: Boolean get() = aiUrl.startsWith("https://") && aiToken.length >= 16
+}
+
+private class StringPref(private val prefs: SharedPreferences, private val key: String) {
+    private var state by mutableStateOf(prefs.getString(key, "") ?: "")
+
+    operator fun getValue(thisRef: Any?, property: KProperty<*>): String = state
+
+    operator fun setValue(thisRef: Any?, property: KProperty<*>, value: String) {
+        state = value
+        prefs.edit().putString(key, value).apply()
+    }
 }
 
 private class BoolPref(private val prefs: SharedPreferences, private val key: String, default: Boolean) {
