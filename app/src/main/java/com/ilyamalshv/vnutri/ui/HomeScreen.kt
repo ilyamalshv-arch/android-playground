@@ -124,7 +124,8 @@ fun HomeScreen(
                 label = { Text(tr("Своими словами", "In your own words")) },
                 placeholder = { Text(tr("Что происходит? Что вы замечаете в себе?", "What's happening? What do you notice in yourself?")) },
                 minLines = 3,
-                modifier = Modifier.fillMaxWidth().padding(top = 16.dp),
+                maxLines = 8,
+                modifier = Modifier.fillMaxWidth().padding(top = 16.dp).keepAboveKeyboard(note),
             )
 
             val suggestions = remember(note, selectedIds, aiIds) {

@@ -2,6 +2,17 @@ package com.ilyamalshv.vnutri.ui
 
 import com.ilyamalshv.vnutri.data.tr
 import androidx.compose.animation.core.animateFloatAsState
+import androidx.compose.foundation.ExperimentalFoundationApi
+import androidx.compose.foundation.layout.ExperimentalLayoutApi
+import androidx.compose.foundation.layout.WindowInsets
+import androidx.compose.foundation.layout.isImeVisible
+import androidx.compose.foundation.relocation.BringIntoViewRequester
+import androidx.compose.foundation.relocation.bringIntoViewRequester
+import androidx.compose.runtime.LaunchedEffect
+import androidx.compose.runtime.mutableStateOf
+import androidx.compose.runtime.setValue
+import androidx.compose.ui.focus.onFocusEvent
+import kotlinx.coroutines.delay
 import androidx.compose.foundation.background
 import androidx.compose.foundation.border
 import androidx.compose.foundation.clickable
@@ -239,4 +250,26 @@ fun LangSwitch(lang: String, onLang: (String) -> Unit, onSplash: Boolean = false
             }
         }
     }
+}
+
+/**
+ * Keeps a growing text field above the keyboard: whenever its text changes or the keyboard appears while it
+ * is focused, the surrounding scroll container brings the whole field into view.
+ * Pair with a bounded maxLines so the field itself scrolls to the cursor once it is tall.
+ */
+@OptIn(ExperimentalFoundationApi::class, ExperimentalLayoutApi::class)
+@Composable
+fun Modifier.keepAboveKeyboard(value: String): Modifier {
+    val requester = remember { BringIntoViewRequester() }
+    var focused by remember { mutableStateOf(false) }
+    val imeVisible = WindowInsets.isImeVisible
+    LaunchedEffect(value, imeVisible, focused) {
+        if (focused) {
+            delay(150) // let the IME padding settle first
+            requester.bringIntoView()
+        }
+    }
+    return this
+        .bringIntoViewRequester(requester)
+        .onFocusEvent { focused = it.isFocused }
 }

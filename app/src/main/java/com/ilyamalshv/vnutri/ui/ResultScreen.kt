@@ -208,7 +208,8 @@ fun ResultScreen(
                                 value = reflection,
                                 onValueChange = { reflection = it; reflectionSaved = false },
                                 minLines = 3,
-                                modifier = Modifier.fillMaxWidth().padding(vertical = 8.dp),
+                                maxLines = 6,
+                                modifier = Modifier.fillMaxWidth().padding(vertical = 8.dp).keepAboveKeyboard(reflection),
                             )
                             Button(onClick = {
                                 onUpdate(entry.copy(reflection = reflection.trim()))

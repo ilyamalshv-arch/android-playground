@@ -161,7 +161,8 @@ fun AiCard(
                     onValueChange = { note = it },
                     label = { Text(tr("Что происходит?", "What's happening?")) },
                     minLines = 3,
-                    modifier = Modifier.fillMaxWidth(),
+                    maxLines = 8,
+                    modifier = Modifier.fillMaxWidth().keepAboveKeyboard(note),
                 )
             }
 
@@ -221,7 +222,8 @@ fun AiCard(
                     onValueChange = { reply = it },
                     label = { Text(tr("Ответить или спросить ещё", "Reply or ask more")) },
                     minLines = 2,
-                    modifier = Modifier.fillMaxWidth(),
+                    maxLines = 6,
+                    modifier = Modifier.fillMaxWidth().keepAboveKeyboard(reply),
                 )
                 Row(verticalAlignment = Alignment.CenterVertically) {
                     Button(onClick = { continueWith(reply.trim()) }, enabled = !loading && reply.isNotBlank()) {
