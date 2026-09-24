@@ -204,9 +204,10 @@ fun LensCard(
 @Composable
 fun LangSwitch(lang: String, onLang: (String) -> Unit, onSplash: Boolean = false) {
     val feedback = LocalFeedback.current
-    val en = lang == "en"
+    val langs = listOf("ru" to "RU", "en" to "EN", "es" to "ES")
+    val index = langs.indexOfFirst { it.first == lang }.coerceAtLeast(0)
     val progress by animateFloatAsState(
-        targetValue = if (en) 1f else 0f,
+        targetValue = index.toFloat(),
         animationSpec = spring(dampingRatio = 0.62f, stiffness = 220f),
         label = "langThumb",
     )
@@ -217,10 +218,10 @@ fun LangSwitch(lang: String, onLang: (String) -> Unit, onSplash: Boolean = false
     val thumbDark = if (onSplash) Color(0xFFE2D5C3) else MaterialTheme.colorScheme.primaryContainer
     val onThumb = if (onSplash) Color(0xFF3A1416) else MaterialTheme.colorScheme.onPrimaryContainer
     val idle = if (onSplash) cream.copy(alpha = 0.6f) else MaterialTheme.colorScheme.onSurfaceVariant
-    val width = 116.dp
+    val width = 156.dp
     val height = 40.dp
     val pad = 4.dp
-    val thumbWidth = (width - pad * 2) / 2
+    val thumbWidth = (width - pad * 2) / 3
 
     Box(
         Modifier
@@ -228,10 +229,6 @@ fun LangSwitch(lang: String, onLang: (String) -> Unit, onSplash: Boolean = false
             .clip(RoundedCornerShape(50))
             .background(track)
             .border(1.dp, border, RoundedCornerShape(50))
-            .clickable(interactionSource = remember { MutableInteractionSource() }, indication = null) {
-                feedback?.select()
-                onLang(if (en) "ru" else "en")
-            },
     ) {
         // The thumb: a small pearl with a soft highlight, like a drop of the splash mass.
         Box(
@@ -244,9 +241,17 @@ fun LangSwitch(lang: String, onLang: (String) -> Unit, onSplash: Boolean = false
                 .background(Brush.radialGradient(listOf(thumbLight, thumbDark), center = Offset(30f, 12f), radius = 140f)),
         )
         Row(Modifier.fillMaxSize()) {
-            listOf("RU" to 0f, "EN" to 1f).forEach { (label, at) ->
-                val closeness = 1f - kotlin.math.abs(progress - at).coerceIn(0f, 1f)
-                Box(Modifier.weight(1f).fillMaxHeight(), contentAlignment = Alignment.Center) {
+            langs.forEachIndexed { i, (code, label) ->
+                val closeness = 1f - kotlin.math.abs(progress - i).coerceIn(0f, 1f)
+                Box(
+                    Modifier
+                        .weight(1f)
+                        .fillMaxHeight()
+                        .clickable(interactionSource = remember { MutableInteractionSource() }, indication = null) {
+                            if (code != lang) { feedback?.select(); onLang(code) }
+                        },
+                    contentAlignment = Alignment.Center,
+                ) {
                     Text(
                         label,
                         fontFamily = FontFamily.Serif,

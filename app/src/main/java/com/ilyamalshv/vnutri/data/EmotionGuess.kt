@@ -149,6 +149,76 @@ object EmotionGuess {
         "inspiration" to e("inspir", "creative", "new idea", "motivated"),
     )
 
+    // Spanish (Argentina) cues, matched on text without accents. Includes common rioplatense words.
+    private val rulesEs: List<Pair<String, List<Regex>>> = listOf(
+        "anxiety" to e("ansie", "ansios", "nervios", "preocupa", "estres", "me come la cabeza", "sobrepens"),
+        "fear" to e("miedo", "temo", "tengo terror", "asustad", "me da cosa"),
+        "panic" to e("panico", "ataque de panico", "no puedo respirar", "me late el corazon", "me voy a morir", "me estoy volviendo loc"),
+        "dread" to e("angustia existencial", "para que todo", "sin sentido", "vacio existencial", "la muerte"),
+        "fomo" to e("me estoy perdiendo", "todos viven", "la vida pasa", "fomo"),
+        "sleepless" to e("no puedo dormir", "insomnio", "me desperte a las", "3 de la manana", "no duermo"),
+        "social_anxiety" to e("timid", "verguenza con la gente", "que van a pensar", "me juzgan", "ansiedad social"),
+        "uncertainty" to e("incertidumbre", "no se que va a pasar", "en el aire", "no se nada"),
+        "waiting" to e("espero", "esperando", "espera", "todavia no me contest"),
+        "sadness" to e("triste", "tristeza", "llor", "bajon", "depre"),
+        "grief" to e("murio", "fallecio", "muerte de", "duelo", "perdi a", "velorio"),
+        "loneliness" to e("sol[oa] ", "soledad", "nadie me entiende", "no tengo con quien", "aislad"),
+        "heartbreak" to e("me dejo", "cortamos", "separ", "corazon roto", "mi ex"),
+        "uprooted" to e("emigr", "me mude", "me fui del pais", "extrano mi casa", "desarraig", "lejos de casa"),
+        "regret" to e("arrepient", "hubiera", "tendria que haber", "ojala hubiera"),
+        "longing" to e("extrano a", "lo extrano", "la extrano", "te extrano", "anoranza"),
+        "world_pain" to e("guerra", "noticias", "injusticia", "el mundo esta", "pobreza"),
+        "anger" to e("enojad", "bronca", "calentura", "me pudre", "furia", "me saca"),
+        "resentment" to e("resentid", "rencor", "no le perdono", "no puedo perdonar"),
+        "betrayal" to e("traicion", "me traiciono", "me engano", "me cago", "a mis espaldas"),
+        "jealousy" to e("celos", "celoso", "celosa"),
+        "envy" to e("envidia", "envidio"),
+        "rejection" to e("rechaz", "me ignor", "me dejaron en visto", "no me eligieron", "me ghostearon"),
+        "abandonment" to e("miedo a que me deje", "me van a dejar", "abandon"),
+        "unrequited" to e("no me corresponde", "no me quiere", "amor no correspondido"),
+        "humiliation" to e("humill", "se burlaron", "me bardearon", "me hicieron quedar"),
+        "shame" to e("verguenza", "avergonzad", "me da cosa"),
+        "guilt" to e("culpa", "culpable", "fue mi culpa"),
+        "self_hatred" to e("me odio", "no valgo nada", "soy un desastre", "me doy asco", "soy un fracaso"),
+        "impostor" to e("impostor", "no me lo merezco", "me van a descubrir", "fraude"),
+        "helplessness" to e("impotencia", "no puedo hacer nada", "no depende de mi"),
+        "confusion" to e("confundid", "no se que hacer", "perdid", "no entiendo"),
+        "body_shame" to e("odio mi cuerpo", "gord", "fe[oa] ", "mi cuerpo"),
+        "fatigue" to e("cansad", "agotad", "quemad", "burnout", "sin energia", "reventad"),
+        "emptiness" to e("vacio", "apatia", "no siento nada", "me chupa un huevo", "me da igual todo"),
+        "boredom" to e("aburrid", "aburrimiento", "embole", "todo igual"),
+        "overload" to e("saturad", "demasiada informacion", "notificaciones", "no paro de scrollear", "quemado de pantalla"),
+        "procrastination" to e("procrastin", "no puedo arrancar", "postergo", "lo dejo para despues"),
+        "unreality" to e("irreal", "no parece real", "como en un sueno", "desrealiz", "despersonaliz"),
+        "craving" to e("ganas de tomar", "ganas de fumar", "me muero de ganas", "recaer", "antojo"),
+        "addiction" to e("adicci", "adicto", "no puedo dejar", "enganchad", "no puedo parar de tomar"),
+        "hangover" to e("resaca", "caranchad", "tome de mas", "no me acuerdo nada de anoche"),
+        "euphoria" to e("euforia", "eufori", "a mil", "re manija", "en las nubes"),
+        "crash" to e("bajon", "me vine abajo", "despues de la fiesta", "me cai"),
+        "illness" to e("enferm", "diagnostic", "hospital", "me duele", "salud"),
+        "schadenfreude" to e("se lo merece", "que se joda", "me alegra que le vaya mal"),
+        "contempt" to e("desprecio", "me dan lastima", "patetic"),
+        "disgust" to e("asco", "me da asco", "repugn", "que asco"),
+        "revenge" to e("venganza", "vengarme", "que la pague", "que lo pague"),
+        "anger_at_loved" to e("le grite a mi", "me enoje con mi (mama|papa|hij|pareja|novi)", "me saque con"),
+        "ambivalence" to e("lo quiero y lo odio", "la quiero y la odio", "sentimientos encontrados"),
+        "guilty_relief" to e("alivio y culpa", "me da culpa sentir alivio"),
+        "indifference" to e("indiferen", "no senti nada", "me da lo mismo"),
+        "escape" to e("dejar todo", "irme lejos", "escaparme", "renunciar a todo", "empezar de cero"),
+        "forbidden_attraction" to e("me gusta alguien casad", "prohibid", "no deberia gustarme", "me gusta mi jefe"),
+        "nostalgia" to e("nostalgia", "antes era", "cuando era chic", "extrano esos tiempos"),
+        "melancholy" to e("melancol", "tristeza linda", "agridulce"),
+        "pride" to e("orgullo", "orgullos", "lo logre", "pude hacerlo"),
+        "joy" to e("feliz", "alegr", "contento", "contenta", "re bien"),
+        "love" to e("amor", "enamorad", "te quiero", "ternura"),
+        "gratitude" to e("agradec", "gracias", "gratitud"),
+        "hope" to e("esperanza", "ojala", "tengo fe"),
+        "awe" to e("asombro", "impresionante", "sublime", "me dejo sin palabras"),
+        "relief" to e("alivio", "por fin", "me saque un peso"),
+        "calm" to e("calma", "tranquil", "en paz", "sereno", "serena"),
+        "inspiration" to e("inspirad", "inspiracion", "creativ", "tengo una idea"),
+    )
+
     // Broad feelings get matched by many everyday words («страшно», «грустно»); specific states
     // («похмелье», «предательство») usually appear once but say much more — so they weigh more.
     private val broad = setOf(
@@ -161,9 +231,11 @@ object EmotionGuess {
         val t = text.lowercase().replace('ё', 'е')
         if (t.isBlank()) return emptyList()
         val cyrillic = t.count { it in 'а'..'я' } >= t.count { it in 'a'..'z' }
-        return (if (cyrillic) rules else rulesEn)
+        val plain = java.text.Normalizer.normalize(t, java.text.Normalizer.Form.NFD).replace(Regex("\\p{Mn}+"), "")
+        val spanish = !cyrillic && (Lang.isEs || Regex("[ñ¿¡áéíóú]").containsMatchIn(t))
+        return (if (cyrillic) rules else if (spanish) rulesEs else rulesEn)
             .map { (id, patterns) ->
-                val hits = patterns.sumOf { p -> p.findAll(t).count() }
+                val hits = patterns.sumOf { p -> p.findAll(if (spanish) plain else t).count() }
                 id to if (id in broad) hits else hits * 3
             }
             .filter { it.second > 0 }

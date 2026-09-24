@@ -193,7 +193,7 @@ fun ResultScreen(
                             }
                         }
                         TextButton(onClick = { showAll = !showAll; family = null }) {
-                            Text(if (showAll) tr("Только три", "Just three") else tr("Все школы (${all.size})", "All schools (${all.size})"))
+                            Text(if (showAll) tr("Только три", "Just three") else tr("Все школы (${all.size})", "All schools (${all.size})", "Todas las escuelas (${all.size})"))
                         }
                     }
                 }

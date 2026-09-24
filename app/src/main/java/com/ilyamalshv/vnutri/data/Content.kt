@@ -4,8 +4,8 @@ import android.content.Context
 import org.json.JSONArray
 import org.json.JSONObject
 
-data class Emotion(val id: String, val ru: String, val group: String, val en: String = ru) {
-    val name: String get() = tr(ru, en)
+data class Emotion(val id: String, val ru: String, val group: String, val en: String = ru, val es: String = en) {
+    val name: String get() = tr(ru, en, es)
 }
 
 object Emotions {
@@ -22,93 +22,93 @@ object Emotions {
     )
 
     val all = listOf(
-        Emotion("anxiety", "Тревога", "fear", "Anxiety"),
-        Emotion("fear", "Страх", "fear", "Fear"),
-        Emotion("panic", "Паника", "fear", "Panic"),
-        Emotion("dread", "Экзистенциальный ужас", "fear", "Existential dread"),
-        Emotion("fomo", "Страх упустить", "fear", "Fear of missing out"),
-        Emotion("sleepless", "Бессонница, мысли ночью", "fear", "Sleepless, night thoughts"),
-        Emotion("social_anxiety", "Стеснение, страх людей", "fear", "Shyness, fear of people"),
-        Emotion("uncertainty", "Неопределённость", "fear", "Uncertainty"),
-        Emotion("waiting", "Ожидание", "fear", "Waiting"),
-        Emotion("sadness", "Грусть", "loss", "Sadness"),
-        Emotion("grief", "Горе, утрата", "loss", "Grief, loss"),
-        Emotion("loneliness", "Одиночество", "loss", "Loneliness"),
-        Emotion("heartbreak", "Разбитое сердце", "loss", "Heartbreak"),
-        Emotion("uprooted", "Оторванность от дома", "loss", "Uprooted from home"),
-        Emotion("regret", "Сожаление", "loss", "Regret"),
-        Emotion("longing", "Тоска по человеку", "loss", "Missing someone"),
-        Emotion("world_pain", "Боль за мир, новости", "loss", "Pain for the world, the news"),
-        Emotion("anger", "Злость", "others", "Anger"),
-        Emotion("resentment", "Обида", "others", "Resentment"),
-        Emotion("betrayal", "Предательство", "others", "Betrayal"),
-        Emotion("jealousy", "Ревность", "others", "Jealousy"),
-        Emotion("envy", "Зависть", "others", "Envy"),
-        Emotion("rejection", "Отвержение", "others", "Rejection"),
-        Emotion("abandonment", "Страх быть брошенным", "others", "Fear of being left"),
-        Emotion("unrequited", "Безответная любовь", "others", "Unrequited love"),
-        Emotion("humiliation", "Унижение", "others", "Humiliation"),
-        Emotion("shame", "Стыд", "self", "Shame"),
-        Emotion("guilt", "Вина", "self", "Guilt"),
-        Emotion("self_hatred", "Ненависть к себе", "self", "Self-hatred"),
-        Emotion("impostor", "Синдром самозванца", "self", "Impostor syndrome"),
-        Emotion("helplessness", "Беспомощность", "self", "Helplessness"),
-        Emotion("confusion", "Растерянность", "self", "Confusion"),
-        Emotion("body_shame", "Недовольство телом", "self", "Unhappy with my body"),
-        Emotion("fatigue", "Усталость, выгорание", "drained", "Fatigue, burnout"),
-        Emotion("emptiness", "Пустота, апатия", "drained", "Emptiness, apathy"),
-        Emotion("boredom", "Скука", "drained", "Boredom"),
-        Emotion("overload", "Перегруз, инфошум", "drained", "Overload, info noise"),
-        Emotion("procrastination", "Не могу начать", "drained", "Can't get started"),
-        Emotion("unreality", "Всё как не по-настоящему", "drained", "Nothing feels real"),
-        Emotion("craving", "Тяга", "body", "Craving"),
-        Emotion("addiction", "Зависимость", "body", "Addiction"),
-        Emotion("hangover", "Похмелье", "body", "Hangover"),
-        Emotion("euphoria", "Вспышка эйфории", "body", "Burst of euphoria"),
-        Emotion("crash", "Резкий спад, откат", "body", "Sudden crash"),
-        Emotion("illness", "Болезнь, тело подводит", "body", "Illness, body letting me down"),
-        Emotion("schadenfreude", "Злорадство", "awkward", "Schadenfreude"),
-        Emotion("contempt", "Презрение", "awkward", "Contempt"),
-        Emotion("disgust", "Отвращение", "awkward", "Disgust"),
-        Emotion("revenge", "Желание отомстить", "awkward", "Wanting revenge"),
-        Emotion("anger_at_loved", "Злость на близких", "awkward", "Anger at loved ones"),
-        Emotion("ambivalence", "Люблю и не выношу", "awkward", "Love and can't stand"),
-        Emotion("guilty_relief", "Облегчение, за которое стыдно", "awkward", "Relief I feel guilty about"),
-        Emotion("indifference", "Равнодушие, где «должно» трогать", "awkward", "Indifference where I “should” care"),
-        Emotion("escape", "Всё бросить и сбежать", "awkward", "Wanting to drop everything and run"),
-        Emotion("forbidden_attraction", "Влечение, которое «нельзя»", "awkward", "An attraction I “shouldn't” feel"),
-        Emotion("nostalgia", "Ностальгия", "light", "Nostalgia"),
-        Emotion("melancholy", "Светлая печаль", "light", "Bright sadness"),
-        Emotion("pride", "Гордость", "light", "Pride"),
-        Emotion("joy", "Радость", "light", "Joy"),
-        Emotion("love", "Любовь, нежность", "light", "Love, tenderness"),
-        Emotion("gratitude", "Благодарность", "light", "Gratitude"),
-        Emotion("hope", "Надежда", "light", "Hope"),
-        Emotion("awe", "Трепет", "light", "Awe"),
-        Emotion("relief", "Облегчение", "light", "Relief"),
-        Emotion("calm", "Покой", "light", "Calm"),
-        Emotion("inspiration", "Вдохновение", "light", "Inspiration"),
+        Emotion("anxiety", "Тревога", "fear", "Anxiety", "Ansiedad"),
+        Emotion("fear", "Страх", "fear", "Fear", "Miedo"),
+        Emotion("panic", "Паника", "fear", "Panic", "Pánico"),
+        Emotion("dread", "Экзистенциальный ужас", "fear", "Existential dread", "Angustia existencial"),
+        Emotion("fomo", "Страх упустить", "fear", "Fear of missing out", "Miedo a perderme algo"),
+        Emotion("sleepless", "Бессонница, мысли ночью", "fear", "Sleepless, night thoughts", "Insomnio, pensamientos de noche"),
+        Emotion("social_anxiety", "Стеснение, страх людей", "fear", "Shyness, fear of people", "Timidez, miedo a la gente"),
+        Emotion("uncertainty", "Неопределённость", "fear", "Uncertainty", "Incertidumbre"),
+        Emotion("waiting", "Ожидание", "fear", "Waiting", "Espera"),
+        Emotion("sadness", "Грусть", "loss", "Sadness", "Tristeza"),
+        Emotion("grief", "Горе, утрата", "loss", "Grief, loss", "Duelo, pérdida"),
+        Emotion("loneliness", "Одиночество", "loss", "Loneliness", "Soledad"),
+        Emotion("heartbreak", "Разбитое сердце", "loss", "Heartbreak", "Corazón roto"),
+        Emotion("uprooted", "Оторванность от дома", "loss", "Uprooted from home", "Desarraigo"),
+        Emotion("regret", "Сожаление", "loss", "Regret", "Arrepentimiento"),
+        Emotion("longing", "Тоска по человеку", "loss", "Missing someone", "Extrañar a alguien"),
+        Emotion("world_pain", "Боль за мир, новости", "loss", "Pain for the world, the news", "Dolor por el mundo, las noticias"),
+        Emotion("anger", "Злость", "others", "Anger", "Enojo"),
+        Emotion("resentment", "Обида", "others", "Resentment", "Resentimiento"),
+        Emotion("betrayal", "Предательство", "others", "Betrayal", "Traición"),
+        Emotion("jealousy", "Ревность", "others", "Jealousy", "Celos"),
+        Emotion("envy", "Зависть", "others", "Envy", "Envidia"),
+        Emotion("rejection", "Отвержение", "others", "Rejection", "Rechazo"),
+        Emotion("abandonment", "Страх быть брошенным", "others", "Fear of being left", "Miedo a que me dejen"),
+        Emotion("unrequited", "Безответная любовь", "others", "Unrequited love", "Amor no correspondido"),
+        Emotion("humiliation", "Унижение", "others", "Humiliation", "Humillación"),
+        Emotion("shame", "Стыд", "self", "Shame", "Vergüenza"),
+        Emotion("guilt", "Вина", "self", "Guilt", "Culpa"),
+        Emotion("self_hatred", "Ненависть к себе", "self", "Self-hatred", "Odio hacia mí"),
+        Emotion("impostor", "Синдром самозванца", "self", "Impostor syndrome", "Síndrome del impostor"),
+        Emotion("helplessness", "Беспомощность", "self", "Helplessness", "Impotencia"),
+        Emotion("confusion", "Растерянность", "self", "Confusion", "Confusión"),
+        Emotion("body_shame", "Недовольство телом", "self", "Unhappy with my body", "Disconformidad con mi cuerpo"),
+        Emotion("fatigue", "Усталость, выгорание", "drained", "Fatigue, burnout", "Cansancio, burnout"),
+        Emotion("emptiness", "Пустота, апатия", "drained", "Emptiness, apathy", "Vacío, apatía"),
+        Emotion("boredom", "Скука", "drained", "Boredom", "Aburrimiento"),
+        Emotion("overload", "Перегруз, инфошум", "drained", "Overload, info noise", "Saturación, ruido"),
+        Emotion("procrastination", "Не могу начать", "drained", "Can't get started", "No puedo arrancar"),
+        Emotion("unreality", "Всё как не по-настоящему", "drained", "Nothing feels real", "Nada parece real"),
+        Emotion("craving", "Тяга", "body", "Craving", "Ganas, antojo"),
+        Emotion("addiction", "Зависимость", "body", "Addiction", "Adicción"),
+        Emotion("hangover", "Похмелье", "body", "Hangover", "Resaca"),
+        Emotion("euphoria", "Вспышка эйфории", "body", "Burst of euphoria", "Pico de euforia"),
+        Emotion("crash", "Резкий спад, откат", "body", "Sudden crash", "Bajón repentino"),
+        Emotion("illness", "Болезнь, тело подводит", "body", "Illness, body letting me down", "Enfermedad, el cuerpo me falla"),
+        Emotion("schadenfreude", "Злорадство", "awkward", "Schadenfreude", "Alegrarme del mal ajeno"),
+        Emotion("contempt", "Презрение", "awkward", "Contempt", "Desprecio"),
+        Emotion("disgust", "Отвращение", "awkward", "Disgust", "Asco"),
+        Emotion("revenge", "Желание отомстить", "awkward", "Wanting revenge", "Ganas de venganza"),
+        Emotion("anger_at_loved", "Злость на близких", "awkward", "Anger at loved ones", "Enojo con los míos"),
+        Emotion("ambivalence", "Люблю и не выношу", "awkward", "Love and can't stand", "Lo quiero y no lo soporto"),
+        Emotion("guilty_relief", "Облегчение, за которое стыдно", "awkward", "Relief I feel guilty about", "Alivio que me da culpa"),
+        Emotion("indifference", "Равнодушие, где «должно» трогать", "awkward", "Indifference where I “should” care", "Indiferencia donde «debería» importarme"),
+        Emotion("escape", "Всё бросить и сбежать", "awkward", "Wanting to drop everything and run", "Ganas de dejar todo e irme"),
+        Emotion("forbidden_attraction", "Влечение, которое «нельзя»", "awkward", "An attraction I “shouldn't” feel", "Una atracción que «no debería»"),
+        Emotion("nostalgia", "Ностальгия", "light", "Nostalgia", "Nostalgia"),
+        Emotion("melancholy", "Светлая печаль", "light", "Bright sadness", "Tristeza luminosa"),
+        Emotion("pride", "Гордость", "light", "Pride", "Orgullo"),
+        Emotion("joy", "Радость", "light", "Joy", "Alegría"),
+        Emotion("love", "Любовь, нежность", "light", "Love, tenderness", "Amor, ternura"),
+        Emotion("gratitude", "Благодарность", "light", "Gratitude", "Gratitud"),
+        Emotion("hope", "Надежда", "light", "Hope", "Esperanza"),
+        Emotion("awe", "Трепет", "light", "Awe", "Asombro"),
+        Emotion("relief", "Облегчение", "light", "Relief", "Alivio"),
+        Emotion("calm", "Покой", "light", "Calm", "Calma"),
+        Emotion("inspiration", "Вдохновение", "light", "Inspiration", "Inspiración"),
     )
     private val byId = all.associateBy { it.id }
 
     fun name(id: String): String = byId[id]?.name ?: id
 }
 
-data class Family(val id: String, val ru: String, val en: String) {
-    val name: String get() = tr(ru, en)
+data class Family(val id: String, val ru: String, val en: String, val es: String = en) {
+    val name: String get() = tr(ru, en, es)
 }
 
 object Families {
     val all = listOf(
-        Family("classic", "Античность, Средневековье и Восток", "Antiquity, Middle Ages and the East"),
-        Family("early_modern", "XVI–XVIII века", "16th–18th centuries"),
-        Family("nineteenth", "XIX век", "19th century"),
-        Family("phenomenology_existential", "Феноменология и экзистенциализм", "Phenomenology and existentialism"),
-        Family("psychoanalysis_critical", "Психоанализ и критическая теория", "Psychoanalysis and critical theory"),
-        Family("analytic", "Аналитическая философия и прагматизм", "Analytic philosophy and pragmatism"),
-        Family("poststructuralism", "Постструктурализм", "Poststructuralism"),
-        Family("affect_theory", "Теория аффекта и наследники", "Affect theory and its heirs"),
-        Family("contemporary", "XXI век", "21st century"),
+        Family("classic", "Античность, Средневековье и Восток", "Antiquity, Middle Ages and the East", "Antigüedad, Edad Media y Oriente"),
+        Family("early_modern", "XVI–XVIII века", "16th–18th centuries", "Siglos XVI–XVIII"),
+        Family("nineteenth", "XIX век", "19th century", "Siglo XIX"),
+        Family("phenomenology_existential", "Феноменология и экзистенциализм", "Phenomenology and existentialism", "Fenomenología y existencialismo"),
+        Family("psychoanalysis_critical", "Психоанализ и критическая теория", "Psychoanalysis and critical theory", "Psicoanálisis y teoría crítica"),
+        Family("analytic", "Аналитическая философия и прагматизм", "Analytic philosophy and pragmatism", "Filosofía analítica y pragmatismo"),
+        Family("poststructuralism", "Постструктурализм", "Poststructuralism", "Postestructuralismo"),
+        Family("affect_theory", "Теория аффекта и наследники", "Affect theory and its heirs", "Teoría de los afectos y herederos"),
+        Family("contemporary", "XXI век", "21st century", "Siglo XXI"),
     )
 
     fun order(id: String): Int = all.indexOfFirst { it.id == id }.let { if (it < 0) all.size else it }
@@ -144,16 +144,18 @@ class Library(val schools: List<School>) {
     companion object {
         private const val DIR = "content/schools"
         private const val DIR_EN = "content/schools_en"
+        private const val DIR_ES = "content/schools_es"
 
         /** English texts come from schools_en; a school without a translation falls back to Russian. */
         fun load(context: Context, lang: String): Library {
             val files = context.assets.list(DIR).orEmpty().filter { it.endsWith(".json") }
-            val translated = if (lang == "en") context.assets.list(DIR_EN).orEmpty().toSet() else emptySet()
-            // In English, show only translated schools rather than mixing languages.
+            val langDir = when (lang) { "en" -> DIR_EN; "es" -> DIR_ES; else -> null }
+            val translated = langDir?.let { context.assets.list(it).orEmpty().toSet() }.orEmpty()
+            // In a translated language, show only translated schools rather than mixing languages.
             val shown = if (translated.isNotEmpty()) files.filter { it in translated } else files
             val schools = shown.mapNotNull { name ->
                 runCatching {
-                    val dir = if (name in translated) DIR_EN else DIR
+                    val dir = if (name in translated && langDir != null) langDir else DIR
                     val raw = context.assets.open("$dir/$name").bufferedReader().use { it.readText() }
                     parse(JSONObject(raw))
                 }.getOrNull()

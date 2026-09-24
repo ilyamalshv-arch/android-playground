@@ -101,7 +101,7 @@ class AiClient(private val settings: Settings) {
                     401 -> AiReply.Failure(tr("Сервер не принял ключ доступа. Проверьте его в настройках.", "The server rejected the access key. Check it in settings."))
                     429 -> AiReply.Failure(tr("Бесплатный лимит на сегодня исчерпан. Он обновится в 00:00 UTC (3:00 по Москве).", "Today's free limit is used up. It resets at 00:00 UTC."))
                     502 -> AiReply.Failure(tr("Модель не ответила. Попробуйте ещё раз или выберите другую модель в настройках.", "The model didn't respond. Try again or choose another model in settings."))
-                    else -> AiReply.Failure(tr("Сервер ответил ошибкой ($code). Попробуйте позже.", "The server returned an error ($code). Try again later."))
+                    else -> AiReply.Failure(tr("Сервер ответил ошибкой ($code). Попробуйте позже.", "The server returned an error ($code). Try again later.", "El servidor devolvió un error ($code). Probá más tarde."))
                 }
             } catch (e: Exception) {
                 AiReply.Failure(tr("Нет связи с сервером. Проверьте интернет и адрес в настройках.", "Can't reach the server. Check your internet and the address in settings."))

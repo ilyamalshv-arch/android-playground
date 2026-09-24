@@ -15,7 +15,7 @@ class Settings(context: Context) {
     var sounds by BoolPref(prefs, "sounds", true)
     var haptics by BoolPref(prefs, "haptics", true)
     var intro by BoolPref(prefs, "intro", true)
-    var lang by StringPref(prefs, "lang", if (java.util.Locale.getDefault().language == "ru") "ru" else "en")
+    var lang by StringPref(prefs, "lang", when (java.util.Locale.getDefault().language) { "ru" -> "ru"; "es" -> "es"; else -> "en" })
 
     // AI mode: the person's own Cloudflare Worker. Never hardcoded — the repo is public.
     var aiUrl by StringPref(prefs, "ai_url")

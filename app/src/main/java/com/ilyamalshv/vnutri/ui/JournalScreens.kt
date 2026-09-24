@@ -40,7 +40,7 @@ import java.util.Date
 import java.util.Locale
 
 fun formatDate(millis: Long): String =
-    SimpleDateFormat("d MMMM yyyy, HH:mm", Locale.forLanguageTag(Lang.current)).format(Date(millis))
+    SimpleDateFormat("d MMMM yyyy, HH:mm", Locale.forLanguageTag(Lang.tag)).format(Date(millis))
 
 @Composable
 fun JournalScreen(entries: List<JournalEntry>, onOpen: (Long) -> Unit, onBack: () -> Unit) {
@@ -116,7 +116,7 @@ fun JournalDetailScreen(
                     Text(tr("Разбор ИИ", "AI reflection"), style = MaterialTheme.typography.titleSmall)
                     entry.conversation.forEach { turn ->
                         Text(
-                            if (turn.role == "user") tr("Вы: ${turn.text}", "You: ${turn.text}") else turn.text,
+                            if (turn.role == "user") tr("Вы: ${turn.text}", "You: ${turn.text}", "Vos: ${turn.text}") else turn.text,
                             style = if (turn.role == "user") MaterialTheme.typography.bodyMedium else MaterialTheme.typography.bodyLarge,
                             color = if (turn.role == "user") MaterialTheme.colorScheme.onSurfaceVariant else MaterialTheme.colorScheme.onSurface,
                             modifier = Modifier.padding(top = 6.dp),

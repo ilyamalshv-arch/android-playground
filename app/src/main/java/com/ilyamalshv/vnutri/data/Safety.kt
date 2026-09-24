@@ -24,7 +24,9 @@ object Safety {
         "не\\s+проснуться",
         "suicid", "kill\\s+myself", "want\\s+to\\s+die", "self[- ]?harm", "end\\s+my\\s+life",
         "(don'?t|do\\s+not)\\s+want\\s+to\\s+(live|be\\s+alive|wake\\s+up)", "no\\s+reason\\s+to\\s+live",
-        "(hurt|cut|harm)(ing)?\\s+myself", "better\\s+off\\s+without\\s+me", "end\\s+it\\s+all", "take\\s+my\\s+(own\\s+)?life",
+        "(hurt|cut|harm)(ing)?\\s+myself",
+        "suicid", "matarme", "quitarme\\s+la\\s+vida", "no\\s+quiero\\s+(seguir\\s+)?vivir", "quiero\\s+morir(me)?",
+        "hacerme\\s+da(ñ|n)o", "cortarme", "estar(i|í)an\\s+mejor\\s+sin\\s+m(i|í)", "no\\s+tiene\\s+sentido\\s+vivir", "better\\s+off\\s+without\\s+me", "end\\s+it\\s+all", "take\\s+my\\s+(own\\s+)?life",
     ).map { Regex(it) }
 
     private val heavy = setOf(
@@ -44,7 +46,7 @@ object Safety {
     data class Resource(val title: String, val details: String, val phone: String? = null, val url: String? = null)
 
     val resources: List<Resource>
-        get() = if (Lang.isEn) resourcesEn else resourcesRu
+        get() = when (Lang.current) { "en" -> resourcesEn; "es" -> resourcesEs; else -> resourcesRu }
 
     private val resourcesRu = listOf(
         Resource("Экстренные службы — 112", "Если есть непосредственная опасность. Работает в России, Украине, Казахстане, странах ЕС и многих других.", phone = "112"),
@@ -52,6 +54,13 @@ object Safety {
         Resource("Россия · Телефон доверия", "8 800 2000 122 · для детей, подростков и их родителей, бесплатно", phone = "88002000122"),
         Resource("Украина · Lifeline Ukraine", "7333 · круглосуточно, бесплатно с мобильных", phone = "7333"),
         Resource("Другие страны", "findahelpline.com — бесплатные линии помощи по всему миру", url = "https://findahelpline.com"),
+    )
+
+    private val resourcesEs = listOf(
+        Resource("Emergencias — 911", "Si hay un peligro inmediato. En Argentina: 911; en muchos otros países, 112.", phone = "911"),
+        Resource("Argentina · Centro de Asistencia al Suicida", "135 · gratis desde CABA y Gran Buenos Aires · de 8 a 0 h, anónimo", phone = "135"),
+        Resource("Argentina · CAS desde todo el país", "0800 345 1435 o (011) 5275-1135 · de 8 a 0 h", phone = "08003451435"),
+        Resource("Otros países", "findahelpline.com: líneas de ayuda gratuitas en todo el mundo", url = "https://findahelpline.com"),
     )
 
     private val resourcesEn = listOf(
