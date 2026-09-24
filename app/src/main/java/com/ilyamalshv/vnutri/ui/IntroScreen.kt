@@ -1,11 +1,10 @@
 package com.ilyamalshv.vnutri.ui
 
-import androidx.compose.animation.AnimatedVisibility
 import androidx.compose.animation.core.Animatable
+import androidx.compose.animation.core.animateFloatAsState
 import androidx.compose.animation.core.FastOutSlowInEasing
 import androidx.compose.animation.core.LinearEasing
 import androidx.compose.animation.core.tween
-import androidx.compose.animation.fadeIn
 import androidx.compose.foundation.Canvas
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.interaction.MutableInteractionSource
@@ -101,8 +100,9 @@ fun IntroScreen(onEnter: () -> Unit) {
                 modifier = Modifier.alpha(fade.value),
             )
             Box(Modifier.height(72.dp), contentAlignment = Alignment.Center) {
-                AnimatedVisibility(visible = cycles >= 1, enter = fadeIn(tween(1500))) {
-                    OutlinedButton(onClick = onEnter) { Text("Войти") }
+                val buttonAlpha by animateFloatAsState(if (cycles >= 1) 1f else 0f, tween(1500), label = "enter")
+                if (cycles >= 1) {
+                    OutlinedButton(onClick = onEnter, modifier = Modifier.alpha(buttonAlpha)) { Text("Войти") }
                 }
             }
         }
