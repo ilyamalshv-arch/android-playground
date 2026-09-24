@@ -1,6 +1,7 @@
 package com.ilyamalshv.vnutri.ui
 
 import com.ilyamalshv.vnutri.data.tr
+import androidx.compose.animation.animateContentSize
 import androidx.compose.animation.core.animateFloatAsState
 import androidx.compose.foundation.ExperimentalFoundationApi
 import androidx.compose.foundation.layout.ExperimentalLayoutApi
@@ -53,6 +54,7 @@ import androidx.compose.material3.Surface
 import androidx.compose.material3.Text
 import androidx.compose.material3.TextButton
 import androidx.compose.material3.TopAppBar
+import androidx.compose.material3.TopAppBarDefaults
 import androidx.compose.material3.FilterChip
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.getValue
@@ -102,6 +104,7 @@ fun BackTopBar(title: String, onBack: () -> Unit, actions: @Composable () -> Uni
             }
         },
         actions = { actions() },
+        colors = TopAppBarDefaults.topAppBarColors(containerColor = Color.Transparent),
     )
 }
 
@@ -115,18 +118,23 @@ fun LensCard(
     onToggle: () -> Unit,
     saved: Boolean? = null,
     onToggleSave: () -> Unit = {},
+    tint: Color = Lodge.pearl,
 ) {
     val feedback = LocalFeedback.current
-    val (interaction, press) = rememberSoftPress(0.98f)
+    val shape = RoundedCornerShape(18.dp)
     Card(
         onClick = { feedback?.tap(); onToggle() },
-        interactionSource = interaction,
-        modifier = Modifier.fillMaxWidth().then(press),
-        shape = RoundedCornerShape(16.dp),
-        colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.surfaceContainerLow),
+        modifier = Modifier
+            .fillMaxWidth()
+            .glowTouch(tint, shape)
+            .background(velvetFill(tint), shape)
+            .pearlEdge(shape, tint)
+            .animateContentSize(spring(dampingRatio = 0.8f, stiffness = 260f)),
+        shape = shape,
+        colors = CardDefaults.cardColors(containerColor = Color.Transparent),
     ) {
         Column(Modifier.padding(16.dp)) {
-            Text(heading, style = MaterialTheme.typography.titleMedium)
+            Text(heading, style = MaterialTheme.typography.titleLarge, color = Lodge.pearl)
             if (subheading.isNotBlank()) {
                 Text(
                     subheading,
@@ -145,7 +153,7 @@ fun LensCard(
                 Text(
                     tr("Читать дальше", "Read more"),
                     style = MaterialTheme.typography.labelLarge,
-                    color = MaterialTheme.colorScheme.primary,
+                    color = tint,
                     modifier = Modifier.padding(top = 6.dp),
                 )
             } else {

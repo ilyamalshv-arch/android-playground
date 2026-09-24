@@ -18,6 +18,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.runtime.mutableStateMapOf
 import androidx.compose.runtime.remember
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
 import com.ilyamalshv.vnutri.data.Emotions
@@ -27,7 +28,7 @@ import com.ilyamalshv.vnutri.data.School
 
 @Composable
 fun LibraryScreen(library: Library, onOpen: (String) -> Unit, onBack: () -> Unit) {
-    Scaffold(topBar = { BackTopBar(tr("Школы и мыслители", "Schools and thinkers"), onBack) }) { padding ->
+    Scaffold(containerColor = Color.Transparent, topBar = { BackTopBar(tr("Школы и мыслители", "Schools and thinkers"), onBack) }) { padding ->
         LazyColumn(
             Modifier.padding(padding),
             contentPadding = PaddingValues(16.dp),
@@ -42,7 +43,7 @@ fun LibraryScreen(library: Library, onOpen: (String) -> Unit, onBack: () -> Unit
                     items(schools, key = { it.id }) { s ->
                         Card(
                             onClick = { onOpen(s.id) },
-                            modifier = Modifier.fillMaxWidth(),
+                            modifier = Modifier.fillMaxWidth().glowTouch(),
                             shape = RoundedCornerShape(16.dp),
                             colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.surfaceContainerLow),
                         ) {
@@ -62,7 +63,7 @@ fun LibraryScreen(library: Library, onOpen: (String) -> Unit, onBack: () -> Unit
 @Composable
 fun SchoolScreen(school: School, onBack: () -> Unit) {
     val expanded = remember { mutableStateMapOf<String, Boolean>() }
-    Scaffold(topBar = { BackTopBar(school.title, onBack) }) { padding ->
+    Scaffold(containerColor = Color.Transparent, topBar = { BackTopBar(school.title, onBack) }) { padding ->
         LazyColumn(
             Modifier.padding(padding),
             contentPadding = PaddingValues(16.dp),

@@ -52,6 +52,8 @@ import com.ilyamalshv.vnutri.ui.JournalScreen
 import com.ilyamalshv.vnutri.ui.LibraryScreen
 import com.ilyamalshv.vnutri.ui.ResultScreen
 import com.ilyamalshv.vnutri.ui.SchoolScreen
+import com.ilyamalshv.vnutri.ui.Lodge
+import com.ilyamalshv.vnutri.ui.VelvetBackground
 import com.ilyamalshv.vnutri.ui.VnutriTheme
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
@@ -74,7 +76,8 @@ class MainActivity : ComponentActivity() {
             feedback.view = LocalView.current
             VnutriTheme {
                 CompositionLocalProvider(LocalFeedback provides feedback) {
-                    Surface(Modifier.fillMaxSize(), color = MaterialTheme.colorScheme.background) {
+                    Box(Modifier.fillMaxSize()) {
+                        VelvetBackground()
                         App(settings, ambient, feedback)
                     }
                 }
@@ -153,6 +156,9 @@ private fun App(settings: Settings, ambient: Ambient, feedback: Feedback) {
     BackHandler(enabled = stack.size > 1) { pop() }
 
     val current = stack.last()
+    LaunchedEffect(current) {
+        if (current !is Screen.Result && current !is Screen.Home) Lodge.mood = Lodge.gold
+    }
     LaunchedEffect(current is Screen.Intro) {
         ambient.setLevel(if (current is Screen.Intro) 0.7f else 0.22f)
     }

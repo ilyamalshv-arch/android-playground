@@ -14,6 +14,8 @@ import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.LazyRow
 import androidx.compose.foundation.lazy.items
+import androidx.compose.foundation.lazy.itemsIndexed
+import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material3.Button
 import androidx.compose.material3.Card
@@ -28,6 +30,7 @@ import androidx.compose.material3.Tab
 import androidx.compose.material3.Text
 import androidx.compose.material3.TextButton
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableIntStateOf
 import androidx.compose.runtime.mutableStateMapOf
@@ -37,6 +40,7 @@ import androidx.compose.runtime.saveable.rememberSaveable
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.unit.dp
 import com.ilyamalshv.vnutri.data.AiClient
 import com.ilyamalshv.vnutri.data.Emotions
@@ -90,12 +94,14 @@ fun ResultScreen(
     var reflectionSaved by remember { mutableStateOf(false) }
 
     val emotionId = entry.emotions.getOrNull(tab)?.emotionId ?: entry.emotions.first().emotionId
+    val tint = Lodge.colorOfGroup(Emotions.all.firstOrNull { it.id == emotionId }?.group)
+    LaunchedEffect(tint) { Lodge.mood = tint }
     val all = library.lensesFor(emotionId)
     val lenses = if (showAll) all.filter { family == null || it.first.family == family }
     else pickContrasting(all, entry.saved.filter { it.emotionId == emotionId }.map { it.schoolId }, entry.id + shuffle * 7919L + emotionId.hashCode())
     val presentFamilies = Families.all.filter { f -> library.schools.any { it.family == f.id } }
 
-    Scaffold(topBar = { BackTopBar(tr("Взгляды на чувства", "Views on feelings"), onBack) }) { padding ->
+    Scaffold(containerColor = Color.Transparent, topBar = { BackTopBar(tr("Взгляды на чувства", "Views on feelings"), onBack) }) { padding ->
         Column(Modifier.fillMaxSize().padding(padding).consumeWindowInsets(padding).imePadding()) {
             if (entry.emotions.size > 1) {
                 ScrollableTabRow(selectedTabIndex = tab, edgePadding = 16.dp) {
@@ -133,6 +139,7 @@ fun ResultScreen(
                         }
                     }
                 }
+                item(key = "orb") { EmotionOrb(Emotions.name(emotionId), tint) }
                 item {
                     Text(
                         tr("Три очень разных взгляда. Здесь нет правильного ответа — заметьте, какой отзывается.", "Three very different views. There is no right answer — notice which one resonates."),
@@ -152,13 +159,14 @@ fun ResultScreen(
                         onOpenSettings = onOpenSettings,
                     )
                 }
-                items(lenses, key = { it.first.id + ":" + emotionId }) { (school, lens) ->
+                itemsIndexed(lenses, key = { _, it -> it.first.id + ":" + emotionId }) { index, (school, lens) ->
                     val key = school.id + ":" + emotionId
                     val isSaved = entry.saved.any { it.schoolId == school.id && it.emotionId == emotionId }
-                    LensCard(
+                    Box(Modifier.appear(index)) { LensCard(
                         heading = school.title,
                         subheading = "${school.period} · ${school.tradition}",
                         lens = lens,
+                        tint = tint,
                         expanded = expanded[key] == true,
                         onToggle = { expanded[key] = expanded[key] != true },
                         saved = isSaved,
@@ -166,7 +174,7 @@ fun ResultScreen(
                             val s = SavedLens(school.id, emotionId)
                             onUpdate(entry.copy(saved = if (isSaved) entry.saved - s else entry.saved + s))
                         },
-                    )
+                    ) }
                 }
                 if (emotionId in setOf("craving", "addiction", "hangover")) {
                     item(key = "addiction-note") {

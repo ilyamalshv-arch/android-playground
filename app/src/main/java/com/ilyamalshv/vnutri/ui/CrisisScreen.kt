@@ -23,6 +23,7 @@ import androidx.compose.material3.Scaffold
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.unit.dp
 import com.ilyamalshv.vnutri.data.Safety
@@ -35,7 +36,7 @@ fun CrisisScreen(fromText: Boolean, onContinue: (() -> Unit)?, onBack: () -> Uni
         runCatching { context.startActivity(Intent(action, Uri.parse(uri))) }
     }
 
-    Scaffold(topBar = { BackTopBar(tr("Поддержка", "Support"), onBack) }) { padding ->
+    Scaffold(containerColor = Color.Transparent, topBar = { BackTopBar(tr("Поддержка", "Support"), onBack) }) { padding ->
         Column(
             Modifier
                 .fillMaxSize()

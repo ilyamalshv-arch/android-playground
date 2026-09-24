@@ -1,7 +1,10 @@
 package com.ilyamalshv.vnutri.ui
 
 import com.ilyamalshv.vnutri.data.tr
+import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement
+import androidx.compose.foundation.layout.Box
+import androidx.compose.foundation.shape.CircleShape
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.ExperimentalLayoutApi
 import androidx.compose.foundation.layout.FlowRow
@@ -30,10 +33,13 @@ import androidx.compose.material3.Scaffold
 import androidx.compose.material3.Text
 import androidx.compose.material3.TextButton
 import androidx.compose.material3.TopAppBar
+import androidx.compose.material3.TopAppBarDefaults
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.remember
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.unit.dp
 import com.ilyamalshv.vnutri.data.EmotionGuess
 import com.ilyamalshv.vnutri.data.EmotionMark
@@ -60,9 +66,11 @@ fun HomeScreen(
     onSettings: () -> Unit,
 ) {
     Scaffold(
+        containerColor = Color.Transparent,
         topBar = {
             TopAppBar(
-                title = { Text("Sincerer") },
+                title = { Text("Sincerer", style = MaterialTheme.typography.headlineSmall) },
+                colors = TopAppBarDefaults.topAppBarColors(containerColor = Color.Transparent),
                 actions = {
                     TextButton(onClick = onJournal) { Text(tr("Дневник", "Journal")) }
                     TextButton(onClick = onLibrary) { Text(tr("Школы", "Schools")) }
@@ -89,11 +97,18 @@ fun HomeScreen(
             )
 
             val selectedIds = marks.map { it.emotionId }.toSet()
-            Emotions.groups.forEach { (group, label) ->
-                Text(label, style = MaterialTheme.typography.titleSmall, modifier = Modifier.padding(top = 8.dp))
-                FlowRow(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
+            // The background takes the light of the most recently chosen feeling.
+            val lastGroup = marks.lastOrNull()?.let { m -> Emotions.all.firstOrNull { it.id == m.emotionId }?.group }
+            LaunchedEffect(lastGroup) { Lodge.mood = Lodge.colorOfGroup(lastGroup) }
+            Emotions.groups.forEachIndexed { gi, (group, label) ->
+                val color = Lodge.colorOfGroup(group)
+                Row(verticalAlignment = Alignment.CenterVertically, modifier = Modifier.padding(top = 14.dp, bottom = 2.dp).appear(gi)) {
+                    Box(Modifier.size(8.dp).background(color, CircleShape))
+                    Text(label, style = MaterialTheme.typography.titleSmall, color = color.copy(alpha = 0.9f), modifier = Modifier.padding(start = 8.dp))
+                }
+                FlowRow(horizontalArrangement = Arrangement.spacedBy(8.dp), modifier = Modifier.appear(gi)) {
                     Emotions.all.filter { it.group == group }.forEach { e ->
-                        SoftChip(selected = e.id in selectedIds, label = e.name, onClick = { onToggle(e.id) })
+                        GlowChip(e.name, e.id in selectedIds, color) { onToggle(e.id) }
                     }
                 }
             }
@@ -107,12 +122,9 @@ fun HomeScreen(
                         modifier = Modifier.fillMaxWidth(),
                     ) {
                         Text(Emotions.name(m.emotionId), modifier = Modifier.weight(1f), style = MaterialTheme.typography.bodyMedium)
+                        val color = Lodge.colorOfGroup(Emotions.all.firstOrNull { it.id == m.emotionId }?.group)
                         (1..3).forEach { level ->
-                            SoftChip(
-                                selected = m.intensity == level,
-                                label = intensityLabel(level),
-                                onClick = { onIntensity(m.emotionId, level) },
-                            )
+                            GlowChip(intensityLabel(level), m.intensity == level, color) { onIntensity(m.emotionId, level) }
                         }
                     }
                 }
@@ -148,7 +160,7 @@ fun HomeScreen(
                 )
                 FlowRow(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
                     suggestions.forEach { id ->
-                        SoftChip(selected = false, label = "+ " + Emotions.name(id), onClick = { onToggle(id) })
+                        GlowChip("+ " + Emotions.name(id), false, Lodge.colorOfGroup(Emotions.all.firstOrNull { it.id == id }?.group)) { onToggle(id) }
                     }
                 }
             }
@@ -156,15 +168,13 @@ fun HomeScreen(
             val crisis = remember(note) { Safety.isCrisis(note) }
             val canSubmit = marks.isNotEmpty() || suggestions.isNotEmpty() || crisis
             Spacer(Modifier.height(16.dp))
-            val (submitInteraction, submitPress) = rememberSoftPress(0.96f)
-            Button(
+            PearlButton(
+                tr("Осмыслить", "Reflect"),
                 onClick = { onSubmit(suggestions) },
                 enabled = canSubmit,
-                interactionSource = submitInteraction,
-                modifier = Modifier.fillMaxWidth().then(submitPress),
-            ) {
-                Text(tr("Осмыслить", "Reflect"))
-            }
+                glow = Lodge.mood,
+                modifier = Modifier.fillMaxWidth(),
+            )
             if (!canSubmit) {
                 Text(
                     if (note.isBlank()) tr("Отметьте чувство или опишите, что происходит.", "Mark a feeling or describe what's happening.")

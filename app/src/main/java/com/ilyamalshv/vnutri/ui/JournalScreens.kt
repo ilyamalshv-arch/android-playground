@@ -27,6 +27,7 @@ import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
 import com.ilyamalshv.vnutri.data.Emotions
@@ -43,7 +44,7 @@ fun formatDate(millis: Long): String =
 
 @Composable
 fun JournalScreen(entries: List<JournalEntry>, onOpen: (Long) -> Unit, onBack: () -> Unit) {
-    Scaffold(topBar = { BackTopBar(tr("Дневник", "Journal"), onBack) }) { padding ->
+    Scaffold(containerColor = Color.Transparent, topBar = { BackTopBar(tr("Дневник", "Journal"), onBack) }) { padding ->
         if (entries.isEmpty()) {
             Box(Modifier.fillMaxSize().padding(padding).padding(32.dp), contentAlignment = Alignment.Center) {
                 Text(
@@ -62,7 +63,7 @@ fun JournalScreen(entries: List<JournalEntry>, onOpen: (Long) -> Unit, onBack: (
             items(entries.sortedByDescending { it.id }, key = { it.id }) { e ->
                 Card(
                     onClick = { onOpen(e.id) },
-                    modifier = Modifier.fillMaxWidth(),
+                    modifier = Modifier.fillMaxWidth().glowTouch(),
                     shape = RoundedCornerShape(16.dp),
                     colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.surfaceContainerLow),
                 ) {
@@ -91,7 +92,7 @@ fun JournalDetailScreen(
     var confirmDelete by remember { mutableStateOf(false) }
     val expanded = remember { mutableStateMapOf<String, Boolean>() }
 
-    Scaffold(topBar = { BackTopBar(formatDate(entry.id), onBack) }) { padding ->
+    Scaffold(containerColor = Color.Transparent, topBar = { BackTopBar(formatDate(entry.id), onBack) }) { padding ->
         LazyColumn(
             Modifier.padding(padding),
             contentPadding = PaddingValues(16.dp),
