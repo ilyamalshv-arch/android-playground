@@ -4,28 +4,63 @@ import android.content.Context
 import org.json.JSONArray
 import org.json.JSONObject
 
-data class Emotion(val id: String, val name: String, val light: Boolean)
+data class Emotion(val id: String, val name: String, val group: String)
 
 object Emotions {
+    /** Home screen sections, in display order. */
+    val groups = listOf(
+        "fear" to "Тревога и страх",
+        "loss" to "Грусть и потеря",
+        "others" to "Злость и отношения",
+        "self" to "Про себя",
+        "drained" to "Истощение",
+        "body" to "Тело, тяга, качели",
+        "light" to "Светлое и смешанное",
+    )
+
     val all = listOf(
-        Emotion("anxiety", "Тревога", false),
-        Emotion("fear", "Страх", false),
-        Emotion("sadness", "Грусть", false),
-        Emotion("grief", "Горе, утрата", false),
-        Emotion("loneliness", "Одиночество", false),
-        Emotion("anger", "Злость", false),
-        Emotion("shame", "Стыд", false),
-        Emotion("guilt", "Вина", false),
-        Emotion("envy", "Зависть", false),
-        Emotion("emptiness", "Пустота, апатия", false),
-        Emotion("confusion", "Растерянность", false),
-        Emotion("fatigue", "Усталость, выгорание", false),
-        Emotion("boredom", "Скука", false),
-        Emotion("nostalgia", "Ностальгия", true),
-        Emotion("joy", "Радость", true),
-        Emotion("love", "Любовь, нежность", true),
-        Emotion("gratitude", "Благодарность", true),
-        Emotion("hope", "Надежда", true),
+        Emotion("anxiety", "Тревога", "fear"),
+        Emotion("fear", "Страх", "fear"),
+        Emotion("panic", "Паника", "fear"),
+        Emotion("dread", "Экзистенциальный ужас", "fear"),
+        Emotion("fomo", "Страх упустить", "fear"),
+        Emotion("sleepless", "Бессонница, мысли ночью", "fear"),
+        Emotion("sadness", "Грусть", "loss"),
+        Emotion("grief", "Горе, утрата", "loss"),
+        Emotion("loneliness", "Одиночество", "loss"),
+        Emotion("heartbreak", "Разбитое сердце", "loss"),
+        Emotion("uprooted", "Оторванность от дома", "loss"),
+        Emotion("anger", "Злость", "others"),
+        Emotion("resentment", "Обида", "others"),
+        Emotion("betrayal", "Предательство", "others"),
+        Emotion("jealousy", "Ревность", "others"),
+        Emotion("envy", "Зависть", "others"),
+        Emotion("shame", "Стыд", "self"),
+        Emotion("guilt", "Вина", "self"),
+        Emotion("self_hatred", "Ненависть к себе", "self"),
+        Emotion("impostor", "Синдром самозванца", "self"),
+        Emotion("helplessness", "Беспомощность", "self"),
+        Emotion("confusion", "Растерянность", "self"),
+        Emotion("fatigue", "Усталость, выгорание", "drained"),
+        Emotion("emptiness", "Пустота, апатия", "drained"),
+        Emotion("boredom", "Скука", "drained"),
+        Emotion("overload", "Перегруз, инфошум", "drained"),
+        Emotion("procrastination", "Не могу начать", "drained"),
+        Emotion("unreality", "Всё как не по-настоящему", "drained"),
+        Emotion("craving", "Тяга", "body"),
+        Emotion("addiction", "Зависимость", "body"),
+        Emotion("hangover", "Похмелье", "body"),
+        Emotion("euphoria", "Вспышка эйфории", "body"),
+        Emotion("crash", "Резкий спад, откат", "body"),
+        Emotion("nostalgia", "Ностальгия", "light"),
+        Emotion("joy", "Радость", "light"),
+        Emotion("love", "Любовь, нежность", "light"),
+        Emotion("gratitude", "Благодарность", "light"),
+        Emotion("hope", "Надежда", "light"),
+        Emotion("awe", "Трепет", "light"),
+        Emotion("relief", "Облегчение", "light"),
+        Emotion("calm", "Покой", "light"),
+        Emotion("inspiration", "Вдохновение", "light"),
     )
     private val byId = all.associateBy { it.id }
 
@@ -37,10 +72,11 @@ data class Family(val id: String, val name: String)
 object Families {
     val all = listOf(
         Family("classic", "Античность и Восток"),
-        Family("early_modern", "XVII–XVIII века"),
+        Family("early_modern", "XVI–XVIII века"),
         Family("nineteenth", "XIX век"),
         Family("phenomenology_existential", "Феноменология и экзистенциализм"),
         Family("psychoanalysis_critical", "Психоанализ и критическая теория"),
+        Family("analytic", "Аналитическая философия и прагматизм"),
         Family("poststructuralism", "Постструктурализм"),
         Family("affect_theory", "Теория аффекта и наследники"),
         Family("contemporary", "XXI век"),

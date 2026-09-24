@@ -78,10 +78,10 @@ fun HomeScreen(
             )
 
             val selectedIds = marks.map { it.emotionId }.toSet()
-            listOf(false to "Тяжёлое", true to "Светлое и смешанное").forEach { (light, label) ->
+            Emotions.groups.forEach { (group, label) ->
                 Text(label, style = MaterialTheme.typography.titleSmall, modifier = Modifier.padding(top = 8.dp))
                 FlowRow(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
-                    Emotions.all.filter { it.light == light }.forEach { e ->
+                    Emotions.all.filter { it.group == group }.forEach { e ->
                         SoftChip(selected = e.id in selectedIds, label = e.name, onClick = { onToggle(e.id) })
                     }
                 }

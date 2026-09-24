@@ -7,12 +7,15 @@ import json, pathlib, re, sys
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 SCHOOLS = ROOT / "app/src/main/assets/content/schools"
-EMOTIONS = ["anxiety", "fear", "sadness", "grief", "loneliness", "anger", "shame", "guilt", "envy",
-            "emptiness", "confusion", "fatigue", "boredom", "joy", "love", "gratitude", "hope", "nostalgia"]
+EMOTIONS = ("anxiety fear sadness grief loneliness anger shame guilt envy emptiness confusion fatigue boredom "
+            "joy love gratitude hope nostalgia craving addiction hangover euphoria crash panic dread fomo sleepless "
+            "betrayal jealousy resentment heartbreak impostor self_hatred helplessness procrastination uprooted "
+            "overload unreality awe relief calm inspiration").split()
 FAMILIES = {
-    "classic": "Античность и Восток", "early_modern": "XVII–XVIII века", "nineteenth": "XIX век",
+    "classic": "Античность и Восток", "early_modern": "XVI–XVIII века", "nineteenth": "XIX век",
     "phenomenology_existential": "Феноменология и экзистенциализм",
     "psychoanalysis_critical": "Психоанализ и критическая теория",
+    "analytic": "Аналитическая философия и прагматизм",
     "poststructuralism": "Постструктурализм", "affect_theory": "Теория аффекта и наследники",
     "contemporary": "XXI век",
 }

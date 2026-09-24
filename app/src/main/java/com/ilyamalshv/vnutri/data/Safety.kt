@@ -25,7 +25,10 @@ object Safety {
         "suicid", "kill\\s+myself", "want\\s+to\\s+die", "self[- ]?harm", "end\\s+my\\s+life",
     ).map { Regex(it) }
 
-    private val heavy = setOf("anxiety", "fear", "sadness", "grief", "loneliness", "shame", "guilt", "emptiness")
+    private val heavy = setOf(
+        "anxiety", "fear", "sadness", "grief", "loneliness", "shame", "guilt", "emptiness",
+        "panic", "dread", "self_hatred", "helplessness", "heartbreak", "betrayal", "crash",
+    )
 
     fun isCrisis(text: String): Boolean {
         val t = text.lowercase().replace('ё', 'е')

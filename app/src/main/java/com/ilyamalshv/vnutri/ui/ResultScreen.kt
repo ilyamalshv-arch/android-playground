@@ -134,6 +134,15 @@ fun ResultScreen(
                         },
                     )
                 }
+                if (emotionId in setOf("craving", "addiction", "hangover")) {
+                    item(key = "addiction-note") {
+                        Text(
+                            "Зависимость — не слабость характера. Если захочется поддержки, помогают люди, которые прошли через то же: группы взаимопомощи (например, АА или АН, есть и онлайн-встречи) и врач-нарколог — в том числе анонимно.",
+                            style = MaterialTheme.typography.bodySmall,
+                            color = MaterialTheme.colorScheme.onSurfaceVariant,
+                        )
+                    }
+                }
                 if (lenses.isEmpty()) {
                     item { Text("Для этого чувства в выбранной группе пока нет текстов.") }
                 }
