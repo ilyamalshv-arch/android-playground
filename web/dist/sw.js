@@ -1,5 +1,5 @@
 // Offline-first: the app shell is cached on install; data and sounds are cached as they are fetched.
-const CACHE = "sincerer-f43b80ec45";
+const CACHE = "sincerer-8e3ff763dd";
 const SHELL = ["./", "index.html", "style.css", "app.js", "manifest.webmanifest", "icons/icon-192.png", "icons/icon-512.png", "data/meta.json"];
 
 self.addEventListener("install", (e) => {

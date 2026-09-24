@@ -251,7 +251,7 @@ function startMass(canvas) {
     base[i * 3] = (0.95 * shade + 0.75 * s) * 255; base[i * 3 + 1] = (0.925 * shade + 0.75 * s) * 255; base[i * 3 + 2] = (0.885 * shade + 0.78 * s) * 255;
   }
   let idle = 0, frame = 0, ready = false, prev = null, travelled = 0;
-  const radius = W * 0.045;
+  const radius = W * 0.1;
   const stamp = (cx, cy) => {
     const x0 = Math.max(0, Math.floor(cx - radius)), x1 = Math.min(W - 1, Math.ceil(cx + radius));
     const y0 = Math.max(0, Math.floor(cy - radius)), y1 = Math.min(H - 1, Math.ceil(cy + radius));

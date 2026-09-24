@@ -219,7 +219,7 @@ fun SplashScreen(quote: Quote?, lang: String, onLang: (String) -> Unit, onEnter:
                 val m = mass ?: return@pointerInput
                 val sx = m.w / size.width.toFloat()
                 val sy = m.h / size.height.toFloat()
-                val radius = m.w * 0.045f
+                val radius = m.w * 0.1f
                 awaitEachGesture {
                     val down = awaitFirstDown()
                     var prev = down.position
