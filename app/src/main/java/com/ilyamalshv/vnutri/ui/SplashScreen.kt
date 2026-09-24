@@ -290,11 +290,9 @@ fun SplashScreen(quote: Quote?, lang: String, onLang: (String) -> Unit, onEnter:
             )
         }
 
-        Surface(
-            color = Color(0xFF1B0B0C).copy(alpha = 0.55f),
-            shape = RoundedCornerShape(20.dp),
-            modifier = Modifier.align(Alignment.TopStart).statusBarsPadding().padding(8.dp),
-        ) { LangSwitch(lang, onLang, light = true) }
+        Box(Modifier.align(Alignment.TopStart).statusBarsPadding().padding(12.dp)) {
+            LangSwitch(lang, onLang, onSplash = true)
+        }
 
         TextButton(
             onClick = onEnter,
