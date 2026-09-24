@@ -61,7 +61,7 @@ fun HomeScreen(
     Scaffold(
         topBar = {
             TopAppBar(
-                title = { Text("Внутри") },
+                title = { Text("Sincerer") },
                 actions = {
                     TextButton(onClick = onJournal) { Text("Дневник") }
                     TextButton(onClick = onLibrary) { Text("Школы") }

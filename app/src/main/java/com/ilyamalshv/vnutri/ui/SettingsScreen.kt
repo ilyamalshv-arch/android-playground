@@ -69,7 +69,7 @@ fun SettingsScreen(settings: Settings, ai: AiClient, onMusic: (Boolean) -> Unit,
             Toggle("Фоновая музыка", "Тихий эмбиент, пока открыто приложение", settings.music, onMusic)
             Toggle("Звуки касаний", "Мягкие звуки при выборе и нажатиях", settings.sounds) { settings.sounds = it }
             Toggle("Вибрация", "Лёгкий тактильный отклик", settings.haptics) { settings.haptics = it }
-            Toggle("Интро при запуске", "Дыхательная пауза перед входом", settings.intro) { settings.intro = it }
+            Toggle("Заставка при запуске", "Живая масса, которую можно стереть пальцем", settings.intro) { settings.intro = it }
 
             HorizontalDivider(Modifier.padding(vertical = 16.dp))
             Text("ИИ-разбор", style = MaterialTheme.typography.titleMedium)

@@ -40,7 +40,8 @@ import com.ilyamalshv.vnutri.data.Settings
 import com.ilyamalshv.vnutri.sound.Ambient
 import com.ilyamalshv.vnutri.sound.Feedback
 import com.ilyamalshv.vnutri.sound.LocalFeedback
-import com.ilyamalshv.vnutri.ui.IntroScreen
+import com.ilyamalshv.vnutri.ui.SplashScreen
+import com.ilyamalshv.vnutri.ui.pickSplashQuote
 import com.ilyamalshv.vnutri.ui.SettingsScreen
 import com.ilyamalshv.vnutri.ui.CrisisScreen
 import com.ilyamalshv.vnutri.ui.HomeScreen
@@ -159,10 +160,13 @@ private fun App(settings: Settings, ambient: Ambient, feedback: Feedback) {
     }
 
     when (val screen = current) {
-        Screen.Intro -> IntroScreen(onEnter = {
-            feedback.confirm()
-            replaceTop(Screen.Home)
-        })
+        Screen.Intro -> {
+            val quote = remember(lib) { pickSplashQuote(lib) }
+            SplashScreen(quote = quote, onEnter = {
+                feedback.confirm()
+                replaceTop(Screen.Home)
+            })
+        }
 
         Screen.Settings -> SettingsScreen(
             settings = settings,
@@ -307,7 +311,7 @@ private fun WelcomeDialog() {
         title = { Text("Добро пожаловать") },
         text = {
             Text(
-                "«Внутри» помогает посмотреть на свои чувства глазами философов — от стоиков до мыслителей XXI века — и принять их, а не бороться с ними.\n\n" +
+                "Sincerer помогает посмотреть на свои чувства глазами философов — от стоиков до мыслителей XXI века — и принять их, а не бороться с ними.\n\n" +
                     "Это не терапия и не замена психологу. Если вам очень плохо, на главном экране всегда есть кнопка помощи.\n\n" +
                     "Всё, что вы пишете, остаётся только на этом телефоне. Исключение — необязательный ИИ-разбор: он включается отдельно и перед первым использованием всё объяснит.",
             )
