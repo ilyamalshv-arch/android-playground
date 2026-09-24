@@ -1,0 +1,393 @@
+{
+  "id": "kierkegaard",
+  "title": "Kierkegaard",
+  "tradition": "Protoexistencialismo",
+  "family": "nineteenth",
+  "period": "década de 1840",
+  "sortYear": 1844,
+  "thinkers": [
+    "Søren Kierkegaard"
+  ],
+  "keyWorks": [
+    "O lo uno o lo otro (1843)",
+    "Temor y temblor (1843)",
+    "La repetición (1843)",
+    "El concepto de la angustia (1844)",
+    "Las obras del amor (1847)",
+    "La enfermedad mortal (1849)"
+  ],
+  "summary": "Søren Kierkegaard fue un pensador danés al que suele llamarse el padre del existencialismo. No le interesaban los sistemas abstractos, sino el individuo singular y vivo, que tiene que elegir y llegar a ser sí mismo. Escribió sobre la angustia, la desesperación y la fe como los acontecimientos centrales de la vida interior.",
+  "onEmotions": "Para Kierkegaard, los sentimientos pesados no son obstáculos, sino señales en el camino: la angustia muestra que sos libre; la desesperación, que todavía no llegaste a ser del todo vos mismo. Creía que no se los puede simplemente quitar: hay que atravesarlos y aceptarlos como parte del devenir del yo. Describió tres «estadios de la existencia»: el estético (la vida en busca de impresiones), el ético (una vida de elección y responsabilidad) y el religioso (una relación personal con lo infinito). Cada estadio tiñe la experiencia a su manera, y el paso de uno a otro muchas veces ocurre a través de una crisis: a través de un «salto», una decisión que no se puede calcular de antemano.",
+  "entries": {
+    "anxiety": {
+      "text": "Imaginá a alguien al borde de un precipicio: lo que lo asusta no es solo la caída, sino su libertad de dar el paso. Kierkegaard construyó uno de los libros más precisos sobre la angustia alrededor de esta imagen, y si la incertidumbre te está mareando, él te entendería. En «El concepto de la angustia» (la palabra danesa Angest se traduce como «angustia» y también como «ansiedad»), escribió que la angustia surge frente a la posibilidad. Cuando una persona mira un futuro abierto, en el que podría elegir esto o aquello, la cabeza le da vueltas, como a quien mira hacia abajo desde una gran altura. De ahí su famosa imagen: la angustia es «el vértigo de la libertad». Así que la angustia no es señal de que seas débil, sino de que sos libre y tu vida no está escrita de antemano. Kierkegaard llegó a creer que quien aprendió a angustiarse de la manera correcta aprendió lo más importante. La angustia es una escuela: a través de ella aprendemos que nuestra vida está en nuestras manos.",
+      "practice": "Parate, sentí el piso bajo los pies y nombrá en silencio una posibilidad que ahora te «marea». Decile: «Sos una señal de mi libertad», y soltá el aire despacio una vez.",
+      "quote": {
+        "text": "La angustia es el vértigo de la libertad.",
+        "author": "Søren Kierkegaard",
+        "source": "El concepto de la angustia (1844)"
+      }
+    },
+    "fear": {
+      "text": "Abraham caminó tres días hacia el monte Moriah sin saber cómo iba a terminar el viaje: «Temor y temblor» de Kierkegaard está construido entero alrededor de esos tres días. No hay nada vergonzoso en tener miedo: hasta el caballero de la fe caminaba temblando. Kierkegaard hizo una distinción importante: el miedo en sentido estricto siempre apunta a algo definido, un hecho, una persona, un peligro. La angustia, en cambio, apunta a la «nada», a una posibilidad indefinida. De ahí se sigue que el miedo tiene una ventaja: tiene objeto, se lo puede nombrar. A veces ayuda preguntarte a qué le tenés miedo exactamente, y muchas veces detrás de un miedo concreto hay una angustia más honda por vos mismo y por tu elección. En «Temor y temblor», Kierkegaard escribió sobre la fe como la decisión de actuar sin garantías. Siguiéndolo, el coraje puede entenderse así: no como ausencia de miedo, sino como un paso dado junto con él.",
+      "practice": "Caminá despacio, aunque sea de punta a punta del cuarto, como en un pequeño «camino a Moriah»: en cada paso, nombrá en silencio a qué le tenés miedo exactamente. Al final, fijate qué palabra resultó la más importante.",
+      "quote": null
+    },
+    "sadness": {
+      "text": "«Pesadez de ánimo» es el sentido literal del danés Tungsind, la palabra que Kierkegaard usó toda su vida para su propia melancolía. Si ahora estás triste, jamás te exigiría alegría. No la consideraba un simple mal humor. En el segundo tomo de «O lo uno o lo otro», su personaje, el juez Wilhelm, dice que la melancolía es señal de que el espíritu quiere abrirse paso: uno tiene que «elegirse a sí mismo» en vez de disolverse en distracciones. Dicho de otro modo, la tristeza puede no ser una falla, sino una pregunta que la vida te hace a vos en persona: ¿estás viviendo como de verdad querés? Kierkegaard no apuraba la respuesta. Lo que importa es no huir de esa pregunta hacia el ajetreo, sino dejar que se escuche: la tristeza tiene su propio tiempo.",
+      "practice": "Sentate junto a una ventana y dejá que tu tristeza haga su pregunta: «¿Estás viviendo como de verdad querés?». No contestes enseguida: solo sostené la pregunta en silencio un minuto o dos.",
+      "quote": null
+    },
+    "grief": {
+      "text": "A los veinticinco años Kierkegaard ya había enterrado a su madre, a su padre y a cinco de sus seis hermanos; su padre creía que sobre la familia pesaba una maldición. El duelo necesita tiempo, y nadie tiene derecho a apurarlo. Su pensamiento está empapado de esa experiencia. En «Las obras del amor» hay una reflexión sobre el amor a los muertos como la forma de amor más desinteresada y fiel: quien se fue no puede devolver nada, y por eso recordarlo es un regalo puro. Si lo pensás hasta el fondo, el duelo es amor que sigue cuando ya no tiene adónde ir. Kierkegaard llamó al recuerdo de los muertos una de las «obras del amor». Y en eso hay un sostén: tu dolor no es solo una pérdida, sino también fidelidad. Atravesarlo es seguir amando.",
+      "practice": "Hacé una pequeña «obra del amor» por quien se fue, como la llamaba Kierkegaard: decí su nombre en voz alta, contale a alguien una historia sobre esa persona o acomodá con cuidado algo suyo.",
+      "quote": null
+    },
+    "loneliness": {
+      "text": "Kierkegaard pasaba horas todos los días recorriendo Copenhague y charlando con quien se cruzara, y sin embargo quizás era el hombre más solo de la ciudad. Si ahora te sentís solo, ese peso no tiene nada de vergonzoso. Kierkegaard, de todos modos, le daba una importancia enorme a la idea del «individuo singular» (den Enkelte): la persona separada que enfrenta la vida por su cuenta en lugar de disolverse en la «multitud» o en «el público». Criticaba a la multitud porque libera a la gente de la responsabilidad y la vuelve anónima. Entonces la soledad no guarda solo dolor, sino también un lugar donde te encontrás con vos mismo. Eso no quiere decir que tengas que vivir sin gente: en «Las obras del amor», Kierkegaard insistía en el amor al prójimo. Pero la cercanía real, según él, es posible entre quienes siguen siendo ellos mismos en vez de disolverse en los otros. La soledad puede ser el comienzo de una cercanía así.",
+      "practice": "Hacé lo que hacía Kierkegaard por las calles de Copenhague: salí e intercambiá unas palabras con alguien que no conocés o conocés apenas, el que atiende un negocio, un vecino. Fijate que seguís siendo vos incluso en esa charla corta.",
+      "quote": {
+        "text": "La multitud es la mentira.",
+        "author": "Søren Kierkegaard",
+        "source": "«Ese individuo singular», apéndice a «Mi punto de vista» (publ. 1859)"
+      }
+    },
+    "anger": {
+      "text": "De chico, cuidando ovejas en los páramos de Jutlandia, el padre de Kierkegaard, hambriento y muerto de frío, subió una vez a una colina y maldijo a Dios; su hijo creía que esa furia había marcado a toda la familia. Detrás del enojo casi siempre hay un valor herido, y no tiene nada de vergonzoso. Kierkegaard escribió poco sobre el enojo en forma directa, pero sus ideas ayudan a verlo distinto. En su tratado sobre la desesperación (1849), describió varias formas de una relación equivocada de la persona consigo misma. Una de ellas es la «obstinación»: el deseo desesperado de ser uno mismo a pesar de todo, una rebelión contra una vida que no es como la necesitamos. Esto quiere decir que detrás de un enojo fuerte a veces hay justamente eso: el dolor de que el mundo no obedezca a la idea que tenemos de nosotros. Kierkegaard veía en esa rebelión una fuerza del espíritu, no un vicio. La única pregunta es hacia dónde dirigirla: contra la vida, o hacia llegar a ser vos mismo con más honestidad.",
+      "practice": "Buscá un lugar donde puedas pararte bien derecho y preguntate en voz alta: «¿Estoy enojado con este acto, o con que la vida no sea como yo exijo?». Escuchá la respuesta antes de actuar.",
+      "quote": null
+    },
+    "shame": {
+      "text": "«La multitud es la mentira», escribió Kierkegaard, y esta frase corta se volvió una de las más conocidas suyas. Cuando la vergüenza quema, parece que te ven de punta a punta y te encuentran en falta. Kierkegaard escribió mucho sobre cómo la gente vive mirando de reojo a «los demás», con miedo a ser distinta. En su tratado sobre la desesperación describe a alguien que, viendo cómo viven todos, encuentra demasiado arriesgado ser él mismo y se vuelve una «copia», gastado como una moneda que pasó por demasiadas manos. En términos de Kierkegaard, la vergüenza muchas veces nace de una mirada de afuera: nos medimos con la vara de las expectativas ajenas. Kierkegaard proponía otro punto de referencia: estar ante vos mismo (y, para él, ante Dios) como una persona singular e irrepetible. Ante una mirada así no podés ser una «copia que no alcanza», porque no sos una copia.",
+      "practice": "Imaginá que no estás frente a una multitud, sino frente a una sola mirada atenta y amable. ¿Qué ve en vos ahora esa mirada? Quedate bajo ella un minuto.",
+      "quote": null
+    },
+    "guilt": {
+      "text": "Toda su vida Kierkegaard cargó con la culpa de haber roto su compromiso con Regine Olsen, y en su testamento le dejó todo lo que tenía. Conocía la culpa desde adentro y nunca la simplificó. Vinculaba la capacidad de sentir culpa con la libertad: solo alguien que pudo haber actuado de otra manera puede sentirse culpable. En «El concepto de la angustia» muestra lo entrelazadas que están la angustia y la culpa: la angustia precede al acto libre, y la culpa lo acompaña. Pero Kierkegaard fue también un pensador del perdón. En sus obras religiosas, el perdón no es olvido, sino un nuevo comienzo. En «La repetición» habla de la posibilidad de recibir la vida de nuevo sin negar el pasado. Vista así, la culpa no es el final de la historia, sino un lugar desde donde puede empezar una renovación honesta. Podés reconocerla sin convertirla en un veredicto sobre vos.",
+      "practice": "Escribite una nota corta con seudónimo, como hacía Kierkegaard; por ejemplo, «El Testigo». Que ese testigo nombre con honestidad lo que pasó y agregue un paso desde el cual podría empezar la renovación.",
+      "quote": null
+    },
+    "envy": {
+      "text": "El público de Copenhague en la década de 1840 llevaba en andas a algunos escritores e ignoraba a otros, y Kierkegaard sabía bien lo que es mirar el éxito ajeno desde el costado. La envidia es incómoda, y a mucha gente le da vergüenza. Kierkegaard ofreció una mirada inesperada: en su tratado sobre la desesperación escribió que la envidia es una admiración secreta. El que envidia en realidad admira, pero no se anima a admitírselo y convierte la admiración en rencor. Y en «La época presente» (1846) describió la «nivelación»: el clima de una época en que la envidia se vuelve una manera de recortar a todos a una misma medida para que nadie sobresalga. Bajo esta luz, tu envidia puede ser una señal: muestra qué te llena de admiración de verdad y qué te gustaría desarrollar en vos. En lugar de reprimir la envidia, podés «descifrarla» y devolverle su sentido original de admiración.",
+      "practice": "Convertí tu envidia en admiración en voz alta: decí (para vos o directamente a esa persona) «Lo que admiro de vos es…». Después elegí una cosa mínima que puedas hacer hoy para cultivar eso en vos.",
+      "quote": {
+        "text": "La envidia es una admiración secreta.",
+        "author": "Søren Kierkegaard",
+        "source": "La enfermedad mortal (1849)"
+      }
+    },
+    "emptiness": {
+      "text": "El peligro más grande, perderse a uno mismo, puede ocurrir muy en silencio, como si no fuera nada, advertía Kierkegaard. El vacío y la apatía pesan mucho, y no hace falta culparte por ellos. En su tratado sobre la desesperación (1849), Kierkegaard no describe la desesperación como un drama tormentoso, sino muchas veces como un estado callado y desapercibido: la persona vive, trabaja, se junta con gente, pero como si no estuviera presente en su propia vida, sin ser ella misma. Llegó a señalar que la desesperación más común es la que no sabe que es desesperación. Así que la sensación de vacío puede no estar vacía en absoluto: es una señal de que tu yo pide atención. Para Kierkegaard, la salida de la desesperación es animarse a «ser uno mismo», establecer una relación honesta con vos. Eso no pasa en un instante; es un camino de pasos chicos y honestos, y el primero es notar que te sentís vacío.",
+      "practice": "Recordá en qué momento de la última semana estuviste más cerca de vos mismo, y repetí hoy aunque sea una partecita de ese momento: la misma música, el mismo camino, la misma persona.",
+      "quote": null
+    },
+    "confusion": {
+      "text": "En el bosque de Gribskov, al norte de Copenhague, Kierkegaard amaba un lugar donde se cruzan ocho caminos: según él, el sitio justo para la soledad y la reflexión. La confusión es estar parado en una encrucijada así, sin saber adónde ir ni quién ser. Kierkegaard conocía bien ese estado: él mismo sufrió eligiendo su camino, en el amor y en su vocación. Creía que la vida no se puede deducir de un sistema como un teorema: ninguna filosofía va a tomar la decisión por vos. De ahí su idea del «salto»: a una nueva forma de vida no se pasa por un razonamiento interminable, sino por una decisión que siempre implica riesgo. De ahí se sigue que la confusión es una pausa natural antes de una elección, no una señal de incapacidad. Kierkegaard ofrece además el consuelo de que el sentido del camino recorrido muchas veces se ve recién después. Ahora quizás no entiendas adónde vas, y aun así podés seguir caminando.",
+      "practice": "Dá un paso adelante, literalmente, ahí en el cuarto, y nombrá en voz alta el paso más chico que podrías dar en tu vida sin conocer todo el camino. Kierkegaard lo llamaría un «salto» diminuto.",
+      "quote": {
+        "text": "La vida solo puede comprenderse mirando hacia atrás, pero hay que vivirla mirando hacia adelante.",
+        "author": "Søren Kierkegaard",
+        "source": "Diarios (1843)"
+      }
+    },
+    "fatigue": {
+      "text": "Kierkegaard tenía unas cincuenta tazas, y cada mañana su secretario debía elegir una y decir por qué. Incluso un hombre que escribió decenas de libros en pocos años sostenía esa ceremonia mínima y sin apuro. Si ahora tus fuerzas son menos que las exigencias, es una señal honesta. Kierkegaard escribía con ironía sobre la gente tan absorbida por sus asuntos que no tiene tiempo de ser ella misma. Consideraba el ajetreo y el «estar ocupado» una de las formas de huir de uno mismo: mientras estamos ocupados, no tenemos que hacernos las preguntas importantes. Dicho de otro modo, el agotamiento aparece cuando vivimos mucho tiempo en función de tareas externas, olvidando lo interior. Kierkegaard recordaba que el yo no es un rol ni una función, sino la relación de una persona consigo misma. El descanso, entonces, no es ocio, sino una vuelta a esa relación: a un silencio en el que tu propia voz pueda volver a escucharse. No tenés que ganarte ese descanso.",
+      "practice": "Hacé tu propia «ceremonia de la taza», como Kierkegaard: elegí una taza, explicate por qué esa, y tomá tu té o tu agua despacio, sin hacer nada más.",
+      "quote": null
+    },
+    "boredom": {
+      "text": "«Los dioses se aburrían, así que crearon al hombre»: así empieza el esteta de Kierkegaard su historia del mundo en el ensayo «La rotación de cultivos», de «O lo uno o lo otro». El aburrimiento puede parecer poca cosa, pero Kierkegaard le dedicó un ensayo entero. Su héroe esteta sostiene que el aburrimiento es la raíz de todo mal y propone una ingeniosa «rotación de cultivos»: no cambiar de campo, sino cambiar la manera de mirar la misma cosa, jugar con las impresiones. Pero Kierkegaard muestra que eso sigue siendo una trampa del «estadio estético»: una vida vivida en busca de lo interesante tarde o temprano se agota. Si lo pensás hasta el fondo, el aburrimiento es una señal de que perseguir impresiones ya no te alimenta. La salida, para Kierkegaard, no está en estímulos nuevos, sino en el paso al estadio «ético»: a la elección, al compromiso, a algo de lo que te hacés responsable. El aburrimiento puede ser una puerta, no un callejón sin salida.",
+      "practice": "Probá la «rotación de cultivos» del esteta, pero en serio: durante un minuto mirá una cosa conocida del cuarto como si la vieras por primera vez. Después preguntate de qué cosa chica de tu vida estás dispuesto a hacerte cargo: no porque sea interesante, sino porque importa.",
+      "quote": null
+    },
+    "joy": {
+      "text": "El lirio no hace nada para ser lirio, y el pájaro no guarda grano para mañana: justamente a ellos Kierkegaard los llamó maestros de la alegría. Podés aceptar tu alegría sin justificarla. Kierkegaard, conocido como pensador de la angustia, escribió también páginas hermosas sobre la alegría, en los discursos «El lirio del campo y el ave del cielo» (1849). Se pregunta qué podemos aprender del lirio y del pájaro, y uno de sus discursos responde: la alegría. Para él, la alegría es estar de verdad en el presente, «hoy», sin entregarte entero a las preocupaciones de mañana. El lirio y el pájaro no se preocupan por el mañana: por eso están alegres. Entonces la alegría no hay que ganarla ni ahorrarla: se abre cuando estás acá, entero, en este momento. Kierkegaard creía que una alegría así puede encontrarse incluso en medio de las dificultades.",
+      "practice": "Buscá un pájaro, un árbol o una flor por la ventana o en la calle y mirá un minuto cómo simplemente es, «hoy». Decite: «Ahora: hoy», y dejá que la alegría esté, sin motivo.",
+      "quote": null
+    },
+    "love": {
+      "text": "Seis años después de romper con Regine, Kierkegaard escribió «Las obras del amor» (1847), uno de los libros más hondos sobre lo que significa amar. La ternura que sentís ahora él la consideraba lo más valioso de una persona. Distinguía el amor «preferencial», por quienes nos son especialmente queridos, del amor al «prójimo», dirigido a cada persona. Una de sus ideas principales: el amor «edifica», es decir, presupone el amor en el otro y así lo ayuda a crecer. Quien ama ve en el otro más bien del que esa persona ve en sí misma. Esto quiere decir que tu ternura no es ingenuidad, sino una fuerza creadora: no solo refleja el mundo, lo cambia. Kierkegaard escribió también que el amor se conoce por sus frutos: por los hechos, no solo por los sentimientos. La ternura pide pequeños actos.",
+      "practice": "El amor, para Kierkegaard, «edifica»: presupone el bien en el otro y lo ayuda a crecer. Hoy decile a alguien que querés una cosa buena que ves en esa persona, quizás más claro de lo que la ve ella.",
+      "quote": null
+    },
+    "gratitude": {
+      "text": "Kierkegaard dedicó sus «Discursos edificantes» a su padre y los dirigió a «ese individuo singular a quien con alegría y gratitud llamo mi lector». Consideraba el sentimiento cálido de la gratitud algo muy hondo. Varios de sus «Discursos edificantes» (1843) están dedicados a un versículo de la Epístola de Santiago: «Toda buena dádiva y todo don perfecto desciende de lo alto». Reflexiona sobre lo difícil que puede ser dar gracias cuando la vida no coincide con nuestras expectativas, y sobre cómo la gratitud cambia a quien agradece. En términos de Kierkegaard, la gratitud no es una formalidad de cortesía, sino una manera de relacionarse con la vida: dejás de solamente exigirle y empezás a recibir. No hace falta compartir las ideas religiosas de Kierkegaard para quedarte con este pensamiento: la gratitud es un movimiento interior en el que una persona se vuelve más suave y más libre.",
+      "practice": "Leé en voz alta el versículo sobre el que reflexionaba Kierkegaard («Toda buena dádiva…») o una frase propia que te resulte más cercana. Después nombrá tres regalos de este día que no te ganaste ni planeaste.",
+      "quote": null
+    },
+    "hope": {
+      "text": "Kierkegaard estaba convencido de que nadie tiene derecho a ponerle punto final a un ser humano: ni a otro ni a sí mismo. La esperanza nos ayuda a seguir viviendo, y él la valoraba muchísimo. En su tratado sobre la desesperación escribió que lo que más necesita alguien desesperado es «posibilidad»: la sensación de que no todo está decidido; sin ella es como si no hubiera aire para respirar. Para él esto estaba ligado a la fe: «para Dios todo es posible». En «Las obras del amor» agrega que el amor «todo lo espera», es decir, que la esperanza es también una actitud hacia otra persona: no darla por perdida, dejarle un futuro. Vista así, la esperanza no es optimismo ingenuo, sino la decisión de mantener abierta la posibilidad, incluso cuando no la ves. Podés aplicártelo a vos también: no dictarte un veredicto final, dejarte un futuro.",
+      "practice": "Completá en voz alta la frase «Todavía es posible que…», sobre vos o sobre alguien cercano. Kierkegaard lo llamaría una bocanada de aire: solo respirala un minuto.",
+      "quote": null
+    },
+    "nostalgia": {
+      "text": "La esperanza es un traje nuevo; el recuerdo, uno descartado que ya te queda chico; y la repetición, un traje que nunca se gasta: así abre Kierkegaard su libro «La repetición». Extrañar el pasado es tierno, y podés vivirlo con suavidad. Kierkegaard pensó mucho en la memoria. En «La repetición» (1843) contrapuso el «recuerdo» y la «repetición». El recuerdo mira hacia atrás: conserva lo perdido, y por eso está teñido de tristeza. La repetición mira hacia adelante: es la capacidad de recibir de nuevo lo valioso; no copiar el pasado, sino vivir su sentido otra vez. Y en «O lo uno o lo otro» hay un ensayo sobre «el más desdichado», alguien que vive solo en el recuerdo o solo en la espera y nunca está presente en el presente. Bajo esta luz, la nostalgia es hermosa mientras no te quite tu «hoy». Podés preguntarte: de lo que extraño, ¿qué podría no traerse de vuelta, sino recibirse de nuevo?",
+      "practice": "Elegí un recuerdo que extrañás y buscá su corazón: no el decorado, sino el sentido. Hoy hacé una cosa chica en la que ese sentido pueda «repetirse» con una forma nueva.",
+      "quote": null
+    },
+    "craving": {
+      "text": "Kierkegaard sabía cómo suena por dentro el «ahora o nunca»: su «Diario de un seductor» es un libro entero sobre un hombre que vive de un deseo al siguiente. Un «lo quiero ya mismo» filoso no te hace mala persona. Kierkegaard describió una vida parecida bajo el nombre de «estadio estético»: una vida gobernada por deseos y estados de ánimo inmediatos. Su héroe esteta, en el primer tomo de «O lo uno o lo otro», admite él mismo que el placer decepciona y la posibilidad no. Así que el ansia no promete tanto una sustancia o una cosa como la sensación de que todo está por cambiar. Kierkegaard no veía la salida en la prohibición, sino en la elección: en que un día una persona se elija a sí misma; no a su deseo, sino al yo que está viviendo ese deseo. El ansia dice «ahora o nunca». Pero entre la ola y el acto siempre hay un momento, y en él vivís vos.",
+      "practice": "Cuando te invada el ansia, decite: «Noto el deseo, y soy yo quien lo nota». Esperá tres respiraciones lentas antes de hacer nada: ese es el momento de Kierkegaard entre la ola y el acto.",
+      "quote": null
+    },
+    "addiction": {
+      "text": "«La pureza de corazón es querer una sola cosa» es el título de uno de los discursos más conocidos de Kierkegaard, y quien lleva mucho tiempo atrapado en el círculo de una adicción sabe lo difícil que es sostener esa sola cosa. Es un círculo del que cuesta salir, y eso no es un fracaso moral. Kierkegaard diría que la adicción toca lo más hondo de una persona: su yo. En su tratado sobre la desesperación define el yo como una relación que se relaciona consigo misma. De ahí se sigue que en la adicción esa relación parece pasar a otra cosa: la vida se organiza alrededor de una sustancia o un hábito, y la persona misma queda corrida a un costado. Kierkegaard escribió también sobre la «pureza de corazón»: poder querer una sola cosa en vez de estar desgarrado. Pero nunca pensó que alguien lo lograra solo ni de una vez. Para él, el camino hacia uno mismo siempre pasaba por la honestidad, por la disposición a admitir la propia necesidad y aceptar ayuda.",
+      "practice": "Decile a una persona de confianza una frase honesta sobre cómo estás ahora. Kierkegaard creía que el camino hacia uno mismo empieza por admitir la propia necesidad; si querés, también podés decir esa frase en un grupo de ayuda mutua (como AA o NA).",
+      "quote": null
+    },
+    "hangover": {
+      "text": "El juez Wilhelm, la voz más sobria de Kierkegaard, dice que uno tiene que «elegirse a sí mismo»: no a la mejor versión, sino al yo entero, ayer incluido. Esta mañana, cuando te duele el cuerpo y se amontonan la ansiedad, la vergüenza y los baches en la memoria, no hace falta rematarte. Kierkegaard distinguía con claridad dos maneras de relacionarte con tu pasado. Podés juzgarte sin fin, y entonces, según él, uno no se desespera solo por el acto, sino por sí mismo, y la desesperación se vuelve doble. O podés hacer lo que el juez Wilhelm, en el segundo tomo de «O lo uno o lo otro», llama «elegirte a vos mismo»: reconocer tu historia como tuya, sin renegar de ella ni ahogarte en ella. Dicho de otro modo, la vergüenza de la mañana es una señal de que te importa. No tenés que resolver todo hoy. Alcanza con decirte con honestidad: «Esto me pasó, y estoy acá».",
+      "practice": "Cuidá tu cuerpo: agua, aire fresco. Después, como aconseja el juez Wilhelm, «elegite a vos mismo» en voz alta: «Lo de ayer me pasó, y estoy acá. Hoy doy un paso amable», y nombrá ese paso.",
+      "quote": null
+    },
+    "euphoria": {
+      "text": "Cuando salió «O lo uno o lo otro», todo Copenhague intentaba adivinar quién se escondía detrás del seudónimo Victor Eremita, mientras el autor saboreaba en silencio su éxito. Un impulso luminoso en el que todo parece posible es algo que podés celebrar. Kierkegaard entendía bien esa luz: su esteta de «O lo uno o lo otro» confiesa que no desearía para sí riqueza ni poder, sino la pasión de lo posible, un ojo que vea posibilidad en todas partes. Para Kierkegaard, la «posibilidad» no es un sueño vacío, sino uno de los dos lados del yo: la persona está tejida de lo posible y lo necesario, de vuelo y de suelo. Si lo pensás hasta el fondo, la euforia es un momento en que el lado de lo posible de pronto brilla con toda su fuerza. No hace falta apagarlo. Kierkegaard te propondría una sola cosa: para que el destello no se vuele del todo, atalo a algo chico y real. Entonces la posibilidad no es solo un sentimiento, sino parte de tu vida.",
+      "practice": "Tocá hoy la posibilidad: hacé una acción muy chica hacia ella (un mensaje, una llamada, los primeros cinco minutos de la tarea). Kierkegaard diría que así la pasión de lo posible se vuelve parte de la realidad.",
+      "quote": null
+    },
+    "crash": {
+      "text": "A la noche, luces y risas; a la mañana, un salón vacío: Kierkegaard conocía tan bien estos vaivenes que hizo de ellos una trama. Si después de un pico te tiraron abajo de golpe, puede costar muchísimo. Kierkegaard escribió un libro entero sobre esto: «La repetición» (1843). Su narrador, Constantin Constantius, la había pasado de maravilla una vez en Berlín y decidió volver para repetirlo todo. Pero nada funcionó: la habitación no era la misma, el teatro no le dio placer, todo parecía desteñido. Entonces el bajón muchas veces nace de intentar retener o repetir el pico. Kierkegaard distinguía esta clase de repetición de la verdadera: cuando la vida no se trae de vuelta a la fuerza, sino que se recibe de nuevo, como un regalo, con otra forma. Ahora no tenés que traer nada de vuelta. Podés simplemente dejarte bajar y esperar lo que venga.",
+      "practice": "Decite: «No necesito repetir el pico de ayer». Salí a caminar un rato y encontrá en el camino una cosa buena y chica, nada parecida a aquel pico: que sea tu nueva «repetición».",
+      "quote": null
+    },
+    "panic": {
+      "text": "Kierkegaard, que escribió toda su vida sobre el temor y el temblor, jamás te diría «calmate y listo»: el corazón te late fuerte, no te alcanza el aire, y ahora esto es difícil de verdad. En «El concepto de la angustia» Kierkegaard ofreció una imagen que ayuda a mucha gente: quien mira hacia abajo, a un abismo abierto, siente vértigo, y la causa, escribió, no está solo en el abismo, sino también en el ojo que lo mira. Esto quiere decir que el pánico también tira de tu mirada hacia el abismo, hacia lo peor que podría pasar. Una ola así suele subir, llegar a su pico y bajar en unos pocos minutos. Y cuando hay vértigo, ayuda algo simple: llevar la mirada a lo que está cerca y es firme, y agarrarte de lo que podés tocar.",
+      "practice": "Sacá los ojos del «abismo»: apoyá los pies en el piso, poné la palma sobre algo firme y soltá el aire durante más tiempo del que lo tomás. Nombrá cinco objetos que tengas justo al lado, cosas que puedas tocar.",
+      "quote": null
+    },
+    "dread": {
+      "text": "En el verano de 1835, Kierkegaard, con veintidós años, deambulaba por la costa cerca del pueblo de pescadores de Gilleleje, atormentado por la pregunta de para qué vivir. El «¿para qué todo esto?», los pensamientos sobre la finitud y el abismo: es una de las experiencias más pesadas, y él la conocía desde adentro. Entonces escribió en su diario que necesitaba encontrar una verdad que fuera verdad para él, una idea por la cual quisiera vivir. No un sistema general, sino su propio sentido. Y en el discurso «Junto a una tumba» (1845) escribió que el pensamiento de la finitud puede enseñar «seriedad»: vuelve valioso el hoy e impide postergar lo que más importa. En términos de Kierkegaard, tu angustia no es señal de que no haya sentido, sino el comienzo de tu propia pregunta por el sentido. Una pregunta así no se responde en una noche. La llevás adentro, y de a poco empieza a cambiar cómo vivís hoy.",
+      "practice": "Andá adonde puedas ver lejos (una ventana, un balcón, la calle) y, como Kierkegaard en la costa de Gilleleje, preguntate: ¿qué me importa de verdad hoy? Dejá que la respuesta sea muy chiquita.",
+      "quote": null
+    },
+    "fomo": {
+      "text": "Esté donde esté el esteta de Kierkegaard, la vida real parece estar pasando en otro lado. Sentir que todos viven vidas más interesantes y vos estás en el lugar equivocado desgasta mucho. Kierkegaard lo describió con una precisión asombrosa. En el primer tomo de «O lo uno o lo otro» hay una «conferencia extática»: casate, y te vas a arrepentir; no te cases, y también te vas a arrepentir; hacelo, y te vas a arrepentir; no lo hagas, y te vas a arrepentir. Y en el ensayo sobre «el más desdichado» pinta a alguien que nunca está presente en su propia vida: vive a veces en la esperanza del futuro, a veces en el recuerdo del pasado. Visto así, el miedo a perderse algo es una vida vivida «fuera de uno», en lugares y posibilidades ajenos. La respuesta de Kierkegaard es la elección: el juez Wilhelm dice que lo que importa no es tanto la opción correcta como el acto mismo de elegir, en el que uno llega a ser sí mismo. Donde estás es donde empieza tu vida.",
+      "practice": "Decite en voz alta: «Elijo estar acá». Nombrá una cosa que existe solo en tu hoy, y quedate con ella un minuto.",
+      "quote": null
+    },
+    "sleepless": {
+      "text": "¿Por qué a las tres de la mañana todo parece enorme y sin solución? Kierkegaard respondería: porque de noche vivimos en un mañana que todavía no existe. No te pasa solo a vos. En los «Discursos cristianos» (1848), Kierkegaard dedicó una reflexión aparte a la preocupación por el mañana y la llamó «la preocupación del tormento de uno mismo». Escribió que el ave del cielo no conoce esa preocupación, porque no tiene «mañana»: solo «hoy». Bajo esta luz, los pensamientos nocturnos casi siempre son sobre mañana: sobre lo que todavía no pasó y sobre lo que ahora no se puede hacer nada. Kierkegaard te propondría no pelearte con esos pensamientos, sino volver con suavidad al «hoy»: a este cuarto, a esta respiración, a este momento, en el que no hay tareas de mañana.",
+      "practice": "Decite: «Las cosas de mañana son para mañana». Apoyá la palma en el pecho y contá diez exhalaciones lentas, como el pájaro que tiene solo «hoy».",
+      "quote": null
+    },
+    "betrayal": {
+      "text": "«El amor todo lo cree y, sin embargo, nunca es engañado»: Kierkegaard examina esta paradoja en «Las obras del amor». Cuando te traicionan, no se derrumba solo una relación, sino tu fe en tu propia confianza, y el dolor por eso está justificado. Kierkegaard reflexionó sobre qué hacer con la confianza después de un engaño. Señaló que la desconfianza también puede ser un autoengaño: parece sabia, pero en realidad simplemente elige la peor explicación. Y dijo algo audaz: quien engaña al que ama, en el fondo se engaña sobre todo a sí mismo, porque se priva de lo más valioso. Así que tu confianza no fue una tontería: fue tu capacidad de amar, y sigue siendo tuya. No tenés que perdonar a nadie con fecha fija. Pero podés negarte a que esta herida te aleje de vos mismo.",
+      "practice": "Terminá esta frase en voz alta: «Mi confianza dice de mí que yo…». Nombrá una cualidad que querés conservar a pesar de lo que pasó.",
+      "quote": null
+    },
+    "jealousy": {
+      "text": "Kierkegaard siguió mirando con celos la vida de Regine incluso después de la ruptura: al enterarse de su compromiso con Schlegel, arrancó páginas enteras de un manuscrito. Los celos que queman no son motivo de vergüenza: muestran cuánto significa otra persona para vos. En «Las obras del amor», Kierkegaard distinguía el amor «preferencial», por quienes nos son especialmente queridos, del amor al «prójimo». Del primero escribía con mucho respeto, pero señalaba con honestidad su fragilidad: el amor inmediato puede cambiar por dentro y volverse celos. De ahí se sigue que los celos son amor atrapado por el miedo a perder. Kierkegaard no pedía renunciar a ellos, sino sumarle al amor una segunda dimensión: ver a la persona amada no solo como «mía», sino también como un individuo separado y libre. Eso no apaga el sentimiento, pero le da más aire.",
+      "practice": "Imaginá a la persona que querés en un momento en que está ocupada en algo suyo, sin vos, y nombrá una cualidad que le pertenece solo a ella. Fijate qué les pasa a los celos cuando ves a una persona separada y libre.",
+      "quote": null
+    },
+    "resentment": {
+      "text": "Hasta el final de su vida Kierkegaard no le perdonó a la Iglesia danesa ni al obispo Mynster lo que veía como falsedad, y en su último año publicó unos panfletos furiosos titulados «El instante». Un rencor largo es una carga pesada, y detrás casi siempre hay una injusticia real. En su tratado sobre la desesperación, Kierkegaard describió un estado sorprendente: una persona se apegó tanto a su dolor que ya no puede soltarlo, porque se volvió parte de ella, la prueba de que tenía razón. Dicho de otro modo, a veces el rencor nos retiene no porque queramos sufrir, sino porque despedirnos de él se siente como traicionarnos. Kierkegaard no pedía un perdón apurado. Proponía ver que el yo es más grande que cualquier herida: puede reconocerla y, aun así, no vivir solo para ella. Soltar no empieza con olvidar, sino con una pregunta: ¿quién sería yo sin este peso?",
+      "practice": "Preguntate en voz alta: «¿Quién sería yo sin este peso?». No contestes enseguida: solo sostené la pregunta un minuto, como Kierkegaard sostenía sus preguntas sin apurarse a cerrarlas.",
+      "quote": null
+    },
+    "heartbreak": {
+      "text": "Kierkegaard le devolvió el anillo a Regine Olsen con una carta en la que le pedía sobre todo que «olvidara al que escribe esto», y él mismo nunca la olvidó. Un corazón roto es uno de los dolores más filosos, y nadie tiene derecho a apurarlo. Kierkegaard lo vivió en carne propia: fue en 1841, y según sus propios diarios pensó en Regine toda la vida. Esa herida atraviesa muchos de sus libros. En «La repetición», un joven que atraviesa un drama amoroso escribe cartas largas y sufre, sin saber cómo seguir viviendo. Kierkegaard muestra que es posible atravesar un dolor así: no intentando traer de vuelta el pasado, sino dejando que la vida se devuelva de a poco, con una forma nueva. Si lo pensás hasta el fondo, tu pena no es un final, sino parte del devenir de tu yo. Por ahora, alcanza con permitirte estar triste.",
+      "practice": "Escribí una carta corta de despedida a este amor, que no vas a mandar, y firmala con un seudónimo, como hacía Kierkegaard. Después dejala a un lado: que descanse.",
+      "quote": null
+    },
+    "impostor": {
+      "text": "Johannes Climacus, Victor Eremita, Johannes de Silentio, Anti-Climacus: Kierkegaard firmó sus libros con tantos nombres que los lectores se preguntaban dónde estaba él. La sensación de que en cualquier momento te van a desenmascarar visita con especial frecuencia a la gente responsable. Él mismo se preguntaba dónde estaba el autor real detrás de esas máscaras. Pero sobre todo criticaba a «el público», la multitud sin rostro a cuyos juicios nos sometemos, aunque sea, en sus palabras, una abstracción, un fantasma. Lo que más le importaba era «el individuo singular»: una persona que está ante la vida (para Kierkegaard, ante Dios) por sí misma, no ante una platea. Entonces el impostor es un papel que actuamos para espectadores imaginarios. Ante vos mismo no sos un «impostor», sino una persona en camino, que aprende y crece.",
+      "practice": "Imaginá que la sala está vacía y las luces apagadas. Ahora mismo, hacé una cosa que sabés hacer y te encanta hacer, para vos y no para una platea, y fijate quién la está haciendo.",
+      "quote": null
+    },
+    "self_hatred": {
+      "text": "Anti-Climacus es el más estricto de los seudónimos de Kierkegaard, y hasta él llama enfermedad, no crimen, al no querer desesperadamente ser uno mismo. Tu crítico interior te está causando un dolor enorme, y no te merecés ese veredicto. En su tratado sobre la desesperación, Kierkegaard describió una forma de sufrimiento en la que una persona, desesperada, no quiere ser ella misma y querría librarse de sí. No veía en eso un vicio, sino una enfermedad del yo, que pide suavidad y no nuevos reproches. Y en «Las obras del amor» tiene un pensamiento sorprendente: el mandamiento «amarás a tu prójimo como a ti mismo» presupone que el amor correcto a uno mismo y el amor al prójimo son, en el fondo, una y la misma cosa. Esto quiere decir que el crítico interior no solo viola tu paz, sino la naturaleza misma del amor. Quererte de la manera correcta no es egoísmo, sino parte de saber amar.",
+      "practice": "Pensá en alguien que querés sinceramente y decite una frase en voz alta, con el mismo tono que usarías con esa persona. Kierkegaard lo llamaría el amor correcto a uno mismo, el que está contenido en el mandamiento mismo.",
+      "quote": null
+    },
+    "helplessness": {
+      "text": "«Necesitar a Dios es la suprema perfección del hombre»: el título de uno de los discursos de Kierkegaard suena casi como un desafío a todos los que nos enseñan a contar solo con nosotros mismos. Si sentís que no podés cambiar nada, no es culpa tuya. Kierkegaard escribió ese discurso en 1844. Sostenía que admitir que por tu cuenta podés poco no es una derrota, sino el comienzo de una relación genuina con la vida. Para él era un camino religioso. Pero incluso fuera de la fe, su pensamiento puede leerse así: la impotencia deja al descubierto que los seres humanos no estamos hechos para arreglárnoslas solos. Así que lo importante ahora no es fingir que lo podés todo, sino permitirte necesitar a otros: ayuda, apoyo, la presencia de alguien al lado.",
+      "practice": "Llamá o escribile a una persona y pedile algo chico: un consejo, una mano, que simplemente esté cerca. Kierkegaard diría que al admitir tu necesidad no perdiste: empezaste.",
+      "quote": null
+    },
+    "procrastination": {
+      "text": "Kierkegaard escribió «O lo uno o lo otro», casi novecientas páginas, en menos de un año, y sin embargo su esteta no logra levantarse del sillón. El estado de «no puedo arrancar» agota, y no quiere decir que seas vago. Kierkegaard lo describió en los «Diapsalmata», los aforismos del esteta en el primer tomo de «O lo uno o lo otro». El esteta se queja: andar a caballo es demasiado violento, caminar demasiado cansador; acostarse… y después habría que quedarse acostado o volver a levantarse, y no quiere ninguna de las dos cosas. No tiene ganas de nada. Visto así, postergar es vivir entre posibilidades infinitas, ninguna de las cuales fue elegida. Kierkegaard creía que ninguna preparación anula el «salto»: una decisión que no se puede calcular de antemano solo se puede tomar. El salto no tiene que ser enorme. A veces es simplemente el primer movimiento de tu mano hacia la tarea.",
+      "practice": "Hacé un pequeño «salto» literal: parate, decí en voz alta «Arranco», y hacé enseguida el primer paso de dos minutos de la tarea. Solo eso: después podés frenar.",
+      "quote": null
+    },
+    "uprooted": {
+      "text": "Kierkegaard viajó cuatro veces a Berlín, y cada vez volvió a Copenhague con un libro nuevo. Quedar separado de tu hogar (una mudanza, la emigración) es una experiencia dura, como si el suelo se te fuera de debajo de los pies. Kierkegaard vivió casi toda su vida en Copenhague, pero en su época más difícil, después de romper el compromiso, se fue a Berlín, y allí escribió la mayor parte de «O lo uno o lo otro». Lejos de casa, no buscaba un lugar nuevo, sino a sí mismo. Para Kierkegaard, el yo no es un lugar ni un escenario, sino la relación de una persona consigo misma, que puede construirse de nuevo en cualquier parte. Bajo esta luz, una mudanza te quita los apoyos externos, pero te deja el principal: tu capacidad de llegar a ser vos mismo. Extrañar tu casa es legítimo. Pero también en un lugar nuevo hay algo que nadie te puede quitar: tu propio camino.",
+      "practice": "Recorré tu calle nueva como Kierkegaard deambulaba por el Berlín extranjero: despacio, fijándote en los detalles. Encontrá una cosa que acá podría volverse «tuya»: un banco, un árbol, una vista.",
+      "quote": null
+    },
+    "overload": {
+      "text": "«Nuestra época es esencialmente reflexiva, sin pasión», escribió Kierkegaard sobre la era de los diarios y la charla interminable. La sobrecarga y el feed infinito cansan de verdad. Kierkegaard, sorprendentemente, lo describió hace casi doscientos años. En «La época presente» (1846) habla de su tiempo como una época de reflexión y de charla: todos discuten todo, la prensa crea «el público», y el individuo se disuelve en un intercambio interminable de opiniones y posterga vivir su propia vida. Así que la sobrecarga no es solo cansancio de información, sino también la pérdida de tu propia voz. Kierkegaard conocía un remedio simple: caminaba por Copenhague casi todos los días y consideraba que las caminatas eran la fuente de sus mejores pensamientos. A veces la única respuesta al ruido es salirse de él, aunque sea un rato.",
+      "practice": "Salí cinco minutos sin el celular y simplemente caminá, como Kierkegaard en Copenhague. Si no podés salir, cerrá los ojos y escuchá los sonidos a tu alrededor sin ponerles nombre.",
+      "quote": {
+        "text": "No conozco ningún pensamiento tan pesado que uno no pueda dejarlo atrás caminando.",
+        "author": "Søren Kierkegaard",
+        "source": "Carta a Henriette Lund (1847)"
+      }
+    },
+    "unreality": {
+      "text": "¿Qué hacés cuando tu propia vida parece una obra de teatro vista desde un palco lejano? Kierkegaard también conocía eso. La sensación de que nada es real puede asustar mucho, y cuesta contársela a otros. En su tesis «Sobre el concepto de ironía» (1841) retrató a una persona para la que toda la realidad «perdió su validez»: todo se volvió lejano, como sobre un escenario. Y en su tratado sobre la desesperación escribió sobre la «desesperación de la infinitud», cuando el yo parece evaporarse en la fantasía y pierde contacto con lo concreto. De ahí se sigue que la sensación de irrealidad no es culpa tuya ni es vacío, sino una señal de que tu conexión con lo concreto se debilitó por un tiempo. Kierkegaard veía el camino de vuelta en las cosas simples: en acciones chicas y cotidianas que devuelven a la persona al «acá».",
+      "practice": "Hacé una cosa concreta con las manos: lavá una taza, acariciá una tela. Notá la temperatura y la textura y nombralas para vos: Kierkegaard lo llamaría volver de lo infinito a lo concreto.",
+      "quote": null
+    },
+    "awe": {
+      "text": "Kierkegaard tomó el título «Temor y temblor» de una epístola de Pablo, y la palabra «temblor» era para él casi sagrada. Ante algo inmenso o hermoso dan ganas de quedarse callado: una experiencia rara y valiosa. En los discursos «El lirio del campo y el ave del cielo» (1849) escribió que lo primero que enseñan el lirio y el pájaro es el silencio. Ante la grandeza del mundo, una persona suele intentar decir algo, explicarlo, recordarlo. Pero el lirio y el pájaro simplemente son, y en su silencio hay más reverencia que en todas nuestras palabras. Para Kierkegaard ese silencio era una relación con Dios; pero su pensamiento puede leerse también de forma más amplia: el sobrecogimiento es un momento en que las palabras sobran. Dicho de otro modo, la mejor manera de vivirlo no es apurarse a describirlo, sacarle una foto o compartirlo, sino simplemente estar en él.",
+      "practice": "Quedate un minuto en silencio ante lo que te sobrecogió, como enseñan, para Kierkegaard, el lirio y el pájaro. No lo describas, ni siquiera para vos: solo mirá.",
+      "quote": null
+    },
+    "relief": {
+      "text": "A Kierkegaard le encantaba recorrer Selandia en carruaje: después de semanas de trabajo salía disparado hacia el mar y el bosque y volvía renovado. El alivio es una tibieza silenciosa después de una tensión larga, y vale la pena saborearlo. Kierkegaard lo describió en «La repetición» (1843). El joven de ese libro sufre mucho tiempo en una situación sin salida, y cuando inesperadamente se resuelve, escribe una frase simple: volvió a ser él mismo. Para Kierkegaard esa era la verdadera «repetición»: no la vuelta del pasado, sino recibirse de nuevo a uno mismo, como un regalo. Si lo pensás hasta el fondo, el alivio no es solo que desaparezca un peso, sino un momento en que volvés a vos. No hace falta apurarse a llenar el espacio que quedó libre. Dejate sentir cómo es volver a ser vos.",
+      "practice": "Soltá el aire despacio y decite, con las palabras del joven de «La repetición»: «Vuelvo a ser yo mismo». Fijate en qué parte del cuerpo resuena.",
+      "quote": {
+        "text": "Vuelvo a ser yo mismo.",
+        "author": "Søren Kierkegaard",
+        "source": "La repetición (1843)"
+      }
+    },
+    "calm": {
+      "text": "¿Cómo se ve una persona que está en paz por dentro? La respuesta de Kierkegaard era inesperada: completamente común. La calma y la paz son un estado en el que está bien simplemente estar. Kierkegaard pintó un retrato de esa calma en «Temor y temblor» (1843). Su «caballero de la fe» no se parece en nada a un héroe: parece un recaudador de impuestos cualquiera, camina por la calle, espera con ganas la cena, pasea por el bosque y disfruta de todo lo que ve. Por fuera no tiene nada especial, pero está completamente presente en lo finito, en la vida común. Para Kierkegaard esa calma era fruto de la fe; pero su imagen puede leerse también de forma más amplia. Entonces la calma verdadera no es escaparse del mundo, sino la capacidad de estar entero en el día más simple. Quizás es justo eso lo que estás sintiendo ahora.",
+      "practice": "Caminá como el caballero de la fe de Kierkegaard: a paso normal, por una calle común o por un cuarto, disfrutando cada cosa simple, un olor, la luz, un sonido. No busques nada: solo está en este día.",
+      "quote": null
+    },
+    "inspiration": {
+      "text": "Kierkegaard escribía parado frente a un pupitre alto y produjo decenas de libros en pocos años: a veces el pensamiento le corría más rápido que la pluma. Si ahora te agarró la inspiración, vale la pena recibirla con gratitud. Valoraba la «pasión»: no una tormenta de emociones, sino una plenitud de compromiso interior sin la cual, según él, no se puede existir de verdad. En el «Post scriptum no científico y definitivo» (1846), su seudónimo Johannes Climacus dice que para una persona viva la verdad no es una abstracción, sino la manera en que vive en ella. Esto quiere decir que la inspiración es un momento en que el pensamiento y la vida se juntan. Kierkegaard no te apuraría a analizarla. Lo que le importaría es que no quede solo en un estado de ánimo, sino que tome forma, aunque sea un poco, en la acción.",
+      "practice": "Parate, como Kierkegaard en su pupitre, y anotá lo que se te ocurrió sin corregir. Después apuntá una acción chica con la que lo vas a llevar a la práctica en los próximos días.",
+      "quote": null
+    },
+    "schadenfreude": {
+      "text": "Cuando en 1846 todo Copenhague se reía de las caricaturas de Kierkegaard, él llegó a conocer bien el regodeo por la desgracia ajena, desde el lado del que es objeto de burla. Notar ese sentimiento en vos es incómodo: ¿de verdad soy así? Kierkegaard te ayuda a mirarlo sin castigarte. En «La enfermedad mortal» escribió que la medida del yo es siempre aquello ante lo cual se pone. Si nos medimos con los demás, nuestra sensación de nosotros mismos sube y baja con sus éxitos y fracasos. En términos de Kierkegaard, el regodeo no es tanto maldad como un síntoma de que por un rato empezaste a vivir en el sistema de coordenadas de otro: la caída ajena se siente como tu subida. Kierkegaard no te avergonzaría. Te preguntaría: ¿ante qué quiero ser yo mismo? Cuando la medida es tu propia vida y su tarea, el fracaso ajeno deja de significar algo para tu yo.",
+      "practice": "Preguntate en voz alta, como lo haría Kierkegaard: «¿Ante qué quiero ser yo mismo ahora?». Nombrá tu propia vara (una tarea, un valor, una persona) y fijate que el fracaso ajeno no cambia nada en ella.",
+      "quote": null
+    },
+    "contempt": {
+      "text": "Sócrates, el héroe favorito de Kierkegaard, decía saber solo que no sabía nada, y por eso se ponía a la par de cualquier transeúnte. El desprecio muchas veces nace de una decepción real con alguien. En su tesis «Sobre el concepto de ironía», Kierkegaard escribió sobre una postura de superioridad desde la cual se puede mirar todo desde arriba. Reconocía su fuerza, pero señalaba que si la convertís en tu punto de vista permanente, te aísla: terminás por encima de todos y, por lo tanto, solo. En «Las obras del amor» ofreció la mirada opuesta: quien ama «presupone» la posibilidad del bien en el otro, aunque ahora no se vea. El desprecio, en cambio, ve a una persona como algo terminado, definido de una vez por su peor acto. Visto así, no tenés que renunciar a tu juicio, pero podés dejarle una rendija a la posibilidad: una persona no es solo lo que hizo. Y vos tampoco tenés por qué vivir en una altura fría.",
+      "practice": "Decite: «Esta persona hizo…, pero no es solo eso. Quizás también hay en ella…». Aunque sea una palabra en la segunda parte cuenta: Kierkegaard lo llamaría un amor que «presupone» el bien.",
+      "quote": null
+    },
+    "disgust": {
+      "text": "¿Se puede mirar a uno mismo con asco y aun así estar más cerca de sanar que alguien satisfecho de sí? Kierkegaard respondía que sí. El asco, por una situación, por la gente o por vos mismo, es un sentimiento pesado, que repele. Kierkegaard prestó especial atención a su forma vuelta hacia adentro. En «La enfermedad mortal» distinguía la desesperación por algo externo de la desesperación por uno mismo, cuando alguien mira su propia debilidad con asco. Inesperadamente, consideraba la segunda un estado más hondo y más cercano a la curación: en él la persona al menos se ve y se toma en serio. Bajo esta luz, el asco por vos mismo no es prueba de que no valés nada, sino una señal de que te importa quién sos. Kierkegaard no estaba de acuerdo con el veredicto interior. Proponía dar el paso siguiente: aceptar ese yo débil como propio, el único material con el que podés seguir llegando a ser vos mismo.",
+      "practice": "Alejate un poco, hacé unas cuantas exhalaciones lentas y completá en voz alta: «Lo que me da asco muestra que a mí me importa…». Mirá la segunda mitad como una señal, no como un veredicto.",
+      "quote": null
+    },
+    "revenge": {
+      "text": "¿Quién termina manejando tu día: vos o quien te lastimó? Kierkegaard haría primero esta pregunta incómoda. Las ganas de venganza se entienden: te hicieron daño, y algo adentro exige justicia. En «La pureza de corazón es querer una sola cosa», Kierkegaard describió la «doblez de ánimo»: un estado en el que una persona está desgarrada entre fines distintos y deja de estar entera. Así, la venganza corre en silencio el centro de tu vida: cada vez más pensamientos y fuerzas empiezan a girar alrededor de quien te lastimó, y esa persona, sin siquiera proponérselo, gana poder sobre vos. Kierkegaard no pedía un perdón apurado ni negaba que tuvieras razón. Pero preguntaría: ¿quiero que mi yo lo defina esta persona? Podés reconocer tu enojo por completo y, aun así, volver a poner en el centro tu propia vida, tu propia tarea, tu propia «una sola cosa», y no el acto de otro.",
+      "practice": "Calculá cuánto de tu pensamiento de hoy ocupó esta persona. Elegí una actividad (tu propia «una sola cosa», diría Kierkegaard) que te devuelva un poco de tu tiempo, y hacela.",
+      "quote": null
+    },
+    "anger_at_loved": {
+      "text": "Un capítulo de «Las obras del amor» se titula «Nuestro deber de amar a los hombres que vemos», y en ese título se escucha toda la dificultad del amor. El enojo con los más cercanos es especialmente difícil, porque después viene la vergüenza. El pensamiento de Kierkegaard es que amamos con facilidad una imagen imaginada (la pareja, el padre, el hijo ideal), mientras que la persona real que tenemos al lado inevitablemente no coincide con ella. De ahí se sigue que el enojo muchas veces se enciende donde se encuentran la imagen y la realidad: «debería haber sido distinto». Eso no quiere decir que no haya amor; al contrario, quiere decir que tus expectativas son grandes. Kierkegaard proponía no renunciar al amor, sino pasarlo de la imagen a la persona tal como es. No hace falta avergonzar a tu enojo; podés preguntarle con qué imagen acaba de chocar.",
+      "practice": "Mirá a tu ser querido (o imaginá su cara) y decite: «Acá estás, como sos, no como deberías ser». Fijate qué le pasa al enojo cuando la imagen da un paso atrás.",
+      "quote": null
+    },
+    "ambivalence": {
+      "text": "«O lo uno o lo otro» se llama el primer gran libro de Kierkegaard, y sin embargo él vivió toda su vida en un «lo uno y lo otro»: amaba a Regine y no podía estar con ella. Querer a una persona y al mismo tiempo no soportarla es un estado del que uno quiere librarse rápido. Kierkegaard lo conocía desde adentro: amaba a Regine Olsen, rompió el compromiso y escribió sobre eso toda la vida, sin reducir nunca sus sentimientos a uno solo. Su filosofía explica por qué no es una falla. En «La enfermedad mortal», el yo se describe como una síntesis de opuestos (lo finito y lo infinito, la libertad y la necesidad) y como una relación que se relaciona consigo misma. Dicho de otro modo, los sentimientos mezclados son el estado natural de un ser tejido de contradicciones. La tarea no es que gane un sentimiento, sino cómo te relacionás vos con los dos. Podés sostenerlos juntos sin apurarte a una decisión final.",
+      "practice": "Decí una frase en voz alta: «Quiero… y no soporto…», unidas por «y», no por «pero». Kierkegaard lo llamaría una síntesis; fijate cómo es sostener las dos partes juntas.",
+      "quote": null
+    },
+    "guilty_relief": {
+      "text": "¿Puede un suspiro de alivio ser parte del amor y no una traición? Kierkegaard diría que estos sentimientos viven en planos distintos. El alivio después de una partida, una ruptura o la muerte de un ser querido gravemente enfermo muchas veces asusta: ¿no habrá faltado amor? El alivio es una respuesta al final de la tensión, del miedo y de un cuidado agotador. El amor, para Kierkegaard, no termina junto con las circunstancias. En «Las obras del amor» hay un capítulo sobre el amor que recuerda a quien murió; lo llamó el amor más desinteresado y más fiel, porque no recibe nada a cambio. Si lo pensás hasta el fondo, el alivio no anula el amor: podés soltar el aire y seguir amando, recordando, agradeciendo. Kierkegaard no te juzgaría. Más bien diría que tu capacidad de sufrir por tu alivio ya habla de la hondura de tu apego.",
+      "practice": "Hacé una pequeña «obra del amor que recuerda»: prendé una vela, mirá una foto o decí un nombre. Dejá que conviva con el alivio, sin discutir con él.",
+      "quote": null
+    },
+    "indifference": {
+      "text": "Kierkegaard soñaba con un «individuo singular» como lector: no un público con opinión sobre todo, sino una persona a la que el texto tocara de verdad. Cuando algo debería conmoverte y no lo hace, es fácil asustarse por uno mismo. En «La época presente», Kierkegaard describió su época como sensata y sin pasión: la gente discute mucho, sabe un poco de todo, pero rara vez algo la atrapa de verdad. No veía en eso un vicio personal, sino una enfermedad de la época, en la que un flujo de información reemplaza al compromiso vivo. Entonces tu indiferencia no es necesariamente dureza. Puede ser cansancio de tener que tener opinión y sentimiento sobre todo a la vez. Kierkegaard valoraba la «interioridad»: lo que no se puede exhibir ni convocar por orden. Así que no tiene sentido fingir un sentimiento que no está. Mejor dejar lugar con honestidad: el compromiso vivo llega cuando una cosa se vuelve tuya, no de todos.",
+      "practice": "Preguntate: ¿hay algo en esta situación que me concierna a mí en persona, y no a «todos»? Si encontrás aunque sea un detalle (una cara, un nombre, un lugar), quedate con él en silencio un minuto.",
+      "quote": null
+    },
+    "escape": {
+      "text": "Kierkegaard podría haberse ido a cualquier parte (la herencia de su padre se lo permitía), y sin embargo, salvo Berlín, casi nunca salió de Copenhague. Las ganas de dejarlo todo (un laburo, una ciudad, un rol) se entienden cuando la vida se volvió demasiado estrecha. Kierkegaard las describió con ironía en el ensayo «La rotación de cultivos», de «O lo uno o lo otro». Su héroe esteta enumera: uno se cansa de vivir en el campo y se va a la ciudad; se cansa de su patria y se va al extranjero; se cansa de Europa y se va a América. Kierkegaard muestra que ese cambio de circunstancias muchas veces solo lleva el aburrimiento a un lugar nuevo. Pero en el mismo libro el juez Wilhelm, la voz de la vida ética, propone otro camino: «elegirte a vos mismo», es decir, hacerte cargo de tu vida y de su tarea. Esto quiere decir que podés preguntarte: ¿quiero escaparme del lugar, o de la manera en que vivo en él? A veces lo correcto es cambiar de circunstancias; a veces, elegirte a vos mismo dentro de ellas.",
+      "practice": "Imaginate dentro de un año, allá adonde querés escaparte, y preguntate, como lo haría el juez Wilhelm: «¿En quién me convertí ahí?». Buscá un paso chico para ese nuevo «yo» que sea posible acá mismo.",
+      "quote": null
+    },
+    "forbidden_attraction": {
+      "text": "¿Por qué lo inalcanzable atrae más fuerte que lo que está al alcance de la mano? Kierkegaard pensó en esto durante años. La atracción por alguien inalcanzable o «equivocado» puede dar vergüenza e inquietar. Kierkegaard escribió mucho sobre una vida arrastrada hacia lo posible: en «O lo uno o lo otro» ese es el mundo del esteta, para quien lo más seductor no es lo que es, sino lo que podría ser. En «La enfermedad mortal» describió un yo que se va a la deriva en posibilidades imaginadas y pierde contacto con la realidad, y un yo que se aferra solo a la necesidad y se asfixia. En términos de Kierkegaard, lo inalcanzable atrae en parte porque es pura posibilidad: algo que la realidad todavía no puso a prueba. Kierkegaard no te dictaría un veredicto. Te propondría una pregunta honesta: ¿qué hay en este deseo que tiene que ver con esa persona en particular, y qué con lo que a vos te falta en tu propia vida?",
+      "practice": "Pensá dos preguntas, una por vez, con una respiración lenta entre ellas: «¿Qué me atrae de esta persona?» y «¿Qué falta en mi vida?». Solo mirá si hay alguna conexión entre las respuestas.",
+      "quote": null
+    },
+    "social_anxiety": {
+      "text": "Tímido, encorvado, con las piernas del pantalón desparejas, Kierkegaard salía todos los días a las calles llenas de gente de Copenhague, y consideraba esas caminatas parte de su trabajo. El miedo al juicio ajeno convierte un simple encuentro en un examen, y agota. Kierkegaard ofreció una imagen poco común en «La pureza de corazón es querer una sola cosa». Estamos acostumbrados a pensar que estamos sobre un escenario y que la gente alrededor es el público. Él da vuelta la escena: cada persona es el actor, y hay un solo espectador verdadero, aquel ante quien uno responde por su vida. Para Kierkegaard es Dios; pero incluso en una lectura laica el sentido se mantiene: la pregunta principal no es «¿cómo me veo a los ojos de la multitud?», sino «¿fui yo mismo recién?». Visto así, los nervios no te hacen peor, y el juicio de cada mirada al pasar deja de ser definitivo. El espectador que de verdad importa no mira tu pulido, sino tu honestidad.",
+      "practice": "Después de un encuentro que te puso nervioso, no te preguntes «¿cómo quedé?», sino «¿en qué momento de hoy fui yo mismo?». Nombrá en voz alta al menos uno.",
+      "quote": null
+    },
+    "uncertainty": {
+      "text": "«La vida solo puede comprenderse mirando hacia atrás, pero hay que vivirla mirando hacia adelante», escribió Kierkegaard en su diario. La incertidumbre cansa: querés saber qué va a pasar, y no podés. En sus discursos sobre los lirios del campo y las aves del cielo, Kierkegaard hizo una observación fina. El pájaro no se preocupa por el mañana, no porque sea más sabio, sino porque no tiene mañana. Un ser humano, en cambio, puede imaginarse el mañana, y eso es a la vez su grandeza y la fuente de sus preocupaciones. Bajo esta luz, tu inquietud frente a lo desconocido es la otra cara de una capacidad muy humana de ver hacia adelante. Kierkegaard no proponía renunciar a ella. Proponía aprender una cosa del pájaro: vivir el hoy tan plenamente que el mañana no te lo quite del todo. El futuro sigue siendo desconocido, pero te queda el «hoy»: el único tiempo en el que podés actuar.",
+      "practice": "Elegí una tarea que pertenezca solo a hoy y hacela entera, como el pájaro de Kierkegaard, que no tiene «mañana». Las cosas de mañana, dejáselas al mañana.",
+      "quote": null
+    },
+    "waiting": {
+      "text": "En la primavera de 1843, en la iglesia, Regine Olsen le hizo un gesto con la cabeza a Kierkegaard, y durante mucho tiempo él vivió de ese gesto, esperando a ver qué vendría. Esperar una respuesta, unos resultados o una noticia estira el tiempo, y cuesta encontrar tu lugar en él. Kierkegaard escribió uno de sus primeros discursos edificantes sobre «Ganar el alma en la paciencia». Su pensamiento es inesperado: la paciencia no solo te ayuda a atravesar la espera; en ella una persona se gana a sí misma. Cuando no podemos acelerar nada, lo único que queda es cómo nos relacionamos con la espera, y justamente ahí el yo se hace visible. Así que el tiempo de espera no es un hueco vacío, sino tiempo que también pertenece a tu vida. Kierkegaard no exigía serenidad. Los nervios van a seguir, pero podés preguntarte: ¿quién quiero ser mientras espero? Esa pregunta te devuelve algo de lo que la espera parece quitarte.",
+      "practice": "Sentate cómodo y durante diez respiraciones simplemente esperá, sin acelerar nada. En cada exhalación preguntate: «¿Quién quiero ser mientras espero?». Kierkegaard lo llamaría ganar el alma en la paciencia.",
+      "quote": null
+    },
+    "regret": {
+      "text": "Kierkegaard nunca supo si había hecho bien en romper su compromiso, y volvió sobre esa decisión toda su vida. El arrepentimiento puede ser muy persistente: por lo que hiciste y por lo que no. En «O lo uno o lo otro», por boca de su héroe esteta, Kierkegaard mostró con ironía que el arrepentimiento acecha elijas lo que elijas: casate, y te vas a arrepentir; no te cases, y también te vas a arrepentir. Suena sombrío, pero saca parte del peso: nunca hubo un camino libre de arrepentimiento. Y en la segunda parte del libro, el juez Wilhelm propone otra respuesta: elegirte a vos mismo por entero, pasado incluido. Para Kierkegaard, quien acepta su historia no la borra ni se castiga por ella, sino que reconoce: esto también soy yo, y sigo con esto. De ahí se sigue que el arrepentimiento no es un veredicto, sino parte del material con el que seguís llegando a ser vos mismo.",
+      "practice": "Decí en voz alta: «Esto también es parte de mi historia, y por eso sé que…», y completalo. El juez Wilhelm lo llamaría elegirte a vos mismo junto con tu pasado.",
+      "quote": {
+        "text": "Cásate, y te arrepentirás; no te cases, y también te arrepentirás; cásate o no te cases, te arrepentirás de las dos cosas.",
+        "author": "Søren Kierkegaard",
+        "source": "O lo uno o lo otro, parte I, «Diapsalmata» (1843)"
+      }
+    },
+    "longing": {
+      "text": "Cuando se cruzaba con Regine, ya casada, por las calles de Copenhague, Kierkegaard nunca le hablaba, y según cuentan planeaba sus caminatas para verla aunque fuera de lejos. Cuando extrañás a una persona en particular, algo te tira hacia lo que fue. En «La repetición», Kierkegaard distinguía dos maneras de estar unido a lo perdido: el recuerdo y la repetición. El recuerdo mira hacia atrás y guarda el pasado como fue; la repetición es el mismo movimiento, pero hacia adelante: lo querido puede volver a estar vivo en el presente, aunque sea con otra forma. En «O lo uno o lo otro» describió a «el más desdichado», alguien que vive solo en el recuerdo y por eso está ausente de su propia vida. Dicho de otro modo, no hace falta echar a tu extrañar: habla de amor. Pero podés preguntarte qué de lo que esta persona te dio puede vivir también ahora en vos: en un hábito, una palabra, una manera de mirar el mundo.",
+      "practice": "Nombrá una cosa que tomaste de esta persona o que viviste con ella. Hacé hoy algo en ese espíritu: Kierkegaard lo llamaría repetición, no recuerdo.",
+      "quote": {
+        "text": "La repetición y el recuerdo son el mismo movimiento, solo que en dirección opuesta.",
+        "author": "Søren Kierkegaard",
+        "source": "La repetición (1843)"
+      }
+    },
+    "world_pain": {
+      "text": "1848: revoluciones por toda Europa, una guerra en la propia Dinamarca, y Kierkegaard escribe sobre «el prójimo» y «el individuo singular». El dolor por el mundo puede crecer hasta un tamaño con el que no se puede vivir. Kierkegaard pensó casi siempre en el individuo singular, y eso acá ayuda de una manera inesperada. En «Las obras del amor» insistía en que el amor no se dirige a la humanidad en general, sino al «prójimo»: la persona concreta que tenés al lado. Si lo pensás hasta el fondo, el dolor por el mundo entero de una vez es casi insoportable, porque «el mundo» es una abstracción, y vos sos una persona concreta. La compasión no tiene que abarcarlo todo. Se vuelve real cuando encuentra una cara, una tarea, un acto. Tu sensibilidad no es un error. Pero podés llevarla a escala humana: la escala del prójimo, no la del planeta entero.",
+      "practice": "Nombrá a una persona concreta, cercana o lejana, a la que puedas ayudar hoy o simplemente dedicarle atención, y hacelo. Kierkegaard diría que así la compasión encuentra su cara.",
+      "quote": null
+    },
+    "rejection": {
+      "text": "Libros ridiculizados, profesores indiferentes, el obispo Mynster, que nunca lo tomó en serio: a Kierkegaard lo rechazaron más de una vez. El rechazo duele, y ese dolor no es exagerado. En «La enfermedad mortal», Kierkegaard da el ejemplo de una chica que perdió a su amado. Señala que no se desespera solo por él, sino por sí misma: por el yo que quería ganar en su amor, y que ahora le resulta insoportable. Entonces el rechazo hiere tan hondo porque ponemos nuestro yo en la elección de otro. Kierkegaard no negaba ese dolor. Pero su respuesta es que el yo no puede fundarse en la decisión de otra persona: tiene raíces más hondas, en tu propia relación con vos mismo. Un rechazo te quita la esperanza de un futuro en particular, pero no puede quitarte a vos de vos.",
+      "practice": "Decí en voz alta: «Con esta persona, esperaba llegar a ser…», y completalo. Después nombrá qué de eso podés llegar a ser sin ella: tu yo, diría Kierkegaard, tiene raíces más hondas que la elección de otro.",
+      "quote": null
+    },
+    "abandonment": {
+      "text": "¿Cómo se vive con lo que podría pasar pero todavía no pasó? Esa es la pregunta central de «El concepto de la angustia» de Kierkegaard. El miedo a que te abandonen puede ser un fondo casi constante, y eso es muy difícil. Allí escribió que la angustia, a diferencia del miedo, no apunta a una amenaza concreta, sino a la posibilidad: a lo que podría pasar. Por eso cuesta tanto calmarla con argumentos: ahora todo está bien, pero la posibilidad de la pérdida sigue ahí. Kierkegaard, inesperadamente, veía la angustia como una maestra. Creía que la angustia, si no huís de ella, nos enseña nuestra libertad y nuestro vínculo con lo que queremos. Esto quiere decir que tu miedo no es debilidad, sino señal de cuánto significan para vos las personas cercanas. No hay por qué avergonzarse. Podés aprender a convivir con él: notarlo, nombrarlo y no dejar que decida él solo qué es verdad.",
+      "practice": "Cuando suba el miedo, nombralo en voz alta con la distinción de Kierkegaard: «Esto es miedo a una posibilidad, no un hecho». Después tocá una cosa que esté de verdad acá, al lado tuyo, ahora.",
+      "quote": {
+        "text": "Quien ha aprendido a angustiarse de la manera correcta ha aprendido lo supremo.",
+        "author": "Søren Kierkegaard",
+        "source": "El concepto de la angustia, cap. V (1844)"
+      }
+    },
+    "unrequited": {
+      "text": "Un joven enamorado de una princesa: esta es una de las parábolas más tiernas de Kierkegaard, escrita por un hombre que había renunciado él mismo a la mujer que amaba. Un amor sin respuesta es uno de los dolores más solitarios. En «Temor y temblor», Kierkegaard contó la parábola de un joven enamorado de una princesa que está fuera de su alcance. El joven no renuncia a su amor ni intenta olvidarlo fingiendo que fue una tontería. Hace lo que Kierkegaard llamó «resignación infinita»: renuncia a reclamar que se cumpla, pero conserva el amor mismo como parte de su vida. Kierkegaard escribe que ese amor sigue siendo eternamente joven en él. En términos de Kierkegaard, tu amor no fue un error, y no tiene que desaparecer para que sigas viviendo. Podés soltar la espera de una respuesta sin traicionar lo que sentiste. Es un movimiento difícil, y lleva tiempo.",
+      "practice": "Decite en voz alta: «Puedo guardar este amor sin esperar una respuesta». Kierkegaard lo llamaría resignación infinita: fijate qué responde en vos al decirlo.",
+      "quote": null
+    },
+    "humiliation": {
+      "text": "Kierkegaard mismo desafió a un periódico satírico, y perdió: durante un año entero toda la ciudad se rio de él. La humillación hiere hondo, y él lo sabía por experiencia propia. En 1846 el periódico satírico «El Corsario» empezó a burlarse de él: publicaba caricaturas, ridiculizaba su manera de caminar y hasta las piernas desparejas de su pantalón. Por las calles de Copenhague, los chicos se reían de él. Kierkegaard lo vivió muy mal, pero fue justamente entonces cuando formuló con especial claridad la idea del «individuo singular»: la persona separada que no se disuelve en el juicio de la multitud. Tal como él lo entendía, la risa del público no puede determinar quién es realmente una persona. Visto así, tu dolor es real, pero la humillación es lo que otros te hicieron, no lo que vos llegaste a ser. La dignidad del yo está más hondo de lo que cualquier burla puede alcanzar.",
+      "practice": "Caminá despacio, con la espalda derecha, como Kierkegaard siguió caminando por las calles donde se reían de él. En cada paso, nombrá en silencio una cosa tuya que sigue intacta.",
+      "quote": null
+    },
+    "body_shame": {
+      "text": "Encorvado, con la espalda torcida y las piernas flacas, Kierkegaard era un blanco favorito de los caricaturistas. Si tu propio cuerpo te parece equivocado desde hace años, es una carga pesada. En «El concepto de la angustia» Kierkegaard escribió que el ser humano es una síntesis de alma y cuerpo, unidos por el espíritu, es decir, por una relación viva con uno mismo. El cuerpo acá no es un apéndice ni un error, sino parte de quien sos. En «La enfermedad mortal» describió una desesperación en la que una persona no quiere ser ella misma y sueña con volverse otra, como quien se cambia de ropa. Bajo esta luz, la vergüenza por tu cuerpo puede ser una forma de esa negativa: un rechazo de tu «necesidad», de lo dado y no elegido. Kierkegaard no veía la salida en amarlo todo de golpe, sino en consentir ser vos mismo, esta persona, en este cuerpo, y seguir desde ahí.",
+      "practice": "Apoyá la palma en el pecho y decí en silencio: «Este es mi cuerpo, y también soy yo». No evalúes: solo sentí el calor de la palma y la respiración debajo.",
+      "quote": null
+    },
+    "illness": {
+      "text": "¿Qué sigue siendo tuyo cuando el cuerpo ya no obedece? Kierkegaard no se lo preguntaba en abstracto. Cuando el cuerpo te falla, el mundo se achica, y eso puede dar bronca, miedo y agotamiento. Kierkegaard tuvo una salud frágil toda su vida, y en sus diarios escribía sobre su «aguijón en la carne», la expresión del apóstol Pablo para un sufrimiento que no se va. Le dedicó a esa imagen uno de sus discursos edificantes. Kierkegaard no fingía que ese aguijón fuera bueno o útil. Pero su filosofía sugiere que el yo no es solo un cuerpo, sino una relación que se relaciona consigo misma. La enfermedad te limita, pero la manera en que te relacionás con ella, y con vos mismo dentro de ella, sigue siendo tuya. Así que no tenés que exigirte heroísmo ni fingir que estás bien. Alcanza con seguir siendo vos dentro de lo que hoy es posible.",
+      "practice": "Decí: «Incluso ahora sigo siendo una persona que…», y nombrá un rasgo que la enfermedad no te quitó. Repetí la frase una vez más, más despacio.",
+      "quote": null
+    },
+    "pride": {
+      "text": "Kierkegaard quería solo dos palabras en su lápida: «Ese individuo». El orgullo por lo que hiciste es un sentimiento alegre y bien ganado. Kierkegaard nos invitaba a ver en él lo que lo vuelve realmente sano. Para él, la tarea principal de una persona era llegar a ser sí misma; es decir, no solo obtener un resultado, sino elegir y llevar a cabo algo como acto propio. El juez Wilhelm, en «O lo uno o lo otro», describe la vida ética como una vida en la que uno responde por lo que hace. De ahí se sigue que el mejor orgullo no es superioridad sobre los demás, sino la alegría de haber actuado de verdad y de haber llegado a ser un poco más vos. Un orgullo así no necesita compararse ni esconderse. Podés simplemente vivirlo como un momento en que el yo coincide con su obra.",
+      "practice": "Quedate un minuto en silencio y recordá una elección que hiciste en el camino hacia este resultado. Decite: «Esa fue mi decisión», y fijate cómo se siente coincidir con tu obra.",
+      "quote": null
+    },
+    "melancholy": {
+      "text": "Kierkegaard escribió en su diario que desde chico estaba preso de una honda melancolía y que había aprendido a esconderla detrás de la alegría. La tristeza suave es un estado tranquilo en el que la pena se siente casi como de la familia. Kierkegaard la conocía como pocos: toda su vida se llamó a sí mismo melancólico, y en los «Diapsalmata» de «O lo uno o lo otro» su esteta habla de su pena como de un refugio seguro. Kierkegaard veía en la melancolía hondura y sensibilidad, una capacidad de escuchar lo que se pierde en el ajetreo. Pero en la segunda parte del mismo libro, el juez Wilhelm objeta con suavidad: la melancolía puede volverse un lugar donde uno se esconde de la elección. Las dos voces valen. Dicho de otro modo, podés permitirte quedarte en esta tristeza sin apurarte a echarla, y fijarte si te está llamando hacia algo. La melancolía puede ser a la vez una casa y una puerta.",
+      "practice": "Escribile a tu melancolía una carta corta con seudónimo, como haría Kierkegaard, y preguntale: «¿De qué se trata?». La respuesta puede ser una sola palabra.",
+      "quote": {
+        "text": "Mi pena es mi castillo señorial.",
+        "author": "Søren Kierkegaard",
+        "source": "O lo uno o lo otro, parte I, «Diapsalmata» (1843)"
+      }
+    }
+  }
+}

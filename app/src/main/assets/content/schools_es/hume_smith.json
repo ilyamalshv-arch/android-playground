@@ -1,0 +1,407 @@
+{
+  "id": "hume_smith",
+  "title": "Hume y Smith",
+  "tradition": "La Ilustración escocesa",
+  "family": "early_modern",
+  "period": "siglo XVIII",
+  "sortYear": 1740,
+  "thinkers": [
+    "David Hume",
+    "Adam Smith"
+  ],
+  "keyWorks": [
+    "D. Hume, «Tratado de la naturaleza humana» (1739–1740)",
+    "D. Hume, «Investigación sobre el entendimiento humano» (1748)",
+    "A. Smith, «La teoría de los sentimientos morales» (1759)"
+  ],
+  "summary": "Hume y Smith fueron amigos y las figuras principales de la Ilustración escocesa del siglo XVIII. Estudiaron al ser humano como parte de la naturaleza, apoyándose en la observación, y llegaron a la conclusión de que nuestra vida está gobernada mucho más por los sentimientos y los hábitos que por la razón pura, y de que la moral nace de la capacidad de las personas de responder a los sentimientos de los demás.",
+  "onEmotions": "Hume sostenía que son los sentimientos (las «pasiones») los que fijan nuestros fines, mientras que la razón solo ayuda a encontrar el camino hacia ellos: la llamó, en una frase célebre, «esclava de las pasiones». Distinguía las pasiones violentas de las tranquilas y mostró cómo los sentimientos pasan de una persona a otra a través de la «simpatía», nuestra capacidad de contagiarnos del estado ajeno. Adam Smith desarrolló esta idea: todo el tiempo nos imaginamos en el lugar de los demás y nos vemos a través de sus ojos. Así se forma en nosotros el «espectador imparcial», una mirada interior justa y amable que nos ayuda a poner nuestros sentimientos en proporción sin reprimirlos.",
+  "entries": {
+    "anxiety": {
+      "text": "«Sé filósofo, pero en medio de toda tu filosofía, sé también un hombre», aconsejaba Hume. La ansiedad es una respuesta muy humana a la incertidumbre, y los escoceses la explicaban sin reproches. Hume escribió que la esperanza y el miedo nacen de la incertidumbre: cuando la imaginación vacila entre un resultado bueno y uno malo, la mente oscila entre la alegría y la pena, y de esos sentimientos mezclados surge la inquietud. Eso quiere decir que la ansiedad no es un error de pensamiento sino el trabajo de una imaginación que ve con honestidad varias posibilidades. Hume distinguía además las pasiones «violentas» de las «tranquilas»: las tranquilas se notan menos, pero a veces moldean nuestros actos con más fuerza. Así que no hace falta que intentes espantar una ansiedad tormentosa; en cambio, podés notar los sentimientos y valores serenos y firmes que están a su lado: también están en vos, y también le dan forma a tu vida.",
+      "practice": "Una afinación humeana: poné una mano en el pecho y, debajo de la ansiedad ruidosa, buscá una «pasión tranquila»: el cariño por alguien, las ganas de vivir con honestidad. Nombrala en voz alta y quedate con ella durante tres respiraciones.",
+      "quote": null
+    },
+    "fear": {
+      "text": "Un hombre cuelga sobre un precipicio dentro de una sólida jaula de hierro y tiembla, aunque sabe perfectamente que no se va a caer: Hume dibujó esta escena para mostrar que el miedo no tiene por qué obedecer a los argumentos. La imaginación y el hábito son más fuertes que el conocimiento abstracto. Hume mostró que los sentimientos no se derivan del razonamiento y que no se los puede quitar directamente con él. Eso te libera del reproche inútil de «pero si sé que no hay nada que temer». Podés saberlo y aun así tener miedo; así estamos hechos los seres humanos. Adam Smith agregó que el coraje no es la ausencia de miedo sino el «dominio de sí»: la capacidad de, aun sintiendo miedo, actuar en la proporción debida, apoyándose en un espectador interior tranquilo.",
+      "practice": "Imaginá a una persona tranquila y amable que te mira desde un costado, como el espectador imparcial de Smith. ¿Qué te sugeriría hacer en los próximos cinco minutos?",
+      "quote": null
+    },
+    "sadness": {
+      "text": "Cuando le contamos a un amigo nuestra pena, parece que la volvemos a vivir, y sin embargo se vuelve más liviana: Adam Smith examina esta paradoja al principio mismo de su libro sobre los sentimientos morales. La tristeza es un sentimiento legítimo, y lo que más le interesaba era cómo llevarla. La simpatía de otra persona suaviza el dolor, porque empezamos a ver nuestro problema en parte a través de sus ojos, con un poco más de calma. Hume llamaba a esta capacidad «simpatía»: los sentimientos pasan naturalmente de una persona a otra. La conclusión es simple: la tristeza no tiene por qué cargarse sola y en silencio. Compartirla no es cargar a los demás; es dejar que haga su trabajo un mecanismo de consuelo antiguo y natural, el mismo sobre el que, según los escoceses, descansa toda la vida humana.",
+      "practice": "Decile a alguien una frase sobre tu tristeza —en persona, por teléfono o en un audio— y dejá que simplemente te acompañe, sin consejos. Smith lo llamaría simpatía mutua.",
+      "quote": null
+    },
+    "grief": {
+      "text": "«El tiempo, el gran consolador universal», escribió Adam Smith, y aun así no les exigía apuro a los que están de duelo. Describió con gran sutileza lo que le pasa al duelo entre otras personas. Los que nos rodean, escribió, no pueden sentir nuestra pérdida con la misma intensidad que nosotros; por eso, en su compañía, suavizamos sin querer un poco la expresión de nuestro dolor, y eso nos calma un poco también a nosotros. A solas, sentimos el duelo con toda su fuerza. Los dos estados son naturales: la necesidad de llorarlo a solas y el alivio de tener gente cerca. Smith creía además que una pena especialmente profunda despierta en la gente una simpatía profunda. El duelo no tiene que ser «proporcionado» a las expectativas de nadie. Simplemente necesita tiempo y, cuando se puede, gente cerca.",
+      "practice": "Preguntate qué te está pidiendo el duelo ahora —soledad o la presencia de alguien— y dáselo sin excusas: cerrá la puerta, o pedile a alguien que se siente a tu lado en silencio.",
+      "quote": null
+    },
+    "loneliness": {
+      "text": "Una persona criada en completa soledad, escribió Smith, no podría pensar en su propio carácter, igual que no podría pensar en la belleza de su propia cara: no tendría espejo. La soledad duele porque somos criaturas profundamente sociales. Hume escribió que la soledad total es quizá el mayor castigo que puede sufrir una persona, ya que casi todas nuestras pasiones cobran vida solo en relación con otros. Según Smith, necesitamos todo el tiempo «simpatía mutua»: alguien con quien compartir lo que sentimos. Sin ella, la alegría se apaga y la pena pesa más. No es un capricho; es la naturaleza humana misma, tal como la describieron observadores sobrios. Esta mirada le saca la vergüenza a la soledad: simplemente te falta algo que necesitamos todos. Y te recuerda que hasta un pequeño gesto de sentimiento compartido importa.",
+      "practice": "Buscate el «espejo» de Smith para hoy: un encuentro breve y en vivo, una charla con un vecino, un llamado, unas palabras con quien te atiende en el almacén. Fijate qué se despierta en vos cuando un sentimiento se comparte.",
+      "quote": {
+        "text": "Nada nos agrada más que observar en otros hombres una simpatía con todas las emociones de nuestro propio pecho.",
+        "author": "Adam Smith",
+        "source": "La teoría de los sentimientos morales, parte I, secc. I, cap. 2"
+      }
+    },
+    "anger": {
+      "text": "«Se vuelve despreciable quien se queda quieto y se somete mansamente a los insultos», escribió Smith, un moralista al que no le gustaban precisamente las peleas. Para él, el enojo es un sentimiento natural con un papel importante. Lo llamaba «resentimiento» y creía que la naturaleza nos lo dio para protegernos: resguarda la justicia y evita que nos dañen impunemente. Al mismo tiempo, Smith señalaba que el enojo pertenece a las pasiones «insociables»: a los demás les cuesta compartirlo hasta que entienden qué pasó. Por eso proponía mirar la situación con los ojos del «espectador imparcial», alguien que lo sabe todo pero no tiene nada en juego en que gane uno u otro. Si ese espectador estaría de acuerdo en que te trataron mal, tu enojo es legítimo. Esta mirada te ayuda no a renunciar a tu enojo, sino a encontrar su justa medida.",
+      "practice": "Armá un tribunal smithiano de un minuto: imaginá a un testigo imparcial que vio toda la escena. Preguntale: ¿qué respuesta sería proporcionada, ni más ni menos que la ofensa?",
+      "quote": null
+    },
+    "shame": {
+      "text": "Hume puso dos pasiones una al lado de la otra: el orgullo y la «humildad», es decir, la vergüenza; las dos miran a nuestro yo y en buena medida reflejan, como un espejo, la opinión de los demás. Ahora el espejo te está mostrando algo desagradable, y eso duele. Adam Smith agregó una precisión importante: no solo queremos aprobación, sino también ser dignos de ella. Por eso la vergüenza ante la multitud y la vergüenza ante el espectador imparcial interior son cosas distintas. La primera puede ser injusta; la segunda es más honesta y más amable. Preguntate: una persona justa y amable que conociera todas las circunstancias, ¿me condenaría? Muchas veces la respuesta resulta más suave que la voz de la vergüenza.",
+      "practice": "Mudá la vergüenza de «la multitud» al «hombre dentro del pecho»: imaginá a un testigo que conoce cada circunstancia y te quiere bien, y preguntate con qué palabra describiría aquello que te avergüenza.",
+      "quote": {
+        "text": "El hombre desea naturalmente no solo ser amado, sino ser digno de amor.",
+        "author": "Adam Smith",
+        "source": "La teoría de los sentimientos morales, parte III, cap. 2"
+      }
+    },
+    "guilt": {
+      "text": "«El hombre dentro del pecho, el gran juez y árbitro de nuestra conducta»: así llamaba Adam Smith al espectador imparcial interior, y parece que ahora está hablando en vos. La culpa muestra que te importa actuar bien, y Smith respetaba profundamente este sentimiento. Pero notó también una sutileza importante: muchas veces nos sentimos culpables incluso por lo que pasó por accidente, sin ninguna mala intención, simplemente porque resultamos ser la causa de la desgracia de otro. Consideraba ese sentimiento natural y, a su manera, noble, pero subrayaba que un espectador justo juzga sobre todo por las intenciones, no por los resultados del azar. Por eso vale la pena revisar la culpa: ¿qué dependía acá de verdad de mi voluntad, y qué de las circunstancias? Esta pregunta no borra la responsabilidad, pero la vuelve honesta.",
+      "practice": "Una clasificación smithiana en las palmas: en la mano derecha, poné mentalmente lo que dependió de tus intenciones y decisiones; en la izquierda, el azar y las circunstancias. Sostené las dos y sentí cuál pesa más.",
+      "quote": null
+    },
+    "envy": {
+      "text": "Un soldado raso no envidia al general sino a su sargento, y un escritor no envidia a un filósofo sino a otro escritor: así mostraba Hume que la envidia no la despierta la gran diferencia sino la cercanía. No juzgamos las cosas en sí mismas sino por comparación, y el mismo bien parece grande o chico según con qué lo pongamos al lado. Si ahora te pica la envidia, vale la pena recordarlo. Esta observación te ayuda a ver que la envidia es obra de una imaginación «comparadora», no una evaluación objetiva de tu vida. Podés notarla sin vergüenza y preguntarte: ¿con quién me estoy comparando ahora, y por qué?",
+      "practice": "Cambiá el punto de comparación, como podría sugerir Hume: poné a tu lado no al «sargento» sino a vos mismo hace un año. Tomate un minuto para recordar qué cambió, creció o se volvió más fácil desde entonces.",
+      "quote": null
+    },
+    "emptiness": {
+      "text": "En la primavera de 1734, el joven Hume le escribió una larga carta a un médico: después de meses de estudio intenso, su antiguo ardor se había apagado, sus pensamientos se habían enfriado y le costaba hacer cualquier cosa. Conocía el vacío y la apatía desde adentro. Lo que lo ayudó, según él mismo contó, no fue un esfuerzo de voluntad sino una vuelta gradual a una vida regular, al movimiento y a la compañía de la gente. Esto encaja con su filosofía: la razón por sí sola no puede hacernos querer nada; el deseo y el movimiento nacen de los sentimientos. La apatía, entonces, no es una falla de la voluntad ni «vagancia», sino un apagón pasajero de las pasiones. No se las puede volver a encender por orden, pero podés crear las condiciones para que de a poco vuelvan a la vida.",
+      "practice": "La receta del propio Hume: caminá diez minutos a paso parejo —alcanza con dar vueltas por el patio o por la habitación— sin esperar de vos ningún sentimiento. Para Hume, a veces el movimiento llega antes que el deseo.",
+      "quote": {
+        "text": "La razón es, y solo debe ser, esclava de las pasiones, y no puede pretender otro oficio que el de servirlas y obedecerlas.",
+        "author": "David Hume",
+        "source": "Tratado de la naturaleza humana, libro II, parte 3, secc. 3"
+      }
+    },
+    "confusion": {
+      "text": "Un marinero que apenas se salvó de un naufragio vuelve a hacerse a la mar en el mismo bote agujereado y castigado por el tiempo: así se veía Hume al final del primer libro del «Tratado». Hasta las mentes más grandes conocen la confusión. Ahí también la describió: después de llevar sus dudas al límite, se sintió perdido, rodeado por todos lados de preguntas sin respuesta. La salida, admitió, no vino de una teoría nueva. Cenó, jugó una partida de backgammon, charló y se rió con sus amigos, y después de unas horas sus dudas atormentadoras le parecieron lejanas. Hume no lo consideraba una fuga: la naturaleza misma nos devuelve a la vida, y podemos volver a las preguntas difíciles más tarde, con fuerzas nuevas. Tu confusión no exige una solución inmediata. A veces lo mejor que podés hacer es darte un respiro en las cosas simples y humanas.",
+      "practice": "Hacé como Hume: dejá la pregunta de lado por esta noche y jugá a algo —cartas, un juego de mesa, hasta un ta-te-ti con quien tengas cerca—. Después volvé a mirar la pregunta.",
+      "quote": {
+        "text": "Sé filósofo; pero, en medio de toda tu filosofía, sigue siendo un hombre.",
+        "author": "David Hume",
+        "source": "Investigación sobre el entendimiento humano, secc. I"
+      }
+    },
+    "fatigue": {
+      "text": "«El hijo del pobre, a quien el cielo en su ira ha castigado con la ambición»: así empieza Adam Smith una de sus parábolas más amargas. Tu cansancio es real, y la parábola habla de él. Desde chico, este joven se siente atraído por la riqueza y el reconocimiento. Toda su vida trabaja sin descanso, sacrificando una tranquilidad que estaba a su alcance desde el principio, y solo cerca del final se da cuenta de que mucho de lo que perseguía valía menos que la paz que perdió. Smith no condena el deseo de una vida mejor; solo señala que la felicidad depende de la tranquilidad más de lo que creemos. Tu cansancio, entonces, es una voz honesta que te recuerda el descanso. Descansar no es tiempo perdido sino volver a aquello sin lo cual la alegría es imposible.",
+      "practice": "Date lo que el hijo del pobre de Smith postergó toda la vida: quince minutos de tranquilidad ahora mismo. Acostate, cerrá los ojos, no logres nada.",
+      "quote": {
+        "text": "La felicidad consiste en la tranquilidad y el disfrute. Sin tranquilidad no puede haber disfrute.",
+        "author": "Adam Smith",
+        "source": "La teoría de los sentimientos morales, parte III, cap. 3"
+      }
+    },
+    "boredom": {
+      "text": "Un juego de cartas sin apuesta es aburrido, observaba Hume, no por codicia, sino porque la mente no tiene nada que la avive. El aburrimiento es natural, y él lo explicaba por cómo funciona la mente humana. Para Hume, la mente se siente atraída por las impresiones vivas: por todo lo que la anima y la pone en movimiento, un juego, una conversación, una tarea nueva o incluso la historia de otro. Cuando faltan esas impresiones, la mente se vuelve lenta, y eso se siente como aburrimiento. Así que el aburrimiento no es señal de que algo ande mal en vos, sino del hambre de vida que tiene la mente. Hume subrayaba también el papel de la compañía: los sentimientos de la gente pasan de unos a otros por la «simpatía», y en compañía hasta las cosas comunes se vuelven más vivas. Podés tomar el aburrimiento como una señal: te falta contacto vivo con el mundo.",
+      "practice": "Dale a tu mente una pequeña «apuesta»: ponete una tarea lúdica de cinco minutos: encontrá siete cosas azules en la habitación, adiviná cuántos pasos hay hasta la ventana y después comprobalo.",
+      "quote": null
+    },
+    "joy": {
+      "text": "«Por más egoísta que se suponga al hombre, hay evidentemente en su naturaleza algunos principios que lo hacen interesarse por la suerte de los otros»: así empieza el libro de Adam Smith sobre los sentimientos morales. Por eso la alegría pide ser compartida. Hume mostró que, a través de la «simpatía», los sentimientos pasan de una persona a otra y se fortalecen en el camino: la alegría que vemos en otro nos anima también a nosotros. Así que la alegría compartida no se achica sino que crece. Tu alegría no es solo asunto tuyo; según Hume y Smith, se contagia naturalmente a quienes te rodean y vuelve más cálida la vida en común. Permitite sentirla del todo y, si tenés ganas, compartila con alguien.",
+      "practice": "Compartí la alegría con una persona —llamala o contáselo en persona— y fijate cómo, como decía Hume, te vuelve más fuerte, reflejada en su cara.",
+      "quote": {
+        "text": "Por más egoísta que se pueda suponer al hombre, existen evidentemente en su naturaleza algunos principios que lo hacen interesarse por la suerte de otros y hacen que la felicidad de estos le resulte necesaria, aunque no derive de ella nada más que el placer de contemplarla.",
+        "author": "Adam Smith",
+        "source": "La teoría de los sentimientos morales, parte I, secc. I, cap. 1"
+      }
+    },
+    "love": {
+      "text": "En los salones de París a Hume lo llamaban con cariño «le bon David», el buen David, y sabía ser un amigo tierno. Consideraba el amor y la ternura entre los sentimientos humanos más naturales. Hume describió el amor como una pasión dirigida a otra persona y despertada por sus cualidades: la bondad, la inteligencia, la belleza, la cercanía con nosotros. Mostró cómo el amor nace de la proximidad, el hábito y la simpatía, es decir, cómo crece desde la trama misma de la vida compartida. Adam Smith agregó que la ternura, la bondad y el afecto son sentimientos «sociales»: a la gente le resulta fácil y agradable compartirlos, por eso no solo abrigan a quien ama y a quien es amado, sino a todos alrededor. Así que no hace falta esconder la ternura ni vivirla como algo vergonzoso: es uno de los sentimientos que mantienen unida a la sociedad humana.",
+      "practice": "Hacé un pequeño gesto «social», como diría Smith: decile a esa persona cuál de sus cualidades te despierta más ternura.",
+      "quote": null
+    },
+    "gratitude": {
+      "text": "«El nunca olvidado doctor Hutcheson»: así hablaba Adam Smith, casi medio siglo después, de su profesor de la universidad. La gratitud es un sentimiento cálido y natural, y Smith la conocía desde adentro. La describió como una pasión que nos impulsa directamente a devolver el bien a quien nos lo hizo. La veía como lo opuesto al resentimiento: así como el resentimiento resguarda la justicia, la gratitud sostiene la buena voluntad entre las personas. Smith señalaba que no solo nos importa corresponder a un benefactor, sino también que sepa que su bondad fue notada. Hume, por su parte, veía la gratitud como una expresión de la simpatía: respondemos al cuidado que sentimos. La gratitud, entonces, no es una obligación sino una de las maneras naturales en que las personas se unen entre sí. Podés simplemente vivirla y, si querés, expresarla.",
+      "practice": "Hacé lo que Smith consideraba importante: hacele saber a tu benefactor que su bondad fue notada, en una frase, por mensaje o en persona, aunque hayan pasado muchos años.",
+      "quote": null
+    },
+    "hope": {
+      "text": "¿Cómo sabemos que el sol va a salir mañana?, preguntaba Hume, y respondía con honestidad: solo por la costumbre y la experiencia. La esperanza vive en ese mismo suelo, y él describió su mecánica con mucha precisión. Escribió que la esperanza surge cuando la imaginación, vacilando entre distintos resultados, se inclina hacia el bueno. Siempre tiene una cuota de incertidumbre; por eso vive pared de por medio con el miedo. Pero eso no la vuelve ingenua: para Hume, todas nuestras expectativas descansan en el hábito y la experiencia, no en una certeza absoluta, y así vive todo el mundo. Así que podés aceptar con calma que tu esperanza no está garantizada: así es cualquier mirada al futuro. Y aun así ya le está dando forma a tu vida ahora: te da fuerzas y le da color al día. Podés cuidarla sin exigirle promesas.",
+      "practice": "Al atardecer o mañana a la mañana, mirá el sol como un argumento humeano: no garantiza nada, y sin embargo sigue volviendo. Recordá una vez en que pasó algo bueno a pesar de tu incertidumbre.",
+      "quote": null
+    },
+    "nostalgia": {
+      "text": "Después de largos años en Londres y París, Hume volvió a su Edimburgo natal: a los viejos amigos, las calles conocidas y las cenas. La nostalgia es un sentimiento tierno, un poco triste, y él nos ayuda a entender cómo surge. Describió las leyes de la «asociación de ideas»: un pensamiento llama a otro por semejanza, por contigüidad en el tiempo o el espacio, o por causa y efecto. Por eso un olor, una melodía o una calle pueden llevarnos de golpe al pasado. Hume señaló también que los recuerdos son solo «copias más débiles» de impresiones vivas: se parecen al pasado pero les falta todo su brillo. De ahí la suavidad y la tristeza particulares de la nostalgia: buscamos lo que recordamos pero no podemos volver a vivir. No tiene nada de malo. La nostalgia muestra qué impresiones te dejaron una huella profunda, es decir, qué es lo que de verdad querés.",
+      "practice": "Seguí en vivo una cadena humeana de asociaciones: poné una canción o buscá un olor de aquella época y, durante un minuto, simplemente observá qué recuerdo llega primero y qué sentimiento viene después.",
+      "quote": null
+    },
+    "craving": {
+      "text": "Hume construyó una teoría del gobierno sobre una debilidad humana: preferimos el bien cercano al lejano. Explicaría un «lo quiero ya» filoso sin reproches. Notó un patrón que cualquiera puede confirmar: lo que está cerca en el tiempo y en el espacio actúa sobre nuestras pasiones con mucha más fuerza que lo lejano. Por eso la gente prefiere tan seguido un bien chico ahora a uno más grande después. No es estupidez; es cómo funciona la imaginación. Hume distinguía además las pasiones «violentas» de las «tranquilas», y llamaba «fortaleza de espíritu» a la capacidad de las tranquilas de imponerse con el tiempo a las violentas. Un antojo es una pasión violenta: sube como una ola y, si no se la alimenta, baja. Debajo viven tus deseos tranquilos, de largo plazo, y podés darles un poco de tiempo para que su voz se escuche mejor.",
+      "practice": "Convocá una «pasión tranquila»: mientras la ola del antojo sube y baja, respirá despacio y sostené en la mente un deseo de largo plazo: la salud, un vínculo, la cabeza clara a la mañana. La ola va a pasar; el deseo se va a quedar.",
+      "quote": null
+    },
+    "addiction": {
+      "text": "«La costumbre es la gran guía de la vida humana», escribió Hume, y describió con sutileza cómo funciona. En su lenguaje, la adicción no es un fracaso moral sino la fuerza del hábito que opera en cada persona. La repetición, escribió, va debilitando el placer que nos da algo, pero al mismo tiempo fortalece nuestra inclinación hacia eso: hacerlo se vuelve más fácil, y dejarlo, más difícil. Muchos que conocen la adicción desde adentro se van a reconocer acá: cada vez menos alegría, y un círculo cada vez más cerrado. Hume no veía en esto un vicio, solo un mecanismo de la naturaleza. Pero en su ensayo «El escéptico» observó también lo contrario: el hábito es uno de los medios más poderosos para cambiar de a poco la mente y las inclinaciones. Lo que se construyó con repetición se puede reconstruir con repetición.",
+      "practice": "Si la costumbre es la guía, dale un recorrido nuevo: elegí una acción mínima —un vaso de agua, tres sentadillas, salir un momento al balcón— y repetila a la hora en que suelen llegar las ganas. Y si querés, buscá un grupo de ayuda mutua (como AA o NA), donde la gente recorre este camino en compañía.",
+      "quote": {
+        "text": "La costumbre es, pues, la gran guía de la vida humana.",
+        "author": "David Hume",
+        "source": "Investigación sobre el entendimiento humano, secc. V, parte I"
+      }
+    },
+    "hangover": {
+      "text": "«¿Quién puede decirme cuáles fueron sus pensamientos el 1 de enero de 1715 o el 11 de marzo de 1719?», preguntaba Hume, reflexionando sobre qué es el «yo». La mañana después de tomar, cuando pesan el cuerpo y el alma y la memoria tiene baches, esta pregunta rara ofrece un apoyo inesperado. ¿Se sigue de haberlo olvidado que entonces no era yo? Nuestra identidad, para Hume, no descansa en una memoria ininterrumpida sino en la conexión de las impresiones: la memoria de todos tiene baches. Adam Smith agregaría: juzgá el día de ayer no con la voz del pánico de la mañana, sino con los ojos de un espectador imparcial que conoce todas las circunstancias y te quiere bien. Lo más probable es que ese espectador sea más suave que tus pensamientos de esta mañana.",
+      "practice": "Posponé el juicio sobre ayer: por ahora, un vaso de agua, algo de comida y descanso. En unas horas, si hace falta, mirá el día de ayer con los ojos de un testigo amable.",
+      "quote": null
+    },
+    "euphoria": {
+      "text": "Hume valoraba un modo de ser que ve el lado luminoso de las cosas más que nacer con una renta de diez mil al año. Seguro que no querría arruinar un estallido vivo de euforia. Consideraba la vivacidad de las impresiones uno de los principales placeres de la mente: todo lo que nos anima es agradable en sí mismo. Notó que la novedad y la sorpresa intensifican especialmente cualquier pasión: un bien repentino parece más grande que uno conocido. Esta idea no le quita valor a tu subidón; explica su brillo. Adam Smith agregó que a la gente le resulta más fácil compartir las alegrías chicas, mientras que un deleite muy grande y repentino es algo que los demás no siempre pueden acompañar enseguida; por eso la euforia a veces puede sentirse solitaria. Podés disfrutar a pleno este estado sin exigir que otros lo compartan con la misma intensidad.",
+      "practice": "Dividí el subidón a la manera de Hume en dos partes: lo que viene de la novedad y lo que viene de algo que de verdad querés. Guardá lo segundo, como una nota en el celular o una palabra dicha a alguien cercano.",
+      "quote": null
+    },
+    "crash": {
+      "text": "Smith juntaba historias de gente que cayó bruscamente desde lo alto, de reyes depuestos a ricos arruinados. El bajón después de un subidón es duro, pero en esas historias Smith encontró un patrón que puede dar un poco de consuelo. Observó que el ánimo de toda persona, tarde o temprano, vuelve a su estado habitual y natural de tranquilidad: después de la buena fortuna, con el tiempo, baja hasta él; después de la desgracia, vuelve a subir. El bajón es parte del mismo movimiento: después de una ola alta, el ánimo vuelve a su nivel, y en el momento de la vuelta eso se siente como una caída. Hume explicaría también lo filoso: juzgamos nuestro estado por comparación, y un día común al lado de una fiesta parece gris. Pero eso también quiere decir que el gris lo crea en parte el contraste. Va a pasar, igual que pasó el subidón.",
+      "practice": "Hacé una cosa simple y habitual que suele asentarte —preparar un té, tender la cama, dar una vuelta a la manzana— y decite en el espíritu de Smith: «No me estoy cayendo; estoy volviendo a mi nivel».",
+      "quote": {
+        "text": "El ánimo de todo hombre, en un plazo más o menos largo, retorna a su estado natural y habitual de tranquilidad. En la prosperidad, al cabo de cierto tiempo, desciende hasta ese estado; en la adversidad, al cabo de cierto tiempo, se eleva hasta él.",
+        "author": "Adam Smith",
+        "source": "La teoría de los sentimientos morales, parte III, cap. 3"
+      }
+    },
+    "panic": {
+      "text": "«La mente es una especie de teatro, donde distintas percepciones se presentan en forma sucesiva; pasan, vuelven a pasar, se desvanecen», escribió Hume. Cuando pega una ola de pánico, el terror se apodera del cuerpo y los pensamientos se aceleran: en ese escenario todo se mueve especialmente rápido. Nada en ese flujo se queda igual, tampoco el terror. Incluso las pasiones más violentas, para Hume, no se quedan quietas: suben y se debilitan. En general, una ola así llega a su pico y baja en pocos minutos. Adam Smith llamaba «dominio de sí» no a la ausencia de miedo sino a la capacidad de atravesarlo sin dejar que decida por vos. Ahora no necesitás decidir nada ni convencerte de nada: alcanza con apoyarte en tu cuerpo y dejar pasar la ola.",
+      "practice": "Sentate en una butaca del teatro de Hume: apretá los pies contra el piso, exhalá más despacio de lo que inhalás y nombrá en silencio cinco cosas que ves y tres sonidos que escuchás, como un espectador que mira cambiar la escena.",
+      "quote": null
+    },
+    "dread": {
+      "text": "¿Por qué mañana tendría que parecerse a ayer? ¿Qué une la causa con el efecto? Las preguntas de Hume marean. La pregunta «¿para qué todo esto?» les llega a las personas que piensan, y él conocía su sabor. Al final del primer libro del «Tratado» describió cómo, después de llevar sus preguntas al límite, se sintió como una criatura extraña y solitaria en medio de la oscuridad. En otra obra confesó que el mundo en su conjunto es un enigma, un misterio que la mente humana no puede resolver. Hume no fingía saber la respuesta. Pero notó que la naturaleza misma nos devuelve a la vida: a la gente, a la conversación, a las tareas de todos los días, y en ellas el sentido se siente, aunque no se lo pueda demostrar. Adam Smith agregaría que el ser humano está hecho para la conexión con otros y encuentra en ella su apoyo. La pregunta «¿para qué?» puede quedar abierta mientras vivís.",
+      "practice": "Dejá que la vida común te traiga de vuelta, como la naturaleza trajo de vuelta a Hume: cociná algo simple o salí adonde haya gente —el almacén, el patio— y cruzá unas palabras con alguien.",
+      "quote": null
+    },
+    "fomo": {
+      "text": "El rey Pirro enumeraba sus conquistas futuras —Italia, Sicilia, Cartago— y después de cada una su consejero Cineas le preguntaba: «¿Y después?». Adam Smith volvió a contar esta historia para todos los que sienten que la vida de verdad está pasando en otro lado sin ellos. «Después», respondió el rey, «viviremos tranquilos y nos alegraremos con nuestros amigos». «¿Y qué te impide hacerlo ahora?», preguntó el consejero. Smith veía acá una trampa común: muchas veces perseguimos algo que ya está a nuestro alcance, solo que con otra forma. Señalaba también que mucho de lo que deseamos no lo queremos por el placer que da sino para ser mirados y notados. El miedo a perderte algo puede ser ese deseo de atención. Preguntate: ¿qué quiero en realidad, y no está ya cerca?",
+      "practice": "Hacete la pregunta de Cineas —«¿Qué me impide hacer esto ahora?»— y hacé hoy una versión chica de lo que tenés miedo de perderte: ver a un amigo, una caminata, una noche con música.",
+      "quote": null
+    },
+    "sleepless": {
+      "text": "De noche, para Hume, las copias empiezan a competir con los originales: las «ideas» pálidas se vuelven casi tan vivas como las «impresiones». Los pensamientos acelerados a las tres de la mañana son un tormento, y él ayuda a explicar por qué todo parece más aterrador de noche. Distinguía las «impresiones» —las sensaciones vivas que recibimos del mundo— de las «ideas», sus copias más pálidas. Normalmente las impresiones son más vivas que las ideas. Pero Hume señaló que en el sueño, en la fiebre o en una gran agitación, las ideas pueden acercarse en fuerza a las impresiones. De noche, cuando hay pocas impresiones y el cuerpo está cansado, los pensamientos y las imágenes inventadas se vuelven casi tan vivos como la realidad. Eso no quiere decir que de noche veas la verdad más clara; en todo caso, lo contrario. A la mañana, con luz y entre gente, esos mismos pensamientos suelen parecer mucho más chicos.",
+      "practice": "Dale a tu cuerpo una «impresión» humeana viva en lugar de ideas: tocá la tela de la frazada, sentí el fresco de la almohada en la mejilla, escuchá tu respiración. Susurrá: «Esto es la intensidad de la noche, no la escala real».",
+      "quote": null
+    },
+    "betrayal": {
+      "text": "Hume ayudó a Rousseau a instalarse en Inglaterra y le consiguió una pensión real, y Rousseau de repente lo acusó de formar parte de un complot contra él. La traición hiere hondo, y Hume no la conocía solo por los libros. Mostró que toda la vida humana en común descansa en la confianza y las promesas: podemos cooperar y ser amigos solo si confiamos en la palabra del otro. Por eso la traición es un golpe no solo a un vínculo, sino al suelo mismo sobre el que nos paramos junto a los demás. Adam Smith consideraba natural y legítimo el resentimiento ante la injusticia si un espectador imparcial que conociera las circunstancias lo compartiría. Lo más probable es que un espectador así te entendiera. Tu dolor no es exagerado: es proporcional a lo que importaba esa confianza. Y la capacidad de volver a confiar va a regresar cuando encuentres gente que la merezca.",
+      "practice": "Salí a caminar y, mientras tanto, contale toda la historia al espectador imparcial imaginario de Smith, por lo bajo, como a un amigo. Al final, preguntale: ¿compartiría mi resentimiento?",
+      "quote": null
+    },
+    "jealousy": {
+      "text": "«Aunque un enamorado pueda ser buena compañía para su amada, no lo es para nadie más», bromeaba Smith. Con los celos es distinto: sus miedos los entiende cualquiera, y duelen de verdad. Hume mostró que juzgamos todo por comparación: la misma cosa parece grande o chica según qué tenga al lado. En los celos, la imaginación nos pone al lado de un rival y empieza a comparar, casi nunca a nuestro favor. Adam Smith observó que el amor en sí suele parecerles incomprensible a los de afuera, pero las angustias y los miedos a perder que lo acompañan los entiende cualquiera al instante. Así que tus celos son un sentimiento muy humano, no algo vergonzoso. Pero ayuda recordar: las imágenes que pinta la imaginación comparadora no son hechos. Preguntate qué sabés en realidad, y qué completó el miedo.",
+      "practice": "Separá lo que sabés de lo que imaginás y elegí una cosa que podrías preguntarle con calma a la persona que querés. Preguntásela —con suavidad, sin acusar— y escuchá la respuesta.",
+      "quote": null
+    },
+    "resentment": {
+      "text": "«El mayor veneno para la felicidad de un espíritu bueno»: así llamaba Adam Smith al odio y al rencor, y aun así entendía de dónde vienen: de verdad te lastimaron. Smith reconocía el resentimiento como una defensa natural de la justicia. Pero notó también otra cosa: la malicia y el rencor pertenecen a las pasiones «insociables»; resultan desagradables sobre todo para quien las lleva, como algo que corta por dentro. Hume agregaría: las ideas se apagan con el tiempo si no se las reaviva, y cada nueva repetición de la escena vieja la vuelve a encender. Un rencor vive tanto en parte porque la memoria lo refresca todo el tiempo. No es un reproche: así funciona la imaginación. Pero también es una esperanza: si de a poco volvés menos seguido a la escena, el sentimiento puede ir debilitándose despacio.",
+      "practice": "Hume diría que una idea se apaga si no se la reaviva. Hoy, simplemente contá —con los dedos o con cuentas— cuántas veces volvés mentalmente a la escena de la herida, sin frenarte.",
+      "quote": null
+    },
+    "heartbreak": {
+      "text": "«La parte principal de la felicidad humana surge de la conciencia de ser amado», escribió Adam Smith. Por eso un corazón roto duele tanto, y él explicó por qué este dolor es tan difícil de compartir. Observó que el amor es una de esas pasiones que a los demás les cuesta sentir con la misma fuerza: desde afuera, el apego a una persona en particular puede parecer desproporcionado. Por eso, cuando te dicen «olvidate, ya vas a encontrar a otra persona», duele el doble. Pero Smith vio también otra cosa: el duelo y la pérdida son cosas que los demás entienden bien, y su simpatía suaviza el dolor. Hume agregaría que todo a tu alrededor —lugares, cosas, canciones— te recuerda a la persona que ya no está, por las leyes de la asociación. No es debilidad tuya; es el trabajo de la memoria. Lo que necesitás es tiempo, y gente que entienda lo que perdiste.",
+      "practice": "Buscá a una persona que pueda escuchar sin dar consejos y pedile, en el espíritu de Smith, pura simpatía: «Ahora solo necesito que me escuches».",
+      "quote": null
+    },
+    "impostor": {
+      "text": "Smith distinguía dos deseos: el de ser elogiado y el de ser digno de elogio. El miedo a que en cualquier momento te descubran dice sorprendentemente mucho sobre el segundo. El síndrome del impostor es justamente la voz del segundo deseo: tenés miedo de estar recibiendo un reconocimiento que no ganaste, lo que quiere decir que merecerlo te importa. Eso solo ya dice mucho de vos. Hume, por su parte, conocía las dudas sobre uno mismo por experiencia propia: su obra principal, el «Tratado de la naturaleza humana», según sus propias palabras «nació muerta de la imprenta». Eso no le impidió convertirse en uno de los filósofos más grandes. Tus dudas no prueban que no pertenecés; muestran lo en serio que te tomás tu trabajo.",
+      "practice": "Pedile a un compañero o a un amigo que conozca tu trabajo que nombre una cosa que hacés bien, y escuchalo sin discutir. Es la voz del «hombre de afuera», que vale la pena contrastar con la del de adentro.",
+      "quote": null
+    },
+    "self_hatred": {
+      "text": "Adam Smith era tan distraído que una vez se cayó en un pozo de curtiembre en plena conversación, y aun así la historia lo recuerda como un gran pensador, no como un torpe. El odio a uno mismo es un sentimiento pesado, y el crítico interno puede sonar como la conciencia. Pero Smith hizo una distinción importante. El «espectador imparcial» interior, para Smith, es justo y amable: conoce todas las circunstancias y juzga con proporción. Sin embargo, reconocía que su voz puede quedar tapada por el ruido de las opiniones ajenas, por humillaciones vividas, por tus propios miedos. Un crítico que solo odia no es el espectador sino una distorsión. Hume fue todavía más lejos: consideraba un mérito el sano respeto por uno mismo, y veía la autohumillación y la mortificación no como virtudes sino como cosas que solo agrian el carácter y endurecen el corazón. Ninguno de los dos estaría de acuerdo con el veredicto que esa voz dicta sobre vos.",
+      "practice": "Decí en voz alta una frase de tu crítico interno y después decí la misma idea con la voz del espectador de Smith, justa y amable. ¿Cómo cambiaron las palabras?",
+      "quote": null
+    },
+    "helplessness": {
+      "text": "Diez obreros de una fábrica de alfileres, cada uno a cargo de un pasito, hacen decenas de miles de alfileres por día: nadie lo hace todo. La impotencia pesa más cuando un problema es enorme y estás solo; Smith ofreció una observación que alivia. El cuidado de la felicidad del mundo entero, escribió, no es asunto de ninguna persona sola; a cada uno le toca un departamento mucho más humilde: el cuidado de su propio bienestar, su familia, sus amigos, su país. No es un llamado a la indiferencia. Es reconocer que el ser humano está hecho para un círculo chico, y dentro de ese círculo sus actos de verdad significan algo. Hume agregaría que la razón sola no nos mueve, los sentimientos sí; así que la impotencia no se arregla con un argumento, pero podés hacer una cosa chiquita que te devuelva la sensación de tu propia fuerza.",
+      "practice": "Hacé tu propio «alfiler»: un gesto chico en tu círculo cercano —ayudar a un vecino, llamar a un pariente, ordenar un rincón—. No todo: solo tu parte del trabajo.",
+      "quote": null
+    },
+    "procrastination": {
+      "text": "«La razón es, y solo debe ser, esclava de las pasiones»: la frase más audaz de Hume, y explica mucho cuando no hay manera de arrancar. Mostró que la razón por sí sola no puede movernos a actuar: siempre nos mueve algún sentimiento, el deseo, el interés, la curiosidad. Por eso los argumentos del tipo «tengo que hacerlo, es importante» tantas veces no sirven de nada. Hume reflexionó también sobre cómo nace el interés: en la caza o en un juego, escribió, el placer viene de la actividad misma de la mente, de la tensión de la atención, y el objetivo se vuelve más importante sobre la marcha. Es decir, el interés muchas veces no aparece antes de empezar sino durante. Eso te libera de tener que «tener ganas» primero. Podés empezar por algo chico y dejar que el sentimiento te alcance en el camino.",
+      "practice": "Hume decía que el interés por la caza llega durante la persecución. Empezá una «cacería» de cinco minutos: poné un temporizador y trabajá en la tarea sin prometerte nada más allá de eso.",
+      "quote": null
+    },
+    "uprooted": {
+      "text": "Hume, como muchos escoceses de su época, se sentía un poco forastero en Londres, y hasta armó una lista de «escocesismos», expresiones que delataban su origen, para sacarlas de sus libros. Estar lejos de casa es una experiencia profunda, y él sabía lo que es ser extranjero. Vivió largas temporadas en Francia; escribió su libro principal en el pueblito de La Flèche. Hume notó también que la gente que vive cerca va tomando de a poco los modales y los sentimientos de los otros a través de la «simpatía», el contagio natural del sentir. Eso quiere decir que en un lugar nuevo no estás condenado a la extrañeza: los lazos y los hábitos crecen de a poco, a través del simple contacto cotidiano. Extrañar tu tierra es legítimo, y a su lado ya está creciendo algo nuevo.",
+      "practice": "Hacé una caminata humeana por tu lugar nuevo: recorré siempre el mismo trayecto corto y fijate en una cosa que ya se te hizo familiar: un cartel, un árbol, la cara de alguien. Para Hume, la simpatía crece con la cercanía y la repetición.",
+      "quote": null
+    },
+    "overload": {
+      "text": "Imaginá, proponía Adam Smith, que el gran imperio de China es tragado por un terremoto, y que un hombre en Europa se entera: se conmueve sinceramente, después vuelve a sus asuntos y duerme tranquilo. Un feed infinito actúa como si todas esas noticias tuvieran que llegarnos a la vez; no es raro que la sobrecarga se sienta como una tensión real. En cambio, una pequeña desgracia en su propia vida le quitaría el sueño. Smith no lo condenaba; lo describía: nuestra capacidad de compadecernos está hecha para el círculo cercano. Hoy el feed nos tira encima cientos de problemas y sucesos ajenos por día, más de lo que puede contener un corazón humano. Tu agotamiento no es insensibilidad ni debilidad, sino un límite natural. Proteger tu atención es preservar tu capacidad de que te importen las cosas.",
+      "practice": "Cerrá el feed y quedate, en el sentido de Smith, con un «círculo cercano»: una noticia o una pregunta que de verdad te toque a vos y a los tuyos. Pensá solo en eso un minuto; lo demás puede esperar.",
+      "quote": null
+    },
+    "unreality": {
+      "text": "«Cuando penetro más íntimamente en lo que llamo mí mismo, tropiezo siempre con alguna percepción particular, de calor o frío, luz o sombra, amor u odio», admitía Hume. Si sentís que todo lo que te rodea, o vos mismo, no es del todo real, eso asusta, pero su descubrimiento puede hacerlo menos aterrador. Detrás de esas percepciones no encontró ningún «yo» aparte. Para Hume eso no significaba que no hubiera yo: simplemente, el «yo» es un flujo vivo de impresiones, no un objeto sólido. Hume admitía que estas reflexiones podían hundirlo en un desconcierto frío, pero notó que la naturaleza misma nos devuelve a la vida, a través de las tareas comunes y la compañía de la gente. Vos estás ahí, donde están el calor, la luz y el sentir.",
+      "practice": "Repetí el experimento de Hume al revés: atrapá una percepción ahora mismo —el calor en las palmas, la luz de la ventana, un sonido— y nombrala en voz alta. Eso sos vos, acá.",
+      "quote": {
+        "text": "Por mi parte, cuando penetro más íntimamente en lo que llamo mí mismo, tropiezo siempre con alguna percepción particular, de calor o frío, luz o sombra, amor u odio, dolor o placer.",
+        "author": "David Hume",
+        "source": "Tratado de la naturaleza humana, libro I, parte 4, secc. 6"
+      }
+    },
+    "awe": {
+      "text": "Antes de morir, Adam Smith mandó quemar casi todos sus borradores, pero salvó un ensayo sobre la historia de la astronomía: sobre cómo el asombro conduce al conocimiento. Los escoceses valoraban el asombro ante lo inmenso y lo bello. Hume notó que todo lo muy grande —una llanura amplia, el océano, una larga sucesión de siglos— despierta en nosotros una admiración especial: la mente parece expandirse al intentar abarcar el objeto, y esa expansión es agradable en sí misma. Smith dedicó aquel ensayo a la maravilla y la admiración, y creía que fueron ellas las que llevaron a la gente a la filosofía y a la ciencia: impresionada por algo inusual, una persona busca la manera de entenderlo. El asombro, para Smith, no es ingenuidad infantil sino el comienzo del conocimiento. Dejalo ser, sin apurarte a explicarlo. Smith probablemente diría que ahora estás viviendo aquello con lo que alguna vez empezó toda la ciencia.",
+      "practice": "Mirá algo inmenso —el cielo, un río, un árbol viejo— y dejá que tu mente, como decía Hume, «se expanda» al intentar abarcarlo. Durante un minuto, no expliques nada.",
+      "quote": null
+    },
+    "relief": {
+      "text": "«¿Qué se puede agregar a la felicidad del hombre que tiene salud, que no tiene deudas y que tiene la conciencia tranquila?», preguntaba Adam Smith. El alivio es un sentimiento cálido y bien ganado, y los escoceses nos ayudan a saborearlo. Smith observó que el dolor casi siempre se siente con más intensidad que el placer opuesto. Por eso, cuando el dolor o la ansiedad se van, la vuelta a tu estado habitual se vive como una alegría de verdad. Hume lo explicaría por la ley de la comparación: juzgamos nuestra situación poniéndola al lado de lo que vino antes, y un día común y tranquilo después de una tensión parece luminoso. El alivio es el momento en que la comparación juega a tu favor. No te apures a pasar a la próxima preocupación. Y si querés, compartí tu alivio con alguien: para Smith y Hume, la alegría compartida se fortalece.",
+      "practice": "Decí en voz alta: «Ya pasó, y me siento más liviano», y compartí la noticia con alguien que sabía de tu preocupación. Smith diría que el alivio compartido se vuelve más pleno.",
+      "quote": null
+    },
+    "calm": {
+      "text": "Para Hume, la quietud interior es en sí misma un sentimiento, no solo la ausencia de sentimientos. Donde otros veían razón fría, él veía «pasiones tranquilas»: no se desatan, apenas se sienten, y por eso es fácil confundirlas con la razón. Pero son ellas —el amor a la vida, la benevolencia, el apego a lo que importa— las que muchas veces nos guían con más fuerza que las violentas. Adam Smith veía la felicidad sobre todo en la tranquilidad y el disfrute. El propio Hume, al describir su carácter, dijo que era un hombre de temperamento apacible, dueño de su genio, de humor abierto, sociable y alegre. Tu calma no es una pausa ni un vacío, sino una fuerza tranquila que está en vos. Podés simplemente notarla.",
+      "practice": "Quedate dos minutos en esta calma sin hacer nada, y escuchá qué «pasión tranquila» vive adentro: confianza, gratitud, liviandad. Nombrala con una palabra.",
+      "quote": null
+    },
+    "inspiration": {
+      "text": "«Un nuevo escenario del pensamiento»: así describía el Hume de dieciocho años, en una carta, el mundo de ideas que se le abría y en el que se lanzó con ardor. Conocía el impulso alegre de cuando los pensamientos se acomodan solos. Después, por exceso de trabajo, vino un largo bajón, y Hume sacó de ahí una lección: volvió a trabajar alternándolo con caminatas, ejercicio y compañía. Sus obras principales nacieron de aquella inspiración. Su experiencia dice: la inspiración es una fuerza real, y vale la pena confiar en ella. Pero cuidarla significa no quemarte en el primer arranque y darle un apoyo en una vida estable. Permitite este impulso, y encontrale un ritmo.",
+      "practice": "Anotá la idea principal y un primer paso, y al lado, siguiendo la lección de Hume, la hora de tu próxima caminata o descanso, para que el impulso dure en vez de quemarte.",
+      "quote": null
+    },
+    "schadenfreude": {
+      "text": "Hume tituló una sección de su «Tratado», sin ninguna vergüenza, «De la malicia y la envidia»: no fingía que estos sentimientos fueran raros. Alegrarse del mal ajeno es un descubrimiento desagradable, pero casi todos lo hicimos alguna vez. Lo explicaba por el «principio de comparación»: no juzgamos nuestra situación en sí misma sino frente a la de los otros, y el fracaso ajeno hace que nuestro bienestar parezca por un momento más luminoso. Es decir, esa alegría no prueba que estés corrompido, sino que es un efecto secundario de cómo la imaginación compara todo el tiempo. Hume notó también otra cosa: la simpatía —la capacidad de contagiarnos del sentimiento ajeno— suele ser más fuerte en nosotros. Por eso esa alegría rara vez dura mucho. Podés simplemente notarla, sin llevarte a juicio, y preguntarte: ¿qué herida mía calmó por un segundo el fracaso de esa persona?",
+      "practice": "Poné a prueba la simpatía humeana: imaginá durante un minuto la cara de esa persona en el momento del fracaso; no una imagen, una cara viva. Fijate si al lado de la alegría por su mal se mueve algo más.",
+      "quote": null
+    },
+    "contempt": {
+      "text": "Hume desarmó, en la sección del «Tratado» titulada «Del respeto y el desprecio», un sentimiento que cuesta admitir incluso ante uno mismo, y descubrió que no es para nada simple. El desprecio puede, aun así, ser una respuesta a la crueldad, la falsedad o la necedad de otro. Contiene un poco de rechazo por el otro y un poco de orgullo propio, ya que comparamos y salimos «por encima». Por eso el desprecio muchas veces apuntala nuestra propia dignidad cuando de algún modo fue herida. Smith agregaría la pregunta del espectador imparcial, un testigo justo imaginario que conoce todas las circunstancias: ¿qué vería en esta persona tomada entera? Eso no te exige renunciar a tu juicio. Te ayuda a entender qué hay en tu desprecio de juicio sobre un acto, y qué de autoprotección.",
+      "practice": "Hacé el análisis humeano de la mezcla: separá mentalmente «el rechazo al acto» del «orgullo propio». ¿Qué ingrediente pesa más, y qué fue lo que se lastimó en mí?",
+      "quote": null
+    },
+    "disgust": {
+      "text": "Los parientes de Sancho Panza prueban un vino: uno nota gusto a cuero, el otro a hierro, y todos se ríen, hasta que en el fondo del tonel aparece una llave atada a una correa de cuero. Hume volvió a contar esta historia para mostrar que el gusto puede ser más fino de lo que parece; y el asco también es una forma de gusto. Hume creía que nuestros juicios morales no nacen del razonamiento frío sino de sentimientos de aprobación y desaprobación, algo parecido al gusto. El vicio, escribió, no lo encontramos en la acción misma sino en el sentimiento que surge en nosotros al mirarla. El asco, entonces, no es un error sino información: te dice que se violó algo importante para vos. Pero el gusto se puede educar, y Smith proponía contrastar el sentimiento con el espectador imparcial. Si apunta a vos mismo, ese testigo suele ser mucho más suave: no ve algo «vil», sino a una persona en circunstancias difíciles que merece comprensión.",
+      "practice": "En una frase, nombrá el valor que viola aquello que te da asco. Después preguntate: ¿cómo describiría esta situación un testigo tranquilo y amable?",
+      "quote": null
+    },
+    "revenge": {
+      "text": "Un callado profesor de Glasgow, Adam Smith, escribió algunas de las páginas más precisas sobre la venganza de la historia de la ética. Si querés vengarte, lo más probable es que el daño haya sido real, y Smith se lo tomaría en serio: el resentimiento, para él, es una defensa de la naturaleza, un guardián de la justicia. Pero notó una sutileza. Quien está resentido, escribió Smith, no quiere tanto causarle dolor al ofensor como que el ofensor se dé cuenta de que sufre precisamente por lo que hizo. Es decir, en el corazón de la venganza hay una sed de reconocimiento: «que entienda que se equivocó». Smith agregó que el espectador imparcial puede compartir nuestro resentimiento solo cuando es proporcionado. Así que no hace falta reprimir este sentimiento; escuchalo: ¿qué es exactamente lo que necesita ser reconocido? Muchas veces la respuesta señala un camino donde nadie sale dañado: hablar, sostener un límite, buscar justicia.",
+      "practice": "Decilo en voz alta, en una habitación vacía o mientras caminás: «Lo que más quiero es que esta persona entienda que…», y terminá la frase. ¿Qué parte de eso podés reconocer vos mismo, sin esperarla?",
+      "quote": {
+        "text": "El resentimiento parece habernos sido dado por la naturaleza para la defensa, y solo para la defensa.",
+        "author": "Adam Smith",
+        "source": "La teoría de los sentimientos morales, parte II, secc. II, cap. 1"
+      }
+    },
+    "anger_at_loved": {
+      "text": "Adam Smith vivió casi toda su vida con su madre, y su observación sobre los estallidos en casa es bien terrenal. El enojo con la gente cercana duele especialmente: después viene la vergüenza, porque la querés. Notó que entre desconocidos nos contenemos por instinto: imaginamos cómo nos vemos a sus ojos y frenamos nuestros sentimientos. Entre los cercanos, ese espectador interior se relaja: esperamos de ellos una comprensión total y nos controlamos menos. De ahí la paradoja: la gente que más queremos es la que se lleva más de nuestros estallidos. El enojo con alguien cercano no es señal de que falte amor, sino de cercanía y cansancio a la vez. Smith aconsejaba recuperar la mirada de afuera en los momentos difíciles. No se trata de tomar distancia, solo de ver la escena por un segundo con los ojos de un invitado respetuoso antes de decir algo de lo que te vas a arrepentir.",
+      "practice": "Durante cinco segundos, imaginá que en la habitación está sentado un invitado al que respetás, el «desconocido» de Smith. Decí lo que querías decir como lo dirías delante de él.",
+      "quote": null
+    },
+    "ambivalence": {
+      "text": "Hume miraba el alma casi como un químico: ¿qué pasa cuando dos pasiones opuestas apuntan al mismo objeto? Cuando querés a alguien y a la vez no lo soportás, parece que algo anda mal en vos; Hume no lo pensaba así. A veces, escribió, se alternan; a veces se mezclan, como se mezclan los líquidos, y entonces resulta un sentimiento nuevo y complejo. Para Hume, el amor y el rechazo son «pasiones indirectas»: los despiertan distintas cualidades de una persona, no la persona entera. Alguien cercano puede ser cálido y duro, generoso e insoportable al mismo tiempo, y tus sentimientos simplemente responden con honestidad a todo eso a la vez. La ambivalencia, entonces, no es confusión sino precisión. No tenés que elegir un sentimiento como el «verdadero»: los dos dicen la verdad sobre lados distintos de la misma relación.",
+      "practice": "Serví un vaso de agua y agregale un poco de jugo o de leche: mirá cómo los dos líquidos se funden en un color nuevo. Así, para Hume, se mezclan el amor y el rechazo; no elijas cuál es el «correcto».",
+      "quote": null
+    },
+    "guilty_relief": {
+      "text": "Hume notó que un mismo suceso casi siempre despierta varias pasiones a la vez, simplemente porque lo miramos desde distintos lados. El alivio después de una ruptura, una partida o incluso la muerte de un ser querido gravemente enfermo puede asustar: ¿de verdad me alegro? La pérdida trae duelo, y el fin de una larga tensión trae alivio; estos sentimientos no se anulan entre sí, simplemente pertenecen a facetas distintas de lo mismo. Adam Smith te propondría imaginar un espectador imparcial que lo sabe todo: cuánto cargaste, cuántas noches no dormiste, cuánto tiempo tuviste miedo. Un testigo así no te condenaría. Entendería que el alivio es la respuesta natural del cuerpo y del alma a un peso que por fin se levantó. Y que el amor no se fue a ninguna parte.",
+      "practice": "Apoyá una palma en el pecho y la otra en la panza: que una sostenga el duelo y la otra el alivio. Respirá así un minuto sin soltar ninguno.",
+      "quote": null
+    },
+    "indifference": {
+      "text": "«Me parecen tan fríos, forzados y ridículos», admitía Hume sobre sus propias pasiones intelectuales recientes. A veces un suceso «debería» conmoverte y, sin embargo, adentro hay silencio, y eso inquieta: ¿seré insensible? Hume explicaba que nuestra simpatía —la capacidad de contagiarnos del sentir ajeno— depende de la cercanía: respondemos con más fuerza a lo cercano, lo parecido y lo vivo. Cuando algo está lejos, es abstracto o simplemente demasiado enorme, la imaginación no da abasto y el sentimiento no surge. No es un vicio sino cómo funciona la naturaleza humana. Hume distinguía también las «pasiones tranquilas»: no nos sacuden con violencia, así que es fácil confundirlas con la falta de sentimiento, aunque pueden guiar nuestros actos. La indiferencia a veces no es vacío sino un sentimiento tranquilo que todavía no tomó forma, o un cansancio de la simpatía. Podés darle tiempo sin fingir.",
+      "practice": "Quedate cinco minutos en silencio y preguntate: si al final sí hubiera un sentimiento, solo que muy bajito, ¿cuál sería? Escuchalo como a una «pasión tranquila» y nombrá una palabra, aunque no estés seguro.",
+      "quote": null
+    },
+    "escape": {
+      "text": "En 1734 Hume entró a trabajar con un comerciante de azúcar de Bristol, enseguida se dio cuenta de que eso no era para él y a los pocos meses se fue a Francia a escribir su «Tratado». Conocía por experiencia propia las ganas de dejar un trabajo, una ciudad o un papel e irse: son señal de que la vida se volvió demasiado estrecha. Adam Smith, por su parte, advertía contra lo contrario: describió a un hombre que se desloma toda la vida por un rango y una riqueza y al final nota que estuvo persiguiendo «chucherías». Juntas, las dos miradas te dan una buena pregunta: ¿de qué estoy huyendo, y adónde quiero llegar? A veces las ganas de escapar señalan una necesidad real de cambio; otras, un cansancio que necesita descanso. El sentimiento en sí no te compromete a ninguna decisión, pero merece ser escuchado.",
+      "practice": "Salí a caminar, como Hume por los caminos de Francia, aunque sea hasta la esquina y de vuelta: a la ida, pensá en lo que querés dejar; a la vuelta, en lo que querés alcanzar.",
+      "quote": null
+    },
+    "forbidden_attraction": {
+      "text": "Hume observaba las pasiones como un naturalista observa el tiempo: sin sermones. Una atracción por alguien no disponible o «equivocado» inquieta, sobre todo si nunca quisiste sentirla; Hume te ayuda a mirarla con calma. Sostenía que las pasiones no obedecen las órdenes de la razón: la razón puede sugerir cómo actuar, pero no puede simplemente anular un sentimiento. Y en el «Tratado» señaló que los obstáculos y la incertidumbre suelen fortalecer una pasión en lugar de debilitarla: lo que es difícil de alcanzar, la imaginación lo pinta con especial viveza. Parte de la fuerza de una atracción así está en su propia inaccesibilidad. No es un veredicto sobre el sentimiento ni un consejo sobre qué hacer con él. Simplemente saca la vergüenza: no sos «mala persona», sos una persona con imaginación. Puede ayudar preguntarte qué es exactamente lo que tanto atrae de esa imagen.",
+      "practice": "Hacé un experimento humeano en la imaginación: suponé que los obstáculos desaparecen y que esa persona está libre y disponible. ¿Qué pasó con la atracción: creció, se quedó igual o se apagó?",
+      "quote": null
+    },
+    "social_anxiety": {
+      "text": "Perdido en sus pensamientos, Adam Smith caminó una vez varios kilómetros lejos de casa en bata, y el mundo sobrevivió. El miedo al juicio convierte las conversaciones en exámenes, y Smith sabía de dónde viene. Escribió que desde chicos aprendemos a vernos con los ojos de los demás: la sociedad es para nosotros como un espejo. De ahí nuestra sensibilidad a cómo nos ven. Pero Smith hizo también una observación que tranquiliza. El espectador, sostenía, siempre siente el estado ajeno mucho más débilmente que quien lo vive: le exige un esfuerzo de imaginación, y su atención está ocupada en su propia vida. Así que los demás notan nuestra torpeza mucho menos de lo que nos parece. Además, Smith contraponía a los espectadores reales «el hombre dentro del pecho», el espectador imparcial interior. Su juicio importa más que la aprobación de la multitud, y suele ser más amable con tus nervios que vos mismo.",
+      "practice": "Antes de una conversación, elegí una pregunta que de verdad quieras hacer; al fin y al cabo, el «espectador» de Smith también está ocupado con su propia vida. Hacela y escuchá la respuesta.",
+      "quote": null
+    },
+    "uncertainty": {
+      "text": "Hume comparaba el alma con un instrumento de cuerda: después de cada golpe las cuerdas siguen sonando, y antes de que un sentimiento se apague, otro ya irrumpe. La incertidumbre agota justamente así: cuesta planear y cuesta asentarse. Cuando el resultado es desconocido, la imaginación salta entre la posibilidad buena y la mala, y de ese vaivén nacen la esperanza y el miedo, una mezcla de alegría y pena. Eso explica por qué la incertidumbre cansa tanto: el problema no es la debilidad sino el balanceo constante. Hume, de todos modos, ofrecía algo de donde agarrarse: creer en proporción a la evidencia. Ni más ni menos de lo que sugieren los hechos. Eso te permite no inventar el peor resultado como si ya hubiera pasado, y no exigirte una certeza que todavía no está disponible.",
+      "practice": "Apoyá la palma bien plana sobre la mesa, como un músico que apaga una cuerda, y sostenela durante tres respiraciones lentas. Después decí en voz alta qué sabés con seguridad y qué solo suponés.",
+      "quote": {
+        "text": "Un hombre sabio, por tanto, proporciona su creencia a la evidencia.",
+        "author": "David Hume",
+        "source": "Investigación sobre el entendimiento humano, secc. X"
+      }
+    },
+    "waiting": {
+      "text": "Dos veces esperó Hume en vano una cátedra, y aun así vivió esos años a pleno: escribiendo, discutiendo, cenando con amigos. Esperar una respuesta, resultados o noticias vuelve el tiempo espeso, y los pensamientos vuelven una y otra vez. Hume notó que la imaginación pinta con especial viveza los sucesos cercanos en el tiempo: cuanto más cerca está la hora, más brillante la imagen y más fuerte la agitación. Por eso la espera consume tanto. En su ensayo «Del refinamiento en las artes», Hume escribió que la felicidad humana tiene tres ingredientes: la acción, el placer y el reposo. La espera es un tormento también porque desplaza a los tres: no actuamos, no disfrutamos, no descansamos; solo quedamos colgados. Lo que puede ayudar no es el esfuerzo de «dejar de pensar» sino recuperar un poco de al menos una de esas tres cosas. La espera no va a desaparecer, pero va a dejar de llenar el día.",
+      "practice": "Para la próxima hora, elegí uno de los tres hilos de la felicidad de Hume —una tarea chica, un placer chico o un descanso de verdad— y hacele lugar al lado de la espera.",
+      "quote": null
+    },
+    "regret": {
+      "text": "«La gran fuente tanto de la desdicha como de los desórdenes de la vida humana parece surgir de sobrestimar la diferencia entre una situación permanente y otra», escribió Adam Smith. El arrepentimiento por algo que hiciste o dejaste de hacer puede ser muy terco; detrás está el cuidado por tu propia vida, y la frase de Smith le cabe directamente. Imaginamos que por el otro camino todo habría sido completamente distinto, y esa imagen es más brillante que la realidad porque nunca se puede poner a prueba. Parte del dolor del arrepentimiento está en que la opción perdida parece perfecta. Smith agregó otra cosa: un espectador interior justo nos juzga por lo que sabíamos y podíamos en ese momento, no por lo que se supo después. Podés guardar el arrepentimiento como una lección, pero no como una sentencia sobre tu yo de antes.",
+      "practice": "Imaginá el «otro camino» no como perfecto sino como común, con sus propias dificultades, aburrimientos y pérdidas. Vivilo honestamente un minuto, como el espectador de Smith, y después volvé acá.",
+      "quote": {
+        "text": "La gran fuente tanto de la desdicha como de los desórdenes de la vida humana parece surgir de sobrestimar la diferencia entre una situación permanente y otra.",
+        "author": "Adam Smith",
+        "source": "La teoría de los sentimientos morales, parte III, cap. 3"
+      }
+    },
+    "longing": {
+      "text": "El retrato de un amigo ausente, señaló Hume, aviva al instante nuestra idea de él: la semejanza arrastra la imagen, y la imagen arrastra el sentimiento. Extrañar a alguien hace que su presencia sea casi tangible, justamente porque no está. Nuestras ideas se conectan entre sí por tres principios: la semejanza, la contigüidad en el tiempo y el espacio, y la causa y el efecto. Por eso todo te recuerda a esa persona: una voz parecida, un lugar adonde iban juntos, un hábito que te dejó. Tu mente no tiene la culpa de volver a ella una y otra vez: así funciona la asociación. La añoranza no es una falla sino la huella que alguien querido dejó en la trama misma de tus pensamientos. No hace falta echarla. Podés notar qué cosas la despiertan más, y permitirte la tristeza sin asustarte de lo seguido que llega.",
+      "practice": "Agarrá un objeto o una foto ligados a esa persona y dejá que la asociación humeana haga su trabajo: solo mirá un minuto y fijate qué recuerdo cálido llega primero.",
+      "quote": null
+    },
+    "world_pain": {
+      "text": "Hume consideraba la simpatía —la capacidad de contagiarnos del sentir ajeno— la cualidad más notable de la naturaleza humana, y veía en ella la base de la moral. El dolor por el mundo —las noticias sombrías, la injusticia, el duelo ajeno— es señal de esa respuesta viva, aunque te pese como si tuvieras que cargarlo solo. Pero Adam Smith hizo una observación sobria. Escribió que no podemos sentir las desgracias lejanas con la misma intensidad que las propias, y discutió con los moralistas que le reprochan a la gente poder alegrarse mientras en algún lugar otros sufren. Esa compasión artificial, a su juicio, no ayuda a nadie. Smith aconsejaba no obligarse a sufrir sin fin, sino mantener viva la sensibilidad y hacer lo que de verdad esté en nuestras manos. Así que proteger tu capacidad de sentir alegría no es indiferencia, sino una condición para que la compasión no se queme.",
+      "practice": "Hacé una cosa chica a tu alcance —por alguien cercano o por gente lejana— y después una cosa para vos: un té, una caminata, música. Smith sostenía que la alegría no traiciona la compasión.",
+      "quote": null
+    },
+    "rejection": {
+      "text": "«El hombre desea naturalmente no solo ser amado, sino ser digno de amor»: con esta frase abre Adam Smith un capítulo de su libro. Por eso el rechazo duele tanto: el deseo de ser aceptados está muy hondo en nosotros. Hume te ayuda a ver una trampa en la que la mente cae seguido después de una negativa. Describió las «reglas generales» que la imaginación construye con demasiado apuro: convierte un caso aislado en una ley y lo extiende a todo lo parecido. Así, un solo rechazo se infla rápido hasta la conclusión «nadie me va a aceptar nunca». El dolor del rechazo es real, pero su generalización es obra de la imaginación, no un hecho demostrado. Hume proponía corregir las reglas apuradas prestando atención a la evidencia: ¿cuántas veces de verdad te aceptaron, te valoraron, te eligieron? Un rechazo habla del encuentro entre dos personas, no de tu valor.",
+      "practice": "Poné a prueba la «regla general» humeana: recordá tres veces en que te aceptaron, te escucharon o te invitaron, y ponelas en la balanza al lado del único rechazo.",
+      "quote": null
+    },
+    "abandonment": {
+      "text": "Una bola de billar golpea a otra, y esperamos que la segunda ruede: Hume mostró que esa expectativa descansa en la costumbre, no en una prueba. El miedo a ser abandonado nace igual: puede vivir años y encenderse por cosas chicas, una respuesta que tarda, un tono de voz frío. Esperamos que el futuro se parezca al pasado no porque esté demostrado sino por «costumbre»: si algo pasó varias veces, la mente llega sola a la misma conclusión. Si en el pasado te dejaron, la imaginación va a seguir pintando el mismo final. No quiere decir que exageres a propósito: así funciona el hábito, y la experiencia vieja fue real. Pero Hume mostró también que el hábito no es una profecía. Las repeticiones nuevas van creando de a poco un hábito nuevo. Por eso vale la pena notar cada vez que alguien cercano se queda: eso reeduca despacio la expectativa.",
+      "practice": "Empezá un «registro de experiencia» humeano: una lista corta de las veces en que la gente se quedó o volvió. Sumá incluso cosas chicas: la costumbre se reeduca con repetición.",
+      "quote": null
+    },
+    "unrequited": {
+      "text": "Hume desenredó la pasión amorosa en tres hilos: el placer ante la belleza, el apetito corporal y una generosa buena voluntad. El amor no correspondido es uno de los dolores más solitarios: el sentimiento está, pero la respuesta no llega. Adam Smith notó, con una honestidad inesperada, que para alguien de afuera su intensidad siempre parece desproporcionada, porque no ve lo que ve el enamorado. Así que incluso a tus amigos puede costarles captar la profundidad de lo que estás atravesando, y esa soledad no es culpa tuya. Hume, por su parte, ligaba el amor con el deseo del bien del otro. Tu amor no es un error ni una humillación: habla de tu capacidad de ver algo hermoso en otra persona. Hume notó también que los sentimientos que no se alimentan de impresiones nuevas se van calmando de a poco. No va a pasar por orden, pero va a pasar, y tu capacidad de amar se va a quedar con vos.",
+      "practice": "Hume ligaba el amor con desearle el bien al otro. Hacé hoy algo bueno por otra persona completamente distinta —un vecino, un amigo, un desconocido— y fijate que tu capacidad de amar no se fue a ningún lado.",
+      "quote": null
+    },
+    "humiliation": {
+      "text": "Hume, famoso y muy corpulento, una vez quedó atascado en un pantano al pie del castillo de Edimburgo; una pescadera que pasaba solo aceptó sacar al «ateo» si recitaba el padrenuestro, y lo recitó. La humillación hiere porque golpea tu dignidad. Adam Smith lo entendía: escribió que un reproche inmerecido puede herir dolorosamente incluso a gente muy firme. Pero también ofreció algo en qué apoyarse. Smith distinguía dos tribunales: «el hombre de afuera», los testigos reales, y «el hombre dentro del pecho», el espectador imparcial que conoce todas las circunstancias y tus intenciones. La humillación es el veredicto del tribunal exterior, muchas veces injusto, dictado con apuro o con malicia. El tribunal interior puede revisarlo. Que te traten de manera humillante dice algo de la situación y de quienes actuaron así, pero no determina tu valor. Igual duele; lo que importa es de quién es la voz que tiene la última palabra.",
+      "practice": "Como quien acaba de salir de un pantano, sacudite, literalmente, pasando las palmas por los hombros y las mangas, y parate derecho. Decite: «El tribunal de afuera dictó sentencia; el de adentro no la firmó».",
+      "quote": null
+    },
+    "body_shame": {
+      "text": "«Más un concejal comedor de tortuga que un filósofo refinado»: así describió un aristócrata al corpulento Hume, al que los salones de París de todos modos adoraban. La insatisfacción con tu cuerpo rara vez sale de la nada: desde chicos nos juzgan y nos comparan. En el «Tratado», Hume señaló que la belleza o la fealdad del cuerpo, como nuestras otras cualidades, afectan el orgullo y la humildad en buena medida a través de la mirada imaginada de los demás. Y en su ensayo «Sobre la norma del gusto» escribió una frase que cambia mucho: la belleza no es una cualidad de las cosas mismas; existe en la mente de quien mira, y cada mente percibe una belleza distinta. Así que un juicio sobre tu cuerpo es un juicio del gusto de alguien —muchas veces tomado prestado de la época—, no un hecho objetivo. Eso no va a hacer que te quieras en un minuto, pero debilita el poder de un único ideal «correcto».",
+      "practice": "Hume valoraba el cuerpo por las impresiones vivas que da. Nombrá una impresión que te dio hoy tu cuerpo —el gusto del té, el calor del sol, tus pasos— y agradecele en silencio.",
+      "quote": {
+        "text": "La belleza no es una cualidad de las cosas mismas: existe solamente en la mente que las contempla, y cada mente percibe una belleza diferente.",
+        "author": "David Hume",
+        "source": "«Sobre la norma del gusto» (1757)"
+      }
+    },
+    "illness": {
+      "text": "De joven, Hume luchó varios años con un malestar que ni los médicos ni los amigos entendían bien. Cuando el cuerpo te falla, no hay solo dolor sino también soledad, y Adam Smith explicó por qué. Escribió que los demás comparten el dolor corporal solo muy débilmente: a la imaginación le cuesta reproducir una sensación que no está en el propio cuerpo. Por eso la simpatía de la gente muchas veces parece insuficiente, y el problema no es que no te crean sino los límites de la simpatía humana. Saber esto puede aliviar parte de la herida, tanto hacia ellos como hacia vos por «quejarte demasiado». Hume agregaba que, incluso en tiempos difíciles, el alma se sostiene en pequeños hábitos, en la compañía y en placeres simples. Así que no hace falta que te exijas heroísmo; podés cuidar lo poco que ahora mismo te da calor.",
+      "practice": "Contale a una persona cercana una sola sensación concreta de hoy: no «me siento mal», sino «me duelen las rodillas y me cuesta concentrarme». Smith diría que lo concreto ayuda a que la imaginación del otro te alcance.",
+      "quote": null
+    },
+    "pride": {
+      "text": "«El amor a la fama literaria, mi pasión dominante», escribió Hume sin ninguna vergüenza en su breve autobiografía. El orgullo por lo que hiciste es un sentimiento bueno y bien ganado, y no hace falta esconderlo. Hume lo trataba con respeto: en el «Tratado» llamó al orgullo una pasión agradable que surge cuando algo valioso está ligado a nosotros mismos: nuestro trabajo, una habilidad, una acción. Distinguía la presunción, que irrita a los demás, de un sentido fundado del propio valor, y consideraba este último necesario para la vida: nos da confianza en nuestras empresas. Adam Smith agregó que el mejor orgullo es el que aprobaría un espectador imparcial, es decir, el merecido. Si lo sentís ahora, no hace falta que te apures a frenarte. Mirá qué hiciste exactamente, y permitite reconocerlo.",
+      "practice": "Contale a una persona qué hiciste exactamente y qué cualidad tuya mostró, de modo que el espectador imparcial de Smith asintiera: merecido.",
+      "quote": {
+        "text": "Nada nos es más útil en la conducta de la vida que un grado adecuado de orgullo, que nos hace conscientes de nuestro propio mérito y nos da confianza y seguridad en todos nuestros proyectos y empresas.",
+        "author": "David Hume",
+        "source": "Tratado de la naturaleza humana, libro III, parte 3, secc. 2"
+      }
+    },
+    "melancholy": {
+      "text": "¿Por qué el público va con gusto al teatro a llorar con una tragedia y sale satisfecho? Hume dedicó a este enigma su ensayo «De la tragedia», y toca de lleno la melancolía suave, ese estado tranquilo en el que la tristeza de algún modo resulta agradable. Su respuesta: cuando la pena se viste de forma bella —en palabras, música, imágenes—, el movimiento mismo de la pena se funde con el placer de la belleza, y el sentimiento se vuelve otro, suave y pleno. La melancolía, entonces, es una tristeza que logró encontrar una forma. No hace falta curarla ni disiparla a las apuradas. Hume, que amaba tanto la reflexión solitaria como la compañía de los amigos, más bien te aconsejaría quedarte un rato en ella y después volver a la gente. La melancolía puede resultar un momento en que te escuchás mejor que nunca.",
+      "practice": "Dale a la tristeza la «forma bella» de Hume: poné una canción o leé en voz alta un poema que le haga juego, y quedate con él hasta el final.",
+      "quote": null
+    }
+  }
+}

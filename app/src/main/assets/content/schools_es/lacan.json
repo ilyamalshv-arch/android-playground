@@ -1,0 +1,416 @@
+{
+  "id": "lacan",
+  "title": "Freud y Lacan",
+  "tradition": "Psicoanálisis",
+  "family": "psychoanalysis_critical",
+  "period": "siglo XX",
+  "sortYear": 1917,
+  "thinkers": [
+    "Sigmund Freud",
+    "Jacques Lacan",
+    "Melanie Klein"
+  ],
+  "keyWorks": [
+    "S. Freud, «La interpretación de los sueños» (1900)",
+    "S. Freud, «Duelo y melancolía» (1917)",
+    "S. Freud, «El malestar en la cultura» (1930)",
+    "J. Lacan, «El estadio del espejo como formador de la función del yo» (1949)",
+    "J. Lacan, «Seminario 7: La ética del psicoanálisis» (1959–1960)",
+    "J. Lacan, «Seminario 10: La angustia» (1962–1963)",
+    "J. Lacan, «Seminario 11: Los cuatro conceptos fundamentales del psicoanálisis» (1964)"
+  ],
+  "summary": "El psicoanálisis, creado por Sigmund Freud y repensado por Jacques Lacan, parte de la idea de que buena parte de nuestra vida psíquica es inconsciente, es decir, funciona sin que lo sepamos. Lacan agregó que el inconsciente está «estructurado como un lenguaje», y que el ser humano es un ser deseante cuyo deseo nace de la falta.",
+  "onEmotions": "Para el psicoanálisis, los sentimientos no son fallas sino mensajes: a través de ellos habla lo que todavía no sabemos de nosotros mismos. Freud mostró que un afecto puede «desplazarse» de una representación a otra, así que la causa de un sentimiento no siempre está donde parece. Lacan insistió en que el deseo está siempre ligado al Otro: al lenguaje, a la cultura, a las personas cuyo reconocimiento buscamos. La tarea no es sacarse de encima un sentimiento, sino encontrarle palabras. Acá explicamos ideas, no damos indicaciones clínicas: el psicoanálisis es, ante todo, una conversación.",
+  "entries": {
+    "anxiety": {
+      "text": "Lacan te pide que te imagines frente a una mantis religiosa gigante, hembra, con una máscara puesta que vos no podés ver, de modo que no sabés por quién te toma. Eso es para él la angustia, un sentimiento desgarrador que no tiene nada de vergonzoso. Freud la vio primero como una pulsión «estancada», y después como una señal de algo con lo que el psiquismo todavía no puede. Lacan fue más lejos: la angustia, sostiene, «no es sin objeto»: aparece cuando nos acercamos demasiado al deseo del Otro, a la pregunta «¿Qué quiere de mí?», y no sabemos la respuesta. Por eso Lacan consideraba la angustia el afecto más confiable: apunta a algo verdadero, aunque no podamos nombrarlo. Así que la angustia no tiene por qué ser acallada enseguida: podés escucharla como a un mensajero que vino por un asunto real.",
+      "practice": "Preguntate en voz alta, como Lacan: «Che vuoi? ¿Qué me querés?», e imaginá a quién va dirigida la pregunta. No hace falta responder: alcanza con notar qué cara aparece.",
+      "quote": {
+        "text": "La angustia es lo que no engaña.",
+        "author": "Jacques Lacan",
+        "source": "«Seminario 10: La angustia» (1962–1963)"
+      }
+    },
+    "fear": {
+      "text": "El pequeño Hans, de cinco años, tenía miedo de salir a la calle: los caballos podían caerse y morder. Su caso, estudiado por Freud y después por Lacan, explica mucho sobre el miedo, que muchas veces te protege. Freud distinguía el miedo de la angustia: el miedo tiene un objeto definido, un perro, un examen, una conversación difícil, mientras que la angustia es difusa y sin nombre. Curiosamente, el psicoanálisis a veces ve el miedo como una especie de alivio. En el caso de Hans, Freud mostró que esa fobia reunía una angustia más vaga alrededor de una sola imagen y le daba forma. Lacan dijo después que un objeto de miedo así sirve de soporte: pone un borde donde si no habría una angustia sin forma. Así que tu miedo probablemente tiene un sentido directo, pero puede estar cargando también otra cosa. Reconocer el miedo no te obliga a vencerlo de inmediato: alcanza con preguntar qué dice además de lo obvio.",
+      "practice": "Dibujá tu miedo como Hans podría haber dibujado un caballo: un contorno rápido, sin buscar que quede lindo. Después preguntale al dibujo: «Además de a vos, ¿a qué le tengo miedo?», y fijate qué se te viene a la cabeza.",
+      "quote": null
+    },
+    "sadness": {
+      "text": "En 1973 Lacan apareció en la televisión francesa y llamó a la tristeza «cobardía moral». Si estás triste ahora, suena hiriente, pero la tristeza no necesita justificación, y Lacan no estaba hablando de debilidad en absoluto. Freud veía la pena como el trabajo normal de un psiquismo que aprende a soltar algo querido. Lacan no apuntaba a un reproche a la persona, sino a un retroceso frente al deber del «bien decir», de encontrar las palabras precisas para el propio deseo. La tristeza, para Lacan, suele aparecer donde el deseo se quedó callado, donde dejamos de preguntarnos qué queremos de verdad. Suena severo, pero también hay esperanza en eso: la tristeza no es un veredicto, sino la señal de que algún deseo está esperando ser nombrado. No tenés que echar la tristeza; podés dejar que te lleve a esa palabra no dicha.",
+      "practice": "Decí en voz alta una frase que empiece con «Lo que de verdad me gustaría es…», y no la corrijas. Lacan lo llamaría un intento de bien decir.",
+      "quote": null
+    },
+    "grief": {
+      "text": "Cuando murió el padre de Freud, él le escribió a un amigo que se sentía «arrancado de raíz», y de esa pérdida nació «La interpretación de los sueños». El duelo es una respuesta natural a la pérdida, no una enfermedad. En «Duelo y melancolía» (1917), Freud describió el «trabajo de duelo»: el psiquismo vuelve una y otra vez sobre cada recuerdo, cada esperanza ligada a lo perdido, y de a poco, pieza por pieza, los va soltando. Es lento y doloroso, y no hace falta apurarlo. Lacan agregó que la pérdida abre «un agujero en lo real», en la trama misma de la vida, y que una persona lo bordea con símbolos: palabras, rituales, despedidas. Por eso importan tanto los velorios, los aniversarios, las historias sobre alguien que ya no está: ayudan a decir la pérdida cuando parece que no hay palabras. El duelo es el trabajo del amor, no su final.",
+      "practice": "Contale a alguien, o a vos mismo en voz alta, un detalle concreto de lo que perdiste: un gesto, un olor, una frase. Lacan diría que así, de a poco, el agujero en lo real va reuniendo palabras a su alrededor.",
+      "quote": null
+    },
+    "loneliness": {
+      "text": "«No hay relación sexual»: esta frase de Lacan suele tomarse como cínica, aunque para alguien que ahora se siente muy solo puede traer un consuelo extraño. Freud escribió que el ser humano empieza la vida en un estado de desvalimiento total (Hilflosigkeit) y por eso necesita de otro desde el principio. Lacan le sumó un pensamiento sobrio: esa misma fórmula. Quería decir que dos personas nunca suman un todo sin resto: sus deseos nunca coinciden del todo. Podés escucharlo como una noticia triste, o como una noticia liberadora: tu soledad no prueba que algo esté mal en vos. Todos tienen cierta separación, incluso en las relaciones más cercanas. Y es justamente gracias a esa distancia entre las personas que son posibles la palabra, el deseo y el encuentro.",
+      "practice": "Parate un minuto frente a una ventana y mirá las ventanas iluminadas de enfrente o a la gente que pasa: cada uno tiene también su propia separación. Decite: «La distancia no es un vacío, sino un lugar para la palabra».",
+      "quote": null
+    },
+    "anger": {
+      "text": "A Lacan le gustaba una frase que atribuía a Charles Péguy: la bronca es cuando las clavijitas no entran en los agujeritos. Una imagen graciosa para un sentimiento vivo y legítimo, pero precisa: el enojo dice que algo te importa y que algo no encajó. En «La agresividad en psicoanálisis» (1948), Lacan vinculó la agresión con el «estadio del espejo»: construimos nuestro yo reconociéndonos en una imagen, en un espejo o en otra persona. Entonces el otro a la vez se nos parece y parece ocupar nuestro lugar, y de ahí nace la rivalidad. El enojo muchas veces se enciende justamente en ese campo «imaginario», especular: «es igual a mí, pero a él le salió». Las clavijas y los agujeros hablan también de una realidad que no encaja en el orden esperado. Visto así, el enojo no te convierte en una mala persona; muestra dónde algo no coincidió.",
+      "practice": "Andá a un espejo y mirá tu cara mientras estás enojado; solo mirala, como si fuera la de otro. Preguntate: «¿Con quién estoy compitiendo ahora: con la persona o con su imagen?»",
+      "quote": null
+    },
+    "shame": {
+      "text": "Un hombre espía por el ojo de una cerradura y de pronto escucha pasos detrás de él. A Lacan le encantaba volver a contar esta escena de Sartre, porque ahí está toda la vergüenza, dolorosa y profundamente humana. Para Lacan, la vergüenza está íntimamente ligada a la mirada. En «Los cuatro conceptos fundamentales del psicoanálisis» describe la mirada como una de las formas del «objeto a», su nombre para aquello que causa nuestro deseo y nuestra angustia pero nunca se deja atrapar del todo. La vergüenza es el momento en que de pronto te descubrís visto, como sorprendido in fraganti, y no podés controlar cómo te ven. Lo importante es que esa mirada muchas veces es más imaginada que real: sentimos vergüenza ante un Otro que llevamos adentro. Entenderlo no anula la vergüenza, pero afloja un poco su agarre.",
+      "practice": "Mirá cualquier objeto de la habitación y acordate de la historia de Lacan con la lata de sardinas flotando en el mar: «¿Ves esa lata? ¡Bueno, ella no te ve!». Durante un minuto, sé invisible para las cosas: la vergüenza ama a un espectador imaginario, y las cosas no miran.",
+      "quote": null
+    },
+    "guilt": {
+      "text": "«La única cosa de la que se puede ser culpable es de haber cedido en su deseo»: así resumió Lacan su seminario sobre la ética. Si la culpa te pesa mucho ahora, eso no quiere decir que seas una mala persona. En «El malestar en la cultura» (1930), Freud describió una extraña paradoja del «superyó», la instancia interna que vigila y juzga: cuanto más se somete una persona a sus exigencias y renuncia a sus deseos, más severo se vuelve. Por eso la culpa suele ser más fuerte en las personas más escrupulosas. En «La ética del psicoanálisis», Lacan dio vuelta la pregunta: la culpa tiene que ver con traicionar lo que de verdad te importa. No es una invitación a hacer lo que se te antoje, sino una cuestión de ser fiel a vos mismo. Ayuda distinguir la responsabilidad real por un acto concreto de un tribunal interno interminable que siempre pide más.",
+      "practice": "Dividí una hoja en dos columnas: «de qué soy realmente responsable» y «de qué me acusa el superyó». Leé la segunda columna en voz alta con la voz de un juez estricto, y fijate cómo suena desde afuera.",
+      "quote": null
+    },
+    "envy": {
+      "text": "San Agustín recuerda a un bebé que todavía no sabe hablar pero ya se pone pálido de envidia mirando a su hermano de leche en el pecho. La gente suele esconder la envidia, pero todos la conocen, incluso quien todavía no tiene palabras. A Lacan le encantaba este ejemplo de las «Confesiones» y señalaba que el chiquito ya está alimentado: no envidia la leche, sino la imagen de la plenitud del otro, una imagen en la que el otro parece completo y satisfecho. Así es la envidia en general: rara vez queremos la cosa en sí; queremos la felicidad que imaginamos que le da al otro. De ahí la famosa idea de Lacan de que nuestro deseo nace a través del Otro. Una vez que ves esto, la envidia se vuelve una pista y no un veredicto: muestra qué imagen de plenitud te atrae, y te recuerda que la persona a la que envidiás también tiene su propia falta.",
+      "practice": "Imaginá que conseguiste lo que envidiás y viviste con eso una semana. ¿Qué cambió? Si la imagen se desvanece rápido, no envidiabas la cosa, sino una imagen de la plenitud ajena.",
+      "quote": {
+        "text": "El deseo del hombre es el deseo del Otro.",
+        "author": "Jacques Lacan",
+        "source": "«Seminario 11: Los cuatro conceptos fundamentales del psicoanálisis» (1964)"
+      }
+    },
+    "emptiness": {
+      "text": "Un alfarero modela un jarrón alrededor del vacío: así explicaba Lacan de dónde viene el deseo. Sentirse vacío y no desear nada no es vagancia ni capricho. Freud notó una diferencia: en el duelo el mundo parece pobre; en la melancolía es el yo mismo el que se siente pobre y vacío. Lo explicó así: cuando una pérdida no es reconocida, «la sombra del objeto cae sobre el yo», y la persona parece perder una parte de sí. Lacan ofreció otra mirada: el vacío no siempre es un enemigo. Acordate del alfarero: sin el vacío no hay vasija. La falta, para Lacan, es el lugar desde donde nace el deseo. Quizás tu vacío no sea una ausencia de vida, sino un espacio donde un deseo nuevo todavía no encontró su nombre. Si dura mucho tiempo, vale la pena hablarlo con alguien de confianza.",
+      "practice": "Juntá las manos en forma de cuenco y sostenelas así un minuto, mirando el vacío entre ellas. Preguntate: «Si acá pudiera aparecer un deseo chiquito, ¿cuál sería?». «No sé» también es una respuesta.",
+      "quote": {
+        "text": "En el duelo, el mundo se ha hecho pobre y vacío; en la melancolía, eso le ocurre al yo mismo.",
+        "author": "Sigmund Freud",
+        "source": "«Duelo y melancolía» (1917)"
+      }
+    },
+    "confusion": {
+      "text": "Una vez Freud se olvidó del nombre del pintor Signorelli, y en su lugar se le venían a la cabeza Botticelli y Boltraffio: de ese pequeño enredo hizo un descubrimiento. Cuando los puntos de referencia de siempre dejan de funcionar, la confusión puede ser una puerta del mismo tipo. Freud llamó al descubrimiento del inconsciente la tercera herida al amor propio humano, después de Copérnico y de Darwin: resultó que nuestro yo consciente no maneja toda nuestra vida psíquica. Lacan escribía al sujeto como una letra tachada, $: estamos divididos, no somos del todo transparentes para nosotros mismos, y parte de lo que nos mueve habla a través de lapsus, sueños, situaciones que se repiten. La confusión no es una falla, sino un momento honesto en el que tocás esa división. No hace falta cerrarla a las apuradas con una respuesta hecha. El psicoanálisis valora justamente esos momentos: en ellos puede sonar algo que no sabías de vos.",
+      "practice": "Durante un minuto, decí en voz alta lo que se te venga a la cabeza, sin elegir ni acomodar, como en el diván del analista. Después preguntate: ¿qué palabra me sorprendió?",
+      "quote": {
+        "text": "El yo no es el amo en su propia casa.",
+        "author": "Sigmund Freud",
+        "source": "«Una dificultad del psicoanálisis» (1917)"
+      }
+    },
+    "fatigue": {
+      "text": "«¡Gozá!»: para Lacan, esa es la orden más cruel que puede darnos una voz interior. El agotamiento que sentís es real, y esa orden tiene mucho que ver con él. Freud describió el «superyó» como un capataz interno cuyas exigencias nunca pueden cumplirse del todo. Lacan le agregó una vuelta inesperada: el superyó no solo exige «no debés», sino también «¡gozá!»: sé feliz, productivo, exitoso. Llamó al superyó un imperativo de goce, una palabra que no quiere decir simple placer, sino un «demasiado» tenso que roza el dolor. Lacan distinguía además la demanda, que puede satisfacerse, del deseo, que nunca se sacia. El burnout puede entenderse como un intento de responder por completo a la demanda infinita del Otro, como si pudiera cerrarse. Admitir que es imposible no es una derrota, sino un alivio.",
+      "practice": "Respondele en voz alta a la voz interior que no para de decir «un poquito más, tenés que terminarlo»: «Te escucho. Hoy no». Decilo con calma, como un analista que termina la sesión a tiempo.",
+      "quote": null
+    },
+    "boredom": {
+      "text": "Ni Freud ni Lacan escribieron sobre el aburrimiento como tal, pero Lacan probablemente empezaría con una pregunta: ¿adónde se fue la chispa? El aburrimiento parece trivial, pero puede ser muy opresivo, y es un sentimiento honesto. Lacan pensaba que el deseo se apoya en la falta y en el «objeto a», la causa del deseo, la chispa escurridiza que hace que algo nos atraiga. El aburrimiento es quizás el estado en el que los objetos que nos rodean están, pero la chispa no: todo está disponible y, sin embargo, nada llama. Eso no quiere decir que el deseo haya desaparecido; simplemente todavía no encontró hacia dónde ir. A veces el aburrimiento es una pausa útil: cuando el mundo deja de ofrecer respuestas hechas, tenés la oportunidad de notar tu propio interés, no uno impuesto.",
+      "practice": "Acordate de la última vez que algo te interesó de verdad, y contáselo a alguien en dos frases. Escuchá: ¿qué te atraía entonces, la cosa en sí o alguna chispa en ella?",
+      "quote": null
+    },
+    "joy": {
+      "text": "«Mirá, este es el mundo que parece tan peligroso: ¡un juego de chicos!». Eso es, para Freud, lo que nos dice en el humor el superyó severo, de pronto amistoso. La alegría no necesita justificación; el psicoanálisis la recibe con atención, pero sin ingenuidad. Freud describió el «principio de placer»: el psiquismo tiende a reducir la tensión y alcanzar el equilibrio. Lacan distinguió del placer el goce, una experiencia excesiva e intensa que puede lindar con el dolor. La alegría está más cerca del placer: es suave y no exige «más y más». La alegría no tiene que ser completa ni eterna para ser real. Podés dejar que sea chiquita y simplemente quedarte en ella.",
+      "practice": "Compartí con alguien una cosita graciosa o feliz de hoy, solo para que quede dicha. Dicha en voz alta, la alegría se vuelve un poco más tuya.",
+      "quote": null
+    },
+    "love": {
+      "text": "«Dar lo que no se tiene»: así definió Lacan el amor. Suena raro, pero describe la ternura con una precisión notable. Lacan hablaba del amor de manera paradójica: en él no damos cosas ni virtudes, sino nuestra propia falta, la admisión de que algo nos falta y de que el otro nos importa. Amar, para Lacan, es abrirse, no presentarse como perfecto. Freud, por su parte, señaló que en el amor muchas veces repetimos vínculos tempranos y vemos en la persona amada reflejos de figuras del pasado. Eso no desvaloriza el sentimiento: simplemente muestra que está conectado con toda tu historia. El psicoanálisis se toma el amor en serio: la propia conversación analítica, para Freud, descansa en la «transferencia», es decir, en el amor. Tu ternura no es debilidad, sino el coraje de mostrar tu falta.",
+      "practice": "Decile a alguien que querés, o en silencio, imaginando su cara, una frase que empiece con «Te extraño cuando…» o «Me importa que vos…». Ese es el regalo lacaniano: no una cosa, sino tu propia falta.",
+      "quote": {
+        "text": "Amar es dar lo que no se tiene.",
+        "author": "Jacques Lacan",
+        "source": "«Seminario 8: La transferencia» (1960–1961)"
+      }
+    },
+    "gratitude": {
+      "text": "Melanie Klein puso una al lado de la otra, en el título de un libro, dos palabras que parecen opuestas: «Envidia y gratitud». La gratitud es un sentimiento cálido, y Klein explicó por qué importa tanto. Klein, psicoanalista de la generación posterior a Freud, mostró en ese libro (1957) que estos sentimientos son dos polos: la envidia arruina lo bueno que recibimos, mientras que la gratitud nos permite aceptarlo y conservarlo adentro. Lacan tiene otra idea: toda demanda es, en el fondo, demanda de amor, y un regalo vale no por el objeto en sí, sino por lo que significa: «me importás». Por eso la gratitud muchas veces no responde a la cosa, sino al signo de atención. Permitirte ser agradecido es admitir que necesitás a otros, y no hay nada humillante en eso.",
+      "practice": "Agradecele hoy a alguien un signo de atención y no una cosa: «gracias por acordarte», «gracias por darte cuenta». Lacan diría que estás respondiendo a una demanda de amor.",
+      "quote": null
+    },
+    "hope": {
+      "text": "«La voz del intelecto es queda, pero no descansa hasta hacerse oír», escribió Freud, un hombre de esperanza cautelosa. La esperanza te ayuda a seguir viviendo, y el psicoanálisis la trata con respeto, pero con sobriedad. En «El porvenir de una ilusión» (1927), Freud llamó ilusión a una creencia en la que el cumplimiento de deseo juega el papel principal; no es necesariamente un error, pero sirve ver qué es exactamente lo que queremos. Él mismo creía en el poder lento pero persistente de la razón y la comprensión. Lacan describió el deseo como un movimiento que se desliza de un objeto a otro y nunca llega a un reposo definitivo. La esperanza es deseo vuelto hacia el futuro. No necesita saber cómo va a terminar todo; alcanza con que el deseo esté vivo y siga buscando.",
+      "practice": "Completá: «Tengo la esperanza de que…», y en la línea de abajo: «Y detrás de eso hay un deseo de…». Leé la segunda línea en voz baja, como esa voz queda del intelecto, y fijate qué apareció en ella.",
+      "quote": null
+    },
+    "nostalgia": {
+      "text": "«El hallazgo de objeto es propiamente un reencuentro», escribió Freud en 1905. La nostalgia, dulce y triste a la vez, es la prueba viva de esa frase, y no tiene nada de infantil. En «Tres ensayos de teoría sexual» quería decir que cada vínculo nuevo busca en parte algo muy temprano y perdido hace mucho: no tanto encontramos como reconocemos. Lacan desarrolló esta idea: el objeto perdido, en cierto sentido, nunca estuvo en nuestras manos con la plenitud con que lo recordamos. La nostalgia no añora tanto el pasado tal como fue, sino la imagen de plenitud que el pasado guarda para nosotros. Eso no desvaloriza tus recuerdos: son reales. Pero podés notar que la añoranza de «aquella época» dice mucho sobre tu deseo de «ahora».",
+      "practice": "Nombrá en voz alta un recuerdo que extrañás y preguntate: ¿qué sentimiento de ahí me gustaría encontrar hoy en mi vida? Lacan diría que la añoranza de «aquella época» habla del deseo de «ahora».",
+      "quote": {
+        "text": "El hallazgo de objeto es propiamente un reencuentro.",
+        "author": "Sigmund Freud",
+        "source": "«Tres ensayos de teoría sexual» (1905)"
+      }
+    },
+    "craving": {
+      "text": "«No es eso»: Lacan veía en esta frase la fórmula misma del deseo: consigamos lo que consigamos, queda una hiancia. Cuando llega un «lo quiero ya» fuerte, no hay nada de vergonzoso en eso. Lacan distinguía tres cosas: la necesidad (hambre, sed), la demanda (un pedido dirigido a otro) y el deseo, lo que queda más allá de ellas y nunca se satisface del todo. Las ganas prometen: «Es esto, y después todo va a estar bien». Pero una vez conseguida la cosa, muchas veces sentimos el conocido «no es eso» lacaniano. Un cigarrillo, un trago o el celular muchas veces ocupan el lugar de otra cosa, algo difícil de nombrar. Eso no te hace débil; así funciona el deseo para todos. Lo que ayuda no es tanto la prohibición como una pregunta: ¿qué espero conseguir exactamente en este segundo: calma, cercanía, olvido?",
+      "practice": "Cuando lleguen las ganas, decí en voz alta: «Si lo tuviera ahora mismo, sentiría…», y terminá la frase. La última palabra es lo que realmente estás buscando; quedate con ella un minuto antes de hacer cualquier cosa.",
+      "quote": null
+    },
+    "addiction": {
+      "text": "«Calmantes»: así llamó Freud, sin ningún juicio, a las cosas que la gente usa para aliviar una vida demasiado dura. La adicción no es una falla moral, sino un círculo del que es realmente difícil salir. En «El malestar en la cultura» los enumeró: distracciones, satisfacciones sustitutivas, sustancias embriagadoras. Reconoció que estas últimas actúan rápido, pero señaló con sobriedad su costo: consumen una energía que podría ir a cambiar la propia vida. En «Más allá del principio de placer» (1920), Freud describió la «compulsión de repetición», la tendencia del psiquismo a volver a lo que no trae placer. Lacan la vinculó con el goce, algo más allá del simple placer que nos retiene incluso cuando causa dolor. El psicoanálisis propone no avergonzarte, sino empezar a hablar: lo que fue nombrado pierde algo de su poder.",
+      "practice": "Decí una frase en voz alta: «Esto me ayuda a no sentir…», y terminala. Después pensá a quién podrías decírsela de verdad: a alguien cercano, a un profesional o en un grupo de ayuda mutua (como AA o NA).",
+      "quote": {
+        "text": "La vida, como nos es impuesta, resulta gravosa: nos trae hartos dolores, desengaños, tareas insolubles. Para soportarla, no podemos prescindir de calmantes.",
+        "author": "Sigmund Freud",
+        "source": "«El malestar en la cultura» (1930)"
+      }
+    },
+    "hangover": {
+      "text": "¿Quién es este juez que te despierta la mañana siguiente, antes que el despertador? Te duele el cuerpo, la ansiedad, la vergüenza y los baches de memoria se apilan encima, y nada de eso te convierte en una mala persona. En «Psicología de las masas», Freud escribió sobre las fiestas: en ellas las prohibiciones de siempre se levantan por un rato, y una persona se siente libre. Pero después vuelve el «superyó», la instancia interna que juzga, prohíbe y castiga. La «resaca moral» es el regreso de un juez interno estricto que a veces castiga mucho más duro de lo que merece lo que pasó. Lacan agregaría: la angustia de «qué hice anoche» es una pregunta por la mirada del Otro. Ayuda distinguir lo que realmente pasó de lo que el juez de adentro completa por su cuenta.",
+      "practice": "Salí cinco minutos y en el camino repasá mentalmente dos listas: «lo que sé con seguridad» y «lo que completa el juez». Fijate cuál es más larga.",
+      "quote": null
+    },
+    "euphoria": {
+      "text": "Un nene de dieciocho meses se reconoce por primera vez en el espejo y se regocija: ahí está, entero, armado. Lacan empezó su teoría con esta escena, y algo de ella hay en cada estallido de euforia, cuando todo parece posible. En «Psicología de las masas y análisis del yo», Freud observó que el sentimiento de triunfo surge cuando algo en nosotros coincide con nuestro «ideal del yo», la imagen de quien nos gustaría ser. Por un momento desaparece la distancia entre «quien soy» y «quien quiero ser», y todo se siente liviano y luminoso. La euforia no es un engaño, sino un momento valioso de coincidir con uno mismo. El psicoanálisis solo agrega que esa coincidencia es temporal por naturaleza, porque el deseo vive de la distancia. No es motivo para empañar el subidón, sino para disfrutarlo sin exigir que dure para siempre.",
+      "practice": "Mirate al espejo en este momento de exaltación y nombrá en voz alta la imagen con la que estás coincidiendo ahora: «valiente», «liviano», «libre». Recordala: es una pista de tus ideales, no una promesa de para siempre.",
+      "quote": null
+    },
+    "crash": {
+      "text": "«Una fiesta es un exceso permitido, más bien obligatorio», escribió Freud en «Tótem y tabú». Y después de la fiesta viene la caída: el mundo se apaga, y parece que siempre va a ser así. Freud describió cómo, después de una fiesta o de un momento de triunfo, el yo y el ideal del yo vuelven a separarse: reaparece la distancia entre quienes somos y quienes queremos ser, y se siente como una pérdida. Lacan agregaría que las cosas logradas muchas veces pierden su brillo: el conocido «no es eso». El bajón no prueba que la alegría fuera falsa ni es la verdad sobre tu vida. Es el regreso de la falta, de la que nace el deseo. El bajón va a pasar, y la falta va a volver a ser lo que te mueve.",
+      "practice": "Quedate un minuto en silencio después de las palabras «Ahora me falta…», sin llenar la pausa, como un analista que deja resonar una palabra importante. La falta es parte de estar vivo.",
+      "quote": null
+    },
+    "panic": {
+      "text": "Freud fue uno de los primeros en describir el ataque de pánico, ya en 1895, mucho antes de que tuviera ese nombre. Da muchísimo miedo de verdad: el corazón, la respiración, la sensación de «me voy a morir o me voy a volver loco». Una ola así suele llegar a su pico y bajar en pocos minutos. Freud distinguía dos clases de angustia. La angustia «señal» avisa de un peligro. La angustia «automática» nos inunda cuando el psiquismo no llega a procesar la tensión a tiempo; Freud veía su prototipo en el desvalimiento del lactante. Lacan diría que en esos momentos chocamos con lo «real», lo que no se puede poner en palabras. Por eso ayudan dos cosas: sostén para el cuerpo ahora, y palabras después. Una vez que la ola pasó, contarla ya empieza a volverla menos informe.",
+      "practice": "Apoyá los pies bien planos en el piso y sentilos. Hacé la exhalación más larga que la inhalación y nombrá en voz alta lo que ves: «mesa, ventana, taza», palabra por palabra, como hilos con los que lo simbólico te vuelve a coser a la realidad.",
+      "quote": null
+    },
+    "dread": {
+      "text": "«Nadie cree en su propia muerte», escribió Freud en 1915, en plena guerra. Cuando se levanta el «para qué todo esto», la sensación de abismo y de finitud, no hay nada anormal en eso. En «De guerra y muerte. Temas de actualidad» explicó que es imposible imaginar de verdad nuestra propia muerte: en el inconsciente cada uno de nosotros está, por así decir, convencido de su inmortalidad. Por eso la idea de la finitud irrumpe como algo ajeno y aterrador. Lacan llamó «real» a lo que no entra en el lenguaje ni en las imágenes, y la angustia aparece cuando nos acercamos demasiado a eso. La respuesta no es encontrar una explicación final, sino seguir hablando: el lenguaje, los lazos con la gente, el deseo son lo que los seres humanos construyen al borde del abismo, y esa construcción es la vida misma.",
+      "practice": "Llamá o mandale un mensaje a alguien con quien hace rato querés hablar: solo un «¿cómo andás?». Lacan diría que al borde del abismo la gente construye palabra y lazo; este es un ladrillito de esa construcción.",
+      "quote": null
+    },
+    "fomo": {
+      "text": "«El deseo del hombre es el deseo del Otro»: la fórmula más citada de Lacan, y cualquier feed la confirma a cada segundo. La sensación de que todos viven vidas más interesantes mientras vos estás «en el lugar equivocado» es común y dolorosa. La fórmula quiere decir que nuestro deseo está siempre ligado al Otro. No queremos simplemente cosas, sino lo que otros encuentran deseable, lo que parece reconocido. Las redes sociales son la máquina perfecta para este deseo: no muestran la vida de la gente, sino su vidriera, una imagen «imaginaria» en el sentido de Lacan. El miedo a perderte algo tiene menos que ver con los acontecimientos que con la pregunta: «¿Dónde está lo que yo realmente quiero?». La respuesta no la vas a encontrar en el feed de otro. Lacan consideraba que la pregunta ética central es «¿Ha actuado usted en conformidad con el deseo que lo habita?»: el que te habita a vos, precisamente.",
+      "practice": "Preguntate en voz alta sobre lo que disparó el miedo a perderte algo: «¿Quiero esto, o quiero que me vean ahí?». Decí las dos versiones y escuchá cuál suena más verdadera.",
+      "quote": null
+    },
+    "sleepless": {
+      "text": "A las tres de la mañana el inconsciente habla más fuerte: por fin nada lo interrumpe. Si no podés dormir y los pensamientos te desgastan, el psicoanálisis tiene una imagen para esto. Freud llamó al sueño el «guardián del dormir»: convierte los pensamientos angustiantes en imágenes para que podamos seguir durmiendo. Cuando hay demasiada angustia, este guardián no da abasto, y nos despertamos o no logramos conciliar el sueño. Los pensamientos nocturnos no son la verdad sobre tu vida, sino material que el psiquismo no llegó a procesar durante el día. Lacan subrayaría que el inconsciente habla en lenguaje: un pensamiento nocturno que se repite es como una frase que todavía no fue escuchada hasta el final. No necesitás resolverla de noche. Alcanza con anotarla y guardarla para una conversación de día, con vos mismo o con otro.",
+      "practice": "Anotá el pensamiento nocturno en una frase, tal cual suena, y dejá la hoja boca abajo: «hasta mañana». A la mañana, subrayá la palabra más importante.",
+      "quote": {
+        "text": "Los sueños son los guardianes del dormir, y no sus perturbadores.",
+        "author": "Sigmund Freud",
+        "source": "«La interpretación de los sueños» (1900)"
+      }
+    },
+    "betrayal": {
+      "text": "«Tu es ma femme», «sos mi mujer»: Lacan citaba estas palabras como ejemplo de «palabra plena», la que no describe un lazo sino que lo crea. Por eso la traición hiere tan hondo: lo que se derrumba no es solo la confianza en una persona, sino tu imagen del mundo. Lacan distinguía dos niveles de la relación. Lo «imaginario» es el nivel de las imágenes: vemos en el otro a quien nos gustaría que fuera. Lo «simbólico» es el nivel de la palabra, de las promesas, del pacto, en el que descansa la confianza. La traición rompe la palabra dada y golpea aquello de lo que depende la vida entre las personas. Lacan decía también que el Otro está siempre «incompleto»: ninguna persona puede ser una garantía total. La traición no prueba que fuiste tonto. Revela dolorosamente lo que nadie quiere saber: no hay garantías, y sin embargo la gente sigue dando su palabra.",
+      "practice": "Escribí una frase: «Yo creía que él/ella…», y leela en voz alta. Escuchá: ¿habla de la persona real o de una imagen que amabas?",
+      "quote": null
+    },
+    "jealousy": {
+      "text": "En 1922 Freud hizo una afirmación sorprendente: quien no siente celos en absoluto lo más probable es que simplemente no los esté registrando. Los celos son desgarradores, pero no hay nada vergonzoso en ellos. Freud contaba su forma «normal» entre los afectos que es mejor no negar. Distinguía los celos basados en una amenaza real de los celos «proyectados», en los que le atribuimos al otro nuestros propios deseos inconscientes. A Lacan le encantaba un ejemplo de las «Confesiones» de San Agustín: un bebé, pálido de celos, mira a su hermano en el pecho. Para Lacan es una escena de lo «imaginario»: el otro parece poseer lo que a nosotros nos falta. Los celos muchas veces hablan no solo de tu pareja, sino también de tu propia falta, y eso se puede explorar sin vergüenza.",
+      "practice": "Imaginá al rival y preguntale en silencio: «¿Qué tenés vos que yo no tengo?». La primera respuesta habla más de tu propia falta que de esa persona; quedate un minuto con ella, sin vergüenza.",
+      "quote": null
+    },
+    "resentment": {
+      "text": "«Recordar, repetir y reelaborar»: Freud tituló un trabajo con tres verbos, y los tres tienen que ver directamente con un rencor viejo. Lo llevás encima, se reaviva una y otra vez, y casi siempre hay detrás una injusticia real. En ese trabajo (1914) señaló que lo que no podemos recordar y poner del todo en palabras tendemos a repetirlo. Lacan agregaría un pensamiento incómodo pero liberador: en la manera en que nos aferramos a un rencor hay un goce escondido, la satisfacción amarga de tener razón, un lazo con quien nos lastimó que no nos deja soltarlo. Esto no quiere decir «es culpa tuya»: así funciona el psiquismo para todos. Un rencor no necesita prohibición, sino reelaboración: ser dicho por fin entero.",
+      "practice": "Contá tu rencor en voz alta de principio a fin, a una persona o a una habitación vacía, como si fuera la última vez. Lacan diría: lo que fue dicho entero agarra menos fuerte.",
+      "quote": null
+    },
+    "heartbreak": {
+      "text": "Lacan decía que en el amor damos nuestra falta, y una ruptura nos la devuelve con intereses, de golpe y con filo. Un corazón roto es uno de los dolores más agudos, y necesita tiempo. Freud describió este estado con una precisión poco común. En «Duelo y melancolía» habla del «trabajo de duelo»: despacio, un recuerdo por vez, el psiquismo retira su investidura de una persona que ya no está. Es desgarrador justamente porque pasa de a poco, y cada recuerdo hay que volver a vivirlo. Tu dolor es un trabajo que está siguiendo su curso. No se lo puede apurar por orden, pero podés no ponerle obstáculos: permitite recordar, hablar, llorar.",
+      "practice": "Caminá diez minutos y en el camino recorré un recuerdo de esa persona: despacio, con detalle, hasta el final. Freud lo llamaría un paso del «trabajo de duelo»: la memoria suelta pieza por pieza.",
+      "quote": {
+        "text": "Nunca estamos menos protegidos contra las cuitas que cuando amamos; nunca más desdichados y desvalidos que cuando hemos perdido el objeto amado o su amor.",
+        "author": "Sigmund Freud",
+        "source": "«El malestar en la cultura» (1930)"
+      }
+    },
+    "impostor": {
+      "text": "«Un rey que se cree rey no está menos loco que un loco», le gustaba decir a Lacan. Si tenés miedo de que en cualquier momento «te descubran», esa frase está inesperadamente de tu lado. Freud describió la paradoja de «los que fracasan cuando triunfan»: a veces una persona no lucha con el fracaso, sino justamente con el cumplimiento de un deseo, como si no tuviera derecho a él. Lacan fue más lejos. Para él, todo rol que tenemos, «médico», «gerente», «especialista», nos es dado desde afuera, desde el orden simbólico, y no brota de nuestra naturaleza. Por eso todo el que es honesto consigo mismo siente una distancia entre sí y su título. Acordate de su rey. Tu distancia no es un desenmascaramiento, sino una señal de sensatez.",
+      "practice": "Nombrá tu rol en voz alta, «médico», «gerente», «mamá», y después tres cosas que realmente hacés en él. El rol puede ser ropa prestada, pero el trabajo es tuyo.",
+      "quote": {
+        "text": "Pues si un hombre que se cree un rey está loco, un rey que se cree un rey no lo está menos.",
+        "author": "Jacques Lacan",
+        "source": "«Acerca de la causalidad psíquica» (1946), en «Escritos»"
+      }
+    },
+    "self_hatred": {
+      "text": "Freud notó algo extraño: los reproches más crueles que un melancólico se dirige a sí mismo muchas veces no le caben a él, sino a otra persona. Cuando una voz interior no para de decirte que no valés nada, duele muchísimo, pero esa voz se equivoca, aunque suene convincente. Freud llamó a esta instancia «superyó» y notó su rareza: cuanto más estricta es una persona consigo misma, más duro se vuelve; la obediencia nunca lo satisface. En «Duelo y melancolía» sugirió que esos autorreproches en realidad están dirigidos a otro, una persona importante con la que uno no tenía permitido enojarse, y fueron vueltos hacia adentro. El crítico interno no es la voz de la verdad sobre vos, sino la voz de otro, absorbida hace mucho. El psicoanálisis no propone discutir con ella, sino preguntar: ¿de quién son estas palabras? Una vez que las reconocés, es más fácil dejar de tomarlas como propias.",
+      "practice": "Decí en voz alta la frase más frecuente de tu crítico interno y preguntate: «¿De quién es esta voz? ¿Quién me hablaba así?». Repetila con esa entonación: lo ajeno se reconoce más fácil de oído.",
+      "quote": null
+    },
+    "helplessness": {
+      "text": "Cada uno de nosotros empezó sin poder siquiera darse vuelta solo, pudiendo apenas llamar. La impotencia es un sentimiento pesado y antiguo, y Freud vio su clave en ese comienzo. Freud creía que la vida humana empieza con eso: durante mucho tiempo un lactante no puede valerse por sí mismo, y ese desvalimiento originario (Hilflosigkeit) nos vuelve seres que necesitan de otros. Por eso, para Freud, en los momentos de impotencia adulta vuelve con tanta facilidad un miedo muy temprano, casi infantil. Tu sentimiento no es prueba de debilidad, sino el eco de una experiencia profunda que comparten todas las personas. Hay algo más: del desvalimiento del lactante nacieron no solo la angustia, sino también la palabra y el lazo con los otros. La respuesta a la impotencia siempre fue, en esencia, tender la mano: un pedido, un relato, un llamado. Ese sigue siendo un paso posible ahora.",
+      "practice": "Llamá a alguien, por mensaje o de viva voz, y pedile una cosa chiquita: ayuda, que te escuche, simplemente que esté cerca. Para Freud, el llamado es la primerísima respuesta del ser humano al desvalimiento.",
+      "quote": null
+    },
+    "procrastination": {
+      "text": "Freud escribió un libro entero con «inhibición» en el título, y se acercó al tema con curiosidad, no con reproche. Si no lográs arrancar, no es vagancia, y el psicoanálisis lo ve igual. La inhibición, para Freud, es cuando el psiquismo restringe alguna actividad para no toparse con la angustia. A veces empezar asusta porque un comienzo acerca una evaluación, un posible fracaso, o al contrario, el éxito y las expectativas que trae. Lacan señaló que el deseo muchas veces se sostiene en lo que queda sin cumplir: mientras la tarea no empezó, puede ser tan perfecta como quieras. La procrastinación es un mensaje, no un defecto: algo de la tarea te angustia. Lo que ayuda no es la presión, sino una pregunta: ¿qué cambia si empiezo?",
+      "practice": "Completá la frase: «Si empiezo esto, voy a tener que enfrentarme con…», y mirá la última palabra. Después da el primer paso más chiquito posible: solo abrí el archivo.",
+      "quote": null
+    },
+    "uprooted": {
+      "text": "En 1938 Freud, con ochenta y dos años y gravemente enfermo, dejó Viena para irse a Londres y se llevó su diván. Quedar separado de tu casa, perder tu suelo, tu lengua, las caras conocidas, la vida a la que estabas acostumbrado, es una pérdida real, y merece su duelo. Él conocía esa pérdida desde adentro. Lacan subrayó que el ser humano existe en el lenguaje: nuestra lengua «materna» no es una herramienta, sino la trama de la que está hecho nuestro «yo». Por eso vivir en una lengua extranjera a veces puede sentirse como vivir un poco fuera de la propia piel. En su ensayo «Lo ominoso», Freud señaló que la palabra alemana unheimlich (ominoso, siniestro) viene de Heim, hogar. Tu añoranza es un duelo que necesita tiempo y palabras, en cualquier lengua.",
+      "practice": "Pronunciá una frase en tu lengua materna que hace mucho no decís en voz alta: un dicho, un verso, una palabra que solo se usaba en casa. Escuchá cómo suena tu voz en ella: Lacan diría que esa es la trama de la que está hecho tu «yo».",
+      "quote": null
+    },
+    "overload": {
+      "text": "Freud tiene la imagen de una vesícula viva diminuta que sobrevive solo porque su capa externa se endurece como una protección antiestímulo. El feed, las notificaciones y el flujo interminable te desgastan, y parece que no queda espacio libre adentro. El psiquismo, para Freud, está protegido de la misma manera contra un flujo demasiado fuerte de impresiones, y cuando esa protección se rompe, aparece una sobrecarga que no llega a procesar. Lacan agregaría algo inesperado: nuestro superyó no solo puede prohibir, sino también ordenar «¡Gozá!»: mirá más, aprendé más, no te pierdas nada. El scroll infinito no es falta de voluntad, sino una respuesta a esa orden. Podés permitirte lo que esa voz no soporta: parar, no saberlo todo, dejar algo sin leer.",
+      "practice": "Dejá el celular boca abajo y durante diez minutos no te enteres de nada: nada de leer, scrollear ni chequear. Decite: «Hoy no hay “¡gozá!”», y fijate qué pasa en tu cuerpo.",
+      "quote": null
+    },
+    "unreality": {
+      "text": "En 1904 Freud subió a la Acrópolis y de pronto pensó: «¿Entonces todo esto existe de verdad?». Si ahora todo a tu alrededor, o vos mismo, no se siente del todo real, es raro y asusta, y merece un cuidado suave. Más de treinta años después, en «Una perturbación del recuerdo en la Acrópolis» (1936), describió el extrañamiento que había sentido: como si lo que veía no fuera del todo real. Freud no decidió que estaba «roto»; se puso a explorar qué significaba esa sensación, y la vinculó con experiencias profundas de su pasado. Para el psicoanálisis, la sensación de irrealidad también es un mensaje: a veces así el psiquismo mantiene a distancia lo que es demasiado para sentirlo directamente ahora. No tenés que pelearte con ella; podés apoyarte con calma en las sensaciones y en las palabras.",
+      "practice": "Describí en voz alta lo que ves, como si se lo contaras a un amigo por teléfono: «Adelante mío hay una mesa, sobre ella una taza, y por la ventana…». Las palabras son lo que usa lo simbólico para volver a coserte al mundo.",
+      "quote": {
+        "text": "¡Entonces todo esto existe efectivamente tal como lo hemos aprendido en la escuela!",
+        "author": "Sigmund Freud",
+        "source": "«Una perturbación del recuerdo en la Acrópolis» (1936)"
+      }
+    },
+    "awe": {
+      "text": "Romain Rolland le escribió a Freud sobre un sentimiento que llamó «oceánico», una sensación de conexión con algo ilimitado. El asombro frente a algo inmenso o hermoso es una experiencia rara del mismo tipo. Freud admitió que él mismo casi no lo conocía, pero lo tomó en serio y sugirió que evoca un estado muy temprano, cuando el «yo» todavía no se había separado del mundo. Lacan describió la «sublimación» como elevar un objeto «a la dignidad de la Cosa»: cuando algo común de pronto brilla con algo más grande que sí mismo. El asombro es un momento en que el borde entre vos y el mundo se afina por un segundo. No necesita ser explicado del todo; podés simplemente atesorarlo.",
+      "practice": "Salí bajo el cielo o acercate a una ventana y durante un minuto mirá lo más grande que puedas ver, sin nombrarlo. Después intentalo en una frase, y fijate qué es lo que las palabras no pueden transmitir: eso es lo real de Lacan.",
+      "quote": null
+    },
+    "relief": {
+      "text": "Una de las primeras pacientes del psicoanálisis, Anna O., llamó a la cura por la palabra «limpieza de chimenea». El alivio lo conoce cualquiera que alguna vez habló algo hasta el fondo: algo se suelta, podés exhalar, y vale la pena aceptarlo sin reservas. Freud creía que el psiquismo está gobernado en buena medida por el «principio de placer», la tendencia a reducir la tensión penosa. El alivio es la experiencia de esa reducción en estado puro. Ya en los «Estudios sobre la histeria», Freud y Breuer notaron que cuando una experiencia dolorosa puede ponerse en palabras, sobreviene una liberación; lo llamaron «catarsis». Y en su libro sobre el chiste, Freud escribió que la risa surge cuando se libera la energía que veníamos gastando en contenernos. El alivio muestra cuánta fuerza se iba en la tensión. Podés registrar qué fue exactamente lo que la aflojó.",
+      "practice": "Contale a alguien en dos frases qué fue exactamente lo que aflojó la tensión: «limpiá la chimenea», como decía Anna O. El alivio dicho en voz alta se recuerda mejor.",
+      "quote": null
+    },
+    "calm": {
+      "text": "Freud les pedía a los analistas que escucharan de una manera especial: sin aferrarse a nada y sin rechazar nada. La calma, que no necesita justificación, se parece un poco a esa escucha. Aunque suene raro, el psicoanálisis sabe mucho sobre la calma, porque sabe mucho sobre la inquietud. Para Lacan, el ser humano es un ser deseante, y el deseo nunca se calla del todo. Así que la calma no es la ausencia de deseo, sino un momento en que no presiona ni exige conseguir algo con urgencia. Freud llamó a esta escucha «atención parejamente flotante». Tu calma se parece a esa atención puesta en tu propia vida: todo puede estar, y nada hace falta ahora mismo. Podés simplemente estar en este estado.",
+      "practice": "Durante un minuto, escuchá los sonidos a tu alrededor con «atención parejamente flotante»: sin destacar ninguno y sin rechazar ninguno. Como un analista que calla y simplemente oye.",
+      "quote": null
+    },
+    "inspiration": {
+      "text": "«Ante el problema del artista creador, el análisis tiene, ay, que deponer las armas», admitió Freud. La inspiración, ese estado vívido en el que querés crear, sigue siendo un poco un misterio, pero el psicoanálisis sí sabe algo de ella. Freud usó la palabra «sublimación» para el proceso por el cual pulsiones poderosas encuentran un camino nuevo, hacia el arte, la ciencia, el trabajo, y lo vio como uno de los logros más altos de la cultura. Lacan repensó la sublimación como la capacidad de elevar un objeto común «a la dignidad de la Cosa»: una palabra, un sonido, una línea de pronto empiezan a cargar algo más grande que ellos mismos. Es el momento en que tu deseo encuentra una forma. Lacan creía que lo importante es no ceder en tu deseo. Así que está bien darle salida a la inspiración enseguida, mientras el deseo está caliente, sin juzgar, sin comparar, sin preguntarte si a alguien le sirve.",
+      "practice": "Dale forma a tu inspiración en los próximos diez minutos: un boceto, una nota, un par de líneas, una melodía en un audio. No edites: Lacan diría que lo principal ahora es no ceder en tu deseo.",
+      "quote": null
+    },
+    "schadenfreude": {
+      "text": "En su libro sobre el chiste, Freud notó que muchos chistes son agresión permitida, un golpe que se puede dar con una sonrisa. Alegrarse del fracaso ajeno suele dar vergüenza admitirlo incluso ante uno mismo. Pero el psicoanálisis empieza justamente por no apartar la mirada de estos sentimientos. Lacan describió el «estadio del espejo»: nuestro yo se forma a partir de una imagen, y a su lado siempre hay un doble, otro que se nos parece, con quien competimos por un lugar y por reconocimiento. Llamó a esta dimensión lo «imaginario». Cuando un rival tropieza, por un momento parece que queda más lugar para nosotros. Esta alegría no prueba tu maldad, sino que es la huella de esa vieja lucha por un lugar. Podés registrarla y preguntarte: ¿con quién me estoy comparando ahora?",
+      "practice": "Imaginá que el rival que tropezó es tu reflejo en un espejo. Preguntate: «Si él perdió, entonces yo…?», y terminá la frase en voz alta. La respuesta te va a mostrar qué rivalidad vive en vos.",
+      "quote": null
+    },
+    "contempt": {
+      "text": "«El narcisismo de las pequeñas diferencias»: así explicaba Freud por qué rechazamos con más fuerza a quienes se nos parecen. El desprecio parece frío y seguro, pero muchas veces esconde algo vulnerable. En «El malestar en la cultura» (1930) dio ejemplos: vecinos, parientes, grupos muy cercanos entre sí. Hace falta una pequeña diferencia para subrayar la propia separación. Y en «Sobre la más generalizada degradación de la vida amorosa» (1912) mostró cómo el psiquismo puede dividir a las personas en elevadas y «bajas» para arreglárselas con un conflicto interno. El desprecio muchas veces rechaza en el otro lo que se nos parece demasiado, o lo que no queremos ver en nosotros. Eso no te convierte en una mala persona. Vuelve interesante al desprecio: podés interrogarlo.",
+      "practice": "Nombrá en voz alta el rasgo que despreciás en esta persona, y después preguntate en voz baja: «¿Alguna vez, aunque sea un poco, estuvo en mí?». Una pequeña diferencia a veces resulta ser muy pequeña.",
+      "quote": null
+    },
+    "disgust": {
+      "text": "En 1905 Freud llamó al asco, la vergüenza y la moral «diques»: fuerzas psíquicas que se levantan para contener y encauzar las pulsiones. El asco es un sentimiento corporal fuerte, sea hacia otros, hacia una situación o hacia vos mismo, y no te vuelve malo. Freud también señaló que un asco intenso a veces es una «formación reactiva»: el psiquismo convierte la atracción en repulsión para no encontrarse con un deseo. Eso no quiere decir que detrás de cada asco se esconda un deseo; muchas veces simplemente protege. Pero al asco vale la pena no solo soportarlo, sino también escucharlo: habla de un límite que te importa, y a veces de algo que se acercó demasiado a ese límite.",
+      "practice": "Imaginá tu asco como un dique y preguntale en voz alta: «¿De qué me estás protegiendo ahora?». No juzgues la primera respuesta: solo escuchala.",
+      "quote": null
+    },
+    "revenge": {
+      "text": "«Donde Ello era, Yo debo devenir»: así formuló Freud la meta del análisis. El deseo de venganza suele nacer de una herida real: te causaron dolor, y la justicia pide una respuesta. Freud no consideraba a las personas pacíficas por naturaleza: en «El malestar en la cultura» escribió sobre una inclinación a la agresión profundamente arraigada que la cultura se ve obligada a contener de algún modo. Pero el psicoanálisis traza una línea estricta entre el pensamiento y el acto. Las fantasías de venganza pueden ser tormentosas: son realidad psíquica, no un delito. El peligro está en el «pasaje al acto», en actuarlas salteando las palabras. Esa es su fórmula: donde opera una pulsión impersonal, tiene que aparecer un «yo» capaz de darse cuenta y elegir. A la venganza se le puede dar un lugar en las palabras, por escrito, en una conversación, y entonces deja de dar las órdenes.",
+      "practice": "Escribile a la persona que te lastimó una carta que nunca vas a mandar, con todo tu enojo, sin censura, y rompela. Después decí en voz alta qué era lo que más querías: un castigo, un reconocimiento o una disculpa.",
+      "quote": {
+        "text": "Donde Ello era, Yo debo devenir.",
+        "author": "Sigmund Freud",
+        "source": "«Nuevas conferencias de introducción al psicoanálisis» (1933), 31.ª conferencia"
+      }
+    },
+    "anger_at_loved": {
+      "text": "Un bebé ve a su madre a veces como «buena», a veces como «mala», y solo de a poco entiende que es una sola persona. El enojo con una pareja, con los padres, con los hijos puede quemar, y después viene la vergüenza, pero en esto el psicoanálisis es bastante tranquilizador. Melanie Klein mostró que la mezcla de amor y enojo empieza justo ahí. Klein llamó a ese paso «posición depresiva», no una enfermedad sino una etapa del crecimiento, en la que aprendemos a soportar que la persona que amamos y la persona con la que estamos enojados son la misma. De ahí nace el deseo de «reparación»: enmendar, cuidar, restaurar el lazo. El enojo no anula el amor. Lo importante no es descargarlo sobre la persona que querés ni escondértelo, sino darle palabras, y después volver con cuidado.",
+      "practice": "Cuando el enojo se haya calmado, decile a esa persona una frase cálida: no una disculpa por el sentimiento, sino una señal de lazo: «Estaba enojado, y me importás». Klein lo llamaría una pequeña reparación.",
+      "quote": null
+    },
+    "ambivalence": {
+      "text": "Lacan inventó una palabra, hainamoration, «odioenamoramiento», que funde en una sola el odio y el enamoramiento. Amar y no soportar a la misma persona al mismo tiempo es desgarrador, pero es una de las experiencias humanas más comunes. La palabra «ambivalencia» la introdujo el psiquiatra Eugen Bleuler, y Freud la volvió uno de sus conceptos clave: en «Tótem y tabú» (1913) mostró que hacia las personas más importantes, padres, amantes, maestros, nuestros sentimientos son casi inevitablemente dobles. Los sentimientos mezclados no quieren decir que algo en la relación esté roto sin arreglo ni que «no sepas amar». Más bien quieren decir que esa persona te importa de verdad. No tenés que resolver la ambivalencia ya mismo; podés dejar que hablen los dos lados.",
+      "practice": "Leé en voz alta la palabra «odioenamoramiento» y escuchá: no tiene ningún «pero»; los dos sentimientos se sostienen juntos. Probá, en un mismo aliento, decir de esta persona lo que amás y lo que no soportás.",
+      "quote": null
+    },
+    "guilty_relief": {
+      "text": "En «Tótem y tabú» Freud señaló que después de la muerte de un ser querido la gente muchas veces se tortura con reproches, como si fuera culpable de algo. Una vergüenza parecida suele venir con el alivio después de una ruptura, una muerte o una enfermedad larga: ¿cómo puedo sentirme más liviano? Pero el alivio y el amor pueden convivir. Freud explicaba esos reproches diciendo que en todo apego profundo, además de ternura, hay también cansancio y un resentimiento oculto, que nos avergüenzan y no reconocemos. El alivio es en parte la voz de ese cansancio no reconocido. Y no anula el amor ni quiere decir que seas una mala persona. Puede querer decir que terminó una tensión larga, y puede darte la fuerza para hacer el duelo de verdad.",
+      "practice": "Escribí dos frases una al lado de la otra: «Me siento más liviano porque terminó…» y «Extraño…». Leelas en voz alta una después de la otra: las dos son verdad.",
+      "quote": null
+    },
+    "indifference": {
+      "text": "A veces el sentimiento no llega cuando «debería», sino una semana después, con una película triste o con un café volcado. Donde algo «tendría» que conmoverte, la desgracia de otro, una noticia importante, incluso una pérdida, puede haber silencio adentro. Asusta, pero la indiferencia rara vez quiere decir que de verdad no te importa. Freud describió un mecanismo que llamó «aislamiento»: el psiquismo separa una representación del afecto ligado a ella, de modo que un hecho puede saberse sin sentirse con toda su fuerza. También señaló que el afecto puede «desplazarse» y aparecer más tarde por algún motivo trivial. El entumecimiento no es frialdad, sino una forma de defensa, muchas veces temporaria: el psiquismo te protege hasta estar listo para recibir lo que pasó. No hace falta obligarte a sentir «como corresponde». Podés simplemente registrar: mis sentimientos están en pausa, y dejar que lleguen a su tiempo.",
+      "practice": "Sentate en silencio un minuto, sin exigirte ningún sentimiento, como un analista que sabe esperar. Decite: «Los sentimientos en pausa también son una respuesta».",
+      "quote": null
+    },
+    "escape": {
+      "text": "Freud comparaba la fantasía con una reserva natural: un pedazo de tierra salvaje conservado tal como era mientras la cultura cambiaba todo a su alrededor. Las ganas de dejarlo todo e irte, el laburo, la ciudad, el papel de siempre, son una reserva así: muchas veces son la voz de un cansancio de una vida que se volvió demasiado estrecha. Lacan describió el deseo como «metonimia»: se desliza de objeto en objeto, apuntando no a una cosa sino a una falta que ninguna cosa cierra del todo. Freud mostró que las fantasías no son ensoñaciones vacías, sino escenas en las que cumplimos nuestros deseos. Vale la pena escuchar en serio tu fantasía de fuga: ¿en quién te convertís ahí, de qué mirada te liberás, qué te permitís por fin? Muchas veces «dejar todo» quiere decir «dejar de estar a la altura de las expectativas ajenas». Podés entenderlo sin tomar todavía ninguna decisión grande.",
+      "practice": "Cerrá los ojos y durante dos minutos quedate adentro de tu fantasía de fuga, como en una reserva natural: dónde estás, qué hacés, quién no está. Al abrir los ojos, nombrá la única cosa que más querés ahí, sin decisiones.",
+      "quote": null
+    },
+    "forbidden_attraction": {
+      "text": "«Yo no conocí el pecado sino por la ley»: Lacan leyó estas palabras del apóstol Pablo en su seminario sobre la ética como una descripción del deseo mismo. La atracción por alguien «prohibido» puede desconcertar y asustar. Pero en sí misma no dice nada de lo que vas a hacer, y el psicoanálisis se acerca a ella sin moralizar. Lacan concluyó que la prohibición y el deseo están más atados de lo que parece: lo «prohibido» se vuelve atractivo por sí mismo. Además, para Lacan, el deseo no apunta tanto a una persona como al «objeto a», la causa escurridiza del deseo, que siempre se escapa un poco. Sirve preguntarse no «¿Está bien esto?», sino «¿Qué hay en mí que responde a esta inaccesibilidad?».",
+      "practice": "Imaginá que la prohibición de pronto desapareció: esta persona está libre y disponible. ¿Qué le pasa a la atracción, crece o se apaga? Solo observá, sin conclusiones ni decisiones.",
+      "quote": null
+    },
+    "social_anxiety": {
+      "text": "Lacan hablaba del «gran Otro», una autoridad ante la cual parecemos estar rindiendo examen todo el tiempo. Cuando el miedo al juicio vuelve difíciles las cosas simples, entrar a una sala, empezar una conversación, hacer una llamada, ese examinador habla especialmente fuerte. Lacan describió cómo, en el «estadio del espejo», un chico se reconoce en su reflejo y se da vuelta hacia un adulto buscando confirmación: «¿Ese soy yo?». Desde entonces, parte de nuestro yo se apoya en la mirada y la aprobación de otro. Ese gran Otro es el lenguaje, las reglas, un juez imaginario. Pero las personas reales en la sala suelen estar mucho menos pendientes de nosotros que el examinador interno. Podés aprender de a poco a distinguir a los compañeros de carne y hueso del espectador que llevamos adentro.",
+      "practice": "En una reunión, elegí a una persona real y durante un minuto simplemente mirá en qué anda: adónde mira, qué tiene en las manos. Lo más probable es que esté ocupada consigo misma, no con vos: el examinador vive solo adentro.",
+      "quote": null
+    },
+    "uncertainty": {
+      "text": "«El sujeto supuesto saber»: así llamó Lacan al analista, y en ese «supuesto» se esconde toda una filosofía. La incertidumbre agota: no podés planificar, no hay dónde apoyarte, y quisieras que alguien supiera la respuesta. Acá el psicoanálisis dice algo inesperado: nadie tiene un saber completo. Una persona llega a un analista esperando que alguien sepa la respuesta, y de a poco descubre que ese Otro que todo lo sabe no existe. Lacan lo representó como el Otro «barrado»: el lenguaje, la sociedad, las autoridades también están incompletos. Al principio asusta, pero también hay libertad en eso: si nadie sabe con certeza, tu no saber no es un fracaso personal, sino una condición compartida de la vida. Incluso Freud, en su trabajo tardío «Análisis terminable e interminable» (1937), admitió que el trabajo mismo de entender nunca termina. La incertidumbre puede llevarse como una carga compartida.",
+      "practice": "Anotá la pregunta que te atormenta y, debajo: «Ahora mismo nadie sabe esto, ni siquiera el gran Otro». Leelo en voz alta y fijate cómo cambia la sensación.",
+      "quote": null
+    },
+    "waiting": {
+      "text": "El juego más famoso de la historia del psicoanálisis es un juego sobre la espera. Cuando estás esperando una respuesta, resultados, una noticia, el tiempo se estira y todo parece en pausa. Freud observó una vez a su nieto de dieciocho meses jugando con un carretel de madera atado a un hilo: lo tiraba por encima del borde de la cuna con un largo «o-o-o-o» (Freud lo entendió como fort, «se fue») y lo recuperaba feliz: da, «acá está». Describió este juego en «Más allá del principio de placer» (1920) y lo interpretó así: el chico, esperando a su madre ausente, convertía una espera impotente en una acción propia, una que podía controlar. La espera es especialmente desgarradora cuando somos completamente pasivos. Encontrar en ella aunque sea un área chiquita donde actuás por tu cuenta la vuelve más llevadera.",
+      "practice": "Jugá al «fort-da»: tirá algo blando lejos y traelo de vuelta, diciendo «se fue, acá está». Después hacé una tarea chiquita que dependa solo de vos mientras todavía no hay respuesta.",
+      "quote": null
+    },
+    "regret": {
+      "text": "El pasado no se puede rehacer, pero se puede volver a contar: en esencia, todo el psicoanálisis descansa en eso. El arrepentimiento que vuelve una y otra vez dice que algo te importó. El psicoanálisis ofrece dos maneras de mirarlo. Freud escribió sobre el «a posteriori» (Nachträglichkeit): el sentido de los hechos pasados puede cambiar después, cuando aprendemos y vivimos algo nuevo. Volver a contar cambia lo que el pasado significa para vos. Y en «La ética del psicoanálisis», Lacan dio una fórmula provocadora: la verdadera culpa está en ceder en el propio deseo, en traicionarlo. El arrepentimiento a veces no señala un error para llorar sin fin, sino un deseo que sigue vivo y que puede escucharse ahora.",
+      "practice": "Volvé a contar la historia de la que te arrepentís, a alguien o en voz alta para vos, pero empezá con las palabras «Lo que de verdad quería en ese momento era…». Fijate si el sentido se corre al contarla de nuevo.",
+      "quote": {
+        "text": "La única cosa de la que se puede ser culpable es de haber cedido en su deseo.",
+        "author": "Jacques Lacan",
+        "source": "«Seminario 7: La ética del psicoanálisis» (1959–1960)"
+      }
+    },
+    "longing": {
+      "text": "¿Qué perdemos cuando alguien que amamos ya no está cerca? Lacan respondería: más que a esa sola persona. Extrañar puede ser casi físico: extrañás su voz, su mirada, su presencia. En «Duelo y melancolía» (1917), Freud describió el «trabajo de duelo»: despacio, recuerdo por recuerdo, el alma vuelve a vivir cada hilo que la une a quien está ausente, y solo así libera de a poco su energía para la vida. No se lo puede apurar por orden. Lacan agregaría que la persona que amamos no era para nosotros solo ella misma, sino también un lugar donde nos sentíamos deseados y vistos. Así que extrañamos a la vez a esa persona y a quien éramos a su lado. La añoranza es un trabajo que hace un alma que ama. Se puede atravesar con suavidad, de a poco.",
+      "practice": "Repetí en voz alta una palabra cariñosa o una frase que esa persona solía decir, con su entonación. Escuchá cómo suena en tu voz: así sigue viviendo el lazo en la palabra.",
+      "quote": null
+    },
+    "world_pain": {
+      "text": "«¿Por qué la guerra?», le preguntó Einstein a Freud en 1932, y Freud respondió con una carta larga. El dolor por el mundo, por la injusticia, por las noticias sombrías, puede pesar tanto que la vida cotidiana se hace difícil, y habla de tu capacidad de compasión. En 1915, en plena Primera Guerra Mundial, Freud escribió «De guerra y muerte. Temas de actualidad», donde confesaba la misma desilusión y el mismo desconcierto que sentían muchos. Y terminó su respuesta a Einstein con una nota de esperanza cautelosa: todo lo que promueve el desarrollo de la cultura y los lazos entre las personas trabaja contra la destrucción. Tu dolor no es ingenuidad, sino parte de esos lazos. Pero el psiquismo no puede sostener sin límite el sufrimiento ajeno. Cuidar tus fuerzas no es indiferencia, sino la condición para seguir sintiendo.",
+      "practice": "Sostené hoy un lazo concreto: llamá, ayudá, participá. Después elegí un momento del día sin noticias y pasalo con lo que está cerca: personas, un libro, una caminata.",
+      "quote": null
+    },
+    "rejection": {
+      "text": "«Herida narcisista»: el término de Freud para las heridas que no golpean el cuerpo sino la imagen de uno mismo. El rechazo duele como si no hubieran rechazado un pedido, sino a vos entero. Freud escribió sobre el «narcisismo» no en el sentido cotidiano de vanidad, sino como el amor propio sano que todos necesitamos. El rechazo inflige una herida narcisista: golpea la imagen de nosotros mismos que construimos en parte a partir de cómo nos reciben los demás. Lacan mostró que nuestro yo se forma desde el principio a partir de reflejos, de lo que vemos en el espejo y en los ojos de los otros. Por eso el «no» de otro puede sentirse como una grieta en el yo mismo. Es importante recordar: un reflejo todavía no sos vos. El rechazo de una persona habla de un encuentro entre dos deseos que no coincidieron, no de tu valor.",
+      "practice": "Hacete dos preguntas en voz alta: «¿Qué es exactamente lo que, al parecer, rechazaron de mí?» y «¿Es un hecho, o un reflejo que confundí conmigo?». Las respuestas no tienen que ser definitivas.",
+      "quote": null
+    },
+    "abandonment": {
+      "text": "Un chico llora cuando su madre sale de la habitación, y un día deja de llorar, porque lleva la imagen de ella adentro. El miedo a ser abandonado puede ser muy hondo y muy viejo: parece que sin el otro el suelo va a ceder. En «Inhibición, síntoma y angustia» (1926), Freud consideró la pérdida de una persona amada, y después la pérdida de su amor, entre las situaciones de peligro más tempranas de un chico. Melanie Klein describió cómo un chico va «incorporando» de a poco una imagen buena del adulto que lo cuida, y ese sostén interno sigue estando incluso cuando la persona real sale de la habitación. Tu miedo de hoy puede cargar el eco de una experiencia muy vieja. Y al mismo tiempo, lo más probable es que ya tengas sostenes internos: personas, voces, recuerdos que se quedaron con vos.",
+      "practice": "Recordá a alguien con quien te sentías seguro, y decí en voz alta, en su lugar, una frase que podría decirte ahora. Ese es el sostén interno del que escribió Klein.",
+      "quote": null
+    },
+    "unrequited": {
+      "text": "«Amo en ti algo más que tú»: así describía Lacan el amor, que siempre le erra un poco a la persona viva. Cuando el sentimiento está pero la respuesta no llega, duele, pero el amor no es menos real por eso. En «Introducción del narcisismo» (1914), Freud señaló que el enamoramiento suele ir acompañado de una «sobrestimación» de la persona amada: le atribuimos perfecciones que en buena medida pertenecen a nuestro propio ideal. Lacan fue más lejos: ese algo más es el misterioso «objeto a», que causa el deseo pero nunca coincide con la persona viva. Por eso el amor no correspondido hiere dos veces: perdemos no solo la esperanza en la persona, sino también el ideal que pusimos en ella. Podés intentar distinguir qué es exactamente lo que amabas en ella, y qué parte de eso es en realidad tuya y puede quedarse con vos.",
+      "practice": "Anotá tres cualidades que amás en esta persona, y rodeá con un círculo las que te gustaría encontrar o desarrollar en tu propia vida. Esa es la parte del amor que sigue siendo tuya.",
+      "quote": null
+    },
+    "humiliation": {
+      "text": "Alguien se eleva rebajando a otro: así funciona, para Lacan, el juego de las imágenes, el registro que llamó lo «imaginario». Cuando te humillaron, muchas veces delante de otros, parece que te quitaron la dignidad. Freud distinguía el yo del «ideal del yo», la imagen de quien nos gustaría ser. La humillación golpea justamente en la distancia entre los dos: es como si nos mostraran a la fuerza lo lejos que estamos de nuestro propio ideal. Lacan agregaría que la humillación se despliega justamente en ese registro. Pero la imagen que te impusieron no es toda la verdad sobre vos: el sujeto, para Lacan, es siempre más que cualquier reflejo. Podés separar el dolor, que es real, del veredicto, que no tenés por qué aceptar.",
+      "practice": "Parate derecho y sentí los pies y la coronilla: un cuerpo más grande que cualquier reflejo. Decí en voz alta: «Esta imagen me la impusieron. Soy más que ella».",
+      "quote": null
+    },
+    "body_shame": {
+      "text": "«El yo es sobre todo una esencia-cuerpo», escribió Freud. Cuando el espejo se vuelve un examen y la insatisfacción con tu cuerpo te desgasta, es fácil olvidar esa frase. En su trabajo sobre el «estadio del espejo» (1949), Lacan describió cómo un bebé, todavía torpe y descoordinado, de pronto ve en el espejo una imagen unificada y la toma con júbilo como propia. Desde entonces, según Lacan, vive en nosotros una tensión entre cómo se siente el cuerpo desde adentro y una imagen que «debería» ser lisa y entera. La vergüenza del cuerpo no es un capricho personal tuyo, sino una grieta inscripta en la manera misma en que llegamos a ser nosotros. Se puede suavizar volviendo más seguido de la imagen a la sensación viva: el cuerpo no es solo una imagen, sino también el que siente.",
+      "practice": "Date vuelta, de espaldas al espejo, y durante un minuto sentí tu cuerpo desde adentro: el calor de las manos, tu peso, tu respiración. Ese es el yo corporal que el reflejo no muestra.",
+      "quote": {
+        "text": "El yo es sobre todo una esencia-cuerpo; no es solo una esencia-superficie, sino, él mismo, la proyección de una superficie.",
+        "author": "Sigmund Freud",
+        "source": "«El yo y el ello» (1923)"
+      }
+    },
+    "illness": {
+      "text": "El poeta Wilhelm Busch tiene un verso que Freud citaba: a un hombre con dolor de muelas el alma entera se le recluye «en la estrecha cavidad de su molar». Cuando el cuerpo te falla, dolor, enfermedad, debilidad, es duro, y la irritación, el miedo y la tristeza son naturales. En «Introducción del narcisismo» (1914), Freud observó que una persona atormentada por un dolor o una enfermedad retira sin querer su interés del mundo exterior y lo concentra en sí misma. Freud no lo condenaba: veía ahí un movimiento natural del psiquismo que reúne sus fuerzas donde duele. Si ahora te cuesta interesarte por algo que no sea tu propio estado, no es egoísmo. El interés por el mundo suele volver cuando las cosas se alivian un poco; por ahora, podés simplemente estar más atento a vos.",
+      "practice": "Decite en voz alta una frase que le dirías a un amigo enfermo, suave, sin exigencias: «Ahora esto es difícil para vos; no tenés que decidir nada». Repetila cuando se ponga más pesado.",
+      "quote": null
+    },
+    "pride": {
+      "text": "¿La cara de quién imaginaste cuando todo salió bien? Lacan encontraría importante esa pregunta. El orgullo por lo que hiciste es merecido, y no hace falta esconderlo. Para Freud, todos necesitamos un amor propio sano, y una parte importante de él es la sensación de haberse acercado al propio «ideal del yo», la imagen de quien querés ser. Cuando eso pasa, el sentimiento de sí sube, y está bien. Freud llamó «sublimación» a encauzar las pulsiones hacia el trabajo, la creación y el conocimiento, y el orgullo suele acompañar esos frutos. Lacan agregaría: importa de quién es el reconocimiento que buscás. El orgullo es más estable cuando vos mismo ves el valor de tu trabajo, y no solo el aplauso de los demás. Podés permitirte alegrarte, y fijarte qué deseo tuyo se cumplió.",
+      "practice": "Contale a una persona lo que hiciste, y agregá: «Esto me importa porque…». Lacan preguntaría de quién es el reconocimiento que buscás; que el primero sea el tuyo.",
+      "quote": null
+    },
+    "melancholy": {
+      "text": "En el verano de 1913 Freud salió a caminar por la montaña con un joven poeta que no podía disfrutar de la belleza sabiendo que iba a marchitarse. La tristeza suave es un sentimiento tranquilo en el que la pena se mezcla con ternura hacia el mundo, y la discusión de Freud con el poeta es justamente sobre ella. Es importante hacer una distinción enseguida: para Freud, la «melancolía» es un concepto clínico que describe un estado grave, mientras que la tristeza suave es algo muy distinto. Más cerca de ella está el breve ensayo de Freud «La transitoriedad» (1916). Freud objetó: la transitoriedad no le quita valor a la belleza; al contrario, se lo suma. La tristeza suave es una manera de sentir el valor de lo que pasa. Podés atravesarla sin apuro, como una música tranquila, sin convertirla en ansiedad por la pérdida.",
+      "practice": "Leé en voz alta la frase de Freud en «La transitoriedad»: «El valor de la transitoriedad es un valor de escasez en el tiempo». Después pasá un minuto con algo que pasa cerca tuyo: una luz, un olor, un sonido.",
+      "quote": {
+        "text": "El valor de la transitoriedad es un valor de escasez en el tiempo.",
+        "author": "Sigmund Freud",
+        "source": "«La transitoriedad» (1916)"
+      }
+    }
+  }
+}

@@ -1,0 +1,413 @@
+{
+  "id": "pascal",
+  "title": "Pascal",
+  "tradition": "Filosofía cristiana, los moralistas",
+  "family": "early_modern",
+  "period": "siglo XVII",
+  "sortYear": 1670,
+  "thinkers": [
+    "Blaise Pascal"
+  ],
+  "keyWorks": [
+    "«Pensamientos» (publ. 1670)",
+    "«Memorial» (1654)"
+  ],
+  "summary": "Pascal fue un matemático, físico y pensador religioso francés. Sus «Pensamientos» son una colección de fragmentos sobre lo extraña y contradictoria que es la hechura del ser humano: frágil e insignificante frente al universo y, sin embargo, grande porque puede darse cuenta de eso.",
+  "onEmotions": "Pascal veía en el ser humano a la vez «miseria» y «grandeza»: somos débiles y cambiantes, pero podemos pensar nuestra propia debilidad. La mayor parte de la vida huimos de nosotros mismos hacia la «diversión» (divertissement) —el ajetreo, los negocios, los juegos— con tal de no quedarnos nunca a solas con la angustia y el aburrimiento. Para Pascal, un sentimiento difícil mirado de frente no es una falla sino un camino hacia la verdad sobre uno mismo. Sostenía además que hay un conocimiento del corazón —intuitivo, inmediato— que no se reduce al argumento lógico. Pascal fue un cristiano de fe profunda y buscó en Dios su consuelo último; aun así, sus observaciones sobre el ser humano valen lo mismo para quienes no comparten su fe.",
+  "entries": {
+    "anxiety": {
+      "text": "Pascal propuso un experimento sencillo: que cada uno examine sus pensamientos, y los va a encontrar todos ocupados en el pasado y en el futuro. La ansiedad es el ejemplo más puro: la mente se asoma a un futuro desconocido y no puede apartar la vista. Él notó que casi nunca estamos en el presente: recordamos el pasado, apuramos o anticipamos el futuro y «erramos por tiempos que no son nuestros», perdiéndonos el único que de verdad tenemos. El presente, escribió, por lo general nos duele, y por eso lo escondemos de nuestra vista. No es un reproche: para Pascal es simplemente la naturaleza humana, su fragilidad. Pero ofrece un apoyo suave. La ansiedad vive donde todavía no existe nada; lo que vos tenés es este minuto, en el que lo más probable es que estés respirando, sentado, leyendo. Podés volver a él: no para siempre, pero al menos por un momento.",
+      "practice": "Un minuto pascaliano de presente: nombrá en silencio un sonido, una sensación de tu cuerpo y un objeto que tengas adelante; lo que está acá ahora, no en «tiempos que no son nuestros».",
+      "quote": null
+    },
+    "fear": {
+      "text": "«El silencio eterno de estos espacios infinitos me aterra» es una de las frases más famosas de Pascal. Un gran matemático no se avergonzó de admitir su miedo, y quizá el tuyo se sienta un poco menos solo en esa compañía. El ser humano, escribió, está entre dos abismos —lo infinitamente grande y lo infinitamente pequeño— y no ve ni el principio ni el fin. Pero Pascal también tiene una respuesta: el hombre no es más que una caña, lo más débil de la naturaleza, pero una caña pensante. El universo podría aplastarlo, y aun así el hombre sabe que el universo es más fuerte, y el universo no sabe nada de eso. Tu miedo también es una forma de pensamiento: sos consciente de tu vulnerabilidad. Para Pascal, justamente ahí está la dignidad humana. Tener miedo no es ser insignificante; es ver.",
+      "practice": "Mirá el cielo o una ventana oscura —hacia los «espacios infinitos»— y decite: «Tengo miedo, y sé que tengo miedo». Fijate si en ese saber hay aunque sea un poco de apoyo.",
+      "quote": {
+        "text": "El silencio eterno de estos espacios infinitos me aterra.",
+        "author": "Blaise Pascal",
+        "source": "Pensamientos, fr. 206 (Brunschvicg)"
+      }
+    },
+    "sadness": {
+      "text": "«Un árbol no se sabe miserable», escribió Pascal; el ser humano sí lo sabe, y, curiosamente, esa es nuestra grandeza. Hasta tu tristeza guarda algo de esa grandeza: la capacidad de ver tu propia fragilidad. Pascal notó que la mayoría de la gente huye de la tristeza hacia la «diversión» —el ajetreo, el ruido, las tareas interminables— con tal de no quedarse a solas con ella. Él proponía otra cosa: no esconderse, sino mirar con honestidad. Bajo esta luz, la tristeza no es una falla sino un momento en que dejaste de distraerte y viste algo real de tu vida. Podés permitirte quedarte un rato con ella sin apurarte a taparla: esa honestidad tiene una dignidad propia.",
+      "practice": "Sentate en silencio en una habitación un par de minutos —sin celular, sin música, como aconsejaba Pascal— y simplemente preguntate: ¿de qué se trata en realidad mi tristeza?",
+      "quote": null
+    },
+    "grief": {
+      "text": "Después de perder a su padre en 1651, Pascal se sentó a escribirles una larga carta a su hermana Gilberte y al marido de ella. Ninguna palabra está obligada a quitar el duelo, y él no lo intentó. No les exigió serenidad ni llamó debilidad a la pena; reconoció que el golpe era demasiado real como para no sentirlo. Pascal buscó consuelo en la fe, en la esperanza de que la muerte no tenga la última palabra. Aun sin su fe, la carta guarda una idea importante: el duelo y la búsqueda de sentido pueden convivir; uno no anula al otro. Pascal sabía también que el corazón tiene sus razones: el amor por alguien que ya no está no cede ante argumentos como «ya es hora de calmarse». Tu duelo es una continuación de ese amor, y puede durar lo que tenga que durar.",
+      "practice": "Como Pascal en aquella carta, compartí el duelo en voz alta: llamá a alguien que también recuerde a quien perdiste y contale un recuerdo chiquito.",
+      "quote": null
+    },
+    "loneliness": {
+      "text": "Pascal escribió su libro principal como una conversación con un interlocutor invisible —un librepensador al que esperaba sacudir y despertar—, como si le hablara a alguien que no estaba ahí. Tu soledad duele, y Pascal sabía bien por qué. Notó lo difícil que nos resulta estar a solas con nosotros mismos: corremos hacia la gente, las tareas y los entretenimientos para no encontrarnos con nuestros propios pensamientos. Por eso la soledad se siente tan filosa: desaparece todo lo que en general nos distrae. Pero Pascal también vio en ella una oportunidad: solo en el silencio, escribió, una persona puede hacerse las preguntas más importantes sobre su vida. Eso no quiere decir que extrañar la cercanía esté mal; Pascal ponía el amor al prójimo, la «caridad», por encima de todo. Más bien, la soledad puede ser dos cosas a la vez: el dolor de la conexión que falta y un encuentro poco frecuente con vos mismo.",
+      "practice": "Hacé un movimiento chiquito hacia alguien: mandale a una persona un breve «me acordé de vos». Hasta Pascal, que valoraba la soledad, no soltó a sus amigos de Port-Royal.",
+      "quote": null
+    },
+    "anger": {
+      "text": "Una mosca zumba junto al oído y la mente más grande ya no puede razonar: así describía Pascal, con abierta ironía, la razón humana. Si recién te invadió el enojo, estás en muy buena compañía: ni las grandes mentes están a salvo de las pequeñeces. No es un reproche sino una observación sobria sobre nuestra fragilidad. Pascal hablaba también del «amor propio», el impulso de vernos como el centro del mundo, que nos vuelve especialmente sensibles a los desaires. Entender esto te ayuda a mirar tu enojo con más suavidad: no te convierte en mala persona, te recuerda que sos humano, un ser vulnerable que además es capaz de entender lo que le pasa.",
+      "practice": "Encontrá tu «mosca»: decí en voz alta qué es lo que en esta situación apenas zumba y qué es lo que de verdad te importa. Separalos con las manos: una cosa en la palma izquierda, la otra en la derecha.",
+      "quote": null
+    },
+    "shame": {
+      "text": "A Pascal le encantaba poner los opuestos cara a cara: miseria y grandeza, ángel y bestia. La vergüenza muestra un solo lado: te ves débil e imperfecto, y duele. Pascal no discutiría esa debilidad: consideraba real la «miseria» humana. Pero al mismo tiempo insistía en la «grandeza» humana, y la veía precisamente en la capacidad de darnos cuenta de nuestra imperfección. Un árbol, escribió, no conoce su miseria; el hombre sí, y en eso está nuestra dignidad. Pascal advertía también: el hombre no es ni ángel ni bestia, y quien quiere hacerse el ángel corre el riesgo de caer todavía más bajo. Entonces tu vergüenza no es una sentencia sino una señal de que te mirás con honestidad. Ese mirar ya es parte de tu grandeza.",
+      "practice": "Decite en voz baja el par de Pascal: «Veo mi miseria, y en verla está mi grandeza». Repetilo despacio dos veces.",
+      "quote": {
+        "text": "La grandeza del hombre es grande en cuanto se conoce miserable. Un árbol no se conoce miserable.",
+        "author": "Blaise Pascal",
+        "source": "Pensamientos, fr. 397 (Brunschvicg)"
+      }
+    },
+    "guilt": {
+      "text": "«Quien quiere hacer el ángel hace la bestia»: Pascal desconfiaba tanto de la autoflagelación como de la autoadmiración. Que la culpa te atormente dice lo principal: te importa cómo actuás. Como cristiano, Pascal pensó mucho en la imperfección humana. Pero su idea central acá es el equilibrio. Escribió que conocer la propia imperfección sin conocer el camino de la reparación y la misericordia es caer en la desesperación; y que ver solo la propia dignidad sin notar la debilidad es caer en el orgullo. El camino, para Pascal, está en el medio: admitir el error sin ahogarse en él. Para él, ese medio era la fe. Pero incluso fuera de la fe podés tomar el corazón de su pensamiento: la culpa no está para que te destruyas, sino para que te veas con honestidad y vuelvas a empezar.",
+      "practice": "El equilibrio de Pascal en un solo acto: hacé hoy una cosa chiquita que repare un poco de lo que pasó —una disculpa, un llamado, un favor devuelto— y quedate ahí.",
+      "quote": null
+    },
+    "envy": {
+      "text": "Cada uno de nosotros, notó Pascal, tiene dos vidas: la real y una imaginaria que vivimos en la cabeza de los demás; y por la segunda gastamos un esfuerzo enorme en parecer en lugar de ser. Cuando la envidia pica, vale la pena recordarlo. La envidia nace justo ahí: la comparación no es con la otra persona real sino con su imagen, que suele estar tan embellecida como la nuestra. Pascal no condenaba esto; mostraba cómo funcionan nuestro «amor propio» y nuestra imaginación. Su observación libera: lo que envidiás puede ser solo una fachada. Y tu propia vida real, la que vivís desde adentro, vale por sí misma.",
+      "practice": "Imaginá que esa persona también tiene una «segunda vida», la que está en vidriera, y una primera que queda oculta. Figurate un martes cualquiera de esa primera vida: cansancio, dudas, preocupaciones chicas.",
+      "quote": null
+    },
+    "emptiness": {
+      "text": "Imaginá a un rey privado de todas sus diversiones, proponía Pascal: dejado a solas consigo mismo, se vuelve el más desdichado de los hombres. El vacío que sentís lo conocen también los reyes. Pascal notó que, cuando una persona se queda sin tareas, entretenimientos ni pasiones, empieza a sentir su abandono y su impotencia, y desde el fondo del alma suben el aburrimiento, la tristeza y la amargura. Para él no es la enfermedad de alguien en particular sino un rasgo común de la naturaleza humana: todos llevamos ese vacío adentro y en general lo llenamos de ajetreo. Así que tu vacío no es señal de que algo ande mal en vos. Pascal veía en él una pregunta que la vida nos hace a todos: ¿qué puede llenarme de verdad? Él buscó la respuesta en la fe; pero la pregunta en sí es honesta e importante para cualquiera.",
+      "practice": "Apoyá una palma en la panza y hacé cinco respiraciones lentas hacia el vacío, sin llenarlo con nada. En la última exhalación, preguntá en voz baja: «¿Qué me falta en realidad?».",
+      "quote": {
+        "text": "Nada es tan insoportable para el hombre como estar en pleno reposo, sin pasiones, sin quehacer, sin diversión, sin aplicación.",
+        "author": "Blaise Pascal",
+        "source": "Pensamientos, fr. 131 (Brunschvicg)"
+      }
+    },
+    "confusion": {
+      "text": "«¡Qué quimera es entonces el hombre! ¡Qué caos, qué sujeto de contradicción: juez de todas las cosas, imbécil gusano de tierra!», exclamó Pascal. Si ahora estás confundido, a él no le sorprendería: así responde una mente honesta a la complejidad del mundo y de sí misma. No creía que esa maraña pudiera desenredarse del todo solo con la lógica. Pascal distinguía el «espíritu de geometría», que razona paso a paso a partir de definiciones, del «espíritu de fineza», que capta muchas cosas a la vez, intuitivamente, como con el corazón. Quizá en la confusión trabaja el segundo: todavía no ve una respuesta clara, pero intuye que las respuestas viejas ya no sirven. Pascal te ayuda a aceptarlo: la falta de claridad no es una derrota de la mente sino un reconocimiento honesto de lo compleja que es la vida.",
+      "practice": "Encendé lo que Pascal llamaba el «espíritu de fineza»: no busques argumentos; poné una mano en el pecho y preguntate qué sentís sobre la situación antes de cualquier razonamiento. La respuesta puede ser una sola palabra.",
+      "quote": null
+    },
+    "fatigue": {
+      "text": "Una vez los médicos le prohibieron al joven Pascal todo trabajo intelectual y le indicaron que descansara y se distrajera: así de agotado estaba. Tu cansancio también es real, y el descanso te corresponde. Sus ideas sobre la «diversión» ayudan a explicar un tipo particular de cansancio: el del ajetreo sin fin. Notó que muchas veces perseguimos tareas no por el resultado sino por la persecución misma: el cazador quiere la cacería, no la liebre. El ajetreo nos permite no estar a solas con nosotros mismos, pero también nos desgasta. El agotamiento, entonces, no es solo falta de fuerzas sino una señal de que la carrera se volvió un fin en sí mismo. Pascal no llamaba a no hacer nada; proponía que, al menos de vez en cuando, nos detengamos a preguntarnos hacia dónde corremos y por qué.",
+      "practice": "Hacele a una tarea de tu lista la pregunta de Pascal: «¿Necesito la liebre o la cacería?». Si es la cacería, pasala para mañana y usá los cinco minutos liberados para acostarte con los ojos cerrados.",
+      "quote": null
+    },
+    "boredom": {
+      "text": "Pascal te propondría empezar por lo más simple y lo más difícil: quedarte sentado en una habitación sin hacer nada. Escribió sobre el aburrimiento quizá más que cualquier filósofo de su época. Lo consideraba uno de los rasgos más profundos de la condición humana. Huimos del aburrimiento, notó, hacia el ruido, los juegos, las charlas y las tareas; cualquier cosa con tal de no estar a solas con nosotros mismos. De ahí su famosa observación sobre la habitación. Pascal no te invita a combatir el aburrimiento con todavía más entretenimiento. Te sugiere mirarlo de otra manera: el aburrimiento es el momento en que las distracciones dejan de funcionar y quedás más cerca de vos mismo. Es incómodo, pero es justo ahí donde pueden aparecer preguntas y deseos reales, y no los que impone el ajetreo.",
+      "practice": "Probá el experimento de Pascal: quedate sentado cinco minutos en una habitación, sin pantalla y sin tarea. No pelees con el aburrimiento; solo fijate qué pensamientos y deseos aparecen cuando ninguna diversión viene al rescate.",
+      "quote": {
+        "text": "Toda la desdicha de los hombres proviene de una sola cosa, que es no saber permanecer en reposo en una habitación.",
+        "author": "Blaise Pascal",
+        "source": "Pensamientos, fr. 139 (Brunschvicg)"
+      }
+    },
+    "joy": {
+      "text": "La noche del 23 de noviembre de 1654, «desde alrededor de las diez y media de la noche hasta alrededor de las doce y media»: Pascal anotó la hora con la precisión de un experimento científico. Conocía la fuerza de lo que estás sintiendo ahora. Escribió que todos los hombres, sin excepción, buscan ser felices, y que eso mueve cada una de nuestras acciones. Esa noche vivió una alegría y una certeza tan intensas que las escribió en una hoja, después la cosió en el forro de su abrigo y la llevó encima hasta su muerte; ese texto se conoce como el Memorial, y la palabra «alegría» aparece varias veces. Para Pascal fue una experiencia religiosa. Pero su vida también muestra algo universal: una alegría verdadera puede importar tanto que uno quiere guardarla en lugar de dejar que se disuelva en el ajetreo. Dejá que tu alegría sea notada; quizá también valga la pena «anotarla».",
+      "practice": "Siguiendo el Memorial, marcá esta alegría con precisión: la fecha, la hora y dos o tres palabras sobre su origen. Doblá el papel y guardalo en un bolsillo o en la billetera: que viaje con vos.",
+      "quote": null
+    },
+    "love": {
+      "text": "«El corazón tiene razones que la razón no conoce»: la frase más famosa de Pascal, escrita por un matemático acostumbrado a demostrarlo todo. La ternura que sentís no tiene por qué explicarse. Con «el corazón» no se refería solo a las emociones sino a una forma particular de conocer: una captación inmediata, intuitiva, que no pasa por las demostraciones. Sabemos que amamos antes y más hondo de lo que podemos dar razones. Para Pascal esto marca el límite de la razón, no su fracaso: no todo lo importante se deduce lógicamente. Tu ternura también es una forma de conocimiento, sobre el mundo y sobre otra persona. No hace falta justificarla con argumentos; tiene sus propios fundamentos, y no valen menos que los racionales.",
+      "practice": "Decile hoy a la persona que amás una cosa que tu corazón sabe de ella sin pruebas, aunque te salga torpe y simple.",
+      "quote": {
+        "text": "El corazón tiene razones que la razón no conoce.",
+        "author": "Blaise Pascal",
+        "source": "Pensamientos, fr. 277 (Brunschvicg)"
+      }
+    },
+    "gratitude": {
+      "text": "Una caña pensante, lo más débil de la naturaleza: así veía Pascal al ser humano. No escribió sobre la gratitud como tal, pero probablemente la reconocería en el sentimiento cálido que tenés ahora: algo te llegó como un regalo. Veía al ser humano frágil, dependiente, incapaz de bastarse a sí mismo; darse cuenta de eso puede llevar no solo a la angustia sino también a la gratitud, por lo que nos sostiene aunque no lo hayamos ganado ni creado. Pascal hablaba de tres «órdenes» —el de los cuerpos, el de los espíritus y el de la caridad— y sostenía que el orden del amor y la bondad es infinitamente más alto que los otros dos. La gratitud es quizá el momento en que rozamos ese orden superior: cuando notamos una bondad que nos fue dada.",
+      "practice": "Pasá el regalo en un gesto chiquito —invitale algo a alguien, decí gracias en voz alta, ayudá con una pavada— dentro del orden del amor, que Pascal ponía por encima de todos los demás.",
+      "quote": null
+    },
+    "hope": {
+      "text": "«Nunca vivimos, sino que esperamos vivir», escribió Pascal. La esperanza está viva y hace falta, y aun así él notó en ella una trampa y la describió con amarga precisión. Muchas veces vivimos tan a la espera de un futuro mejor que el presente se nos pasa de largo: siempre nos estamos preparando para ser felices. Eso no quiere decir que esperar esté mal. El propio Pascal fue un hombre de esperanza profunda —religiosa—, y lo sostuvo en la enfermedad y en la duda. Pero su observación ayuda a distinguir la esperanza que te da fuerzas para vivir ahora de la que posterga la vida «para más adelante». Podés conservar tu esperanza y al mismo tiempo preguntarte: ¿qué cosa buena ya está acá hoy? Entonces la esperanza deja de ser una fuga y se vuelve un sostén.",
+      "practice": "La apuesta de Pascal en miniatura: nombrá lo que esperás y poné hoy una ficha chiquita en eso: un paso, un llamado, cinco minutos de trabajo que traigan la esperanza al presente.",
+      "quote": {
+        "text": "Así, nunca vivimos, sino que esperamos vivir; y, disponiéndonos siempre a ser felices, es inevitable que nunca lo seamos.",
+        "author": "Blaise Pascal",
+        "source": "Pensamientos, fr. 172 (Brunschvicg)"
+      }
+    },
+    "nostalgia": {
+      "text": "Según su hermana, Pascal, con doce años, llegó por su cuenta hasta los teoremas de Euclides dibujando con carbón «barras y redondeles» en el piso. No tiene nada de malo un tirón tierno y triste hacia el pasado. Pascal notó que la mente humana rara vez vive en el presente: se va hacia el pasado y después corre hacia el futuro. La nostalgia es uno de esos paseos por el tiempo. Pascal escribió también que el tiempo cura las ofensas y las penas porque cambiamos: ya no somos quienes éramos. Esta observación explica también lo agridulce de la nostalgia: no extrañamos solo una época que pasó, sino también a la persona que éramos entonces. Pascal te ayuda a aceptarlo: cambiaste, y no hace falta traer de vuelta el pasado. Pero podés ver en él lo que te importaba, y ese saber se queda con vos ahora.",
+      "practice": "Agarrá un objeto viejo de esa época —una foto, un libro, una taza— y miralo un minuto, como Pascal estudiaba sus redondeles. Preguntate: ¿qué rasgo de mi yo de antes quiero traer a hoy?",
+      "quote": null
+    },
+    "craving": {
+      "text": "Pascal llamó a la imaginación «maestra de error y de falsedad», tanto más engañosa porque no siempre miente. Cuando llega un «lo quiero ya» filoso, es ella la que habla. La consideraba la potencia dominante en el ser humano y escribió que agranda las cosas chicas hasta que llenan el alma entera. En un momento de antojo, la imaginación hace exactamente eso: un solo objeto ocupa todo el horizonte. Pascal notó además que muchas veces no buscamos la cosa en sí, sino no quedarnos a solas con nosotros mismos, con nuestro aburrimiento o nuestra ansiedad; a eso lo llamó «diversión», una huida de uno mismo. No es un reproche: todos estamos hechos así. Pero podés preguntarte de qué querés escaparte justo ahora, y dejar que la ola de la imaginación se asiente un poco.",
+      "practice": "Mientras la imaginación infla el deseo, devolvele al cuerpo su medida: hacé diez respiraciones lentas contando las exhalaciones, y recién ahí preguntate de qué sentimiento querías escapar.",
+      "quote": null
+    },
+    "addiction": {
+      "text": "Dale a un jugador cada mañana tanto dinero como podría ganar ese día, con la condición de que no juegue: con este experimento mental Pascal mostró que solo lo harías desdichado. Para él, la adicción no prueba que alguien esté corrompido, sino que es una expresión de la condición humana compartida. Lo que el jugador necesita no es la ganancia sino la excitación del juego mismo, que lo distrae de pensar en sí mismo. Pascal veía que todos viven de esta «diversión», de los reyes a los sirvientes. Escribió también que la costumbre es una segunda naturaleza que puede desplazar a la primera. Suena alarmante, pero hay esperanza en eso: si la costumbre nos moldea tanto, también los hábitos nuevos, cultivados con paciencia y de a poco, pueden volverse parte de tu naturaleza.",
+      "practice": "Pascal veía que nadie deja atrás la «diversión» solo. Contale hoy a una persona de confianza qué sentimiento suele aparecer antes del ciclo, o acercate a un grupo de ayuda mutua (como AA o NA), donde hay gente que recorrió un camino parecido.",
+      "quote": null
+    },
+    "hangover": {
+      "text": "Sacá el ruido, observaba Pascal, y una persona queda a solas consigo misma: justo lo que más evitamos. La mañana después de tomar, cuando el cuerpo duele y te atormentan la ansiedad, la vergüenza y los baches de memoria, es exactamente ese silencio después del ruido. El ruido de anoche fue, en sus términos, una «diversión»: una manera de no encontrarte con vos mismo. A la mañana la diversión terminó, y quedaste a solas con vos, con toda tu fragilidad. Pascal consideraba al ser humano inconstante: podemos ser muy distintos a la noche y a la mañana, y ninguno de esos estados agota lo que somos. Decía también que la grandeza humana está en poder ver con honestidad la propia debilidad. La incomodidad de hoy es señal justamente de esa honestidad, no una sentencia. Podés darte tiempo para recuperarte antes de juzgarte.",
+      "practice": "Hacé una cosa simple por tu cuerpo —un vaso de agua, algo de comida, diez minutos de descanso— y decite, en el espíritu de Pascal, que sabía que una persona nunca es solo uno de sus estados: «Ayer es parte de mí, no todo yo».",
+      "quote": null
+    },
+    "euphoria": {
+      "text": "Pascal, inventor y polemista, conocía bien los momentos en que todo parece posible, y es perfectamente natural disfrutarlos. Pero notó algo interesante sobre esos picos. Escribió que la imaginación puede crear sus propios felices e infelices, sanos y enfermos, ricos y pobres, y que a quienes hace felices los llena de una satisfacción mucho más plena que la que da cualquier razón. Eso no quiere decir que la alegría no sea real: se vive completamente en serio. Pero Pascal te ayuda a ver que parte de su brillo viene de la imaginación, que pinta el mundo con los colores más vivos. Podés disfrutar el pico a pleno y aun así recordar que la luz exagera un poco. Las decisiones grandes conviene tomarlas cuando los colores vuelvan a la normalidad.",
+      "practice": "Armá un diálogo entre las dos potencias de Pascal: que la imaginación diga lo que parece posible ahora, y que la razón conteste con una sola línea: «Lo reviso un día tranquilo». Después, simplemente disfrutalo.",
+      "quote": null
+    },
+    "crash": {
+      "text": "«Así va la marea del mar», anotó Pascal junto a un pensamiento sobre cómo todo en la naturaleza avanza y retrocede. Hace poco todo brillaba y ahora se ve gris: eso cuesta atravesarlo. Escribió que la naturaleza humana no consiste en avanzar siempre: tiene sus idas y sus vueltas. La fiebre, notó, tiene su calor y sus escalofríos, y el frío muestra su fuerza tanto como el calor. Un bajón es como la bajamar que sigue a la pleamar; no es una sentencia sobre tu vida entera. Pascal no veía en estos vaivenes una falla: así vive el ser humano, frágil y cambiante. No hace falta que te exijas levantarte ya mismo; podés dejar que la bajamar pase.",
+      "practice": "Respirá al ritmo de la marea: una inhalación lenta, la ola entra; una exhalación todavía más lenta, la ola se va. Diez olas así, y ningún veredicto sobre tu vida hasta mañana.",
+      "quote": null
+    },
+    "panic": {
+      "text": "Poné al filósofo más grande del mundo sobre un tablón más ancho de lo necesario encima de un precipicio, proponía Pascal: aunque la razón le asegure que está a salvo, la imaginación se va a imponer, y se va a poner pálido y a transpirar. Cuando llega una ola de pánico y parece que está por pasar algo irreparable, tu cuerpo está viviendo esa misma escena. Eso no quiere decir que tu miedo no sea real: se siente con todo el cuerpo. Pero Pascal muestra que la fuerza del terror no siempre coincide con lo que de verdad está pasando. En general, una ola así llega a su pico y baja en pocos minutos. No hace falta discutir con ella ahora; alcanza con apoyarte en tu cuerpo y esperar a que pase.",
+      "practice": "Sentí tu «tablón»: apoyá los dos pies en el piso, presioná las palmas contra el asiento y notá cómo el apoyo te sostiene. Exhalá más despacio de lo que inhalás y nombrá en silencio los objetos que te rodean: «mesa, ventana, taza…».",
+      "quote": null
+    },
+    "dread": {
+      "text": "«¿Quién me ha puesto aquí? ¿Por orden y disposición de quién me han sido destinados este lugar y este tiempo?», se preguntaba Pascal, pensando en la brevedad de su vida, tragada por la eternidad de antes y de después. La pregunta «¿para qué es todo esto?» que te atormenta él la conocía quizá mejor que nadie. Pascal no le dio la espalda. Su respuesta está en la dignidad del pensamiento: el ser humano es débil frente al universo, pero capaz de comprenderlo, mientras que el universo no puede comprenderse a sí mismo. El propio Pascal encontró apoyo en la fe. Pero incluso sin ella, su conclusión principal sigue en pie: tu capacidad de hacerte estas preguntas no es una desgracia sino una señal de tu grandeza. Se puede vivir con esa capacidad.",
+      "practice": "Salí afuera o acercate a una ventana y mirá el cielo un minuto, como Pascal miraba los «espacios infinitos». Después bajá la vista a algo cercano —tu mano, un árbol, la ventana de un vecino— y nombrá una cosa que le dé sentido a hoy.",
+      "quote": {
+        "text": "Trabajemos, pues, en pensar bien: he ahí el principio de la moral.",
+        "author": "Blaise Pascal",
+        "source": "Pensamientos, fr. 347 (Brunschvicg)"
+      }
+    },
+    "fomo": {
+      "text": "«Nunca buscamos las cosas, sino la búsqueda de las cosas», señaló Pascal. La sensación de que la vida de verdad está pasando en otro lado sin vos, él la describiría como una forma de «diversión». Notó que rara vez estamos en el presente: nos parece que la felicidad nos espera en otra parte, en el próximo evento, con otra gente. La perseguimos, y cuando la alcanzamos se nos escapa, y volvemos a buscar. Pascal no lo veía como un defecto personal sino como la hechura general del ser humano: estamos inquietos porque no sabemos estar en paz donde estamos. Esta observación libera: ese «allá» que te atrae también te parecería, a su turno, incompleto. Y tu vida acá es la única que de verdad estás viviendo.",
+      "practice": "Salí a caminar cinco minutos sin el celular, a algún lugar donde «no pasa nada»: el patio, la cuadra de al lado. Fijate en la luz, los sonidos, los olores: para Pascal, el presente es el único lugar donde la vida sucede de verdad.",
+      "quote": null
+    },
+    "sleepless": {
+      "text": "La cicloide —la curva que traza un punto del borde de una rueda que gira— una vez rescató a Pascal de una noche en vela. Su hermana Gilberte contó que le dolía tanto una muela que no podía dormir; el dolor y los pensamientos que daban vueltas lo acompañaron casi toda la vida. Para distraerse, se puso a pensar en un problema matemático difícil sobre la cicloide, y se concentró tanto que, según ella, el dolor cedió. No es una receta sino un ejemplo de cómo la atención puede pasar de las preocupaciones que giran en círculo a algo neutral y atrapante. La noche agranda todo lo pesado. No hace falta que pelees con el insomnio; podés darle a tu mente otro alimento, tranquilo e inofensivo, incluso muy simple.",
+      "practice": "Dale a tu mente su propia «cicloide» chiquita: imaginá una rueda que gira y seguí un punto de su borde, o repasá ciudades que empiecen con una misma letra. No intentes dormirte; solo mantené la mente en un acertijo tranquilo.",
+      "quote": null
+    },
+    "betrayal": {
+      "text": "Pascal miraba la amistad sin ilusiones, y sin malicia. Cuando te traicionan, la confianza se derrumba y el mundo parece menos confiable, y él escribió sobre esto una de sus líneas más amargas: si todos supieran lo que los demás dicen de ellos, no habría cuatro amigos en el mundo. Lo explicaba por el «amor propio», la tendencia de cada uno a ponerse en el centro del mundo, que a veces hace que la gente mienta y traicione. Es una observación amarga, pero puede traer un consuelo extraño: la traición dice más de la debilidad de quien traicionó, y de la fragilidad de la naturaleza humana, que de tu valor. Al mismo tiempo, Pascal ponía el amor y la caridad por encima de todo. Tu dolor es legítimo, y tu capacidad de confiar no es ingenuidad sino una virtud.",
+      "practice": "Pensá en los «cuatro amigos» que sí tenés, aunque sea uno cuya palabra se sostiene. Escribile hoy: un mensaje corto o un llamado.",
+      "quote": null
+    },
+    "jealousy": {
+      "text": "Un hombre se asoma a la ventana para ver pasar a la gente; si yo paso, ¿puedo decir que se asomó para verme a mí? Así abre Pascal su fragmento sobre qué es el «yo». En los celos, donde se entrelazan el amor y el miedo a perder, esta pregunta suena especialmente filosa. ¿Me ama quien me ama por mi belleza? No, porque una enfermedad podría destruir la belleza sin destruirme a mí. ¿Por mi inteligencia, por mi memoria? También se pueden perder. Para Pascal, nunca amamos a una persona como tal, solo sus cualidades, y por eso el amor siempre parece frágil. Los celos, entonces, son el miedo a ser reemplazado por alguien con cualidades «mejores». Pero vos sos más que un conjunto de cualidades, y podés recordarlo aunque el miedo grite.",
+      "practice": "Asomate a una ventana como el hombre del fragmento de Pascal y mirá a la gente que pasa: a cada uno lo ama alguien, y no por una lista de cualidades. Después nombrá en silencio tres cosas tuyas que no se pueden comparar: cómo mirás, qué amás, qué te importa.",
+      "quote": null
+    },
+    "resentment": {
+      "text": "«Es como un pueblo al que se irritó y que se vuelve a ver dos generaciones después: siguen siendo franceses, pero no los mismos», escribió Pascal. El rencor viejo que cargás no salió de la nada: en algún momento de verdad te lastimaron. El tiempo, escribió, cura los agravios y las peleas porque cambiamos: ni el ofensor ni el ofendido son ya la misma persona. El rencor que llevás suele estar atado a una imagen de una persona y de una situación congelada en el pasado, mientras que tanto esa persona como vos cambiaron desde entonces. Eso no quiere decir que la herida no haya sido real ni que tengas que obligarte a perdonar. Pero puede liberarte un poco: ya no sos la persona a la que lastimaron entonces; sos la que lo atravesó. Y tenés derecho a decidir cuánto lugar darle.",
+      "practice": "Imaginate a vos y a esa persona «dos generaciones» más tarde: veinte años después, más grandes, con otras preocupaciones. ¿Cómo se ve la herida desde ahí? Quedate un minuto con esa imagen sin decidir nada.",
+      "quote": null
+    },
+    "heartbreak": {
+      "text": "La causa del amor es un «no sé qué», y sus efectos son enormes: así admitía Pascal, maestro de la medición precisa, que acá sus medidas no servían de nada. Un corazón roto duele justamente con esa desproporción, y no hay nada de qué avergonzarse. Su ejemplo es la nariz de Cleopatra: si hubiera sido más corta, toda la faz de la tierra habría cambiado. El amor empieza con algo apenas perceptible y da vuelta una vida entera. Por eso el dolor de una ruptura puede parecer desproporcionado: no es para nada una debilidad tuya, sino la escala misma del sentimiento. Pascal recordaba también que el corazón tiene sus razones: no hace falta que te convenzas «razonablemente» de dejar de amar. Podés dejar que tu corazón haga su duelo todo lo que necesite.",
+      "practice": "Pascal creía en el conocimiento del corazón; así que dale un poco de cuidado, literalmente: apoyá la palma en el pecho, respirá debajo de ella un minuto y nombrá una cosa por la que estás agradecido en la historia que terminó.",
+      "quote": null
+    },
+    "impostor": {
+      "text": "Las togas rojas de los jueces, el armiño, los birretes cuadrados de los médicos: todo ese atuendo, señalaba Pascal con ironía, existe para impresionar la imaginación. Si te atormenta el pensamiento «no soy quien creen que soy», para Pascal estás lejos de ser el único. Si los médicos poseyeran el verdadero arte de curar, notó, no necesitarían birretes cuadrados. Pascal no se burlaba de la gente: mostraba que casi todos se apoyan en parte en signos exteriores, no solo en la confianza interior. Así que no sos el único que «actúa un papel»: así funciona la sociedad. Tu miedo no dice que seas un fraude; dice que ves con honestidad la diferencia entre vos y la máscara.",
+      "practice": "Sacate la «toga» para una tarea chiquita: hacé hoy algo de tu laburo sin ningún público, solo porque sabés hacerlo, y notá que la habilidad sigue siendo tuya.",
+      "quote": null
+    },
+    "self_hatred": {
+      "text": "Pascal, que escribió sobre la miseria humana con más dureza que casi nadie, llegó a una conclusión inesperada: «Que el hombre ahora se estime en su valor». Cuando el odio a vos mismo habla adentro tuyo, importa especialmente que él nunca se quedó solo en la miseria. Su pensamiento siempre guarda un equilibrio: una persona está en peligro si ve solo su bajeza o solo su grandeza. Pascal decía que hay que conocer las dos, y escribió que uno debe estimarse y amarse, porque hay en uno una naturaleza capaz del bien. Solo advertía contra amar lo que hay de bajo en uno. Un crítico interno que no ve en vos más que lo malo rompe ese equilibrio. Pascal no estaría de acuerdo con su veredicto: la capacidad de ver tus defectos ya es parte de tu grandeza, no una prueba de que no valés nada.",
+      "practice": "Leé en voz alta —despacio, como una fórmula— las palabras de Pascal: «Que el hombre se estime, pues hay en él una naturaleza capaz del bien». Después nombrá una cosa que hiciste y que lo confirma.",
+      "quote": {
+        "text": "Que el hombre ahora se estime en su valor. Que se ame, pues hay en él una naturaleza capaz del bien.",
+        "author": "Blaise Pascal",
+        "source": "Pensamientos, fr. 423 (Brunschvicg)"
+      }
+    },
+    "helplessness": {
+      "text": "«No te pido ni salud ni enfermedad», escribió Pascal en una de sus oraciones más humildes; desde joven vivió con una enfermedad que no podía curar, y conocía la impotencia desde adentro. Escribió un texto breve, la «Oración para pedir a Dios el buen uso de las enfermedades». En ella no pedía tanto ser liberado del sufrimiento como conservar, incluso en ese estado que no podía cambiar, la posibilidad de relacionarse bien con él y encontrarle sentido. Para Pascal era un camino religioso. Pero guarda también una idea al alcance de cualquiera: cuando no tenemos poder sobre las circunstancias, nos queda cómo las atravesamos. Eso no anula la impotencia, pero deja a su lado un pequeño espacio de libertad.",
+      "practice": "Elegí una cosa mínima que esté en tu poder —regar una planta, abrir una ventana, hacerte un té— y hacela despacio y con cuidado, como Pascal practicaba el «buen uso» de lo que no podía cambiar.",
+      "quote": null
+    },
+    "procrastination": {
+      "text": "Una pila de papelitos sueltos: así se veía el libro principal de Pascal, los «Pensamientos», después de su muerte; nunca lo terminó. Si ahora no podés arrancar, en esto hay un consuelo inesperado. Planeaba una gran obra, pero la escribió en retazos, en hojitas separadas que después enhebraba en legajos. Esos fragmentos, que nunca llegaron a un orden definitivo, se volvieron uno de los libros más leídos de la historia. Pascal notó también que muchas veces postergamos la vida pensando en el futuro y nunca vivimos de verdad en el presente. La procrastinación puede ser así: parece que hay que empezar con todo de una vez. Pero podés permitirte un fragmento: una línea, una idea, un papelito. Un comienzo no tiene que estar ordenado para ser un comienzo.",
+      "practice": "Hacé un «papelito» pascaliano: dos minutos sobre un solo retazo de la tarea —una línea, una idea, un punto— sin pensar cómo va a encajar en el conjunto. Ponelo en la pila y quedate ahí.",
+      "quote": null
+    },
+    "uprooted": {
+      "text": "Un hombre es llevado dormido a una isla desierta y se despierta sin saber dónde está ni cómo salir: esa es la imagen que pinta Pascal en uno de los fragmentos de los «Pensamientos». Cuando estás lejos de casa y el mundo parece ajeno, se vuelve casi literal. Pascal hablaba de toda la condición humana, pero su imagen la entiende cualquiera que se haya mudado o emigrado. Lo que escribe después también importa: al mirar alrededor, ve cerca a otras personas de su misma naturaleza y les pregunta si saben más que él. Sentirse perdido en un lugar nuevo no es un fracaso personal sino una experiencia humana compartida. Y la salida empieza por encontrar a otros cerca.",
+      "practice": "Hacé lo que hace el náufrago de Pascal: buscá a alguien cerca «de tu misma naturaleza» —un vecino, un compañero de trabajo, alguien de tu tierra— y hacele una pregunta simple sobre la vida acá.",
+      "quote": null
+    },
+    "overload": {
+      "text": "Pascal, que vivió mucho antes de los feeds infinitos, se pasó la vida midiendo, y notó que nuestros sentidos y nuestra mente también están hechos para una cierta medida. La sobrecarga de ruido informativo es un peso real, no un capricho. Escribió que demasiado ruido ensordece, demasiada luz encandila, y que la distancia excesiva y la cercanía excesiva nos impiden ver. El exceso de impresiones no nos informa mejor: nos quita la capacidad de percibir. Pascal sostenía también que el flujo interminable de tareas y noticias es una forma de «diversión», que nos ayuda a no estar a solas con nosotros mismos. Tu cansancio del ruido es la reacción natural de una mente que necesita medida. Podés devolverte esa medida, al menos por unos minutos.",
+      "practice": "Devolvele a tus sentidos su medida: silenciá todos los dispositivos cinco minutos, cerrá los ojos y escuchá cómo se asienta el ruido, hasta el sonido más bajito de la habitación.",
+      "quote": {
+        "text": "Demasiado ruido nos ensordece; demasiada luz nos deslumbra.",
+        "author": "Blaise Pascal",
+        "source": "Pensamientos, fr. 72 (Brunschvicg)"
+      }
+    },
+    "unreality": {
+      "text": "«¿Quién sabe si esa otra mitad de la vida en que creemos estar despiertos no es otro sueño?», se preguntaba Pascal. Si sentís que todo lo que te rodea, o vos mismo, de algún modo no es real, eso asusta, y él conocía esas preguntas desde adentro. Llegó a señalar que, si un artesano soñara doce horas cada noche que es rey, sería casi tan feliz como un rey que soñara cada noche que es artesano. Pascal no se asustaba de estos pensamientos ni los consideraba locura: son un límite honesto del conocimiento humano. Pero decía también que el corazón conoce los primeros principios —el espacio, el tiempo, el movimiento— de manera directa, sin pruebas. Podés apoyarte en ese saber.",
+      "practice": "Dale al corazón sus «primeros principios» a través del cuerpo: juntá las palmas, sentí el calor y la presión, golpeá suave el piso con los pies y decí en voz alta: «Estoy acá, es de día (o de noche), estoy respirando».",
+      "quote": null
+    },
+    "awe": {
+      "text": "Pascal proponía un ejercicio para la imaginación: recorrer la naturaleza entera en su majestad, ver que la Tierra es apenas un punto, y después bajar a lo infinitamente pequeño, hasta el ácaro más diminuto, y encontrar adentro universos nuevos. El asombro que sentís ante algo inmenso o hermoso él lo atrapó en una de las imágenes más famosas de la filosofía. El universo, escribió, es una esfera infinita cuyo centro está en todas partes y cuya circunferencia no está en ninguna. Para Pascal, esa imagen producía a la vez maravilla y terror. Pero el asombro que sentís es justamente la capacidad humana de contener algo inconmensurable. Pascal veía grandeza en eso: el universo es inmenso, pero solo un ser humano puede contemplarlo y maravillarse. Permitite simplemente estar con este sentimiento, sin apurarte a explicarlo.",
+      "practice": "Hacé el viaje de Pascal entre los dos infinitos: mirá el cielo o el horizonte un minuto, y después otro minuto algo diminuto, una brizna de pasto o las líneas de tu palma. Solo respirá, sin fotos.",
+      "quote": {
+        "text": "Es una esfera infinita cuyo centro está en todas partes y la circunferencia en ninguna.",
+        "author": "Blaise Pascal",
+        "source": "Pensamientos, fr. 72 (Brunschvicg)"
+      }
+    },
+    "relief": {
+      "text": "La exhalación después de una larga tensión: Pascal, que pasó media vida entre crisis de su enfermedad, conocía el valor de esos momentos. El alivio es cálido y bien ganado, y él notó un hábito nuestro que puede ayudarte a cuidarlo más. Escribió que el presente por lo general nos duele, y que si es agradable lamentamos que se nos escape, y nos apuramos con el pensamiento hacia el futuro, hacia la próxima preocupación. El alivio es especialmente fácil de perder justo así: apenas aflojó algo y la mente ya está buscando por qué preocuparse después. Pascal sugería demorarse en el presente, al menos de vez en cuando. El alivio es una buena ocasión: muestra cuánto venías cargando y que saliste adelante. Permitite vivirlo del todo, sin seguir de largo.",
+      "practice": "Sostené el alivio en el cuerpo como sostendrías una taza caliente: tres exhalaciones lentas, y con cada una fijate dónde aflojó: los hombros, el pecho, la mandíbula.",
+      "quote": null
+    },
+    "calm": {
+      "text": "Casi todo en los «Pensamientos» de Pascal habla de inquietud: el ajetreo, la persecución, la huida de uno mismo. Eso vuelve todavía más valiosos los momentos que parecés estar viviendo ahora. Su observación central sobre el ser humano es que huimos de la calma hacia el ajetreo y las diversiones, porque estar a solas con nosotros mismos es incómodo. Así que, si ahora estás en calma y no necesitás escaparte de nada, eso vale muchísimo. Después de años difíciles, el propio Pascal vivió una noche que describió en el Memorial; entre las palabras con que la registró están «certeza», «alegría» y «paz». Para él fue una experiencia religiosa. Pero aun fuera de la fe, la calma es un momento en que podés estar donde estás, y con eso alcanza. Permitite notarla y quedarte en ella, sin llenarla de tareas.",
+      "practice": "Probá lo que Pascal consideraba casi imposible: quedate un minuto sentado en una habitación sin hacer nada. Si te sale fácil, anotá para vos: «Estoy acá, y con esto alcanza».",
+      "quote": null
+    },
+    "inspiration": {
+      "text": "A los diecinueve años Pascal inventó una máquina de calcular; más tarde le pidió a su cuñado que subiera un tubo de mercurio al Puy de Dôme para comprobar si el aire tiene peso, y sentó las bases de la teoría de la probabilidad. Conocía bien los momentos en que los pensamientos parecen encontrarse solos. Pero hablaba también de un conocimiento que no llega por el razonamiento. Además del «espíritu de geometría», que va de definición en definición, está el «espíritu de fineza», la capacidad de captar muchas cosas de un solo vistazo. Y más hondo todavía está el conocimiento del «corazón», que capta las primeras verdades de manera directa. La inspiración, entonces, es el momento en que el corazón y la mente trabajan juntos. No necesita buscar pruebas enseguida: podés confiar en ella y anotar lo que se abrió.",
+      "practice": "Hacé lo que hacía Pascal con sus intuiciones: escribí la idea en un papelito aparte, sin revisarla ni corregirla, y guardala donde tengas tus «pensamientos». Ya la vas a revisar después.",
+      "quote": {
+        "text": "Conocemos la verdad no solo por la razón, sino también por el corazón.",
+        "author": "Blaise Pascal",
+        "source": "Pensamientos, fr. 282 (Brunschvicg)"
+      }
+    },
+    "schadenfreude": {
+      "text": "«El yo es odioso», una de las frases más duras de Pascal, no apunta a la persona sino al amor propio. Alegrarse del mal ajeno no es algo agradable de admitir, pero él lo explicaría sin sorpresa. Escribió mucho sobre el «amor propio», el apego de una persona a su propio «yo». El amor propio quiere ser grande y se ve pequeño; quiere ser perfecto y se ve lleno de defectos. Para Pascal, eso lo pone en tumulto, y busca maneras de esconder su pequeñez. El fracaso ajeno alivia por un momento esa presión: al lado de la caída del otro, nuestro «yo» se ve a sí mismo más grande. De ahí el placer secreto. Pero Pascal veía también grandeza en el ser humano: la capacidad de darnos cuenta de nuestra debilidad. Al notar esta alegría por el mal ajeno y nombrarla con honestidad, ya estás haciendo eso: verte sin maquillaje. Y podés elegir no actuar desde ese sentimiento.",
+      "practice": "Cambiá de lugar en la imaginación: figurate un minuto que sos vos el que tropezó mientras alguien se alegra por lo bajo. ¿Qué querría escuchar tu amor propio de esa persona? Decilo en silencio, a ella y a vos.",
+      "quote": null
+    },
+    "contempt": {
+      "text": "«Arquímedes, sin esplendor, sería igual de venerado», escribió Pascal. El desprecio se siente claro y justificado, pero él lo miraba a través de sus «tres órdenes». Está el orden del cuerpo (la fuerza, la riqueza, la belleza), el orden del espíritu (el saber, el talento) y el orden del corazón, o del amor. La grandeza de un orden, escribió, es invisible para el otro: quien valora solo la fuerza no nota la grandeza del pensamiento, y quien valora solo el intelecto no ve la grandeza de la bondad. El desprecio muchas veces significa que medimos a alguien con la vara equivocada: vemos dónde es pequeño en un orden y no vemos dónde puede ser grande en otro. Pascal era severo con el orgullo humano, incluido el propio. Pero su pensamiento no avergüenza; amplía la mirada: todos tienen un orden en el que simplemente todavía no los vimos.",
+      "practice": "Imaginá que mirás a esta persona tres veces: con los ojos de la fuerza, de la mente y del corazón. ¿En cuál de los tres es pequeña para vos, y en cuál nunca la miraste todavía?",
+      "quote": null
+    },
+    "disgust": {
+      "text": "Pascal no perdonaba ni a la gente ni a sí mismo, y no le tenía miedo a una palabra dura. El asco —por la gente, por una situación, por vos mismo— puede ser ensordecedor, y él no lo escondía. Pascal sabía lo contradictorio que puede verse un ser humano: en un fragmento famoso de los «Pensamientos» llama al hombre quimera, monstruo y caos, juez de todas las cosas e imbécil gusano de tierra, depositario de la verdad y cloaca de error, gloria y desecho del universo. Fijate: en Pascal, las dos mitades van siempre juntas. No nos deja quedarnos ni en la admiración ni en el asco, solo en su unión. El asco ve únicamente el «desecho» y se olvida de la «gloria». Tu sentimiento no miente: nota un lado real de lo humano, también en vos. Pero es solo la mitad del cuadro, y Pascal insistiría en la otra mitad. Podés sostener las dos sin elegir.",
+      "practice": "Decí por lo bajo la fórmula de Pascal —«gloria y desecho del universo»— y después completala para lo que te da asco: «En esto hay…, pero también hay…». Encontrá al menos una continuación.",
+      "quote": {
+        "text": "¡Qué quimera es, pues, el hombre! … ¡Juez de todas las cosas, imbécil gusano de tierra; depositario de la verdad, cloaca de incertidumbre y de error; gloria y desecho del universo!",
+        "author": "Blaise Pascal",
+        "source": "Pensamientos, fr. 434 (Brunschvicg)"
+      }
+    },
+    "revenge": {
+      "text": "Con el seudónimo de Louis de Montalte, Pascal publicó sus «Provinciales» una tras otra: cartas filosas, mordaces, llenas de indignación justa. Se tomaba en serio, y con sobriedad, el deseo de venganza después de una injusticia. En las «Provinciales» discutió duramente con los moralistas de su época que encontraban justificaciones ingeniosas para matar en defensa del honor, y mostró con qué facilidad alguien se convence de que su venganza es la justicia misma. En los «Pensamientos» escribió que la justicia sin fuerza es impotente, y la fuerza sin justicia es tiránica. La sed de venganza suele ser justamente una fuerza así, que empuja por corregir lo que parece injusto. Pascal no negaba que la herida sea real. Te sugeriría preguntarte: ¿qué pide acá la justicia, y qué pide mi dolor? Son voces distintas. Las dos merecen ser escuchadas, pero conviene que decida la primera.",
+      "practice": "Pascal peleaba con cartas, no con la espada. Antes de hacer nada, salí a caminar diez minutos a paso rápido y, mientras tanto, separá dos cosas: lo que exige la justicia y lo que quiere mi dolor.",
+      "quote": null
+    },
+    "anger_at_loved": {
+      "text": "Blaise y Jacqueline Pascal fueron inseparables desde chicos, y aun así una vez se pelearon en serio. El enojo con la gente cercana es especialmente difícil, porque después te da vergüenza; Pascal lo sabía por experiencia propia. Tras la muerte del padre, su hermana menor Jacqueline decidió entrar en el convento de Port-Royal, y durante un tiempo Blaise se resistió a esa decisión y demoró la entrega de su parte de la herencia; surgió una tensión entre ellos. Después se reconciliaron, y Jacqueline pasó a ser una de las personas más importantes de su vida. Pascal observó en los «Pensamientos»: poca cosa nos consuela, porque poca cosa nos aflige. Con los seres queridos se ve más claro que nunca: una cosa chiquita puede herir, y una cosa chiquita puede sanar. El enojo con alguien que amás no desmiente el amor; muestra lo fuerte que es el lazo. Un vínculo como el de Pascal con su hermana tiene lugar tanto para la pelea como para la vuelta.",
+      "practice": "Acordate del «poca cosa nos aflige, poca cosa nos consuela» de Pascal y hacé hoy algo chiquito por esa persona: una taza de té, un mensaje, una mano con alguna pavada.",
+      "quote": null
+    },
+    "ambivalence": {
+      "text": "Pascal vivió en dos orillas —la ciencia y la fe, los salones de París y Port-Royal— y vio en eso la naturaleza humana misma. Amar a alguien y a la vez no soportarlo es fácil de confundir con una avería; él no lo haría. Para él, el ser humano es una criatura de contradicciones: la grandeza y la miseria, la razón y las pasiones viven juntas en nosotros, y ninguna anula a la otra. Escribió que la grandeza no se muestra en pararse en un extremo sino en tocar los dos a la vez y llenar el espacio entre ellos. Así que tu capacidad de sentir a la vez amor y rechazo por la misma persona no es un defecto sino amplitud. La ves entera, con lo que te atrae y con lo que te duele. No hace falta apurarse a fundir estos sentimientos en uno. Podés sostener la tensión entre ellos: así se ve una relación honesta con una persona viva.",
+      "practice": "Decile a esa persona —o, por ahora, en voz alta a vos mismo— una frase que contenga las dos orillas: «Te quiero y estoy enojado con vos, y es una sola historia».",
+      "quote": null
+    },
+    "guilty_relief": {
+      "text": "Pascal, un geómetra brillante, admitía que la geometría no lo resuelve todo. El alivio después de una ruptura, una partida o la larga enfermedad de un ser querido suele venir con vergüenza: ¿cómo puedo sentir esto, al lado del duelo? Pascal distinguía dos tipos de espíritu. El espíritu «geométrico» parte de unos pocos principios claros y quiere una sola conclusión correcta. El espíritu «de fineza» ve de una vez una multitud de principios apenas perceptibles que ninguna fórmula puede contener. Los sentimientos piden el espíritu de fineza. La geometría dirá: si amabas, no puede haber alivio. La fineza verá que en una misma historia hubo amor, y un miedo largo, y agotamiento, e impotencia, y que el fin de una carga pesada responde, naturalmente, con alivio. Pascal era severo con el autoengaño y valoraba la honestidad con uno mismo. Acá, la honestidad es reconocer los dos sentimientos. El alivio no anula el amor; te dice cuánto venías cargando.",
+      "practice": "Con cada inhalación, nombrá en silencio un sentimiento de esta historia —amor, agotamiento, miedo, alivio— y soltalo en la exhalación. Dejá que el espíritu «de fineza» los recorra todos, sin tachar ninguno.",
+      "quote": null
+    },
+    "indifference": {
+      "text": "Lo que más asombraba a Pascal era la gente a la que ni siquiera las preguntas más importantes de la vida le movían un pelo. A veces también adentro tuyo hay silencio donde algo «debería» conmoverte, y ese silencio asusta. Pero él hacía una distinción importante. No podía aprobar a un tipo de persona: la que es indiferente y está bien conforme con eso. Del otro tipo hablaba con profundo respeto: aprobaba a quienes buscan, aunque sea gimiendo. Si tu indiferencia te inquieta, entonces, desde el punto de vista de Pascal, ya no sos indiferente: estás entre los que buscan. Pascal sabía también que la «diversión» —el ajetreo y el ruido constantes— adormece los sentimientos. Quizá a tu corazón simplemente le falta silencio para escucharse. El sentir no llega por encargo, pero podés hacerle lugar.",
+      "practice": "Hacele lugar al sentir, como aconsejaría Pascal: cinco minutos de silencio sin celular y sin ruido de fondo, con las manos sobre las rodillas. Al final, preguntate: ¿qué estoy sintiendo ahora, aunque sea muy tenue?",
+      "quote": {
+        "text": "No puedo aprobar sino a los que buscan gimiendo.",
+        "author": "Blaise Pascal",
+        "source": "Pensamientos, fr. 421 (Brunschvicg)"
+      }
+    },
+    "escape": {
+      "text": "El juego de pelota, la caza, el baile, la conversación: Pascal enumeraba nuestros pasatiempos como un inventario de rutas de escape, y entendería muy bien las ganas de dejarlo todo. Escribió que la gente no busca tanto el reposo como el movimiento: el cazador no necesita la liebre en sí; dásela y no se va a poner contento; lo que necesita es la cacería, que lo distrae de pensar en sí mismo. Pascal llamó a esto «diversión» (divertissement). El sueño de irse puede ser una «liebre» así: parece que todo el asunto es un lugar nuevo. Pero también puede ser algo más. El propio Pascal cambió una vez su vida de manera brusca, después de la noche que describió en el Memorial, y empezó a pasar largas temporadas en Port-Royal. No se iba por aburrimiento sino hacia lo que consideraba más importante. Preguntate: ¿estoy huyendo de algo, o yendo hacia algo?",
+      "practice": "Hacé en la cabeza el experimento de la liebre: imaginá que la vida nueva te la dan sin más, lista, sin viaje ni esfuerzo. ¿Te alegraría, o lo que necesitabas era la cacería?",
+      "quote": null
+    },
+    "forbidden_attraction": {
+      "text": "Buscando una causa diminuta capaz de dar vuelta el mundo, Pascal no eligió una guerra sino el enamoramiento. Una atracción que «no deberías» sentir inquieta: ¿por qué justo esta persona? Quien quiera conocer la vanidad del hombre, escribió Pascal, que mire las causas y los efectos del amor. La causa, decía, es un «no sé qué», algo tan chiquito que no se lo puede reconocer, mientras que las consecuencias pueden ser enormes. Y agregó la frase famosa: si la nariz de Cleopatra hubiera sido más corta, toda la faz de la tierra habría cambiado. Pascal no sermonea a los enamorados; se maravilla de cómo un esquivo «no sé qué» puede dar vuelta una vida. Tu atracción no dice necesariamente nada sobre que estés «corrompido», ni sobre el destino: el corazón, como escribió, tiene sus razones. Podés explorarlas con calma, sin veredicto, y entender mejor qué busca tu corazón.",
+      "practice": "Intentá atrapar tu «no sé qué» con ojo de naturalista, como Pascal atrapaba los fenómenos en sus experimentos: ¿qué rasgo, gesto o entonación te atrae? Nombralo en silencio con una palabra y simplemente notalo, sin sacar conclusiones sobre vos ni sobre el destino.",
+      "quote": null
+    },
+    "social_anxiety": {
+      "text": "El joven Pascal frecuentaba los salones de París, donde cada conversación es un pequeño examen; entendía de dónde viene el miedo a la gente y a su juicio, y describió su raíz con precisión. La vida que tenemos adentro no nos alcanza, escribió: queremos vivir una vida imaginaria en la cabeza de los demás, y por ella nos esforzamos en aparentar. Esa vida «imaginaria» es frágil: depende de las opiniones ajenas, que ni siquiera conocemos. Pascal mostró también el poder de la imaginación: hasta el filósofo más grande, parado sobre un tablón ancho encima de un precipicio, va a sentir miedo aunque la razón le diga que está a salvo. El miedo al juicio es como ese tablón: la imaginación dibuja un abismo donde no lo hay. Por eso ayuda volver a la primera vida, la que está en vos: tus pensamientos, tus intereses, tus sentimientos. Es más firme.",
+      "practice": "Antes de un encuentro, elegí una cosa para tu «primera vida» —una pregunta que de verdad quieras hacer— y hacela. Cómo quedás puede seguir siendo asunto de la «imaginaria».",
+      "quote": {
+        "text": "No nos contentamos con la vida que tenemos en nosotros y en nuestro propio ser: queremos vivir en la idea de los demás una vida imaginaria, y para eso nos esforzamos por aparentar.",
+        "author": "Blaise Pascal",
+        "source": "Pensamientos, fr. 147 (Brunschvicg)"
+      }
+    },
+    "uncertainty": {
+      "text": "En 1654 Pascal y Fermat se escribieron sobre cómo repartir con justicia las apuestas de un juego interrumpido, y de esas cartas nació la teoría de la probabilidad. Pensó mucho en cómo actuar cuando el resultado es desconocido, y las ganas angustiosas de saber antes de comprometerte le eran familiares. En su famosa «apuesta» formula una idea que importa mucho más allá de la religión: «estás embarcado». No podés quedarte al costado esperando una certeza completa: no elegir también es elegir. Este pensamiento puede parecer inquietante, pero hay libertad en él. Si la certeza completa nunca va a llegar, no tenés que esperarla: podés sopesar lo que se sabe y actuar, reconociendo el riesgo. Pascal combinaba el cálculo preciso con las «razones del corazón», y las dos cosas lo ayudaban a moverse en la niebla. La incertidumbre no es un error en tu vida sino su medio habitual.",
+      "practice": "Hacé una pequeña apuesta pascaliana: agarrá la decisión que venís postergando y sopesá en la cabeza qué perdés y qué ganás con cada resultado. Buscá un paso que gane en cualquier caso.",
+      "quote": null
+    },
+    "waiting": {
+      "text": "Cuenta la leyenda que Pascal fue de los primeros en llevar el reloj en la muñeca, atado con un cordón. La espera estira el tiempo y achica la vida a una sola pregunta. Pascal describió esta trampa con precisión: casi nunca pensamos en el presente, y si lo hacemos es solo para tomar su luz y organizar el futuro. El presente nunca es nuestro fin: el pasado y el presente son nuestros medios; solo el futuro es nuestro fin. Somos tan imprudentes, escribió, que erramos por tiempos que no son nuestros y no pensamos en el único que nos pertenece. La espera es una forma concentrada de ese hábito. Pascal no te propondría dejar de esperar: la respuesta importa y la ansiedad tiene sentido. Pero entre el «ahora» y la respuesta hay un tiempo que te pertenece. Se puede vivir, no solo aguantar.",
+      "practice": "Mirá un reloj y seguí el segundero durante una vuelta completa, solo la aguja, como un péndulo en un experimento. Después notá un sonido, un sabor, una sensación en el cuerpo: este minuto es tuyo, no de la espera.",
+      "quote": null
+    },
+    "regret": {
+      "text": "«Ya no es la misma persona», repite Pascal en varios fragmentos, y en él suena más a consuelo que a amargura. El arrepentimiento por lo que hiciste o no hiciste puede tirarte hacia el pasado una y otra vez. Pascal notó algo simple: el tiempo cura el dolor y las peleas porque cambiamos. Quien tomó aquella decisión entonces y el vos de hoy están conectados, pero no son exactamente la misma persona. Tu yo de antes tenía otro saber, otras fuerzas, otros miedos. Juzgarlo como si supiera todo lo que vos sabés ahora es injusto. Pero el arrepentimiento también tiene una dignidad: para Pascal, la grandeza humana está en poder ver las propias imperfecciones. Si podés ver el error, ya cambiaste. El arrepentimiento puede volverse comprensión, y la comprensión, una elección que hacés hoy.",
+      "practice": "Escribile dos líneas a tu yo del pasado, como Pascal le escribía a su hermana: con comprensión por lo que no sabía y por lo que temía.",
+      "quote": {
+        "text": "El tiempo cura los dolores y las querellas, porque cambiamos: ya no somos la misma persona. Ni el ofensor ni el ofendido son ya ellos mismos.",
+        "author": "Blaise Pascal",
+        "source": "Pensamientos, fr. 122 (Brunschvicg)"
+      }
+    },
+    "longing": {
+      "text": "Pascal podía calcular casi cualquier cosa, de la presión del aire a las probabilidades de un juego, y aun así sabía que el corazón no obedece al cálculo. Podés entender por qué no están juntos y aun así extrañar; él dejó sobre esto una observación sutil acerca del amor en el tiempo. Un hombre, escribió, ya no ama a la mujer que amaba hace diez años, y no es raro: ella no es la misma, y él tampoco; quizá la seguiría amando tal como era entonces. Esta idea puede ayudarte a entender tu añoranza. A veces no extrañamos solo a una persona sino también una época, un lugar, a nosotros mismos a su lado. Eso no vuelve menos real el sentimiento. Te ayuda a ver qué es exactamente lo que tanto querés, y qué de eso podés guardar adentro tuyo mientras la distancia o el tiempo los separan.",
+      "practice": "Examiná la añoranza como Pascal examinaba los fenómenos naturales: de cerca. Bajá con la mente del «lo extraño» a cosas cada vez más chicas —un gesto, una entonación, una costumbre— hasta encontrar el detalle más diminuto.",
+      "quote": null
+    },
+    "world_pain": {
+      "text": "En su último año, Pascal donó su parte de los primeros carruajes públicos de París para la hambrienta Blois. El dolor por el mundo —las guerras, la injusticia, las noticias duras— puede parecer insoportable. Pascal conocía la fragilidad humana: nos llamaba cañas pensantes, lo más débil de la naturaleza. Pero la dignidad humana, decía, está en que pensamos y nos damos cuenta. Tu dolor por el mundo es expresión de esa capacidad: ves, y no apartás la mirada. En «El misterio de Jesús», Pascal escribe sobre un sufrimiento que dura hasta el fin del mundo y sobre el llamado a no dormir durante ese tiempo: a mantenerse despierto y atento junto a los que sufren. Para un creyente es una oración; para cualquiera, una imagen de vigilia compasiva. Pero mantenerse despierto no significa cargarlo todo solo. Podés conservar el corazón abierto, ayudar donde puedas y darte descanso.",
+      "practice": "Hacé como Pascal con los carruajes: elegí un acto de ayuda concreto y chiquito —una donación, un llamado, darle una mano a un vecino— y hacelo hoy. Después regalate una hora sin noticias.",
+      "quote": null
+    },
+    "rejection": {
+      "text": "«¿Dónde está, entonces, ese “yo”, si no está ni en el cuerpo ni en el alma?», se preguntaba Pascal; y la pregunta ayuda de manera inesperada cuando un rechazo duele como si te hubieran rechazado entero. Si alguien ama a una persona por su belleza, ¿la ama a ella? No: una enfermedad podría destruir la belleza sin destruir a la persona. ¿Y si es por su inteligencia o su memoria? Tampoco: se pueden perder y uno sigue siendo uno. De ahí Pascal saca una conclusión paradójica: no amamos el «yo» en sí, solo sus cualidades. Entonces lo que se rechaza también son cualidades, tal como fueron vistas. La negativa del otro tiene que ver con lo que notó y con lo que le cerró o no le cerró. Su decisión no llega al «yo» mismo, misterioso, esquivo. Eso no anula el dolor. Pero tu esencia nunca se sometió a votación.",
+      "practice": "Decite despacio, como una fórmula pascaliana: «Lo que rechazaron es lo que vieron. Y yo soy más que eso». Repetilo tres veces, cada vez un poco más bajo.",
+      "quote": null
+    },
+    "abandonment": {
+      "text": "Viudo, Étienne Pascal crió y educó él mismo a sus tres hijos: Blaise perdió a su madre alrededor de los tres años y conoció la pérdida temprano. El miedo a ser abandonado es uno de los miedos más antiguos. En los «Pensamientos» describe un deseo humano profundo: ardemos en ganas de encontrar un suelo firme y una base última y segura sobre la cual edificar una torre que se eleve hasta el infinito, pero el cimiento se agrieta una y otra vez. El miedo a que te dejen es la voz de esa sed de un apoyo confiable. Pascal lo buscó en Dios y creía que nada finito puede cargar con todo el peso del corazón humano. Aunque no compartas su fe, en este pensamiento hay un alivio: ninguna persona sola puede ni debe ser el único sostén de toda tu vida. Cuando hay más sostenes, el amor se parece menos al miedo.",
+      "practice": "Caminá por tu casa o por la calle y cada diez pasos nombrá un sostén en el que se apoya tu vida además de esta persona: gente, trabajo, valores, lugares.",
+      "quote": null
+    },
+    "unrequited": {
+      "text": "Pascal, que demostró con un experimento que el aire tiene peso, admitía que hay un terreno donde las pruebas no deciden nada. Si un amor sin respuesta te lastima, él no lo llamaría una pavada. Su pensamiento más conocido sobre el corazón —«el corazón tiene razones que la razón no conoce»— explica por qué los argumentos no sirven acá: podés entender que no va a haber respuesta y seguir amando. El corazón no obedece a la razón, pero tampoco necesita su permiso. Aunque también es cierto otra cosa: la otra persona también tiene un corazón con sus propias razones, que no obedecen ni a tus virtudes ni a su propia voluntad. Así que la falta de respuesta no mide tu valor: habla de la frontera entre dos corazones. Tu sentimiento puede ser respetado como un movimiento del corazón. No necesita justificación, y tampoco te exige esperar para siempre.",
+      "practice": "Salí a dar una vuelta corta y, mientras caminás, enumerá lo que este sentimiento dice de vos: qué valorás, hacia qué vas, de qué sos capaz. El corazón, para Pascal, conoce sus razones: dejá que se escuchen.",
+      "quote": null
+    },
+    "humiliation": {
+      "text": "Pascal le explicó una vez a un joven heredero de un ducado: la gente se va a inclinar ante vos por costumbre, pero te va a estimar solo por méritos reales. Cuando alguien te puso más abajo de lo que sos, esta distinción ayuda mucho. En sus «Discursos sobre la condición de los grandes» separa la grandeza «de establecimiento» —rangos, posición, poder, a los que se deben signos exteriores de respeto— de la grandeza «natural»: la inteligencia, la bondad, la fortaleza de espíritu, a la que se debe estima genuina. La humillación opera en el primer orden: te privaron del respeto exterior, «te pusieron en tu lugar». Pero la dignidad natural se reparte de otra manera, y ningún acto ajeno te la puede quitar. En las «Provinciales», además, Pascal se burló con dureza de quienes justificaban la violencia en defensa del honor: un honor que podía quitarse con una bofetada no era, para él, verdadera grandeza. Tu dolor es real, y tu valor está intacto.",
+      "practice": "Enderezate, no para nadie, para vos: plantá los pies, levantá la coronilla, bajá los hombros. Decí en silencio: «Lo establecido me lo podían quitar. Lo natural sigue siendo mío».",
+      "quote": null
+    },
+    "body_shame": {
+      "text": "Pascal pasó la mayor parte de su vida adulta en un cuerpo que dolía y se debilitaba, y fue justamente él quien nos llamó «cañas pensantes». La insatisfacción con tu cuerpo puede llenarte la cabeza. Escribió que al ser humano no lo define tal o cual hechura del cuerpo sino el pensamiento: para Pascal, toda nuestra dignidad está ahí. Distinguía también «órdenes» de grandeza: la belleza pertenece al orden del cuerpo, pero una persona tiene además los órdenes del espíritu y del corazón, donde rigen medidas completamente distintas, y más altas. La apariencia, entonces, es solo una medida entre muchas, y lejos de ser la principal. Pascal no exigía despreciar el cuerpo; recordaba que todos somos frágiles e imperfectos, ni ángeles ni bestias. Podés dejar que tu cuerpo sea tan humano como el de cualquiera.",
+      "practice": "Nombrá en voz alta una cosa que valorás de vos en el «orden del espíritu» y una en el «orden del corazón». Decilas mirando no un espejo sino por una ventana.",
+      "quote": null
+    },
+    "illness": {
+      "text": "Según su hermana Gilberte, desde los dieciocho años Pascal casi no pasó un día sin dolor, y en sus últimos años estuvo gravemente enfermo. Sabía cómo se achica el mundo cuando el cuerpo te falla. Escribió un texto inusual, la «Oración para pedir a Dios el buen uso de las enfermedades». No promete que la enfermedad se vaya; es un intento de encontrarle sentido y de no dejar que le quite a una persona su vida interior. Aunque no compartas la fe de Pascal, su camino muestra una posibilidad: la enfermedad puede limitar el cuerpo, pero no tiene por qué definir quién sos. Pascal siguió pensando, escribiendo y ocupándose de los demás, hasta donde le daban las fuerzas. Tu miedo y tu cansancio son legítimos. Junto a ellos todavía puede haber lugar para lo que de verdad te importa.",
+      "practice": "Como Pascal, que siguió pensando y cuidando de los demás incluso enfermo, dedicale unos minutos a una cosa que sigue siendo tuya: un pensamiento, un afecto, una pequeña ocupación.",
+      "quote": null
+    },
+    "pride": {
+      "text": "Con diecinueve años, Pascal pasó por unas cincuenta versiones de su máquina de calcular antes de quedar conforme; la construyó para ahorrarle a su padre cálculos tediosos. Tenía motivos para el orgullo. Aun así, Pascal veía con claridad lo fácil que la alegría sana se desliza hacia la vanidad. La vanidad, escribió, está tan arraigada en el corazón humano que un soldado, un cocinero, un changarín se jactan y quieren admiradores, y hasta los que escriben contra la vanidad quieren la gloria de haber escrito bien. Su distinción es útil: una cosa es la alegría por la obra misma, por la verdad, por el trabajo preciso; otra, la sed de miradas de admiración. La primera, para Pascal, está ligada a la grandeza del pensamiento y es digna de un ser humano. Permitítela, y fijate lo poco que necesita público.",
+      "practice": "Contale a una persona cercana lo que hiciste como explicarías cómo funciona una máquina: qué salió y cómo anda, sin esperar elogios. Fijate qué alegría queda cuando la admiración no hace falta.",
+      "quote": null
+    },
+    "melancholy": {
+      "text": "«El tiempo y mi humor tienen poca relación; tengo mis nieblas y mi buen tiempo dentro de mí», anotó Pascal. La tristeza luminosa es justamente ese clima interior, donde la pena se sienta al lado de la claridad. Esta observación libera: la tristeza luminosa no necesita una causa externa para ser legítima. Pascal creía también que la gente huye constantemente del silencio hacia la «diversión», con tal de no quedarse a solas consigo misma. La tristeza luminosa suele llegar justo en los momentos de silencio, y trae aquello de lo que en general nos distraemos: la memoria, la ternura, la sensación de lo frágil y valiosa que es la vida. No hace falta que la espantes. Es uno de los pocos momentos en que podés escucharte.",
+      "practice": "Acercate a una ventana y compará los dos climas: el del otro lado del vidrio y el de adentro tuyo. Pasá cinco minutos simplemente mirando los dos, sin espantar nada.",
+      "quote": {
+        "text": "El tiempo y mi humor tienen poca relación; tengo mis nieblas y mi buen tiempo dentro de mí.",
+        "author": "Blaise Pascal",
+        "source": "Pensamientos, fr. 107 (Brunschvicg)"
+      }
+    }
+  }
+}

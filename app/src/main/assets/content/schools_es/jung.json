@@ -1,0 +1,385 @@
+{
+  "id": "jung",
+  "title": "Jung",
+  "tradition": "Psicología analítica",
+  "family": "psychoanalysis_critical",
+  "period": "siglo XX",
+  "sortYear": 1934,
+  "thinkers": [
+    "Carl Gustav Jung",
+    "Marie-Louise von Franz",
+    "James Hillman"
+  ],
+  "keyWorks": [
+    "C. G. Jung, «Tipos psicológicos» (1921)",
+    "C. G. Jung, «Las relaciones entre el yo y el inconsciente» (1928)",
+    "C. G. Jung, «Las etapas de la vida» (1930)",
+    "C. G. Jung, «Los arquetipos del inconsciente colectivo» (1934)",
+    "C. G. Jung, «Psicología y alquimia» (1944)",
+    "C. G. Jung, «Aion» (1951)",
+    "C. G. Jung, «Respuesta a Job» (1952)",
+    "C. G. Jung, «Recuerdos, sueños, pensamientos» (1962)",
+    "C. G. Jung y otros, «El hombre y sus símbolos» (1964)",
+    "J. Hillman, «La traición» (1965)",
+    "M.-L. von Franz, «Puer aeternus» (1970)",
+    "C. G. Jung, «El libro rojo» (publ. 2009)"
+  ],
+  "summary": "Carl Gustav Jung (1875–1961) fue un psiquiatra y pensador suizo que empezó junto a Freud y después creó su propia escuela, la psicología analítica. Para él la psique no es un mecanismo, sino un todo vivo que tiende a la totalidad. Jung estudió los sueños, los mitos, las religiones y la alquimia, y vio en ellos un lenguaje común de imágenes a través del cual hablan las profundidades de la psique humana. Acá sus ideas se presentan como una filosofía del alma, una manera de entenderte a vos mismo, no como un método de tratamiento.",
+  "onEmotions": "Jung creía que el «yo» consciente es solo una parte de la psique, y que los sentimientos muchas veces llegan desde sus capas inconscientes como mensajes. Todo lo que no aceptamos de nosotros mismos va a parar a la «Sombra»; a la cara que le mostramos al mundo la llamó «persona»; y a lo que sin querer vemos en los otros en lugar de en nosotros, «proyección». Por eso Jung importa especialmente para los sentimientos «incómodos», la envidia, el regodeo con el mal ajeno, el desprecio, el enojo con los seres queridos: muestra que todos los tenemos y que hablan de partes no vividas de la personalidad. La meta no es reprimirlos ni actuarlos contra otros, sino tomar conciencia de ellos, avanzando hacia la «individuación», el llegar a ser uno mismo entero. Acá exponemos ideas, no indicaciones clínicas.",
+  "entries": {
+    "anxiety": {
+      "text": "Jung trataba a los huéspedes no invitados del alma como mensajeros: primero escuchar, después decidir. La ansiedad desgasta, y no tiene nada de vergonzoso, pero también se la puede escuchar. Jung veía la psique como un sistema que se autorregula: el inconsciente, la parte de nuestra vida interior que actúa sin que lo sepamos, «compensa» constantemente la unilateralidad de la conciencia. Si vivimos mucho tiempo desde un solo lado de nosotros, por ejemplo, controlándolo todo, lo que quedó afuera vuelve como una inquietud que parece no tener causa. Puede no ser una falla, sino un mensajero: algo en vos está pidiendo atención. Jung proponía no echar esos estados, sino entrar en diálogo con ellos: preguntarles qué imagen, qué escena vive adentro. A veces la ansiedad resulta tener una cara, y con una cara se puede hablar.",
+      "practice": "Imaginá tu ansiedad como un personaje y sentala en la silla de enfrente: ¿cómo es, qué edad tiene? Preguntale en voz alta: «¿Qué me querés decir?», y escuchá la primera respuesta sin discutir.",
+      "quote": null
+    },
+    "fear": {
+      "text": "En diciembre de 1913 Jung se sentó en su escritorio y, según sus palabras, decidió «dejarse caer»: hundirse en la profundidad de sus propias imágenes. El miedo es nuestra protección más antigua, y a veces es sabio escucharlo; pero Jung conoció también otro miedo: el de lo que encontramos adentro. En «Recuerdos, sueños, pensamientos» cuenta con honestidad cómo, después de su ruptura con Freud, desde fines de 1913 vivió años en los que subían de lo hondo imágenes que lo asustaban incluso a él, y cómo decidió no huir sino escribirlas y pintarlas. Después esos registros se convirtieron en «El libro rojo». La lección no es el heroísmo, sino la actitud: lo que evitamos mirar crece en la oscuridad, mientras que lo que podemos mirar con cuidado toma forma y bordes. Un miedo con nombre y contorno suele ser más chico que uno sin cara.",
+      "practice": "Dibujá tu miedo como Jung dibujaba sus imágenes en «El libro rojo»: alcanza con unos garabatos o una sola línea. Ponele nombre al dibujo y fijate si algo cambió en cómo se siente.",
+      "quote": null
+    },
+    "sadness": {
+      "text": "Jung comparaba la energía psíquica con un río: a veces se mete bajo tierra, y la superficie se vuelve quieta y seca. La tristeza es un sentimiento legítimo, y Jung no te apuraría a salir de ella. Escribió que el alma vive de opuestos: luz y sombra, ascenso y descenso, día y noche. Jung llamó a la energía psíquica «libido», entendiendo no solo el deseo, sino la fuerza vital en general, y notó que a veces se retira hacia lo hondo, «hacia adentro», y le queda menos a la conciencia. Ahí, en lo profundo, se está haciendo un trabajo silencioso. La tristeza, entonces, no es tiempo vacío, sino un tiempo en el que algo se está digiriendo y reconstruyendo. Podés preguntarte no «¿cómo hago para que pare?», sino «¿qué está cambiando en mí ahora?». La respuesta no va a llegar enseguida, pero la pregunta te deja estar con la tristeza en lugar de pelearla.",
+      "practice": "Antes de dormir, dejá un papelito junto a la cama y anotá una palabra para tu sentimiento; a la mañana, cualquier imagen o fragmento de un sueño. Jung diría: ponelos uno al lado del otro y no interpretes.",
+      "quote": null
+    },
+    "grief": {
+      "text": "¿Adónde va alguien que amamos? Jung respondía como médico del alma: entre otros lugares, hacia adentro. Jung vivió la muerte de su esposa Emma en 1955. Después de su muerte soñó con ella, y le agregó un piso más a su torre de Bollingen, como señal de que su vida tenía que seguir, pero de otra manera. Jung estaba convencido de que la imagen de quien murió sigue viviendo en la psique: se le puede hablar mentalmente, recordarlo, pedirle consejo. El duelo no es solo una pérdida, sino una reconstrucción del vínculo: la persona ya no está al lado tuyo, pero empieza a estar presente por dentro. Esto no anula el dolor, pero lo vuelve parte de una relación que continúa.",
+      "practice": "Poné una silla vacía al lado tuyo y decile en voz alta una o dos frases a la persona que murió: lo que te gustaría contarle ahora. Jung hablaba así con sus figuras interiores: para él era una manera de continuar el vínculo.",
+      "quote": null
+    },
+    "loneliness": {
+      "text": "De chico, Jung talló un hombrecito en una regla, lo escondió en el altillo con una piedra lisa y durante años no se lo contó a nadie. Así se las arreglaba con una soledad que duele, y que no es señal de que algo esté mal en vos. Jung la conocía desde la infancia: de chico cargaba experiencias que no podía contarle a nadie, y eso lo volvía solitario entre la gente. De ahí su observación: la soledad no es la ausencia de personas, sino la imposibilidad de compartir lo que te importa. Jung veía otro lado: el camino de la «individuación», llegar a ser vos mismo, entero, y no solo cómodo para los demás, pasa por momentos en los que nadie te entiende del todo. No es una condena al aislamiento, sino una señal de que hay en vos algo propio. Cuando encontrás aunque sea a una persona capaz de escucharlo, el encuentro puede ser especialmente hondo.",
+      "practice": "Buscá una piedrita lisa o cualquier objeto chico y sostenelo en la mano, como el chico Jung sostenía su piedra secreta. Nombrá en silencio una cosa que te importa pero de la que casi nunca hablás, y pensá a quién podrías confiársela algún día.",
+      "quote": {
+        "text": "La soledad no proviene de no tener gente alrededor, sino de no poder comunicar las cosas que a uno le parecen importantes, o de sostener ciertas opiniones que los demás consideran inadmisibles.",
+        "author": "Carl Gustav Jung",
+        "source": "«Recuerdos, sueños, pensamientos», «Retrospectiva»"
+      }
+    },
+    "anger": {
+      "text": "De escolar, defendiéndose de una patota, Jung agarró a un chico de las piernas y lo revoleó, tirando al piso a los demás, y después se quedó pensando en la fuerza que se había despertado en él. El enojo es una fuerza viva, y en sí mismo no te convierte en una mala persona. Reprimirlo simplemente lo manda a la «Sombra», el nombre que Jung le dio a los rasgos e impulsos incompatibles con la imagen que tenemos de nosotros. Desterrado ahí, el enojo no desaparece: estalla en el momento equivocado o se asienta como amargura. Reconocido, puede volverse energía: la capacidad de decir «no», de cuidar un límite, de defender lo que importa. Jung subrayaba que la Sombra no guarda solo oscuridad, sino también buena parte de la fuerza vital que nos falta. La pregunta, entonces, no es «¿cómo hago para no enojarme?», sino «¿qué está protegiendo mi enojo, y cómo puedo darle voz sin dañar a nadie?».",
+      "practice": "Hacé algo físico y seguro, sacudí una alfombra, cortá leña si tenés, caminá rápido, como Jung cortaba leña en Bollingen. Con cada esfuerzo, nombrate qué está protegiendo tu enojo: un límite, un valor, una herida.",
+      "quote": null
+    },
+    "shame": {
+      "text": "Persona: así llamaban los romanos a la máscara del actor, a través de la cual sonaba su voz. Jung tomó la palabra para la cara que le mostramos al mundo, y la vergüenza, cuando querés esconderte del todo, llega cuando esa máscara de pronto se corre. Cada uno de nosotros lleva una persona así: competente, correcto, tranquilo. La persona es necesaria; no es una mentira. Pero cuando algo que no aceptamos de nosotros, la Sombra, se deja ver por debajo, sentimos vergüenza, como si nos agarraran sin la máscara. Jung insistía en que todos tienen Sombra: alguien que no proyectara ninguna sombra no sería un santo, sino alguien plano, sin profundidad. La vergüenza es un momento de encuentro con tu propia totalidad. Duele, pero abre la posibilidad de ser no perfecto, sino real.",
+      "practice": "Decite en silencio, sobre aquello que te gustaría esconder: «Esto también está en mí». Apoyá una palma en el pecho y quedate así un minuto: Jung lo llamaría invitar a tu propia Sombra a entrar en casa.",
+      "quote": null
+    },
+    "guilt": {
+      "text": "¿Con la voz de quién habla tu culpa? Jung la consideraba una de las preguntas clave. La culpa puede ser desgarradora, y a veces señala algo realmente importante. En un ensayo tardío sobre la conciencia moral (1958), Jung distinguió dos de sus voces. Una es el código moral internalizado: las reglas de la familia, de la sociedad, lo que «se hace». La otra es una conciencia más profunda y personal, que puede apartarse de las reglas de quienes te rodean; Jung la vinculaba con el sí-mismo, la totalidad profunda de una persona, más amplia que nuestro «yo» consciente. Hay culpa por romper reglas ajenas, y hay culpa por traicionarte a vos mismo. Por eso ayuda no solo aguantar la culpa, sino averiguar en qué idioma habla. A veces es un motivo para reparar algo. A veces es un motivo para dejar de castigarte por vivir tu propia vida.",
+      "practice": "Preguntale a tu culpa en voz alta: «¿Con la voz de quién hablás?», y escuchá el nombre, la frase o la cara que te sugiere. Después preguntá más bajito: «¿Y qué diría mi propia conciencia?».",
+      "quote": null
+    },
+    "envy": {
+      "text": "Los seguidores de Jung acuñaron la expresión «Sombra dorada» para lo luminoso que hay en nosotros y que solo vemos en los otros. La envidia es desagradable de admitir, aunque casi todos la sienten, y acá la mirada junguiana resulta inesperadamente reconfortante. Jung hablaba de «proyección»: sin querer vemos en otros lo que en realidad nos pertenece pero todavía no fue reconocido. Y lo que se proyecta no es solo lo oscuro, sino también lo luminoso, capacidades no realizadas, coraje, fuerza creativa: justamente esa «Sombra dorada». Cuando envidiás a alguien, quizás brilla en esa persona algo que también vive en vos pero todavía no encontró lugar en tu vida. La envidia no es prueba de mezquindad, sino una señal: hacia ahí se estira tu vida no vivida. La tarea no es quitárselo al otro, sino reconocerlo en vos.",
+      "practice": "Imaginá a la persona que envidiás y tomale prestada mentalmente una cualidad, no una cosa sino una cualidad: coraje, liviandad, constancia. Probátela un minuto y preguntate: ¿dónde hay en mi vida aunque sea un brote chiquito de esto?",
+      "quote": null
+    },
+    "emptiness": {
+      "text": "La «tarde» de la vida: así llamaba Jung a su segunda mitad, cuando las metas de la mañana ya no te dan calor. El vacío es un sentimiento pesado y gris, y merece un trato suave. Jung escribió mucho sobre personas con vidas bien armadas por fuera pero que sienten una falta de sentido. Notó que eso pasa especialmente seguido en esa «tarde»: las metas de la juventud, el puesto, el éxito, una casa en orden, se alcanzaron o perdieron su gusto, y todavía no aparecieron otras nuevas. El vacío no es la ausencia de sentido en general, sino el fin de un sentido y una pausa antes de otro. Jung creía que en esos períodos una persona está buscando una conexión con el sí-mismo, con algo más grande que el «yo» de siempre y sus tareas. Podés darle tiempo al vacío: a veces es simplemente un terreno despejado donde todavía no creció nada.",
+      "practice": "Sentate diez minutos sin hacer nada, como Jung se sentaba junto al lago en Bollingen: mirá el agua, las nubes o al menos por la ventana. No busques nada: dejá que el terreno despejado siga vacío un rato.",
+      "quote": {
+        "text": "No podemos vivir la tarde de la vida según el programa de la mañana, pues lo que en la mañana era grande será pequeño en la tarde, y lo que en la mañana era verdadero en la tarde se habrá vuelto mentira.",
+        "author": "Carl Gustav Jung",
+        "source": "«Las etapas de la vida» (1930)"
+      }
+    },
+    "confusion": {
+      "text": "Un médico de casi cuarenta años construye un pueblito de juguete con piedras a orillas del lago de Zúrich: así encontró Jung el camino en el tiempo más confuso de su vida. Cuando los mapas viejos ya no sirven, la confusión desorienta de verdad. Jung lo atravesó en carne propia: después de su ruptura con Freud, según sus propias palabras, perdió su apoyo interior y no sabía hacia dónde ir. Entonces decidió confiar en lo que venía de adentro: sueños, fantasías, juego. El juego, como en la infancia, lo ayudó a tantear una dirección. Jung veía esos períodos como el comienzo de la «individuación»: la orientación vieja se agotó y la nueva todavía no nació. La claridad no siempre llega por el esfuerzo de pensar: a veces la sugiere lo que hacés con las manos, y con interés.",
+      "practice": "Construí algo con lo que tengas a mano, una torrecita de piedritas, botones, terrones de azúcar, durante cinco minutos, sin meta, como hacía Jung en la orilla. Fijate qué pensamiento aparece en el camino.",
+      "quote": {
+        "text": "Tu visión solo se volverá clara cuando puedas mirar dentro de tu propio corazón. Quien mira hacia afuera, sueña; quien mira hacia adentro, despierta.",
+        "author": "Carl Gustav Jung",
+        "source": "Carta a Fanny Bowditch, 22 de octubre de 1916"
+      }
+    },
+    "fatigue": {
+      "text": "En Bollingen Jung no tenía electricidad ni teléfono; iba ahí cuando estaba cansado de ser «el profesor Jung». El cansancio es una señal, no una debilidad. Jung veía la psique como un sistema de energía: tiene flujos y reflujos, y lo que gastamos no sale de la nada. Cuando sostenemos mucho tiempo una «persona», la cara que tenemos que mostrar en el trabajo o en la familia, cuesta mucha fuerza, sobre todo si esa persona está lejos de lo que hay adentro. Jung advertía contra quedar demasiado pegado al propio rol: uno empieza a vivir solo como una función y se va quedando sin aire en silencio. El cansancio puede estar diciendo no solo «hiciste mucho», sino también «hace demasiado que no sos del todo vos». Descansar, entonces, no es solo dormir, sino también un tiempo en el que la máscara se puede sacar.",
+      "practice": "Sacate una «máscara» durante media hora: ponete ropa de entrecasa, apagá el celular del laburo y hacé algo que no pertenezca a ningún rol: regá una planta, hacé una sopa, sentate en el balcón.",
+      "quote": null
+    },
+    "boredom": {
+      "text": "Jung notó que las energías más frescas de una persona se esconden donde es menos hábil. El aburrimiento parece trivial, pero puede ser muy opresivo. Jung vería en él un estancamiento de la energía: cuando la conciencia avanza por una huella conocida, la fuerza vital que llamó «libido» deja de fluir por ahí y busca otro cauce. En «Tipos psicológicos» describió cuatro maneras básicas de relacionarse con el mundo: pensamiento, sentimiento, sensación e intuición. En cada uno de nosotros, algunas están desarrolladas y son familiares, mientras que otras quedan en la sombra, torpes e «infantiles». Pero es justamente ahí, según Jung, donde se guardan la frescura y las posibilidades nuevas. El aburrimiento es una invitación a ir adonde no sos hábil, adonde sos principiante. Muchas veces ahí se esconde el interés perdido por la vida.",
+      "practice": "Elegí para hoy una actividad en la que claramente sos torpe, dibujar, cantar, arreglar algo, bailar, y hacela cinco minutos: mal, pero con curiosidad. Jung lo llamaría una visita a la «función inferior».",
+      "quote": null
+    },
+    "joy": {
+      "text": "«En Bollingen soy más profundamente yo mismo», escribió Jung sobre su torre de piedra junto al lago. La alegría es hermosa, y no necesita pasar ninguna prueba de durabilidad. A pesar de su interés por los lados oscuros del alma, Jung valoraba los momentos en que una persona se siente viva y entera. Amaba las cosas simples: en su torre de Bollingen, que construyó con sus propias manos, cortaba leña, cocinaba, bombeaba agua, sin electricidad ni agua corriente. Para Jung, la alegría verdadera suele aparecer cuando el «yo» y el sí-mismo profundo están por un momento de acuerdo: cuando lo que hacés coincide con quien sos. Una alegría así vale la pena notarla y saborearla, porque insinúa por dónde va tu camino.",
+      "practice": "Hacé hoy una cosa simple «a la manera de Bollingen», despacio y con tus propias manos: cociná una polenta, prepará un té, hervé agua en la hornalla. Fijate en el momento en que vos y la tarea coinciden.",
+      "quote": null
+    },
+    "love": {
+      "text": "Anima es «alma» en latín; Jung le dio ese nombre a una imagen interior que muchas veces encontramos en otra persona antes de conocer a la persona misma. El amor es una de las fuerzas más poderosas de la vida, y Jung lo trataba con enorme respeto. Notó que el enamoramiento muchas veces empieza con una «proyección»: vemos en el otro una imagen que vive en nuestra propia alma. En los hombres la llamó «ánima», en las mujeres «ánimus»: una imagen interior del «otro», de nuestro opuesto, que vuelve a una persona irresistiblemente atractiva. (Los junguianos posteriores entienden estos conceptos de manera más amplia, sin atarlos rígidamente al sexo.) La proyección no es un engaño: así empieza un encuentro. Pero el amor maduro, para Jung, crece a medida que vamos distinguiendo dónde está nuestra imagen interior y dónde la persona viva, y seguimos amando a esa persona. En ese encuentro, los dos se transforman.",
+      "practice": "Mirá a la persona que amás, o una foto suya, como si fuera la primera vez, y encontrá un rasgo que no coincida con tus expectativas. Quedate un minuto con él: esa es la persona viva detrás de la imagen.",
+      "quote": {
+        "text": "El encuentro de dos personalidades es como el contacto de dos sustancias químicas: si se produce alguna reacción, ambas se transforman.",
+        "author": "Carl Gustav Jung",
+        "source": "«Problemas de la psicoterapia moderna» (1929)"
+      }
+    },
+    "gratitude": {
+      "text": "Una vez una paciente le estaba contando a Jung un sueño sobre un escarabajo de oro, y en ese momento un insecto muy parecido a un escarabajo golpeó la ventana del consultorio. Jung llamó a esas coincidencias «sincronicidad», y la gratitud, que da calor, suele crecer de una sensación parecida: algo nos llegó por su cuenta. Decía que nuestro «yo» es solo una parte chica de la psique, como una isla en un océano, y que la mayor parte de nuestra vida interior ocurre sin que lo sepamos y sin nuestra voluntad: sueños, intuiciones, encuentros inesperados. Los hechos interiores y exteriores a veces se alinean de tal modo que surge una sensación de sentido. La gratitud es el reconocimiento de que no hacemos todo nosotros: algo nos llega como un regalo. Ese reconocimiento no te achica, te libera: dejás de cargar solo con el peso de tu vida. Y empezás a ver cuánto ya recibiste.",
+      "practice": "Recordá un encuentro o un hecho casual que te cambió la vida aunque no lo hayas planeado: tu propio «escarabajo en la ventana». Decile en voz alta un breve «gracias».",
+      "quote": null
+    },
+    "hope": {
+      "text": "«La función trascendente» suena seco, pero nombra una esperanza viva: de dos lados irreconciliables puede nacer un tercero. La esperanza es una fuerza silenciosa pero tozuda, y Jung le da un fundamento serio. Notó que la psique, como el cuerpo, tiende al equilibrio y a la totalidad. Cuando la conciencia llega a un callejón sin salida, el inconsciente muchas veces trae imágenes nuevas: en sueños, en fantasías, en pensamientos inesperados. Jung explicaba: si sostenés una contradicción adentro tuyo durante mucho tiempo sin apurarte a elegir un lado, de esa tensión puede nacer una tercera cosa, una solución que no podrías haber inventado de antemano. La esperanza no es una espera ingenua de un milagro, sino la confianza en que adentro tuyo sigue habiendo trabajo, aunque afuera nada cambie. A veces una salida aparece por donde menos la esperabas.",
+      "practice": "Escribí la contradicción en la que estás trabado como «tanto… como…» en lugar de «o… o…», y dejá la nota debajo de la almohada. A la mañana, mirala de nuevo: ¿apareció una tercera cosa?",
+      "quote": null
+    },
+    "nostalgia": {
+      "text": "Jung escribió que en cada uno de nosotros vive un «niño eterno», una imagen que no mira hacia atrás sino hacia el futuro. La nostalgia es dulce y amarga a la vez, y no tiene nada de infantil. Jung quizás diría que lo que añoramos no es solo una época concreta. Escribió sobre los «arquetipos», imágenes y tramas comunes a todas las personas, guardadas en el «inconsciente colectivo», la capa más profunda de la psique. Una de esas imágenes es el paraíso perdido: la infancia, la casa, un tiempo en que todo estaba entero. La nostalgia puede ser un roce de ese arquetipo: el pasado brilla más de lo que brilló en realidad, porque cae sobre él un anhelo de totalidad. El propio Jung, ya adulto, volvió a los juegos de la infancia y encontró en ellos un camino hacia adelante. El pasado no es solo una pérdida, sino también una fuente de donde sacar una cualidad perdida: liviandad, asombro, juego.",
+      "practice": "Jugá cinco minutos a algo de la infancia: piedritas, un avión de papel, un juego de garabatos con lápiz. Jung diría: así vuelve al presente una cualidad perdida, la liviandad, el asombro.",
+      "quote": null
+    },
+    "craving": {
+      "text": "En 1961, unos meses antes de morir, Jung respondió una carta de Bill Wilson, uno de los fundadores de Alcohólicos Anónimos. Un «lo quiero ya» intenso puede ser muy fuerte, y Jung proponía mirar qué hay detrás. En esa carta sugirió que el ansia de alcohol puede ser una expresión de bajo nivel, distorsionada, de una sed espiritual profunda: la aspiración de una persona a la totalidad, a algo más grande que el «yo» de todos los días. Las ganas no son una tontería ni un vicio: hay en ellas una necesidad genuina que simplemente fue a parar a la dirección equivocada. Jung no romantizaba la adicción, veía cuánto sufrimiento trae, pero respetaba la sed en sí. Las ganas llegan como una ola: suben y bajan. Mientras pasa, podés preguntarte: ¿qué quiero de verdad?",
+      "practice": "Cuando suba una ola de ganas, sentate, apoyá los pies en el piso y respirá, mirando la ola como Jung miraba sus imágenes: dónde está en tu cuerpo, cómo crece y cómo baja. Preguntate en voz baja: «¿Qué quiero de verdad?».",
+      "quote": null
+    },
+    "addiction": {
+      "text": "«Spiritus contra spiritum»: tres palabras en latín de la carta de Jung que, según Bill Wilson, estuvieron en los orígenes de Alcohólicos Anónimos. La adicción no es una falla moral, y Jung fue uno de los que lo entendieron. Hablaba de «complejos», nudos en la psique cargados de un sentimiento fuerte, que pueden actuar casi por su cuenta, como si se adueñaran de una persona. La adicción se puede ver así: no es que vos seas «débil», sino que tomó el control una fuerza más grande que tu «yo» consciente. Por eso muchas veces la fuerza de voluntad sola no alcanza. De ahí su fórmula: contra los «espíritus», lo que ayuda es el «espíritu», la experiencia de conexión con algo más grande que uno, y con otras personas. La salida no es avergonzarte, sino no quedarte solo con esa fuerza.",
+      "practice": "Decí en voz alta el nombre de una persona o de un grupo de ayuda mutua (como AA o NA) donde te escucharían sin juzgarte. Jung diría que el «espíritu» empieza por la conexión con otros; no tenés que llamar ahora mismo.",
+      "quote": null
+    },
+    "hangover": {
+      "text": "Jung decía que la Sombra es todo lo que una persona no quiere ser, y una mañana de resaca suele recordárnoslo más fuerte que un despertador. Es duro para el cuerpo y para el alma: ansiedad, vergüenza, fragmentos de anoche, y el acusador interno sube el volumen. La noche muchas veces deja que la «persona», tu máscara social de siempre, se afloje, y sale lo que normalmente queda en la «Sombra»: aspereza, franqueza, torpeza. A la mañana la máscara vuelve y mira con horror lo que se hizo. Así que el peso de la mañana no es solo un estado del cuerpo, sino un encuentro entre dos partes tuyas que no se conocen bien. No hace falta firmar el veredicto que dicta una mente cansada. Las grandes conclusiones sobre vos pueden esperar a que vuelvan las fuerzas; por ahora, simplemente cuidate como cuidarías a alguien que se siente mal.",
+      "practice": "Decite en voz alta: «Hoy, ninguna conclusión sobre mí». Después lavate la cara con agua fresca y abrí una ventana, como dejando entrar la mañana a tus dos partes: la máscara y la Sombra.",
+      "quote": null
+    },
+    "euphoria": {
+      "text": "Jung tomó de la economía la palabra «inflación»: literalmente, «inflarse». Con ella describió los subidones en los que todo parece posible, y nos ayuda a entender esos momentos sin miedo y sin quedar encandilados. La euforia se puede vivir simplemente con gratitud. Jung describió cómo el «yo» a veces se desborda con una fuerza que vino de lo hondo de la psique y por un tiempo se identifica con ella: parece que podés todo y que ves a través de todo. Esa energía en sí es hermosa y real. Jung solo aconsejaba recordar que es más grande que tu «yo» y no le pertenece del todo. Eso te permite disfrutar del subidón y, al mismo tiempo, dejar que las decisiones importantes descansen un poco. La euforia es un regalo que conviene recibir con las palmas abiertas, no apretado en un puño.",
+      "practice": "Sentí el subidón con el cuerpo: caminá un poco, abrí las palmas como si sostuvieras algo liviano sin agarrarlo. Decite: «Esto es más grande que yo, y va a pasar». Dejá las decisiones importantes para un día tranquilo.",
+      "quote": null
+    },
+    "crash": {
+      "text": "«Enantiodromía», el correr hacia lo opuesto: a Jung le encantaba esta palabra de Heráclito porque describe la vida con honestidad. Un bajón fuerte después de un subidón es un estado difícil, y no es culpa tuya. Su sentido es simple: todo extremo tarde o temprano se convierte en su opuesto. Cuanto más alto el vuelo, más se nota el movimiento de vuelta. No es un castigo ni la prueba de que la alegría era falsa: es el ritmo de la psique, su manera de volver al equilibrio. Jung creía que los opuestos no se anulan, sino que juntos forman un todo: el día necesita a la noche. El bajón es parte de la misma ola que el subidón, y también va a pasar. Ahora es más importante no desarmarte a pedazos, sino esperarlo con toda la suavidad que puedas, como se espera que pase el mal tiempo.",
+      "practice": "Apoyá una mano en la panza y observá tu respiración un minuto: la inhalación sube, la exhalación baja, y una se convierte en la otra, como en Heráclito. El bajón es una exhalación; después va a venir una inhalación.",
+      "quote": null
+    },
+    "panic": {
+      "text": "En sus años más duros, Jung se recordaba cosas simples: tengo una familia, un título de médico, una casa y una dirección; soy una persona real en un mundo real. Un ataque de pánico da muchísimo miedo de verdad: el corazón golpea, no te alcanza el aire, parece que está por pasar algo irreparable. Una ola así suele llegar a su pico y bajar en pocos minutos. Jung describió cómo el «yo» a veces queda inundado por fuerzas de la psique que no puede asimilar de golpe, como si una ola del océano pasara por encima de una isla chiquita. En los años de su propia «confrontación con el inconsciente», atravesó estados en los que temía perder pie, y buscó apoyo en las cosas más simples: la familia, el trabajo, las tareas de todos los días. Así que lo que el pánico necesita primero es apoyo: corporal, concreto, acá y ahora. La comprensión va a llegar después.",
+      "practice": "Apoyá los pies en el piso y decí en voz alta, como Jung: tu nombre, tu dirección, la fecha de hoy. Después hacé unas respiraciones con la exhalación más larga que la inhalación, sintiendo el apoyo bajo los pies.",
+      "quote": null
+    },
+    "dread": {
+      "text": "Meses antes de la Primera Guerra Mundial, Jung tuvo visiones de un mar de sangre sobre Europa y no podía saber de dónde venía el horror. El pavor sin objeto, un presentimiento pesado, es uno de los estados más agotadores, y no tenés que entenderlo enseguida. Jung pensó mucho en lo que sube de lo hondo cuando un mundo conocido se derrumba. Escribió que lo que no se hace consciente adentro muchas veces se vive como un destino que avanza desde afuera, como una nube oscura y sin forma. No necesariamente porque no haya amenaza, sino porque el miedo todavía no tiene imagen. Jung proponía darle una imagen a lo informe: dibujarlo, describirlo, imaginarlo. Lo que tomaba forma, observaba, dejaba de ser devorador y se volvía algo con lo que uno podía relacionarse. Tu estado no es un veredicto ni una profecía; es algo que todavía está buscando palabras.",
+      "practice": "Imaginá este sentimiento como un clima o un paisaje y describilo en voz alta en tres frases: qué cielo, qué luz, qué viento. Fijate que estás mirando el paisaje, no solo parado adentro de él.",
+      "quote": null
+    },
+    "fomo": {
+      "text": "Jung usaba la expresión «vida no vivida» para lo que podría haber sido nuestro pero quedó a un costado, y creía que no desaparece sino que busca una salida. El miedo a perderte algo es un sentimiento reconocible: parece que la vida de verdad está pasando en otro lado, y vos no estás ahí. Jung diría que acá opera la «proyección»: en las vidas de otros, fotos, historias, éxitos, vemos nuestra propia vida no vivida. Además, los feeds son un mundo de «personas», caras cuidadosamente construidas; comparar tu estado interior vivo con ellas es injusto desde el principio. Jung creía que cada persona tiene su propio camino de «individuación», y no se puede recorrer copiando el de otro. Nadie puede vivir todas las vidas a la vez. La pregunta, entonces, no es «¿qué me estoy perdiendo?», sino «¿qué de lo que vi resuena de verdad en mí?»: eso es una pista sobre tu propio camino.",
+      "practice": "Guardá el celular y salí diez minutos a algún lugar sin una sola «persona» de las fotos: un patio, una plaza, un río. En el camino, preguntate: ¿qué de lo que vi en el feed resonó de verdad en mí?",
+      "quote": null
+    },
+    "sleepless": {
+      "text": "De día la conciencia es un centinela en la puerta; de noche el centinela se cansa: así podría describir Jung el insomnio. La noche se hace larga, los pensamientos parecen más oscuros que de día, y no es culpa tuya. De noche la conciencia se cansa de sostener sus defensas, y lo que se dejó de lado durante el día sube a la superficie. Jung respetaba el lado nocturno de la psique: los sueños, las imágenes del duermevela, los pensamientos repentinos son el lenguaje del inconsciente, que él no veía como un enemigo sino como un interlocutor. Pero un interlocutor que habla en imágenes, no en veredictos. Por eso los pensamientos nocturnos no deberían tomarse como la verdad final sobre tu vida: son materia prima, no un juicio. A la mañana mucho se ve distinto. Si una imagen vuelve una y otra vez, anotala y retomala de día, cuando tengas más fuerzas.",
+      "practice": "Acostado, imaginá que le decís al pensamiento nocturno en la puerta: «Esperá hasta mañana; te retomo de día». Después llevá la atención a tu respiración y al peso de la frazada.",
+      "quote": null
+    },
+    "betrayal": {
+      "text": "En 1913 Jung y Freud, hasta hacía poco casi padre e hijo, intercambiaron sus últimas cartas, y Jung pasó años volviendo a armarse. La traición hiere hondo: lo que se derrumba no es solo la confianza en una persona, sino tu imagen del mundo. La ruptura con Freud fue uno de los hechos más dolorosos de la vida de Jung. El junguiano James Hillman le dedicó a este tema un ensayo, «La traición». Sugirió que la traición es una parte amarga pero común del crecimiento: destruye la «confianza primaria» en la que vivíamos de chicos, protegidos de todo. Hillman describió también respuestas peligrosas: el cinismo, la venganza, negarse a confiar del todo. El dolor de la traición no carece de sentido: con el tiempo puede abrir una confianza más madura, no ciega, sino consciente de la vulnerabilidad, y aun así no cerrada.",
+      "practice": "Anotá qué creías antes de esto, sobre la gente, sobre vos, y subrayá lo que te gustaría conservar en una forma nueva, más madura. Hillman lo llamaría una confianza que sabe de la vulnerabilidad.",
+      "quote": null
+    },
+    "jealousy": {
+      "text": "Cuando amás, decía Jung, parte de tu propia alma parece mudarse a otra persona. Por eso los celos queman y no se pueden simplemente apagar, pero se los puede mirar sin vergüenza. Es la «proyección» de una imagen interior, el ánima o el ánimus. Entonces la amenaza de perder a la persona se siente como la amenaza de perder una parte de vos, y por eso es tan insoportable. Eso no quiere decir que tus sentimientos no sean reales. Quiere decir que en los celos se mezcla el miedo por la relación con el miedo por tu propia totalidad. Ayuda preguntarse: ¿qué siento exactamente que perdería junto con esa persona? A veces la respuesta, el sentimiento de tu propio valor, la vitalidad, el sentido, señala algo que podés empezar a cultivar en vos, en lugar de entregárselo entero a otro.",
+      "practice": "Imaginá que recuperás una parte de tu alma de la escena de celos: nombrá en voz alta una cualidad, vitalidad, valor, ternura, que le «diste» a esta persona, y decí: «Esto también es mío».",
+      "quote": null
+    },
+    "resentment": {
+      "text": "«No es que tengamos complejos; los complejos nos tienen a nosotros», bromeaba Jung. Un rencor que no se va es una carga pesada, y suele haber razones serias detrás. Jung lo llamaría un «complejo», un nudo de experiencias cargado de un sentimiento fuerte. Los complejos viven una vida casi independiente: los tocás, y vuelven a reproducir la vieja escena una y otra vez, como si estuviera pasando ahora. El rencor no es mezquindad, sino una herida que todavía no encontró salida y sigue repitiendo su historia. El alivio no llega por obligarte a «perdonar», sino por reconocer el dolor por completo; entonces puede ir aflojando de a poco su agarre.",
+      "practice": "Contalo en voz alta, a una habitación vacía o a alguien cercano, como una sola historia de corrido: qué te hicieron y qué significó para vos. No para perdonar ni para vengarte: un complejo se debilita cuando fue escuchado hasta el final.",
+      "quote": null
+    },
+    "heartbreak": {
+      "text": "Enamorarse, para Jung, es como si una luz encendida en nuestra propia alma de pronto brillara en otra persona. Un corazón roto duele casi físicamente, y no hace falta apurarse a «soltar». Jung quizás diría que junto con la persona se va también lo que «proyectamos» en ella: la imagen interior de lo amado, que llamó ánima o ánimus. Mientras duró el amor, esa imagen vivía afuera, en otra persona. Ahora es como si volviera a vos, y al principio se siente como vacío y como herida. Pero para Jung esto también es una oportunidad: notar que lo que tanto amabas en el otro, la ternura, el coraje, la profundidad, también sonaba en parte en vos. Eso no desvaloriza ni el amor ni a la persona. Quiere decir que esa persona se fue, pero no todo lo bueno que se despertó en vos a su lado.",
+      "practice": "Nombrá en voz alta tres cualidades que más amabas de esta persona, apoyando una mano en el corazón con cada una: ¿cuál de ellas vive, aunque sea un poco, también en vos?",
+      "quote": null
+    },
+    "impostor": {
+      "text": "«N.º 1» y «N.º 2»: así llamaba el Jung adolescente a las dos personalidades que sentía en sí mismo. Cuando parece que en cualquier momento te van a desenmascarar, es desgarrador, y Jung entendía bien de dónde viene esa sensación. Jung la describiría a través del concepto de «persona», la máscara social, la cara con la que salimos al mundo: el cargo, el estatus, el rol. La persona es necesaria, pero nunca coincide con la persona entera, y en esa distancia surge la sensación de «no soy quien creen que soy». Su «N.º 1» era un colegial que trataba de estar a la altura; el «N.º 2», alguien más viejo y más hondo. Sentirse impostor no es prueba de engaño, sino señal de que sos más que tu rol. Nadie coincide del todo con su persona, ni siquiera quienes parecen seguros.",
+      "practice": "Contale a alguien cercano una de tus dudas del laburo, no para que te consuele, sino para dejar que el «N.º 2» hable en voz alta. Muchas veces resulta que otros conocen la misma distancia entre ellos y su rol.",
+      "quote": null
+    },
+    "self_hatred": {
+      "text": "«¿Y si descubriera que yo mismo soy el enemigo que hay que amar?», se preguntaba Jung. Cuando una voz interior insiste en que no valés nada, duele muchísimo, y esa voz se equivoca, por convincente que suene. Jung muy probablemente vería en ella no la verdad sobre vos, sino un «complejo», un nudo viejo de experiencia que habla con palabras ajenas y pasa el mismo disco una y otra vez. También creía que todo lo que no podemos aceptar de nosotros va a parar a la «Sombra», y cuanto más ferozmente la combatimos, más fuerte se hace oír. Jung proponía no pelearse con uno mismo, sino ir reconociendo de a poco: sí, esto también está en mí, y sigo siendo una persona digna de vida y de cuidado. Aceptar acá no es aprobar todo; es renunciar a la guerra con vos mismo.",
+      "practice": "Apoyá una mano en tu propio hombro, como lo harías en el de un amigo, y decí en voz alta una frase que le dirías a él en tu lugar. Jung lo llamaría la limosna de tu propia bondad.",
+      "quote": {
+        "text": "No podemos cambiar nada si no lo aceptamos. La condena no libera: oprime.",
+        "author": "Carl Gustav Jung",
+        "source": "«Los psicoterapeutas o el clero» (1932)"
+      }
+    },
+    "helplessness": {
+      "text": "Jung comparaba el «yo» consciente con una isla chiquita en el océano de la psique. La impotencia es uno de los sentimientos más duros: parece que nada depende de vos, y Jung no intentaría convencerte de que sos todopoderoso. Al contrario, subrayaba que el «yo» consciente es solo una parte de la psique, y que realmente no controla todo: ni los sueños, ni los estados de ánimo, ni muchos acontecimientos. Pero de ahí no sacaba una conclusión de impotencia, sino de alianza. Si el «yo» no puede solo, puede apoyarse en una totalidad más amplia que Jung llamó el sí-mismo: en aquello de vos que sigue viviendo, buscando y recuperándose, incluso cuando no lo sentís. La impotencia no es el final del camino, sino el lugar donde se acaban tus recursos de siempre y empiezan los pasos chiquitos y la paciencia.",
+      "practice": "Hacé una cosa muy chiquita que esté en tus manos, como Jung volvía a las tareas simples en los días difíciles: prepará un té, abrí una ventana, acomodá una frazada. La isla sigue ahí.",
+      "quote": null
+    },
+    "procrastination": {
+      "text": "Jung decía que la psique tiene voluntad propia, y a veces se muestra de manera simple: la tarea no se hace. Postergar no siempre es vagancia, y vale la pena mirarlo más de cerca. La voluntad de la psique no siempre coincide con la voluntad del «yo». Si alguna parte tuya se resiste a una tarea, esa resistencia puede estar diciéndote algo: la tarea no es tuya, te la impusieron; te asusta; o ahora hace falta otra cosa. Jung llamaría a esas partes «complejos»: tienen sus propios sentimientos y su propia lógica, y saben sabotear los planes de la conciencia. Pelear contra la procrastinación solo con fuerza de voluntad es como discutir con alguien sin escucharlo. Mejor preguntar: ¿quién en mí no quiere hacer esto, y por qué? A veces, una vez escuchada, esa voz interior acepta al menos el primer paso.",
+      "practice": "Imaginá la parte tuya que está postergando la tarea y preguntale en voz alta: «¿A qué le tenés miedo, o qué querés en cambio?». Escuchá la respuesta y proponele un trato: solo el primer paso, cinco minutos.",
+      "quote": null
+    },
+    "uprooted": {
+      "text": "Durante más de treinta años Jung construyó con sus propias manos una torre de piedra a orillas del lago de Zúrich, una casa que, según decía, lo conectaba con sus antepasados. Quedar separado de tu casa, de tu tierra y de tu lengua es una pérdida real. Jung les daba una importancia enorme a las raíces. Estaba convencido de que debajo de la memoria personal hay una capa más profunda, el «inconsciente colectivo», un suelo psíquico compartido por todas las personas, lleno de imágenes antiguas. Ser arrancado de un lugar conocido deja al descubierto esa profundidad: los apoyos exteriores desaparecen, y hay que buscar raíces adentro. En Bollingen él se sentía conectado con muchos siglos a la vez. El hogar no es solo una dirección, sino algo que se puede recrear pieza por pieza: objetos, rituales, palabras que te sostienen donde sea que estés.",
+      "practice": "Poné una piedra, un objeto o una foto de tu casa de antes en el alféizar o en la mesa, como la primera piedra de tu propia «torre». Al lado, hacé algo conocido de allá: prepará el té o el mate como lo hacías en casa.",
+      "quote": null
+    },
+    "overload": {
+      "text": "Jung vivió mucho antes de los smartphones, pero ya en los años treinta advertía que la gente moderna vive demasiado «hacia afuera». La sobrecarga de un flujo interminable es un peso real, no un defecto tuyo. La gente moderna, para Jung, está identificada con la conciencia, los hechos externos y las exigencias, y desconectada de la vida interior. Lo consideraba uno de los males de nuestra cultura. Para recuperar el equilibrio, el propio Jung se iba a Bollingen, donde no tenía electricidad ni teléfono, y donde, según sus palabras, era más él mismo. La sobrecarga es una señal de que hay demasiado afuera y ningún lugar donde lo de adentro pueda hacerse oír. No necesitás tu propio Bollingen: alcanza con unos minutos de silencio adonde el flujo no llegue.",
+      "practice": "Apagá todas las pantallas y los sonidos durante cinco minutos: armate un pequeño Bollingen. Solo sentate y fijate qué imagen o pensamiento aparece primero cuando todo se calla.",
+      "quote": null
+    },
+    "unreality": {
+      "text": "En sus épocas más extrañas, Jung hacía las cosas más comunes: trabajaba la piedra, cocinaba, conversaba con los suyos. La sensación de irrealidad, como si el mundo o vos mismo estuvieran detrás de un vidrio, es una experiencia rara e inquietante. Jung se tomaba esos estados en serio y sin condescendencia. En los años de su «confrontación con el inconsciente», él mismo atravesó períodos en los que el borde entre las imágenes interiores y el mundo exterior se volvía inestable. Para no perderse, se aferró fuerte a lo más común: la familia, el trabajo, su rutina diaria. En los «Recuerdos» escribe que esas realidades simples fueron para él un ancla que le recordaba que existía en el mundo real. Para Jung, el «yo» es solo una parte de una psique más amplia, y a veces se debilita por un tiempo. Se lo puede ayudar con lo más simple: un contacto, un trabajo manual, la voz de alguien cercano.",
+      "practice": "Durante un minuto o dos, hacé con las manos la tarea más cotidiana, lavar una taza, doblar un repasador, nombrando en voz alta cada movimiento: «agarro», «agua tibia», «seco». Lo cotidiano es la mejor ancla.",
+      "quote": null
+    },
+    "awe": {
+      "text": "«Vocatus atque non vocatus deus aderit», «Llamado o no llamado, el dios estará presente»: Jung mandó tallar estas palabras sobre la puerta de su casa. El asombro es un sentimiento raro y valioso, y no necesita ser explicado del todo. Jung tomó del teólogo Rudolf Otto la palabra «numinoso»: la experiencia de algo inmenso, a la vez aterrador y fascinante, ante lo cual una persona se siente pequeña e intensamente viva. Jung consideraba esas experiencias entre las más importantes de la vida del alma: en ellas el «yo» toca algo más grande que él. Escribió que la experiencia numinosa puede cambiar una vida, porque da un sentido al que no se llega razonando. El asombro frente al mar, un cielo estrellado, la música o el nacimiento de un hijo es un momento en que te encontrás a la vez con la profundidad del mundo y con la tuya.",
+      "practice": "Leé en voz alta las palabras de la puerta de Jung: «Llamado o no llamado, el dios estará presente». Después quedate un minuto con lo que te llenó de asombro, sin hacer nada, y nombrá en una palabra con qué te encontraste.",
+      "quote": null
+    },
+    "relief": {
+      "text": "«La psique es un sistema que se autorregula», repetía Jung, y el alivio es quizás su mejor prueba. Llega cuando se suelta lo que te tuvo agarrado mucho tiempo, y vale la pena simplemente vivirlo. Jung señalaría que el alivio muchas veces llega cuando por fin se resuelve la tensión entre opuestos: durante mucho tiempo tiraban de vos en direcciones distintas, y de pronto apareció una salida, o el tiempo simplemente hizo su trabajo. Escribió que la psique, como el cuerpo, tiende al equilibrio, y esa tendencia no necesita nuestro esfuerzo a cada minuto: a veces hace su trabajo sola. Es señal de que tu autorregulación interior funciona. Es un buen momento para notarlo: lo atravesaste, y hay en vos una fuerza que te ayudó. Vale la pena recordarla para más adelante.",
+      "practice": "Estirá todo el cuerpo, como después de estar mucho tiempo sentado, y al exhalar decí: «Esto ya quedó atrás». Fijate en qué parte del cuerpo el alivio se siente más: ahí está trabajando ahora el equilibrio.",
+      "quote": null
+    },
+    "calm": {
+      "text": "En 1918 y 1919 Jung dibujaba cada mañana en un cuaderno un pequeño círculo, un mandala, y leía en él cómo estaba ese día. La calma es un estado valioso, y vale la pena apreciarla sin esperar la trampa. Jung veía la calma profunda como un momento en que el «yo» y el sí-mismo, el centro profundo de la personalidad, están de acuerdo. Su símbolo de esa totalidad era el mandala, un dibujo circular que aparece en las culturas más diversas. Se dio cuenta de que el mandala expresa la tendencia de la psique hacia un centro y un equilibrio. Tu calma no es una pausa casual, sino la expresión de la totalidad hacia la que tiende el alma. Podés recordarla para volver a ella.",
+      "practice": "Dibujá un círculo y, adentro, lo que salga ahora, como hacía Jung cada mañana. Que sea el mandala de tu calma.",
+      "quote": null
+    },
+    "inspiration": {
+      "text": "Filemón se llamaba un viejo con alas de martín pescador que se le aparecía a Jung en sus fantasías y le decía cosas que el propio Jung no sabía. La inspiración es un estado alegre en el que las ideas parecen venir solas, y Jung creía que, en parte, así es. En sus escritos sobre la creación artística distinguió dos caminos: a veces el autor guía la obra conscientemente, y a veces la obra parece crecer por su cuenta, usando a la persona como instrumento, y entonces dice más que la experiencia personal del autor. La inspiración es un encuentro con la fuerza creadora del inconsciente, y no hace falta adjudicártela: podés recibirla con gratitud. Eso saca presión: no tenés que inventarlo todo vos; alcanza con escuchar con atención y anotarlo.",
+      "practice": "Imaginá a tu propio «Filemón», un interlocutor interior que sabe más que vos, y hacele en voz alta una pregunta sobre tu idea. Durante cinco minutos, anotá sus respuestas tal como llegan, sin editar.",
+      "quote": null
+    },
+    "schadenfreude": {
+      "text": "«Uno no se ilumina imaginando figuras de luz, sino haciendo consciente la oscuridad», escribió Jung. Descubrir en uno mismo alegría por el mal ajeno es desagradable, aunque casi todos la sintieron alguna vez. Jung diría que es la voz de la «Sombra», la parte de nosotros que guarda todo lo que no encaja con la imagen de «buena persona»: la rivalidad, el resentimiento, las ganas de salir ganando. Todos tienen Sombra, y Jung creía que es mucho más peligroso no conocer la propia Sombra que conocerla. Esa alegría muchas veces habla de un dolor escondido: la sensación de haber sido subestimado o pasado por alto, una comparación secreta en la que hace mucho salías perdiendo. El sentimiento en sí no dice nada definitivo de vos. Lo importante no es hacer de cuenta que no está, sino preguntar qué herida tapa, y no dejar que maneje tus actos.",
+      "practice": "Preguntate en voz alta, sin juzgarte: «¿Dónde me lastimó alguna vez esta persona, o en qué me comparo con ella?». La primera respuesta es un pedazo de Sombra traído a la luz.",
+      "quote": {
+        "text": "Uno no se ilumina imaginando figuras de luz, sino haciendo consciente la oscuridad.",
+        "author": "Carl Gustav Jung",
+        "source": "«El árbol filosófico» (1945)"
+      }
+    },
+    "contempt": {
+      "text": "En «Aion», Jung escribió que las proyecciones convierten nuestro entorno en un reflejo de nuestro propio rostro desconocido. El desprecio es un sentimiento frío, y no es fácil admitirlo. Jung señalaría con qué frecuencia está ligado a la «proyección»: atribuirle sin querer a otra persona lo que no aceptamos de nosotros. Cuanto más nos saca de quicio algún rasgo de alguien, la debilidad, la estupidez, la soberbia, más probable es que de algún modo también nos concierna: quizás lo estamos reprimiendo en nosotros con todas nuestras fuerzas. Eso no quiere decir que el otro no tenga culpa. Quiere decir que el desprecio también trae información sobre vos. No es un motivo para sentirte superior, sino una oportunidad de aprender algo importante sobre vos mismo.",
+      "practice": "Nombrá en voz alta el rasgo que despreciás en esta persona, y después preguntate en voz baja: «¿Cuándo me da miedo descubrir esto en mí?». Mirá la respuesta como tu propio «rostro desconocido».",
+      "quote": null
+    },
+    "disgust": {
+      "text": "Los alquimistas que Jung estudió toda su vida tenían un dicho: el oro se encuentra en el estiércol, in stercore invenitur. El asco es un sentimiento corporal fuerte que muchas veces te protege y es perfectamente razonable, pero los alquimistas también conocían el valor de lo «bajo». Jung propondría además mirar qué es exactamente lo que tanto nos afecta. La «Sombra», según él, junta todo lo que consideramos bajo, sucio, animal en nosotros, y el asco por algo de afuera a veces custodia la frontera contra ese algo de adentro. Es especialmente difícil cuando el asco se dirige a uno mismo. Entonces ayuda recordar: Jung creía que la totalidad incluye lo «bajo», lo corporal, lo imperfecto; sin eso una persona no es más pura, sino más pobre. El asco no tiene que obedecerse como una orden ni ser motivo de vergüenza. Podés preguntarte: ¿qué frontera está custodiando ahora, y necesito esa frontera?",
+      "practice": "Fijate en qué parte del cuerpo vive el asco, apoyá la palma ahí y respirá un minuto sin intentar sacártelo de encima. Como un alquimista frente a un matraz, simplemente observá qué le pasa a la materia «baja».",
+      "quote": null
+    },
+    "revenge": {
+      "text": "Jung comparaba un arquetipo con el lecho de un río: el agua corrió por él durante siglos, y cuando llega la lluvia, la corriente encuentra el cauce viejo. La venganza corre por un lecho antiguo: cuando te lastimaron, se levanta una exigencia de justicia, pero el deseo no es un acto y no te convierte en una mala persona. En esos momentos puede apoderarse de nosotros un «arquetipo», acá la antigua trama de la retribución, que te arrastra como una corriente. Cuando un arquetipo «posee» a una persona, esta empieza a actuar no como ella misma, sino como un personaje de una vieja tragedia. Jung creía que la salida está en la toma de conciencia: una vez que ves la trama, no tenés que interpretar tu papel en ella. La sed de venganza habla de una herida real y de un límite violado. Necesitan un camino que te proteja y restaure tu dignidad sin dañar a nadie.",
+      "practice": "Llená un vaso de agua y vacialo despacio en la pileta, imaginando que el viejo cauce de la venganza se seca. Después decí en voz alta qué necesitás de verdad: que reconozcan tu dolor, protección, una disculpa.",
+      "quote": null
+    },
+    "anger_at_loved": {
+      "text": "Jung escribió que donde el amor es fuerte, su opuesto nunca está lejos: la psique funciona en pares. El enojo con una pareja, con los padres, con los hijos es uno de los sentimientos que más vergüenza nos dan, pero no anula el amor. Cuanto más fuerte el apego, más tensión escondida guarda. Los cercanos tocan nuestros «complejos», nudos viejos y cargados, porque fue con personas como ellos que alguna vez aprendimos a amar y a ser heridos. Además, muchas veces vemos en una pareja rasgos de nuestros padres, y les pasamos a nuestros hijos nuestra propia vida no vivida. El enojo con un ser querido es señal de un lazo fuerte y un motivo para entender qué nudo viejo fue tocado. No tenés que descargarlo sobre la persona; podés encontrarle palabras una vez que la ola se haya asentado.",
+      "practice": "Cuando el enojo haya bajado, decite en voz alta: «Me dolió tanto porque se parece a…», y terminá la frase. Jung lo llamaría buscar el nudo viejo que la persona tocó.",
+      "quote": null
+    },
+    "ambivalence": {
+      "text": "El emblema de la psicología junguiana es una unión de opuestos: el sol y la luna, el rey y la reina en el matraz alquímico. Querer a alguien y no soportarlo, querer estar cerca y querer irse: esos sentimientos mezclados son muy difíciles, pero completamente humanos. Jung, quizás más que la mayoría, valoraba la capacidad de sostener opuestos. Creía que la psique tiene una estructura polar: luz y sombra, amor y agresión, cercanía y separación. Intentar quedarse solo con un lado vuelve unilateral a una persona, y el lado reprimido vuelve igual. Jung describió la «función trascendente»: si sostenés con paciencia los dos sentimientos adentro tuyo, sin obligarte a elegir uno, con el tiempo puede nacer una tercera cosa, una actitud nueva y más madura. Tu ambivalencia no es señal de una mala relación, sino la honestidad de un alma que ve a la persona entera.",
+      "practice": "Sostené algo tibio en una mano y algo fresco en la otra, por ejemplo una taza de té y un vaso de agua, durante un minuto. Las dos manos son tuyas, como los dos sentimientos; ninguno tiene que soltarse ahora.",
+      "quote": null
+    },
+    "guilty_relief": {
+      "text": "No se puede prohibir la exhalación después de haber contenido la respiración mucho tiempo, y Jung creía que el alma también tiene una exhalación así. El alivio después de una ruptura, de dejar un trabajo agotador, incluso después de la muerte de un ser querido que estuvo mucho tiempo enfermo, muchas veces viene con vergüenza, pero el alivio y el amor pueden convivir. Jung repetía con insistencia que la psique no obedece las reglas de los sentimientos «correctos»: en ella suenan opuestos al mismo tiempo. La tensión larga, el cuidado de otro y el miedo agotan las fuerzas, y cuando terminan, el alma exhala: no es traición, sino su autorregulación natural. La vergüenza acá habla con la voz de la «persona», las ideas sobre lo que se supone que uno debe sentir. El alivio no anula tu amor, tu duelo ni tu fidelidad. Solo muestra lo difícil que era para vos, y que lo atravesaste.",
+      "practice": "Contené la respiración unos segundos y exhalá despacio: ahí está, la exhalación que nadie puede prohibir. Al exhalar, decí: «Me siento más liviano, y mi amor no se achicó por eso».",
+      "quote": null
+    },
+    "indifference": {
+      "text": "«Como corresponde»: en esas palabras, para Jung, habla la persona, no el ser humano vivo. La indiferencia donde algo «debería» conmoverte asusta: parece que algo anda mal en vos. Jung propondría no apurarse a dictar un veredicto. Para él, la energía psíquica, la «libido» en sentido amplio, simplemente fuerza vital, no siempre está donde la conciencia la espera. A veces se retira a lo hondo, donde se hace un trabajo silencioso; a veces la ocupa el cansancio o una tensión larga; a veces se estira hacia algo muy distinto de lo «esperado». La indiferencia no es prueba de insensibilidad, sino información: acá ahora no hay energía, y quizás esté en otro lado. Los sentimientos muchas veces vuelven cuando dejás de intentar exprimirlos.",
+      "practice": "Salí afuera o acercate a una ventana y durante un minuto buscá cualquier cosa que te toque aunque sea un poco: un color, un sonido, la cara de alguien, aunque no sea para nada lo que «debería». Nombralo en voz alta, sin juzgar: eso muestra adónde se fue la energía.",
+      "quote": null
+    },
+    "escape": {
+      "text": "Marie-Louise von Franz describió a personas que viven una «vida provisoria»: el presente de verdad está por empezar, en otro lado, después de una mudanza. Las ganas de dejarlo todo e irse, un laburo, una ciudad, un rol, no son vergonzosas, y los junguianos las toman en serio. Hablan del «eterno joven», el puer aeternus, que von Franz describió en detalle. Es la parte de nosotros que tiene sed de libertad, de novedad, de una vida sin límites. Von Franz también vio la trampa que hay ahí. Pero la mirada junguiana ve algo más en las ganas de huir: quizás la «persona», el rol que interpretás, quedó demasiado apretada, y el alma pide espacio. La pregunta importante es: ¿de qué huyo exactamente, y hacia qué? El sueño de fuga merece ser escuchado: hay en él una verdad sobre lo que te falta.",
+      "practice": "Imaginá que ya estás ahí adonde querés escaparte, y nombrá en voz alta tres sensaciones: qué ves, qué escuchás, cómo es el aire. Esas tres palabras hablan de lo que te falta acá; ¿cuál de ellas podrías dejar entrar esta semana?",
+      "quote": null
+    },
+    "forbidden_attraction": {
+      "text": "En los cuentos de hadas que a los junguianos les gustaba interpretar, el héroe muchas veces se enamora de un retrato, la imagen de alguien a quien nunca vio. La atracción por alguien «prohibido», inaccesible o la persona «equivocada», da vergüenza e inquieta. Jung no dictaría veredictos morales acá; preguntaría qué dice esa atracción sobre el alma. Para Jung, una atracción fuerte y aparentemente sin motivo suele estar ligada a la «proyección» del ánima o del ánimus, la imagen interior del «otro» que vive en nuestra psique. Esa imagen carga lo que le falta a la vida consciente: pasión, libertad, profundidad, reconocimiento. Y cuanto menos hay de eso en la vida cotidiana, más brillante se enciende la imagen sobre alguien de afuera. La atracción no habla solo de la otra persona, sino también de una parte no reconocida de vos. Se puede explorar hacia adentro, en pensamientos, sueños, escritura, y esa exploración vale por sí misma.",
+      "practice": "Imaginá un retrato enmarcado de esta persona y alejate un paso: ¿qué cualidad brilla en el retrato, pasión, libertad, profundidad? Preguntate: ¿dónde no hay lugar en mi vida ahora para esa cualidad?",
+      "quote": null
+    },
+    "social_anxiety": {
+      "text": "«Introvertido» y «extravertido», palabras que hoy todo el mundo conoce, se volvieron de uso común gracias a Jung. El miedo al juicio ajeno es un sentimiento común y doloroso, y Jung ayuda a mirarlo con más calma. Un introvertido está orientado ante todo hacia el mundo interior; un extravertido, hacia el exterior, y ningún tipo es mejor que el otro. La timidez y la introversión no son lo mismo, pero muchas veces van entrelazadas. El propio Jung era más bien introvertido, y en los «Recuerdos» admite que en la infancia y la juventud se sentía extraño y torpe entre sus pares. Notó que la cultura occidental valora más el estilo extravertido, y a un introvertido le resulta fácil concluir que algo anda mal en él. Tu sensibilidad hacia la gente no es un defecto, sino un rasgo que necesita su propio ritmo y su propio espacio.",
+      "practice": "Antes de un encuentro, planeate un pequeño «refugio», un minuto junto a la ventana o una salida rápida afuera, y recorrelo mentalmente de antemano. Un introvertido necesita un Bollingen propio, aunque sea por un minuto.",
+      "quote": null
+    },
+    "uncertainty": {
+      "text": "Durante años Jung y el físico Wolfgang Pauli se escribieron sobre un orden del mundo que no se puede predecir. La incertidumbre desgasta: no está claro qué va a pasar, y no hay dónde apoyarse. Jung diría que la conciencia busca claridad y control, mientras que la vida de la psique y del mundo es mucho más amplia que lo que podemos prever. Usó la palabra «sincronicidad» para los casos en que hechos interiores y exteriores coinciden de manera inesperada en su sentido, y el concepto mismo era una admisión: hay en el mundo un orden que no se reduce a nuestros planes. La incertidumbre no es solo una amenaza, sino también un espacio donde puede aparecer algo que no podrías haber planeado. Eso no anula la ansiedad. Pero podés dejar de exigirte conocer el futuro y quedarte atento a lo que llega en el camino.",
+      "practice": "Escribí: «No sé qué va a pasar con…», y al lado: «Pero sé que hoy puedo…». Leé las dos líneas en voz alta: una pequeña certeza sobre un fondo de gran desconocido.",
+      "quote": null
+    },
+    "waiting": {
+      "text": "Jonás pasa tres días en el vientre de la ballena: Jung vio en esta historia un «viaje nocturno por el mar», un tiempo en el que afuera no pasa nada. Esperar una respuesta, resultados, una noticia se hace desgarradoramente largo, y el tiempo parece congelarse. Jung escribió mucho sobre los símbolos de transición: en los mitos y los cuentos, el héroe muchas veces pasa por un período de encierro, de ser tragado, de quedar separado del mundo. Por fuera no pasa nada en esos días, pero por dentro se está preparando un cambio. La espera es un tiempo pesado, pero no vacío. Es un estado intermedio en el que ya no sos quien eras, pero todavía no sabés quién vas a ser. Jung no prometía que el desenlace fuera necesariamente bueno. Pero ayuda a ver que, incluso esperando, estás viviendo, no solo esperando.",
+      "practice": "Caminá diez minutos imaginando que estás en un «viaje nocturno por el mar»: afuera, quietud; adentro, algo que madura. En esos minutos, permitite vivir y no solo esperar.",
+      "quote": null
+    },
+    "regret": {
+      "text": "Jung estaba convencido de que lo que nos perdemos no desaparece de la psique: las posibilidades no vividas esperan en la Sombra como brotes a los que les faltó luz. El arrepentimiento por lo que hiciste o no hiciste puede durar mucho tiempo. Jung quizás señalaría que con los años no nos arrepentimos solo de acciones concretas, sino también de lados no vividos de nosotros mismos. En «Las etapas de la vida» escribió que la segunda mitad de la vida ofrece la oportunidad de volverse hacia lo que se dejó de lado en la primera, en nombre del éxito y de la adaptación al mundo. El arrepentimiento no es solo dolor por el pasado, sino también una señal: qué de lo perdido todavía quiere vivir. Mucho no se puede recuperar en su forma vieja, pero la cualidad que había detrás a veces se puede dejar entrar en el presente.",
+      "practice": "Poné un plantín, una flor o simplemente un vaso de agua en el alféizar y nombrá en voz alta la cualidad que había detrás de lo que no pasó: coraje, ternura, juego. Pensá dónde podría ese brote recibir un poco de luz esta semana.",
+      "quote": null
+    },
+    "longing": {
+      "text": "«Imaginación activa»: así llamaba Jung a una conversación despierta y seria con las imágenes interiores. Extrañar a una persona concreta duele de manera silenciosa y constante, como si hubiera en el corazón un lugar vacío con su forma. Para Jung, alguien cercano no vive solo afuera, sino también adentro nuestro: como una imagen, una voz, una parte de nuestra psique. Cuando la persona está lejos, esa imagen interior sigue sonando, y la añoranza es su llamado. Jung valoraba esta práctica y aconsejaba anotar esas conversaciones. Así el lazo no se rompe por la distancia: se puede sostener por dentro mientras un encuentro afuera no es posible. Esto no reemplaza a la persona viva, pero ayuda a que la añoranza no sea solo una herida, sino también una forma de fidelidad.",
+      "practice": "Escribí unas líneas como si hablaras con esta persona en «imaginación activa»: qué le dirías, y qué te imaginás que te respondería. No edites: dejá que la imagen hable por sí misma.",
+      "quote": null
+    },
+    "world_pain": {
+      "text": "Jung escribió «Respuesta a Job» casi con fiebre, mientras estaba enfermo; el libro, decía, le «vino». El dolor por el mundo, por noticias duras, guerras, injusticia, habla de tu capacidad de compasión. Jung vivió dos guerras mundiales y pensó mucho sobre el mal. En su libro tardío «Respuesta a Job» (1952) volvió a la historia bíblica de un justo que sufre sin culpa, y no la suavizó: el sufrimiento de Job no se explica por nada que hubiera merecido. Para Jung era una pregunta sobre cómo puede una persona soportar el mal sin cerrar los ojos ante él. También creía que la capacidad de destrucción existe en todos, y que saberlo es la primera protección. Cargar con el dolor por el mundo significa ver la oscuridad y cuidar la luz en vos, sin dejar que la desesperación te entumezca.",
+      "practice": "Con una mano en el corazón, admití en voz alta: «Me duele el mundo». Después hacé hoy una cosa chiquita y buena que esté a tu alcance: tu propio pedacito de luz al lado de la oscuridad.",
+      "quote": null
+    },
+    "rejection": {
+      "text": "La persona es una máscara, no una cara: Jung insistió en esa diferencia toda su vida. El rechazo hiere hondo: parece que no rechazaron una propuesta o un trabajo, sino a vos mismo, y esa diferencia ayuda acá. Jung distinguía la «persona», cómo nos presentamos ante los demás, de la personalidad entera, que incluye tanto la Sombra como el sí-mismo profundo. Un rechazo suele tener que ver con un encuentro al nivel de las personas: tu rol y qué tan bien encajó con las expectativas del otro. No puede dictar sentencia sobre vos entero. Jung diría también que el rechazo duele especialmente cuando toca un «complejo» viejo, una experiencia temprana en la que ya nos sentimos no queridos, y entonces el dolor nuevo se amplifica con el viejo. Podés sentir compasión tanto por vos hoy como por aquel que alguna vez lo vivió por primera vez.",
+      "practice": "Decí en voz alta, despacio, dos veces: «Lo que rechazaron fue mi… (propuesta, carta, confesión), no a mí entero». El «no» se lo llevó la persona, no todo vos.",
+      "quote": null
+    },
+    "abandonment": {
+      "text": "A Moisés lo dejaron en una canasta en el río, a Hansel y Gretel en el bosque, y Jung notó que el niño abandonado del mito casi siempre sobrevive. El miedo a ser abandonado es uno de los miedos humanos más antiguos, y merece suavidad. Jung veía «arquetipos» en las profundidades de la psique, imágenes y tramas comunes a todas las personas. Uno de ellos es el niño abandonado. En el ensayo «Acerca de la psicología del arquetipo del niño» (1940), Jung observó que el abandono en estas historias no es solo una desgracia, sino también una condición de la fuerza futura: el niño abandonado sobrevive y crece. Tu miedo toca algo muy temprano. Pero también hay una parte tuya que sabe sobrevivir y cuidar de tu propia vulnerabilidad, del «niño interior».",
+      "practice": "Rodeate los hombros con los brazos y decite las palabras que te habría gustado escuchar de chico, cuando tenías miedo de quedarte solo. Jung diría que estás hablando con tu «niño interior».",
+      "quote": null
+    },
+    "unrequited": {
+      "text": "Parte del resplandor que vemos en quien amamos viene de nosotros mismos: un pensamiento amargo de Jung, pero también consolador. El amor no correspondido es amargo: todo adentro tuyo está vuelto hacia una persona, y no hay respuesta. Cuando nos enamoramos profundamente, según él, «proyectamos» en el otro el ánima o el ánimus, la imagen interior de un «otro» ideal que vive en nuestra alma. De ahí la fuerza del sentimiento, y la sensación de que sin esa persona la vida pierde color. La proyección no vuelve irreal el amor: tus sentimientos son genuinos. El amor no correspondido es también un encuentro con tu propia capacidad de amar, que no desaparece aunque ahora no encuentre respuesta. De a poco, esa luz se puede traer de vuelta hacia vos y hacia tu vida.",
+      "practice": "Encendé una vela o una lamparita y decí en voz alta qué despierta en vos este amor: ternura, inspiración, coraje. Esa luz es tuya, y puede seguir encendida más allá de cualquier respuesta.",
+      "quote": null
+    },
+    "humiliation": {
+      "text": "Jung distinguía la máscara de la cara: una persona se puede arrancar, pero el sí-mismo no sale con ella. La humillación es una de las experiencias más ardientes: como si te despojaran de tu dignidad delante de otros. Jung diría que en un momento así te arrancaron la «persona», la cara que le mostramos al mundo y que protege nuestra vulnerabilidad. Quedarse sin ella asusta. Pero Jung subrayaba que una persona no es lo mismo que su máscara: la dignidad vive más hondo, en lo que él llamó el sí-mismo, y no depende de las palabras ni de las miradas ajenas. Observó que el derrumbe de la persona a veces se vuelve el comienzo de una relación nueva y más honesta con uno mismo. Esto de ninguna manera justifica a quienes te humillaron. Tu dolor habla de un valor que fue herido, y ese valor sigue siendo tuyo.",
+      "practice": "Parate, enderezá los hombros y levantá despacio el mentón, como si te pusieras no una máscara sino tu propia cara. Decí en voz alta una frase sobre lo que en vos quedó intacto.",
+      "quote": null
+    },
+    "body_shame": {
+      "text": "En Bollingen Jung tallaba piedra, cortaba leña y acarreaba agua, y en esos esfuerzos simples su cuerpo no era un cuadro sino un aliado. La insatisfacción con el propio cuerpo puede ser desgarradora y muy personal. Para Jung, el cuerpo muchas veces termina en la «Sombra» de nuestra cultura: durante siglos se puso el espíritu por encima de la carne, y ahora el cuerpo suele juzgarse como una cosa que tiene que coincidir con un molde. Jung, en cambio, creía que la totalidad humana es imposible sin lo corporal, lo «bajo», lo imperfecto y vivo. Veía el cuerpo no como una fachada, sino como la casa del alma. Además, muchas veces cargamos juicios ajenos, escuchados hace mucho, que suenan como nuestra propia voz. Tu cuerpo no es un proyecto para corregir, sino una parte tuya que viene cargando tu vida todo este tiempo.",
+      "practice": "Hacé un esfuerzo físico simple, como en Bollingen: llevá algo pesado, barré el piso, estirá los brazos. Después nombrá tres cosas que tu cuerpo hizo hoy por vos.",
+      "quote": null
+    },
+    "illness": {
+      "text": "Jung llamaba a la psique y al cuerpo dos lados de una misma realidad, así que cuando el cuerpo te falla, lo siente toda tu vida: la sensación de fuerza de siempre se derrumba, y da miedo. Jung lo sabía en carne propia: en 1944, después de fracturarse una pierna, tuvo un infarto y se recuperó despacio. En «Recuerdos, sueños, pensamientos» escribe que después de la enfermedad entendió lo importante que es aceptar el propio destino y decirle «sí» a lo que es, y que justamente entonces empezó para él un período fecundo: escribió muchos de sus libros principales después. La enfermedad no es una derrota ni un castigo, sino un hecho duro que toca toda tu vida, y en él también puede nacer una relación nueva con vos mismo. No se trata de reemplazar un tratamiento, sino de cómo el alma puede atravesar lo que está pasando.",
+      "practice": "Preguntate en voz alta no «¿por qué me pasa esto?», sino «¿qué necesito más ahora?», y hacé un pequeño gesto de cuidado propio: una frazada, algo caliente para tomar, una llamada a alguien cercano.",
+      "quote": null
+    },
+    "pride": {
+      "text": "En Bollingen Jung talló en una piedra inscripciones sobre su vida y su obra, y la dejó en la orilla entre los árboles, no en un museo. El orgullo por lo que hiciste es un sentimiento sano y bien ganado, y vale la pena vivirlo del todo. Para Jung, es el reconocimiento de que tu «yo» hizo su trabajo: aguantó, creó, llevó algo hasta el final. Solo advertía contra una trampa, que llamó «inflación»: cuando el «yo» empieza a identificarse con algo más grande que él, y confunde su éxito o su rol con la totalidad de sí mismo. El orgullo sano conoce su medida y recuerda que la fuerza no vino solo de vos, sino también de las profundidades de la psique, de otras personas, de las circunstancias. Por eso puede ser alegría y gratitud a la vez. Un orgullo así no te infla; te fortalece.",
+      "practice": "Agarrá una piedrita o cualquier objeto chico y «tallá» mentalmente en él una palabra sobre lo que hiciste. Ponelo a la vista y nombrá en voz alta a una persona o una circunstancia que te ayudó.",
+      "quote": null
+    },
+    "melancholy": {
+      "text": "Nigredo, «ennegrecimiento»: así llamaban los alquimistas a la oscuridad con la que empieza toda transformación. La tristeza suave es un estado sutil y hondo, y no necesita arreglo. Jung probablemente vería en ella al alma volviéndose hacia adentro, una «introversión» de la energía, cuando el mundo exterior se aleja por un tiempo y el interior se ilumina. Jung estudió durante mucho tiempo la alquimia como un lenguaje de símbolos de la transformación interior. Los alquimistas asociaban esta etapa con la melancolía. No era una derrota, sino un paso necesario de la obra. Jung consideraba esta imagen una descripción precisa de lo que pasa en el alma: el descenso al crepúsculo precede a una luz nueva. La melancolía es un tiempo de maduración. Podés quedarte en ella, como en un atardecer tranquilo, escuchando.",
+      "practice": "Sentate unos minutos en la penumbra sin prender la luz, con música tranquila o simplemente junto a una ventana. Después nombrá en voz alta una palabra: qué está madurando en vos ahora.",
+      "quote": null
+    }
+  }
+}

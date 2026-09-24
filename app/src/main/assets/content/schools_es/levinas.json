@@ -1,0 +1,411 @@
+{
+  "id": "levinas",
+  "title": "Levinas",
+  "tradition": "La ética del Otro y la filosofía del diálogo",
+  "family": "psychoanalysis_critical",
+  "period": "siglo XX",
+  "sortYear": 1961,
+  "thinkers": [
+    "Emmanuel Levinas",
+    "Martin Buber"
+  ],
+  "keyWorks": [
+    "M. Buber, Yo y tú (1923)",
+    "E. Levinas, De la evasión (1935)",
+    "E. Levinas, De la existencia al existente (1947)",
+    "E. Levinas, El tiempo y el otro (1947)",
+    "E. Levinas, Totalidad e infinito (1961)",
+    "E. Levinas, De otro modo que ser, o más allá de la esencia (1974)",
+    "E. Levinas, Ética e infinito (1982)"
+  ],
+  "summary": "Emmanuel Levinas fue un filósofo francés para quien la pregunta central no era «¿qué es el ser?», sino «¿cómo le respondo a otra persona?». Llamó a la ética «filosofía primera»: el encuentro con el otro, con su «rostro», viene antes que cualquier teoría. A su lado está acá Martin Buber, autor de Yo y tú, para quien la vida verdadera es encuentro.",
+  "onEmotions": "Levinas habló poco de los sentimientos como estados interiores: le interesaba cómo los sentimientos nos abren al otro. Subrayaba la «sensibilidad» en el sentido de vulnerabilidad: somos capaces de ser afectados, y eso es justamente lo que hace posibles la responsabilidad y la cercanía. Desde este punto de vista, muchas de nuestras vivencias son respuestas a un encuentro o a su ausencia. Buber distinguía la relación «Yo–Tú», en la que nos encontramos con el otro entero, de la relación «Yo–Ello», en la que lo tratamos como un objeto. Visto así, un sentimiento no es solo algo que pasa «en mí», sino también algo que pasa «entre».",
+  "entries": {
+    "anxiety": {
+      "text": "Levinas creía que lo que nos saca de la angustia más sorda no es un esfuerzo de voluntad, sino el rostro de otra persona vuelto hacia nosotros. Si ahora sentís ansiedad, esta idea puede resultar inesperadamente práctica. En su temprano libro De la existencia al existente (1947), Levinas describió una experiencia que llamó el «il y a», el «hay»: un ser impersonal, anónimo, que zumba como el silencio de una noche de insomnio, cuando no hay nada de qué agarrarse, ni objeto ni sentido. Lo llamó «horror» ante el ser sin rostro, y mucha gente reconoce la descripción de sus noches sin dormir. Lo importante es que, para Levinas, la salida de este estado no pasa por encerrarse todavía más en uno mismo, sino por la relación con otra persona: el otro nos saca del encierro en nuestra propia existencia. Entonces la ansiedad puede aliviarse no solo con trabajo interior, sino también simplemente volviéndote hacia alguien cercano: una pregunta, una mirada, una conversación.",
+      "practice": "Preguntale hoy a alguien «¿cómo estás?» y escuchá la respuesta hasta el final, mirándole la cara. Notá qué le pasa a tu ansiedad mientras escuchás.",
+      "quote": null
+    },
+    "fear": {
+      "text": "Levinas pensaba que tener miedo por uno mismo y tener miedo por otro son dos miedos distintos, y que el segundo puede ser lo más humano que hay en nosotros. El miedo protege lo que te importa. Heidegger, con quien Levinas estudió y con quien después discutió, vinculaba la angustia más profunda de una persona con su propia mortalidad. Levinas, en su ensayo «La ética como filosofía primera», habló en cambio del «temor por el otro»: el hecho de que una persona puede tener miedo no solo por sí misma sino por otro, por su vulnerabilidad. Ese miedo no es debilidad sino una señal de responsabilidad: sentís que el destino del otro te importa. Si tu miedo es por alguien, Levinas vería en él la ética en acción, no una simple preocupación. Y si es por vos, te recuerda que vos también sos vulnerable, y en eso te parecés a todos los demás.",
+      "practice": "Preguntate: ¿por quién tengo miedo ahora, por mí o por otra persona? Si es por otra, imaginá su cara y decí en silencio: «Heme aquí».",
+      "quote": null
+    },
+    "sadness": {
+      "text": "¿Una fortaleza o una puerta abierta? Levinas no tenía dudas: una persona no es una fortaleza, sino un ser al que se puede herir, tocar, conmover. Tu tristeza no necesita justificación: dice que algo te tocó. Levinas le daba un peso enorme a la «sensibilidad», no en el sentido de sensualidad, sino en el de apertura, de poder ser herido. En su libro tardío De otro modo que ser (1974), describió esta vulnerabilidad como «una pasividad más pasiva que toda pasividad»: estamos siempre ya abiertos al mundo y a los otros, antes de haber decidido estarlo. Si es así, la tristeza no es una falla, sino una expresión de esa misma vulnerabilidad que hace posibles la compasión y el amor. Si fueras invulnerable, tampoco podrías responderles a los demás.",
+      "practice": "Apoyá la palma donde sentís la tristeza en el cuerpo y decí en silencio: «Algo me tocó». Para Levinas, poder ser herido no es un defecto sino el comienzo de la respuesta.",
+      "quote": null
+    },
+    "grief": {
+      "text": "En sus clases Dios, la muerte y el tiempo (1975–1976), Levinas propuso una idea poco habitual: no conocemos la muerte reflexionando sobre la nuestra, sino cuando otro se va. Así que el duelo no tiene que ver solo con vos, sino también con quien ya no está a tu lado, con quien ya no podés responderle. Necesita tiempo, y no sigue ningún calendario correcto. Levinas vinculaba esta experiencia con una responsabilidad que no termina con la vida del otro. Bajo esta luz, tu duelo es una continuación de la relación, no su final. Recordar, contar historias de quien se fue, cuidar lo que le era querido: son formas de la misma fidelidad.",
+      "practice": "Hoy hacé un pequeño gesto en honor a quien se fue, algo que le era querido: regá su planta, poné su música. Para Levinas, es una respuesta que continúa la relación.",
+      "quote": null
+    },
+    "loneliness": {
+      "text": "«Se puede intercambiar todo entre los seres, salvo el existir», dijo Levinas en sus conferencias El tiempo y el otro (1947): en este sentido, cada uno de nosotros es único y está solo. Si ahora te sentís solo, Levinas no le restaría peso a eso. Pero Levinas no se queda ahí. Ve la salida en la relación con el Otro, que no se disuelve en nosotros ni se convierte en nuestro reflejo. Martin Buber dijo algo parecido en Yo y tú (1923): una persona llega a ser ella misma en el encuentro real, donde el otro no es una función ni un medio sino un «Tú». Así que la soledad no es un hecho definitivo, sino el anhelo de un encuentro, que puede darse incluso en un momento breve de atención genuina.",
+      "practice": "Salí un ratito y mirá un árbol como proponía Buber: no como un objeto, sino como un «Tú» que está frente a vos. Quedate con él un minuto.",
+      "quote": {
+        "text": "Toda vida verdadera es encuentro.",
+        "author": "Martin Buber",
+        "source": "Yo y tú (1923)"
+      }
+    },
+    "anger": {
+      "text": "«No me hagas daño»: eso es, para Levinas, lo que dice el rostro de otra persona antes de cualquier palabra. No su apariencia, sino su misma indefensión es la que nos interpela. El enojo es un sentimiento vivo, y muchas veces habla de un límite cruzado o de una injusticia. Esto significa que el enojo es el momento en que el otro se vuelve apenas un obstáculo y dejamos de ver su rostro. Levinas no te exige que no te enojes. Pero nos recuerda que incluso quien nos hizo enojar sigue siendo un ser humano vulnerable. En los términos de Buber, en el enojo un «Tú» se convierte fácilmente en un «Ello». Admitir tu enojo es honesto; no perder de vista a la persona detrás del acto es conservar la posibilidad de encontrar palabras en vez de un golpe.",
+      "practice": "Antes de contestar, hacé tres exhalaciones lentas e imaginá la cara de esta persona cansada o desconcertada. El enojo no va a desaparecer, pero van a venir otras palabras.",
+      "quote": null
+    },
+    "shame": {
+      "text": "En 1935 el joven Levinas describió la vergüenza como la imposibilidad de esconderse de uno mismo: en la vergüenza estamos como encadenados a nuestra propia existencia. Duele, y todos la conocemos. En Totalidad e infinito (1961), la vergüenza adquiere otro sentido: el encuentro con otra persona pone en cuestión mi seguridad, mi costumbre de tratar el mundo como mío. Esa vergüenza es el comienzo de la conciencia moral, no una humillación. Es una distinción importante: hay una vergüenza que paraliza y te da ganas de desaparecer, y hay una vergüenza que te abre al otro. Así que podés preguntarte cuál de las dos estás sintiendo ahora, y notar que la segunda no humilla, sino que te vuelve más humano.",
+      "practice": "Preguntate: ¿esta vergüenza me pide esconderme, o volverme hacia otra persona? Si es lo segundo, dá un paso hacia ella: una palabra, una pregunta, una disculpa.",
+      "quote": null
+    },
+    "guilt": {
+      "text": "Cuando Levinas hablaba de dónde empieza la ética, recurría a dos palabras de la Biblia: «Heme aquí». La culpa puede pesar mucho, y es importante no confundirla con un veredicto sobre vos. Levinas construyó su ética sobre la responsabilidad: otra persona se dirige a mí, y yo estoy llamado a responder, incluso antes de haber decidido nada. Esta responsabilidad, para Levinas, es asimétrica: no espero que el otro haga lo mismo por mí. Suena exigente, pero hay un matiz importante: la responsabilidad en Levinas es un volverse hacia el otro, no autoflagelación. Para Levinas, la culpa que encierra a una persona en sí misma en realidad la aparta del otro. La responsabilidad pregunta, en cambio: ¿qué puedo hacer ahora? Por eso ayuda convertir la culpa en una pregunta sobre la acción —pedir perdón, reparar, cuidar— en lugar de cargarla como una piedra.",
+      "practice": "Reemplazá la pregunta «¿qué tan malo soy?» por «¿qué puedo hacer ahora por el otro?», y anotá un pasito concreto, si lo hay.",
+      "quote": null
+    },
+    "envy": {
+      "text": "Levinas probablemente vería en la envidia un pequeño error de visión: tomamos al otro por alguien «igual a mí», solo que con más suerte. Es un sentimiento desagradable, pero completamente humano. Levinas insistía, sin embargo, en que el otro no es mi reflejo ni un «segundo yo» (alter ego), sino alguien radicalmente distinto, que no se deja reducir a mis medidas. Al pensamiento que reduce todo a un denominador común lo llamó «totalidad». La envidia es una pequeña totalidad: nos pone a nosotros y al otro en la misma escala. Ver en el otro no a un rival en la misma escalera, sino una vida separada, insondable, con sus propias dificultades, es aflojar un poco la envidia, sin negarla.",
+      "practice": "Imaginá una dificultad en la vida de la persona que envidiás, una de la que no sabés nada. Levinas diría: así vuelve a ser un rostro y no un renglón en un ranking.",
+      "quote": null
+    },
+    "emptiness": {
+      "text": "El pan, el aire, la luz del sol, el trabajo: en Totalidad e infinito Levinas empezó su descripción de la vida humana no con ideas elevadas, sino con el simple «vivir de» las cosas. Si te sentís vacío por dentro, eso no significa que seas una persona «vacía». Lo llamó «gozo»: no lujo, sino el sabor básico de la vida en el que empezamos a ser nosotros mismos. La apatía, entonces, es un momento en que ese sabor se apaga: todo está ahí, pero nada alimenta. Levinas agregaba que una vida así no da sentido por sí sola; el sentido llega a través de la relación con el otro, que espera tu respuesta. Así que la salida del vacío puede empezar por dos cosas chiquitas: notar una sensación simple —el calor, un sabor, la luz— y responder aunque sea a un llamado de otra persona.",
+      "practice": "Notá ahora mismo una sensación simple —el calor de una taza, la luz de la ventana, el gusto del agua— y quedate con ella medio minuto. Es el «vivir de» de Levinas.",
+      "quote": null
+    },
+    "confusion": {
+      "text": "A Levinas le encantaba un descubrimiento extraño de Descartes: un pensamiento que contiene más de lo que puede abarcar, «la idea de lo infinito». La desorientación, cuando el mundo o una persona no entran en tus ideas, es un estado honesto, y está más cerca de esta idea de lo que parece. Así funciona, para Levinas, el encuentro con otra persona: siempre excede mi idea de ella; no se la puede comprender ni prever del todo. Al impulso de explicarlo todo y meterlo en un sistema Levinas lo llamó impulso hacia la «totalidad». La desorientación, entonces, es un momento en que la totalidad se agrieta y asoma algo más grande que tus esquemas. Es incómodo, pero no significa que estés perdido. Quizá simplemente te encontraste con algo que no se puede apropiar, y eso también es conocimiento.",
+      "practice": "Durante un minuto, quedate en la desorientación sin explicar nada. Decite: «Esto es más de lo que todavía entiendo», y simplemente respirá.",
+      "quote": null
+    },
+    "fatigue": {
+      "text": "«Un retraso de uno respecto de sí mismo»: así llamaba Levinas al cansancio, y fue uno de los pocos filósofos que lo describió en serio. Si estás agotado, es un estado real, no un capricho. En De la existencia al existente (1947), analiza el cansancio y la pereza no como defectos de carácter, sino como una relación particular con la existencia misma. En el cansancio parecés no poder seguirle el ritmo a tu propia vida, y el ser mismo se vuelve una carga. Es una descripción, no un reproche. Ayuda ver que el agotamiento no es falta de voluntad, sino un momento en que la existencia se siente como un peso que hay que arrastrar. Levinas no da recetas, pero si seguimos su idea, esa pesadez no es culpa tuya, y descansar no es huir de la vida sino una manera de volver a encontrar tu lugar en ella.",
+      "practice": "Notá en qué parte del cuerpo el cansancio es más fuerte, y dejá que esa parte no sostenga nada durante un minuto: bajá los hombros, aflojá la mandíbula, dejá caer tu peso sobre el apoyo.",
+      "quote": null
+    },
+    "boredom": {
+      "text": "«En el principio es la relación», escribió Martin Buber en Yo y tú, y esta frase puede explicar tu aburrimiento. El aburrimiento puede ser agobiante, y no significa que seas desagradecido ni vago. Buber distinguía dos actitudes básicas ante el mundo. En la relación «Yo–Ello» conocemos, usamos y planificamos: el mundo se vuelve un conjunto de objetos y tareas. En la relación «Yo–Tú» nos encontramos con algo entero —una persona, un árbol, una obra de arte— y parece que nos responde. Buber creía que no podemos vivir sin el mundo del «Ello», pero que una vida vivida solo en él empobrece a una persona. Dicho de otro modo, el aburrimiento es una señal de que a tu alrededor hay demasiado «Ello»: todo es conocido, útil, previsible, y nada se dirige a vos. La salida no es necesariamente un entretenimiento nuevo, sino más bien dejar que algo se vuelva un «Tú» para vos.",
+      "practice": "Escuchá una canción, o un sonido que llegue de afuera, como si se dirigiera a vos personalmente: no como fondo, sino como un «Tú». Alcanza con un minuto.",
+      "quote": {
+        "text": "Sin Ello el hombre no puede vivir. Pero quien solo vive con Ello no es hombre.",
+        "author": "Martin Buber",
+        "source": "Yo y tú (1923)"
+      }
+    },
+    "joy": {
+      "text": "La buena comida, el calor, la luz: en Totalidad e infinito Levinas enumera con gusto aquello de lo que vivimos y lo llama «gozo» (jouissance). En tu alegría se puede confiar: con todo el rigor de su ética, él no la desvalorizaba. Para él no es un egoísmo del que avergonzarse, sino una manera necesaria de ser uno mismo, de sentir la propia independencia y felicidad. Pero la idea va más lejos: en De otro modo que ser, Levinas escribió que solo se le puede dar de verdad al otro aquello que uno mismo disfruta, como el pan que uno se quita de la propia boca. Entonces tu alegría vale doble: te alimenta a vos, y puede volverse un regalo para otro. No necesita justificación ni permiso.",
+      "practice": "Compartí con alguien una parte de lo que te está alegrando: algo rico, una canción, una noticia. Levinas creía que solo se puede dar lo que uno mismo disfruta.",
+      "quote": {
+        "text": "Vivimos de «buena sopa», de aire, de luz, de espectáculos, de trabajo, de ideas, de sueño…",
+        "author": "Emmanuel Levinas",
+        "source": "Totalidad e infinito (1961)"
+      }
+    },
+    "love": {
+      "text": "Levinas dio las conferencias El tiempo y el otro en 1947, y una de sus ideas sobre el amor suena sorprendente: en el amor el otro sigue siendo un misterio, y la relación nunca se convierte en posesión. Tu ternura es una de las respuestas más fuertes a otra persona. Incluso la caricia, tal como él la describió, no busca lo que ya se conoce, sino lo que se escapa todo el tiempo, lo que todavía está por venir. Buber, en Yo y tú, subrayó que el amor no es simplemente un sentimiento dentro de una persona, sino algo que sucede entre las personas cuando un «Yo» se dirige a un «Tú». Si es así, tu ternura no es un deseo de apropiarte, sino una disposición a encontrarte con alguien que nunca vas a poder conocer del todo. Eso no empobrece al amor, lo vuelve más vivo: en él siempre hay lugar para la sorpresa.",
+      "practice": "Mirá hoy a alguien que querés como si lo vieras por primera vez, y notá una cosa que te sorprenda. Levinas diría: es más de lo que sabés de él.",
+      "quote": {
+        "text": "Los sentimientos habitan en el hombre, pero el hombre habita en su amor.",
+        "author": "Martin Buber",
+        "source": "Yo y tú (1923)"
+      }
+    },
+    "gratitude": {
+      "text": "«El hombre se hace Yo a través del Tú», escribió Buber en Yo y tú. La gratitud es justamente ese sentimiento cálido en el que reconocés que recibiste algo que no vino de vos. Para Buber y Levinas, este reconocimiento va muy hondo: una persona no empieza en absoluto por sí misma. Buber, en Yo y tú, sostenía que la relación es lo primero: llegamos a ser nosotros mismos respondiendo al llamado de otro. Levinas veía la misma dependencia, pero subrayaba su lado ético: en Totalidad e infinito el otro no viene hacia mí como socio de un trato, sino como alguien que me supera y me enseña algo. Bajo esta luz, la gratitud no es una deuda que hay que saldar lo antes posible, sino la alegría de no estar solo en tu existencia. Podés simplemente vivirla, sin convertirla en un cálculo.",
+      "practice": "Nombrá a una persona gracias a la cual llegaste a ser quien sos, y agradecele: en persona, por mensaje o mentalmente, hablándole directamente de «vos».",
+      "quote": {
+        "text": "En el principio es la relación.",
+        "author": "Martin Buber",
+        "source": "Yo y tú (1923)"
+      }
+    },
+    "hope": {
+      "text": "El futuro, dijo Levinas en El tiempo y el otro, nos llega desde afuera, de manera inesperada, como otra persona: no se lo puede prever ni planificar. La esperanza importa más que nunca cuando el futuro no está claro, y esta idea puede sostenerla. Así que el tiempo, para Levinas, es ante todo una relación con el otro. Por eso la esperanza no tiene por qué apoyarse en un pronóstico seguro. Puede ser una apertura a lo que todavía no podés imaginar: un encuentro, una palabra, una ayuda, un giro de los acontecimientos que no se podía inventar de antemano. Si ahora te cuesta apoyarte solo en vos, la esperanza puede vivir en el hecho de que no enfrentás el futuro solo.",
+      "practice": "Recordá una vez en que algo bueno llegó a tu vida de manera inesperada, a través de otra persona. Contáselo a alguien, como recordatorio de que el futuro no se agota en los pronósticos.",
+      "quote": null
+    },
+    "nostalgia": {
+      "text": "Ulises y Abraham son los dos héroes con los que Levinas explicó, en «La huella del otro» (1963), dos maneras de vivir: uno vuelve una y otra vez a su casa en Ítaca, el otro parte para siempre hacia una tierra desconocida. La nostalgia, en la que sigue viviendo el amor por lo que fue, es el sentimiento de Ulises, y es natural. Pero Levinas veía también otro camino. El verdadero deseo, para Levinas, no es el anhelo de volver, sino un movimiento hacia el otro, hacia lo que nunca fue tuyo. Eso no hace mala a la nostalgia: recordar la casa es humano. Pero su calidez puede ser no solo una mirada hacia atrás, sino también la fuerza con la que salís al encuentro de lo nuevo.",
+      "practice": "Hoy caminá cinco minutos por un recorrido nuevo para vos, y llevate un recuerdo cálido: como Abraham, que parte cargando lo que ama.",
+      "quote": null
+    },
+    "craving": {
+      "text": "«Remachado» es la palabra que usó el joven Levinas, en De la evasión (1935), para la sensación de no poder descansar de la propia existencia. Un «lo quiero ya» agudo puede ser casi insoportable, y no hace falta avergonzarse. El placer, escribió, promete esa salida, pero la promesa resulta engañosa: el momento pasa, y la persona vuelve a quedar sola consigo misma, muchas veces con un peso todavía mayor. Esto significa que las ganas no son un capricho, sino un deseo muy humano de liberarse, aunque sea por un rato, de la carga de ser uno mismo. Levinas veía el verdadero camino más allá de uno mismo no en una sustancia ni en un hábito, sino en la relación con el Otro. La ola de ganas sube y baja, y podés esperar a que pase recordando qué es lo que en realidad busca.",
+      "practice": "Cuando suba la ola de ganas, sentí los pies en el piso y preguntate: «¿De qué parte de mí quiero descansar ahora?». Nombralo en voz alta y seguí respirando hasta que la ola empiece a bajar.",
+      "quote": null
+    },
+    "addiction": {
+      "text": "Buber distinguía la relación «Yo–Ello», en la que tratamos con cosas y medios, de la relación «Yo–Tú», en la que nos encontramos con el otro entero. En su lenguaje, una vida organizada desde hace mucho alrededor de una sola cosa es un mundo en el que un único «Ello» eclipsó casi todos los «Tú». Es un círculo pesado y solitario, y no te convierte en una mala persona. En Totalidad e infinito (1961), Levinas dijo que una persona vive «de» las cosas —la comida, la luz, el trabajo— y que no hay nada malo en eso; pero la verdadera apertura empieza donde aparece el rostro de otra persona. La salida del círculo, siguiendo esta lógica, no pasa por el autocastigo, sino por el regreso de los encuentros.",
+      "practice": "Llamá o encontrate con una persona para la que sos un «Tú» y no una función. Esos encuentros también se dan en los grupos de ayuda mutua (como AA o NA), donde otros conocen este círculo desde adentro.",
+      "quote": null
+    },
+    "hangover": {
+      "text": "La náusea y la vergüenza son dos sentimientos que Levinas describió con una precisión notable en De la evasión (1935), como si tuviera en mente una mañana así. La mañana siguiente —con ansiedad y lagunas en la memoria— es difícil, y ahora mismo tenés permiso para ser suave con vos. La náusea, para él, es un estado en el que no podés alejarte de vos mismo: el cuerpo y la existencia te aplastan por completo. La vergüenza es la experiencia de ser visto y no poder esconderse, ni siquiera de uno mismo. Levinas subrayaba que la vergüenza no tiene tanto que ver con un acto como con nuestra desnudez y vulnerabilidad mismas. Dicho de otro modo, tu vergüenza de la mañana no es un veredicto definitivo, sino una experiencia de la fragilidad humana que todos compartimos. Podés tratarla con suavidad: primero volvé a tu cuerpo, y lo de ayer lo ordenás después.",
+      "practice": "Apoyá una palma en el pecho o en la panza y hacé algunas exhalaciones lentas. Decite: «Ahora me siento mal, y va a pasar». Primero el cuerpo; lo de ayer, después.",
+      "quote": null
+    },
+    "euphoria": {
+      "text": "La luz, el aire, la comida, las ideas: en Totalidad e infinito (1961), Levinas llamó «gozo» a la manera en que vivimos de todo eso, y vio en ello una felicidad real, inocente. Un subidón repentino, cuando todo parece posible, es una experiencia intensa, y podés simplemente disfrutarla. Él no lo consideraba algo inferior. Pero también notó otra cosa: el gozo vive en el instante y no sabe qué traerá el mañana. Entonces la euforia es una de las formas más plenas de ese gozo, y no hay culpa en ella. Lo que le da hondura, para Levinas, es el encuentro: la alegría se vuelve más firme cuando se la puede compartir con otra persona, y no solo vivir por dentro.",
+      "practice": "Contale a alguien, en una frase, qué te levantó así. Para Levinas, la alegría se vuelve más firme cuando se dirige a otro.",
+      "quote": null
+    },
+    "crash": {
+      "text": "Levinas observó con sobriedad que el gozo no viene con garantías. Una caída brusca después de un festejo, un logro o una noche luminosa puede ser muy dura, y no es culpa tuya. En Totalidad e infinito (1961), escribió que el gozo del que vivimos siempre llega sin garantías: su «porvenir» es incierto, y la alegría del momento no nos protege de lo que viene después. En De la existencia al existente (1947), describió con cuidado el cansancio como un estado en el que la existencia de pronto se vuelve pesada, como una carga. Si es así, el «bajón» no es una señal de que algo ande mal con vos, sino el reverso de la misma capacidad de alegría. Levinas no proponía huir de esa pesadez; señalaba dónde buscar apoyo: no en el próximo subidón, sino en la relación con otro.",
+      "practice": "Mandale a una persona un mensaje corto sin motivo, solo para estar en contacto. Levinas buscaba apoyo no en el próximo subidón, sino en otra persona.",
+      "quote": null
+    },
+    "panic": {
+      "text": "Estar de pie, apoyarse en algo, ocupar un lugar: para Levinas no son pavadas, sino el punto donde empieza la conciencia. Una ola de pánico es una de las experiencias más aterradoras: parece que se te va el piso de abajo de los pies. En De la existencia al existente (1947), Levinas describió un estado que llamó el «il y a», el «hay»: un ser impersonal en el que no hay nadie ni nada definido, solo el zumbido de la existencia. Dijo que no despierta angustia sino «horror». Pero en el mismo libro Levinas describió cómo una persona sale de ese zumbido: a través de la «posición», del cuerpo que ocupa un lugar, que se apoya en el suelo, que encuentra una «base». Bajo esta luz, apretar los pies contra el piso no es poca cosa, sino devolverte literalmente tu lugar. Una ola así suele llegar al pico y bajar en unos minutos.",
+      "practice": "Ocupá tu lugar, como decía Levinas: apretá los pies contra el piso, sentí dónde te sostiene la silla y hacé la exhalación más larga que la inhalación. Nombrá en voz alta tres objetos que te rodean: estás acá.",
+      "quote": null
+    },
+    "dread": {
+      "text": "Levinas discutió con su maestro Heidegger lo principal: ¿dónde buscar el sentido, frente a la propia muerte o frente a otra persona? La pregunta «¿para qué todo esto?» y el vértigo ante la finitud son una experiencia muy profunda, y cuesta estar a solas con ellos. En sus conferencias El tiempo y el otro (1947), Levinas escribió que la muerte no es algo que podamos comprender o «asumir»: es un misterio que excede nuestras fuerzas. El sentido, para Levinas, no viene de enfrentar la propia finitud, sino del encuentro con otra persona: con su «rostro», que se dirige a mí y me necesita. Así que a la pregunta «¿para qué?» se puede responder no con una teoría, sino con una relación: alguien me necesita, y yo necesito a alguien. El abismo no desaparece, pero en él aparece otra persona.",
+      "practice": "Encontrá a una persona o a un ser que pueda necesitarte hoy —un vecino, un amigo, un gato, una planta— y hacé algo muy chiquito por él.",
+      "quote": null
+    },
+    "fomo": {
+      "text": "Levinas llamaba «totalidad» a meter a todas las personas en un solo sistema, compararlas y ordenarlas en un ranking; el feed de una red social probablemente le habría parecido el ejemplo perfecto. No hace más que agudizar la sensación de que todos los demás viven vidas más interesantes y vos no estás donde deberías. La comparación es justamente una pequeña totalidad: yo y los otros como puntos en una misma escala. Pero para Levinas el otro real no se reduce a ninguna escala: su «rostro» es siempre más que todo lo que se puede mostrar de él. Lo mismo vale para vos: tu vida no es un puesto en un ranking común. Buber agregaría que un feed muestra a las personas como «Ello», como imágenes, mientras que el encuentro solo sucede con un «Tú». Donde sea que te encuentres de verdad con alguien, ya estás «donde deberías estar».",
+      "practice": "Guardá el celular y durante dos minutos simplemente estate donde estás: con quien esté cerca, o con el silencio. Decite: «Heme aquí, acá».",
+      "quote": null
+    },
+    "sleepless": {
+      "text": "Levinas hizo filosofía con dos palabras simples, «no puedo dormir»: en De la existencia al existente (1947) describió una vigilia sin objeto, cuando el propio ser impersonal, el «il y a», no te suelta. Las horas de la noche en que los pensamientos no te dan paz pueden ser dolorosamente solitarias. Levinas conocía esas noches y las describió con más precisión que casi nadie. Para Levinas, dormir es la posibilidad de «recostarse», de encontrar apoyo y refugio. Esto significa que el insomnio no es un fracaso tuyo, sino un estado que todos conocen, en el que cuesta encontrar tu lugar. Y él veía la salida no en obligarte a dormir, sino en volver a encontrar apoyo: tu cuerpo, la cama, tu lugar.",
+      "practice": "Sentí dónde toca tu cuerpo la cama: los talones, la espalda, la nuca. Notá cada punto de apoyo, uno por uno, sin intentar dormirte: simplemente ocupá tu lugar.",
+      "quote": null
+    },
+    "betrayal": {
+      "text": "«La sublime melancolía de nuestro destino»: así llamaba Buber al hecho de que todo «Tú» tarde o temprano se convierte en un «Ello». Incluso la persona más cercana a veces se vuelve, para nosotros, un objeto, un medio, una función. La traición duele especialmente porque viene de donde estabas abierto. Se la puede ver como el momento en que de pronto te descubriste no como un «Tú» para el otro, sino como un «Ello». Levinas agregaría que el rostro del otro es siempre vulnerable, y justamente por eso el tuyo también está abierto: ser capaz de confiar es ser capaz de ser herido. Dicho de otro modo, tu dolor no es prueba de ingenuidad, sino la confirmación de que viviste de verdad en esa relación.",
+      "practice": "Anotá con qué parte de vos estuviste abierto a esta persona. Es tuya, y no desaparece con la traición.",
+      "quote": null
+    },
+    "jealousy": {
+      "text": "Al otro nunca se lo puede comprender, apropiar ni retener del todo: Levinas no veía en esto una desgracia del amor, sino su condición. Los celos son una tortura: el miedo a perder a alguien lo aprieta todo por dentro. El otro no es una parte de mí ni mi prolongación; en el amor nos encontramos justamente con esa insondabilidad. Entonces los celos pueden entenderse como un choque doloroso con el hecho de que el otro sigue siendo siempre otro: tiene una profundidad propia a la que no tenemos acceso. Eso no te convierte en una mala persona: así se muestra la fuerza de tu apego. Pero Levinas también ofrece un consuelo: es justamente porque el otro no se puede apropiar que el encuentro con él está vivo. Si se lo pudiera retener por completo, ya no sería amor sino la posesión de una cosa.",
+      "practice": "Anotá una cosa de esta persona que querés justamente porque no depende de vos.",
+      "quote": {
+        "text": "La relación con el otro es una relación con un Misterio.",
+        "author": "Emmanuel Levinas",
+        "source": "El tiempo y el otro (1947)"
+      }
+    },
+    "resentment": {
+      "text": "En sus Cuatro lecturas talmúdicas (1968), Levinas examinó un texto antiguo: las faltas contra Dios se perdonan en el Día de la Expiación, pero las faltas contra una persona, solo cuando el ofensor fue a ver a quien ofendió. Si cargás un rencor desde hace mucho, es que alguna vez de verdad te lastimaron. Levinas le daba a esto una gran importancia: el daño hecho a una persona es un daño real, y no se puede borrar en abstracto. Si es así, tu rencor es legítimo: recuerda que te trataron con injusticia. Nadie tiene derecho a exigirte un perdón rápido. Pero podés preguntarte cómo llevar esta memoria para que no te quite la capacidad de tener encuentros nuevos.",
+      "practice": "Decí despacio en voz alta las palabras del texto que estudió Levinas: «Las faltas contra una persona se perdonan solo cuando el ofensor fue a ver a quien ofendió». Quedate un minuto con el hecho de que tu rencor es legítimo.",
+      "quote": null
+    },
+    "heartbreak": {
+      "text": "Levinas no creía en el mito de las dos mitades: en sus conferencias El tiempo y el otro (1947), el amor no es fusión, sino relación con alguien que siempre se escapa. Una ruptura puede sentirse como una herida que no cierra. La persona amada nunca llega a ser del todo «mía», y en eso residen tanto la hondura del amor como su fragilidad. Bajo esta luz, una ruptura es la confirmación dolorosa de que el otro siempre fue otro: libre, separado. Eso no anula el dolor ni vuelve irreal el pasado: el encuentro sucedió, y fue verdadero. Buber escribió que las relaciones reales viven «entre» las personas. Lo que hubo entre ustedes ya sucedió, y no se puede deshacer, ni siquiera ahora que están separados.",
+      "practice": "Anotá un momento de esta relación en el que se encontraron de verdad. Sucedió, y no se puede deshacer.",
+      "quote": {
+        "text": "Lo patético del amor consiste en una dualidad insuperable de los seres.",
+        "author": "Emmanuel Levinas",
+        "source": "El tiempo y el otro (1947)"
+      }
+    },
+    "impostor": {
+      "text": "¿Quién te dio derecho a estar acá? Levinas respondería: quien se dirigió a vos. El miedo a que te descubran en cualquier momento suele atormentar a quienes lo están haciendo perfectamente bien. Para Buber, una persona no «se hace» sola: llega a ser ella misma en las relaciones, en el encuentro con otro. Para Levinas, mi unicidad no nace de los logros, sino del hecho de que alguien se dirige a mí y yo respondo: «Heme aquí». Nadie puede responder en mi lugar. Así que el síndrome del impostor descansa sobre una premisa falsa: que tu derecho a estar acá hay que ganarlo siendo impecable. Pero estás acá porque alguien se dirigió a vos y vos respondiste. Eso no se puede «desenmascarar»: una respuesta no es una máscara, sino lo que ya sos.",
+      "practice": "Recordá quién se acercó a vos con un pedido esta semana y cómo le respondiste. Repetí en silencio: «Heme aquí»: ese es tu lugar.",
+      "quote": {
+        "text": "El hombre se hace Yo a través del Tú.",
+        "author": "Martin Buber",
+        "source": "Yo y tú (1923)"
+      }
+    },
+    "self_hatred": {
+      "text": "En Totalidad e infinito (1961), Levinas discutió contra el «juicio de la historia»: un veredicto dictado sobre una persona en ausencia, como si no estuviera en la sala. Un rostro vivo, decía, no se puede reducir a un veredicto. Si tu voz interior es despiadada, vivir con ella es muy difícil, y merecés ternura. El crítico interior se parece a ese juicio en ausencia: habla de vos en tercera persona, enumera, hace balances. Pero para Levinas una persona siempre es más que cualquier balance sobre ella. Buber diría que el crítico te trata como un «Ello», un objeto a corregir. Esto significa que podés rechazar el veredicto del crítico, no discutiendo con él, sino recordándote que no sos un objeto, sino alguien a quien se le puede hablar de «vos».",
+      "practice": "Imaginá que el crítico tiene que decirte su sentencia en la cara: mirándote a los ojos, hablándote de «vos». Notá cómo cambia cuando el juicio en ausencia se convierte en un encuentro.",
+      "quote": null
+    },
+    "helplessness": {
+      "text": "Cuando no se puede cambiar nada, ¿queda algo? Levinas respondía: queda una respuesta. La impotencia es un sentimiento muy pesado, y merece ser tomado en serio. Levinas escribió mucho sobre la pasividad y la vulnerabilidad. En De otro modo que ser (1974), habla de la «sensibilidad» como la capacidad de ser afectado, de poder ser herido, y ve en ella no una debilidad, sino el fundamento de lo humano. Para él, una persona no se define solo por lo que puede hacer, sino también por cómo puede responder. Incluso cuando no podés cambiar la situación, podés decir «heme aquí»: estar presente, mirar, no darte vuelta. Dicho de otro modo, la impotencia no es tu ausencia, sino un lugar donde sos vulnerable junto con otros. Y en ese lugar todavía es posible una respuesta pequeña pero real.",
+      "practice": "Quedate un minuto al lado de lo que no podés cambiar, sin darte vuelta y sin hacer nada. Decite: «Heme aquí». A veces la presencia ya es una respuesta.",
+      "quote": null
+    },
+    "procrastination": {
+      "text": "Levinas es quizá el único gran filósofo que le dedicó a la pereza un análisis serio, en De la existencia al existente (1947). Cuando no hay manera de arrancar, es fácil decirte vago, pero su mirada es más amable. Levinas escribió que la pereza no es simplemente falta de ganas de trabajar, sino un retroceso ante el comienzo mismo: empezar es asumir la carga de la existencia, entrar en una acción que te va a exigir entero. Así que, para Levinas, la pereza está ligada al cansancio de ser, no a un mal carácter. Entonces «no puedo empezar» es una respuesta natural al peso del primer paso. De ahí el alivio: no tenés que empezar de manera heroica. Podés empezar por algo tan chiquito que apenas se sienta como un comienzo.",
+      "practice": "Hacé la acción más diminuta de la tarea —abrí el archivo, poné sobre el escritorio lo que necesitás— y solo eso. Levinas diría: un comienzo no tiene por qué ser heroico.",
+      "quote": null
+    },
+    "uprooted": {
+      "text": "Kaunas, Estrasburgo, Friburgo, París: Levinas recorrió él mismo el camino del emigrante y sabía lo que significa perder un mundo familiar. Cuando se te va el piso de abajo de los pies, es una pérdida profunda y real. En su ensayo «Heidegger, Gagarin y nosotros» (1961), discutió contra el culto de las «raíces» y del «lugar»: para él un ser humano no es una planta, y su dignidad no depende del suelo en el que creció. Le gustaba contraponer a Ulises, que siempre intenta volver a casa, con Abraham, que parte hacia lo desconocido. Entonces estar lejos de casa duele, pero no es perderse a uno mismo. Tu humanidad, para Levinas, no vive en un lugar, sino en tus relaciones con las personas, y se muda con vos.",
+      "practice": "Hoy saludá de verdad a una persona del lugar nuevo —un vecino, alguien de un negocio, una compañera de trabajo— mirándole la cara. Para Levinas, lo humano no vive en el suelo sino en los encuentros.",
+      "quote": null
+    },
+    "overload": {
+      "text": "En De otro modo que ser (1974), Levinas distinguió «lo dicho» —hechos, contenidos, información— del «decir»: el acto mismo de una persona que se dirige a otra. Un torrente interminable de notificaciones te agota, y se entiende por qué: hay muchísimo de lo primero y casi nada de lo segundo, ríos de texto en los que nadie se dirige realmente a vos. No estás obligado a seguirle el ritmo. Buber hablaría del mundo del «Ello», donde todo son objetos y datos. Si es así, el cansancio del feed no es tu incapacidad de «estar al día», sino un hambre de ser verdaderamente interpelado. Lo que ayuda no es una nueva forma de estar al tanto de todo, sino un pequeño paso fuera del torrente, hacia una voz viva.",
+      "practice": "Dejá el feed y llamá a una persona no «por un tema», sino simplemente para escuchar su voz. Es decir sin lo dicho.",
+      "quote": null
+    },
+    "unreality": {
+      "text": "Un mundo que perdió sus formas y sus sentidos, donde solo queda una presencia sorda en la que no hay ningún «yo»: Levinas lo llamó el «il y a», el «hay» impersonal. Si todo a tu alrededor, o vos mismo, te parece de algún modo no del todo real, asusta y hace sentir solo, y merece cuidado. Pero él también señaló lo que nos devuelve a la realidad: ante todo, el rostro de otra persona. Su mirada y su voz se dirigen a nosotros, y resulta que somos alguien. Buber diría que la realidad nace en el encuentro. Quizá la realidad no vuelve a través de la reflexión, sino a través del contacto.",
+      "practice": "Escuchá una voz viva —llamá a alguien cercano o prestale atención a una persona que tengas al lado— y notá su timbre. Buber diría: la realidad nace en el encuentro.",
+      "quote": null
+    },
+    "awe": {
+      "text": "Buber insistía en que incluso a un árbol se lo puede encontrar como un «Tú»: no examinarlo, sino encontrarlo entero. El asombro ante algo inmenso o hermoso es una experiencia rara, y podés simplemente dejar que te llene. En Totalidad e infinito (1961), Levinas retomó la idea de Descartes de la «idea de lo infinito»: tenemos un pensamiento que contiene más de lo que puede contener. Para Levinas, esta experiencia —cuando algo nos supera y no entra en nuestra comprensión— sucede ante todo en el encuentro con otra persona, pero un eco de ella está presente en todo asombro. Bajo esta luz, el asombro es el momento en que el mundo deja de ser «Ello» y vuelve a ser «Tú». Un momento así no necesita que se le agregue nada.",
+      "practice": "Quedate un minuto más con lo que despertó tu asombro, como si te estuviera mirando igual que vos lo mirás.",
+      "quote": null
+    },
+    "relief": {
+      "text": "Estar «remachado» a uno mismo y a sus preocupaciones: así describió Levinas, en De la evasión (1935), el peso del que una persona anhela liberarse aunque sea un poco. El alivio, cuando algo pesado por fin te suelta, es un sentimiento hermoso y vale la pena notarlo. Así que el alivio es ese momento raro en que el peso realmente se levanta y podés respirar. Muchas veces no llega solo, sino a través de otro: una palabra, una ayuda, un abrazo, una noticia de alguien cercano. Levinas creía que es el otro quien nos lleva más allá de nosotros mismos. Por eso el alivio es una buena ocasión para recordar quién o qué ayudó, y quizá decirlo.",
+      "practice": "Hacé una exhalación larga y preguntate: ¿quién ayudó a que esto pasara? Si fue alguien, decíselo hoy, aunque sea con una sola palabra.",
+      "quote": null
+    },
+    "calm": {
+      "text": "En Totalidad e infinito (1961), Levinas escribió mucho sobre la «morada»: no las paredes, sino un lugar donde podés recogerte, descansar de la presión del mundo y desde donde salir al encuentro de los otros. La calma es un estado valioso; podés simplemente estar en ella. Levinas vinculaba la morada con la «dulzura»: una atmósfera de hospitalidad en la que una persona se siente recibida. Esto significa que la calma es la experiencia de una morada así, aunque dure un minuto y no se encuentre en un departamento sino en vos. Levinas subrayaba que la morada también es valiosa porque podés invitar a otro a entrar. Pero primero podés simplemente estar en ella vos.",
+      "practice": "Notá qué cosa a tu alrededor crea ahora una sensación de hogar —una luz, un sonido, un objeto— y agradecéselo en silencio.",
+      "quote": null
+    },
+    "inspiration": {
+      "text": "No solo los artistas conocen esta palabra: en De otro modo que ser (1974), Levinas usó «inspiración» para nombrar la hondura misma del alma humana. El momento en que un pensamiento o una imagen parece llegar desde afuera y tenés ganas de crear es uno de los mejores lados de la vida. Para él una persona no es una fortaleza cerrada: en nosotros vive «el otro en el mismo», y respiramos lo que no viene de nosotros. La inspiración es la experiencia de estar abierto a algo más grande que vos. Buber decía algo parecido sobre la creación: una forma espera el encuentro y se dirige al artista, y el artista responde. Dicho de otro modo, la inspiración no es un logro ni una casualidad, sino la respuesta a un llamado. Podés simplemente responder.",
+      "practice": "Anotá lo que acaba de llegar como respuesta a la pregunta «¿Qué me está llamando ahora?», sin correcciones.",
+      "quote": null
+    },
+    "schadenfreude": {
+      "text": "Buber distinguía dos relaciones con una persona: encontrarla entera, «Yo–Tú», y «Yo–Ello», cuando se vuelve una figura en nuestros cálculos. En el modo «Ello», un rival se convierte en un renglón del marcador, y su pérdida parece un punto a nuestro favor. De ahí el regodeo en la desgracia ajena, que da vergüenza admitir incluso ante uno mismo, aunque en sí dice poco sobre quién sos. Levinas lo llamaría la mirada de la «totalidad»: una mirada que inscribe al otro en su propio sistema. Pero en cuanto ves un «rostro» en esa misma persona —alguien vivo y vulnerable, a quien también se le vino algo abajo—, el regodeo suele debilitarse solo. No hace falta castigarte; alcanza con notar ese cambio.",
+      "practice": "Durante un minuto, imaginá a esta persona no como rival, sino en su casa, a la noche, después de su fracaso. Notá qué cambió en lo que sentís.",
+      "quote": null
+    },
+    "contempt": {
+      "text": "El rostro del otro, para Levinas, nos habla a la vez desde la indefensión y desde una «altura»: como alguien que no se deja reducir a nuestra evaluación. El desprecio es mirar desde arriba, cuando el otro parece mezquino e indigno; a veces tiene fundamentos, y no te convierte en una mala persona. El desprecio intenta dar vuelta esta imagen: ponerte arriba y dejar de escuchar. Siguiendo la idea de Levinas, el desprecio muchas veces protege de algo: de la decepción, de la herida, de la necesidad de reconocer en el otro la misma vulnerabilidad que en vos. No tenés que pelearte con él; podés preguntarte: ¿qué es exactamente lo que dejo de escuchar cuando siento desprecio?",
+      "practice": "Recordá cómo se veía esta persona en un momento de cansancio o desconcierto. Quedate un minuto con esa cara y preguntate: ¿qué dejo de ver cuando siento desprecio?",
+      "quote": {
+        "text": "El rostro es lo que no se puede matar, o al menos eso cuyo sentido consiste en decir: «No matarás».",
+        "author": "Emmanuel Levinas",
+        "source": "Ética e infinito (1982)"
+      }
+    },
+    "disgust": {
+      "text": "En De la evasión (1935), tres años antes de La náusea de Sartre, Levinas describió la náusea como una experiencia filosófica: la imposibilidad de librarse de uno mismo, estar «remachado» a la propia existencia. El asco es una sensación corporal fuerte, dirigida a personas, a una situación, a veces a vos mismo, y no te hace malo. Por eso el asco hacia uno mismo es especialmente torturante: no hay adónde apartarse de él. Más tarde Levinas vio la salida no en hundirse más en uno mismo, sino en volverse hacia otra persona, que te saca del encierro. El asco, entonces, es una señal de que el espacio se volvió demasiado estrecho, y lo que lo ensancha no es hacer fuerza contra vos mismo, sino la conexión.",
+      "practice": "Si el asco está dirigido a vos mismo, mandale a alguien un mensaje simple y cálido. Levinas buscaba la salida del encierro en el volverse hacia otro.",
+      "quote": null
+    },
+    "revenge": {
+      "text": "¿Qué es la justicia, si no venganza? Levinas respondía: lo que aparece cuando un «tercero» entra en la relación entre dos. Las ganas de venganza nacen de una herida real: te trataron con injusticia, y el alma exige una respuesta. El sentimiento se entiende, y en su raíz hay una verdad importante: la injusticia no debería quedar sin consecuencias. Levinas distinguía la ética —la responsabilidad que tengo ante el rostro de un otro concreto— de la justicia, que surge cuando un «tercero» entra en la relación: otras personas que también hay que tener en cuenta. La justicia, para Levinas, requiere comparar, sopesar, tribunales, instituciones: todo lo que la revancha personal no puede dar. Si es así, las ganas de venganza pueden entenderse como una exigencia de justicia que busca su forma adecuada. No hace falta avergonzarse; lo que importa es no dejar que te convierta en alguien que no querés ser.",
+      "practice": "Anotá qué tipo de justicia necesitarías: que se reconozca la culpa, una disculpa, una reparación, protección. Esto ayuda a distinguir la necesidad de justicia de las ganas de causar dolor.",
+      "quote": null
+    },
+    "anger_at_loved": {
+      "text": "En 1957 Martin Buber subió a un escenario para un diálogo público con el psicólogo Carl Rogers, y ahí distinguió entre «aceptar» a otro y «confirmarlo». El enojo con los más cercanos puede quemar, y después viene la vergüenza; esta distinción puede ayudar. Confirmar a alguien cercano es reconocerlo entero, ver quién podría llegar a ser; y al mismo tiempo, decía Buber, uno puede luchar contra lo que está pasando en él ahora. Bajo esta luz, el enojo no contradice el amor: puede ser parte de una relación real en la que el otro te importa en lugar de dejarte indiferente. La indiferencia estaría mucho más lejos del amor que el enojo. Lo que importa es solo no descargar el enojo sobre el otro ni escondértelo a vos, sino encontrarle palabras, dirigidas a él como a un «Tú».",
+      "practice": "Cuando baje el enojo, decile a tu ser querido una frase dirigida directamente a él: «Estoy enojado porque veo lo que podría ser nuestra relación…», y terminala.",
+      "quote": null
+    },
+    "ambivalence": {
+      "text": "«Alteridad» es una de las palabras clave de Levinas: otra persona es siempre otra; no se la puede comprender del todo, apropiar ni meter en una sola imagen. Querer a alguien y al mismo tiempo no soportarlo agota, pero es un estado muy humano. Por eso alguien cercano inevitablemente nos atrae y a la vez se nos resiste: no coincide con nuestras expectativas. Los sentimientos mezclados son, en cierto sentido, una respuesta honesta a esa alteridad. Buber entendía el amor no como un sentimiento que «vive» en mí, sino como una relación de responsabilidad por otro. Así que no tenés que desenredar primero todos tus sentimientos para poder amar: el amor puede contener irritación y ternura a la vez, y seguir siendo una elección de cuidar.",
+      "practice": "Hacé por esta persona una pequeña cosa por cuidado, sin esperar a que se desenreden tus sentimientos. Buber entendía el amor como responsabilidad, no como un estado de ánimo.",
+      "quote": {
+        "text": "El amor es la responsabilidad de un Yo por un Tú.",
+        "author": "Martin Buber",
+        "source": "Yo y tú (1923)"
+      }
+    },
+    "guilty_relief": {
+      "text": "La responsabilidad infinita por el otro es la idea central de Levinas, y puede parecer que una ética así exige cargar el peso sin fin. El alivio después de una separación, de la muerte de alguien cercano o de un cuidado largo de alguien gravemente enfermo suele traer vergüenza: ¿cómo puedo sentirme más liviano? Pero en De otro modo que ser (1974) agregó algo importante: gracias al «tercero», gracias a la justicia, yo también resulto ser «un otro para los otros», alguien a quien también hay que cuidar. Tu agotamiento también tiene peso. Esto significa que el alivio no es una traición al amor, sino una señal de cuánto tiempo cargaste una responsabilidad enorme. La exhalación que viene después no anula que estuviste ahí.",
+      "practice": "Hacé una exhalación larga y decite: «Yo también soy un otro para los otros, y a mí también me pueden cuidar». Quedate con esto un minuto.",
+      "quote": null
+    },
+    "indifference": {
+      "text": "A Levinas le encantaba el juego de palabras «no-indiferencia»: el otro nos afecta antes de que hayamos tenido tiempo de sentir nada. Así que, cuando adentro hay silencio donde algo «debería» conmoverte, asusta, pero no significa que no tengas corazón. Este ser afectado, para Levinas, vive más hondo que las emociones, en la «sensibilidad» como vulnerabilidad. Dicho de otro modo, la ausencia de sentimiento en la superficie no significa ausencia de conexión: a veces la psiquis simplemente está cansada, sobrecargada o se está protegiendo. En De la existencia al existente, Levinas describió el cansancio como un estado en el que la existencia parece quedarse atrás de sí misma. No hace falta que te obligues a sentir «como corresponde»; podés simplemente quedarte cerca —con atención, con acciones— y el sentimiento puede llegar después.",
+      "practice": "Si el sentimiento no llega, hacé una cosa chiquita por alguien que tengas cerca: una pregunta, una ayuda, atención. Notá qué pasa adentro después.",
+      "quote": null
+    },
+    "escape": {
+      "text": "De la evasión es el título de uno de los primeros ensayos de Levinas (1935), y trata justamente de esas ganas de dejarlo todo —el trabajo, la ciudad, el papel— e irse adonde sea. Así suele hablar una vida que se volvió demasiado estrecha. Describió la necesidad de salir de los propios límites, el doloroso estado de estar «remachado» a la propia existencia, y notó que esa necesidad no se satisface con un simple cambio de paisaje: nos llevamos a nosotros mismos. Más tarde vio la verdadera «salida» en la relación con otra persona. En El camino del hombre, Buber recontó un cuento jasídico sobre un hombre pobre que buscó un tesoro en una capital lejana y lo encontró debajo de la estufa de su propia casa. No es un argumento a favor ni en contra de irse. Entonces las ganas de escaparte merecen ser escuchadas: hablan de un encierro real, y parte de la respuesta puede estar más cerca de lo que parece.",
+      "practice": "Volvé a contarte el cuento que tanto quería Buber: un hombre pobre buscó un tesoro en una capital lejana y lo encontró debajo de la estufa de su propia casa. Mirá a tu alrededor: ¿qué hay de valioso justo acá?",
+      "quote": null
+    },
+    "forbidden_attraction": {
+      "text": "Levinas distinguía la «necesidad» del «deseo», y esa distinción ilumina de manera inesperada la atracción por alguien «prohibido». Un sentimiento así puede dar vergüenza y asustar, pero en sí mismo no decide nada por vos ni dice qué clase de persona sos. Una necesidad se puede satisfacer: con pan, con descanso, con posesión. El «deseo metafísico», para Levinas, es otra cosa: tiende hacia lo que nos supera y nunca se apropia del todo. En sus conferencias El tiempo y el otro (1947), describió el amor como una relación con el misterio: busca lo que se escapa todo el tiempo. Si es así, lo inalcanzable puede ser parte de la atracción misma: lo que te atrae del otro es justamente su alteridad. Podés explorar este sentimiento sin apurarte ni a condenarte ni a decidir nada.",
+      "practice": "Salí a caminar cinco minutos y dejá que este sentimiento simplemente camine a tu lado, sin juzgarlo ni decidir nada. Preguntate: ¿hacia qué parte de mi propia vida me llama este misterio?",
+      "quote": null
+    },
+    "social_anxiety": {
+      "text": "Ser o parecer: Martin Buber consideraba que esta es la elección principal en cualquier conversación. El miedo a la gente y a su juicio vuelve difíciles las cosas simples: arrancar una conversación, entrar a una sala, hacer una llamada. En su ensayo «Elementos de lo interhumano» (1953), distinguió el «ser» del «parecer»: una persona puede vivir desde lo que es, o desde cómo quiere aparecer. Buber creía que todos conocemos el impulso de parecer, y que no es un vicio en sí, pero es justamente lo que obstaculiza el encuentro genuino y consume muchísima energía. Levinas agregaría que encontrarse con otro no es mostrarse, sino responder a su llamado. Bajo esta luz, el alivio llega cuando la atención pasa de «cómo me veo» a «quién tengo enfrente y qué me está diciendo». No hace falta que seas brillante; alcanza con estar presente.",
+      "practice": "En tu próxima conversación, permitite una frase simple, sin ensayar. Notá qué pasa cuando no intentás parecer.",
+      "quote": null
+    },
+    "uncertainty": {
+      "text": "Levinas comparaba el futuro con otra persona: ninguno de los dos se puede comprender del todo ni apropiar de antemano. La incertidumbre agota —no está claro qué va a pasar y no hay en qué apoyarse—, y querer saber de antemano es natural. En sus conferencias El tiempo y el otro (1947), Levinas dio una definición inesperada del porvenir: el porvenir es lo que no se puede aprehender, lo que nos llega desde afuera y escapa a nuestro control. Para Levinas esto no es solo una amenaza, sino también una fuente de lo nuevo: si el futuro fuera conocido, no habría en él nada verdaderamente otro. Así que la incertidumbre es la otra cara de la apertura de la vida. Se sobrelleva mejor no a solas, sino junto a personas que tampoco saben.",
+      "practice": "Hablá con alguien de lo que ninguno de los dos sabe sobre el futuro. Notá cómo cambia la incertidumbre cuando se comparte.",
+      "quote": null
+    },
+    "waiting": {
+      "text": "Levinas valoraba la «paciencia» como una forma particular de apertura: lo que viene del otro no se puede apurar ni forzar. Esperar una respuesta, resultados, noticias estira el tiempo y no te deja vivir, sobre todo cuando el desenlace no depende de vos. Es difícil, y no hace falta hacer como que no te importa. Buber escribió algo parecido sobre el encuentro: no se consigue con esfuerzo; llega como un regalo. Esto no significa que la espera tenga que ser agradable. Pero podés ver en la espera no solo impotencia, sino también un reconocimiento honesto: el mundo y las otras personas no son una prolongación de nuestra voluntad. Podés rodear la espera de cuidados hacia vos, sin exigirte calma.",
+      "practice": "Mientras esperás, hacé una cosa amable por vos o por otra persona: no para distraerte, sino para que el tiempo de la espera también sea tiempo de vida.",
+      "quote": {
+        "text": "El Tú me sale al encuentro por gracia; no se lo encuentra buscándolo.",
+        "author": "Martin Buber",
+        "source": "Yo y tú (1923)"
+      }
+    },
+    "regret": {
+      "text": "«¿Dónde estás?»: Buber abre El camino del hombre con esta pregunta de Dios a Adán, no para atraparlo en falta, sino para que la persona vea por sí misma adónde fue a parar. El arrepentimiento por lo que hiciste o dejaste de hacer puede volver una y otra vez, y dice que algo te importaba. En su ensayo «Culpa y sentimientos de culpa» (1957), Martin Buber distinguió el autotormento estéril de la «culpa existencial»: el reconocimiento honesto de que violaste o dejaste pasar algo en tus relaciones con las personas y con el mundo. Esa culpa, para Buber, no es un veredicto sino el comienzo de un camino: echar luz sobre lo que pasó, seguir siendo quien responde por ello y, donde sea posible, restaurar el vínculo roto; si no con la misma persona, con el mundo. Esto significa que el arrepentimiento no es un motivo para castigarte, sino una invitación a responder. El pasado no se puede cambiar, pero lo que hacés con él ahora sí.",
+      "practice": "Hacete la pregunta de Buber, «¿Dónde estás?», y respondé con honestidad en una frase: ¿dónde estás ahora en esta historia? Después pensá si hay un pequeño paso que pueda restaurar el vínculo roto.",
+      "quote": null
+    },
+    "longing": {
+      "text": "A un «Tú» no se lo puede tener como una cosa, escribió Buber: solo se puede estar en relación con él. Extrañar a una persona concreta puede ser casi físico: te falta su voz, su cara, su presencia. Es el precio natural de un vínculo real. Levinas creía que otra persona nunca se agota en nuestra idea de ella: siempre es más de lo que sabemos. Por eso ningún recuerdo ni ninguna foto pueden reemplazar un rostro vivo, y por eso se extraña con tanta intensidad. Dicho de otro modo, extrañar también es una forma de relación: seguís vuelto hacia esa persona aunque no esté cerca. La añoranza te recuerda que esa relación está viva. Podés vivirla como fidelidad a un encuentro que fue, y que sigue siendo, parte de vos.",
+      "practice": "Decí una frase —en voz alta o en un susurro— dirigida directamente a esta persona, hablándole de «vos». Notá qué sentís.",
+      "quote": {
+        "text": "Quien dice Tú no tiene algo; no tiene nada. Pero está en relación.",
+        "author": "Martin Buber",
+        "source": "Yo y tú (1923)"
+      }
+    },
+    "world_pain": {
+      "text": "Para Levinas, el sufrimiento del otro nos interpela antes que cualquier teoría. Si el dolor por el mundo —por las guerras, la injusticia, las noticias duras— te pesa tanto que te cuesta vivir una vida común, habla de tu capacidad de responder. En su ensayo «El sufrimiento inútil» (1982), escribió que el sufrimiento en sí mismo no tiene sentido, y que solo una respuesta —la ayuda, el cuidado de otro— le da una dimensión humana. Pero Levinas también hablaba del «tercero»: las personas son muchas, y la responsabilidad hay que medirla y repartirla, convirtiéndola en justicia, que es más grande que cualquier persona sola. Entonces no estás obligado a cargar solo con el mundo entero. Podés responder donde estás: a una persona concreta que tengas cerca.",
+      "practice": "Elegí un rostro concreto —una persona cercana, o quienes ayudan a otros— y dá un pequeño paso hacia él. Después permitite descansar.",
+      "quote": null
+    },
+    "rejection": {
+      "text": "Un encuentro «Yo–Tú», escribió Buber, no se puede forzar: hacen falta dos, y cada uno es libre en él. El rechazo duele como si no te hubieran dicho que no a un pedido, sino a vos entero, y ese dolor es natural. Levinas subrayaba a su manera la misma libertad: otra persona no es una prolongación de nuestros deseos; su «alteridad» incluye el derecho a decir «no». Duele, pero esa libertad es también lo que hace real un encuentro: si el otro no pudiera negarse, su «sí» no significaría nada. Si es así, una negativa no dicta ningún veredicto sobre tu valor; habla de la libertad del otro y de que este encuentro no se dio. Podés seguir siendo un «Tú» para otras personas, y ellas para vos.",
+      "practice": "Comunicate hoy con una persona para la que sos verdaderamente «vos», solo para charlar. Buber diría: el encuentro sigue donde sea posible.",
+      "quote": null
+    },
+    "abandonment": {
+      "text": "«Heme aquí», dice en Levinas quien responde al llamado de otro; el miedo al abandono es el miedo a que nadie responda a tu propio llamado. Puede ser muy profundo: parece que sin el otro tu apoyo va a desaparecer. En sus primeras obras Levinas describió el «il y a», el «hay» impersonal, un ser sordo y sin rostro en el que una persona se siente completamente sola. Es otra persona, para Levinas, quien nos saca de esa soledad, y por eso el miedo a perder a alguien cercano es tan fuerte: toca el fundamento mismo. Pero en Totalidad e infinito Levinas también escribió sobre la «morada», un hogar donde una persona puede recogerse y descansar, y la vinculó con la experiencia de la hospitalidad, de haber sido recibido alguna vez. Bajo esta luz, la experiencia de haber sido recibido se queda con vos, incluso cuando alguien se va.",
+      "practice": "Recordá un lugar o una persona con la que te sentiste recibido. Nombrá la sensación en tres palabras y quedate con ella un minuto.",
+      "quote": null
+    },
+    "unrequited": {
+      "text": "Amar sin exigir de entrada reciprocidad: Levinas no veía en eso nada tonto ni humillante. El amor no correspondido duele mucho: el sentimiento está, pero no hay respuesta, y sin embargo eso no lo vuelve menos real. Tu amor no fue un negocio que «no rindió». Pero Levinas insistía con la misma fuerza en la alteridad del otro: amar a una persona es reconocer su libertad, incluida la libertad de no responder. Y Buber escribió que una relación viva es mutua; por eso duele tanto sin respuesta: el encuentro quedó inconcluso. Así que podés valorar tu sentimiento y al mismo tiempo cuidarte: sin exigirle una respuesta al otro, y sin exigirte dejar de amar de golpe.",
+      "practice": "Anotá lo que tu amor te dio a vos: qué lados tuyos descubriste en él. Eso sigue siendo tuyo.",
+      "quote": null
+    },
+    "humiliation": {
+      "text": "Indefenso y a la vez exigiendo respeto: así describía Levinas el rostro humano. La humillación es una de las experiencias más duras: parece que te quitaron la dignidad, muchas veces delante de otros. Levinas diría: tu rostro no dejó de ser un rostro. La humillación intenta reducirte a un objeto —a un «Ello», diría Buber—, a una cosa que se puede tasar y descartar. Pero para Levinas el rostro nunca se puede convertir del todo en una cosa: siempre es más que cualquier intento de rebajarlo. Esto significa que la humillación habla del acto de quien humilló, no de tu esencia. El dolor es real, pero no tenés que aceptar el veredicto.",
+      "practice": "Dividí una hoja en dos columnas: «lo que me hicieron» y «quién soy». En la segunda, anotá lo que siguió igual.",
+      "quote": null
+    },
+    "body_shame": {
+      "text": "«La mejor manera de encontrar al otro es la de ni siquiera darse cuenta del color de sus ojos», dijo Levinas en las conversaciones de Ética e infinito (1982). Si el espejo se convirtió en un examen, eso agota, y no estás solo en esto. Levinas distinguía el «rostro» de la apariencia. El rostro, para Levinas, no es un conjunto de rasgos que se puedan calificar, sino la manera misma en que una persona se dirige a otra: su presencia, su voz, su vulnerabilidad. Y en Totalidad e infinito, Levinas describió el cuerpo como aquello por lo que «vivimos del» mundo: disfrutando el calor, la comida, la luz. Dicho de otro modo, el cuerpo no es una imagen para examinar, sino tu manera de estar en el mundo y con los otros. Las personas que te quieren se encuentran con vos, no con tu reflejo.",
+      "practice": "Pensá en alguien que querés. ¿Qué valorás en esa persona? Notá cuánto de eso no tiene nada que ver con la apariencia, y probalo con vos.",
+      "quote": {
+        "text": "¡La mejor manera de encontrar al otro es la de ni siquiera darse cuenta del color de sus ojos!",
+        "author": "Emmanuel Levinas",
+        "source": "Ética e infinito (1982)"
+      }
+    },
+    "illness": {
+      "text": "Levinas escribió sobre el sufrimiento sin ilusiones consoladoras, y por eso vale la pena leerlo cuando uno está enfermo. Cuando el cuerpo te falla —una enfermedad, dolor, debilidad—, la vida cambia, y el miedo, la irritación y la tristeza son naturales. En sus conferencias El tiempo y el otro, dijo que en el dolor físico una persona queda como aplastada contra su propia existencia, sin adónde retroceder. Y en su ensayo «El sufrimiento inútil» (1982), escribió que el sufrimiento en sí mismo no lleva ningún sentido superior, lo que significa que no tenés que obligarte a sacarle una lección. El sentido, para Levinas, aparece en la relación: cuando otro responde a tu dolor, y cuando vos se lo permitís. Entonces la enfermedad no es culpa tuya ni una prueba que tengas que «aprobar como corresponde». Podés permitirte aceptar ayuda.",
+      "practice": "Pedile a alguien una pequeña ayuda, o simplemente contale cómo te sentís. Notá qué pasa cuando tu dolor se comparte.",
+      "quote": null
+    },
+    "pride": {
+      "text": "Levinas, un filósofo estricto de la responsabilidad, defendía sin embargo el «gozo»: una persona vive «del» mundo —del trabajo, la comida, la luz, las ideas— y se deleita en él. El orgullo por lo que hiciste es un sentimiento bueno y bien ganado, y no hace falta esconderlo. Para él esa alegría no es egoísmo, sino el fundamento de un «yo» separado, que después puede dar a otros. En El camino del hombre según las enseñanzas jasídicas (1948), Buber escribió que cada persona trae al mundo algo nuevo, algo que nunca existió antes, y que su tarea es desplegar justamente eso. Si es así, tu orgullo es la alegría de haber hecho algo propio. Merece ser disfrutado, y quizá compartido con alguien que se alegre por vos.",
+      "practice": "Leé en voz alta las palabras de Buber: «Cada persona trae al mundo algo nuevo, algo que nunca existió antes». Pensá qué cosa nueva trajiste al mundo con este trabajo.",
+      "quote": null
+    },
+    "melancholy": {
+      "text": "Todo «Tú» vuelve a formar parte del mundo cotidiano: Buber escribió sobre esto sin amargura, como una verdad serena de la condición humana. La tristeza luminosa, en la que la pena se mezcla con ternura por el mundo, no necesita arreglo. Pero él también creía que el encuentro puede volver a suceder, y que su solo recuerdo nos transforma. Levinas agregaría que el tiempo no es simplemente una serie de pérdidas, sino una apertura a lo que todavía está por venir, al otro. Bajo esta luz, la tristeza luminosa es el sentimiento de alguien que conoce el valor de los encuentros y no le da la espalda a su fugacidad. Podés vivirla sin apuro, como una música tranquila, y quizá recordar con quién te gustaría compartirla.",
+      "practice": "Recordá un encuentro —con una persona, un lugar, un libro— que haya sido un «Tú» para vos. Quedate un minuto con el recuerdo, sin intentar retenerlo.",
+      "quote": {
+        "text": "Esta es la sublime melancolía de nuestro destino: que todo Tú en nuestro mundo tiene que convertirse en un Ello.",
+        "author": "Martin Buber",
+        "source": "Yo y tú (1923)"
+      }
+    }
+  }
+}

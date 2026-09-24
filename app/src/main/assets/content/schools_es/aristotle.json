@@ -1,0 +1,372 @@
+{
+  "id": "aristotle",
+  "title": "Aristóteles",
+  "tradition": "Escuela peripatética",
+  "family": "classic",
+  "period": "siglo IV a. C.",
+  "sortYear": -340,
+  "thinkers": [
+    "Aristóteles"
+  ],
+  "keyWorks": [
+    "«Ética a Nicómaco»",
+    "«Retórica» (sobre todo el libro II)",
+    "«Poética»",
+    "«Acerca del alma»",
+    "«Política»"
+  ],
+  "summary": "Aristóteles fue un filósofo griego antiguo, discípulo de Platón y maestro de Alejandro Magno, y el fundador de una escuela en el Liceo de Atenas. Investigó casi todo, desde los animales hasta la política. En la ética, su pregunta central es qué es una vida buena y plena —la «eudaimonía»— y cómo alcanzarla por medio de la virtud, entendida como un «término medio» entre extremos, de la amistad y de la elección razonada.",
+  "onEmotions": "Aristóteles fue el primero en analizar las emociones de forma sistemática: en el segundo libro de la «Retórica» describe la ira, el miedo, la vergüenza, la compasión, la envidia, la indignación y otros sentimientos: qué los provoca, hacia quién se dirigen y cómo se calman. Para él los sentimientos no son enemigos de la razón: van acompañados de dolor o de placer y dependen de cómo entendemos lo que pasa. Los sentimientos en sí no son ni buenos ni malos: se nos juzga por nuestro carácter estable. La virtud es un «término medio»: sentir una emoción en el momento justo, hacia la persona adecuada y en la medida correcta. Y la tragedia, según la «Poética», produce la «catarsis» —una purificación de las emociones— por medio de la compasión y el temor.",
+  "entries": {
+    "anxiety": {
+      "text": "Aristóteles enseñaba paseando por los corredores del Liceo: de ahí el nombre de su escuela, los peripatéticos, «los que caminan». Si la ansiedad te está desgastando, él tiene una observación que ayuda mucho. En «Acerca del alma» señala que a veces la gente siente todo lo que siente alguien asustado aunque no esté pasando nada temible: el cuerpo puede estar afinado para el miedo antes de que aparezca un motivo. Todo sentimiento, para Aristóteles, es a la vez un movimiento del cuerpo y un pensamiento sobre lo que está pasando. En la «Retórica» agrega que el miedo surge de imaginar una desgracia que parece cercana, mientras que lo lejano casi no nos asusta. La ansiedad muchas veces es justamente eso: la imaginación acercando el futuro. Aristóteles también nos recuerda que deliberar —«aconsejarnos con nosotros mismos»— tiene sentido solo sobre lo que depende de nosotros. Separar eso de todo lo demás ya es la mitad del alivio.",
+      "practice": "Hacé una caminata peripatética de cinco minutos: andá despacio y, mientras caminás, separá lo que te preocupa en «depende de mí» y «no depende de mí». Cuando vuelvas, elegí un pasito chico de la primera pila.",
+      "quote": null
+    },
+    "fear": {
+      "text": "Aristóteles comparaba la virtud con el tiro con arco: errar es fácil, dar en el blanco es difícil. Nunca pensó que el miedo fuera vergonzoso: la única pregunta es hacia dónde apunta. El coraje, para él, no es ausencia de miedo sino un «término medio» entre dos extremos: la cobardía, cuando el miedo lo gobierna todo, y la temeridad, cuando alguien no ve un peligro real. Quien no teme absolutamente nada, decía Aristóteles, está más cerca de un insensible o de un loco que de un valiente. El valiente teme lo que hay que temer, de la manera en que hay que temerlo, y aun así hace lo que cree correcto. En la «Retórica» el miedo se define como un dolor y una turbación que nacen de la idea de un mal inminente. Así que el miedo tiene un objeto, y se lo puede examinar: ¿qué tan real es el peligro, qué tan cerca está, y qué está en tu poder? Tu miedo no es una sentencia sino una señal con la que podés conversar.",
+      "practice": "Imaginá un blanco: la cobardía a la izquierda, la temeridad a la derecha, el coraje en el centro. Decí en voz alta dónde está tu miedo ahora, y una acción chica que lo acercaría un dedo al centro.",
+      "quote": null
+    },
+    "sadness": {
+      "text": "«Una golondrina no hace verano», escribió Aristóteles, ni un solo día hace una vida feliz. Tampoco un día triste hace una vida desdichada, y él nunca exigió alegría constante. En su «Retórica» casi toda emoción se describe como acompañada de dolor o de placer: la tristeza es una parte natural de cómo respondemos al mundo. En la «Ética» señala que el dolor se va con el placer: con su opuesto o con cualquiera que sea fuerte. También se pregunta si la presencia de los amigos alivia la pena: ¿comparten el peso con nosotros, o es la alegría misma de su compañía la que suaviza el dolor? No se decide por una respuesta, pero no duda de que los amigos ayudan. La tristeza no tiene que ser vencida a fuerza de voluntad. Podés dejarla estar y, al lado, hacerle lugar a algo vivo: una persona, una tarea, un placer simple.",
+      "practice": "Hacé hoy una cosa chica que suele darte un placer tranquilo: no en lugar de la tristeza, sino al lado de ella. Aristóteles diría que un placer vivo se hace lugar solo.",
+      "quote": null
+    },
+    "grief": {
+      "text": "Pensando en la felicidad, Aristóteles recordaba al viejo Príamo, que perdió a sus hijos y a su Troya, y admitía con honestidad que desgracias así nublan hasta la vida más digna. La razón, sostenía, no anula el duelo: la buena y la mala fortuna importan de verdad. Pero agregaba que la nobleza brilla incluso en la desgracia, cuando una persona lleva el peso no por insensibilidad sino por grandeza de alma. Y sobre los amigos: en el duelo, su presencia alivia el dolor, como si tomaran sobre sí una parte de la carga. Aristóteles notó que las personas fuertes no quieren cargar a los suyos con su dolor. Pero el duelo compartido pesa menos. Es justamente esa amistad la que él consideraba necesaria para vivir.",
+      "practice": "Pasá hoy un rato cerca de alguien querido —con un té o simplemente en silencio, sin siquiera hablar de la pérdida—. Aristóteles creía que la sola presencia de un amigo se lleva parte del peso.",
+      "quote": null
+    },
+    "loneliness": {
+      "text": "«Quien puede vivir fuera de una comunidad es una bestia o un dios», escribió Aristóteles. Un ser humano no es ninguna de las dos cosas, y por eso la soledad duele tanto: toca nuestra necesidad más honda. En la «Política» llama al ser humano un ser que por naturaleza vive en comunidad: un animal «político». En la «Ética a Nicómaco» se pregunta si una persona feliz que lo tiene todo necesita amigos, y contesta que sí: nadie elegiría tener todos los bienes en soledad. A través de un amigo, «otro yo», sentimos incluso nuestra propia vida de manera más plena. Así que tus ganas de estar con gente son la voz de la naturaleza humana. Y Aristóteles sugiere que la amistad crece de cosas chicas: la buena voluntad, una tarea compartida, el tiempo juntos.",
+      "practice": "Pensá en una persona hacia la que sientas aunque sea un poco de buena voluntad: para Aristóteles, toda amistad empieza ahí. Da un paso hacia ella: un mensaje corto, una pregunta, una invitación.",
+      "quote": {
+        "text": "El hombre es por naturaleza un animal político.",
+        "author": "Aristóteles",
+        "source": "Política, libro I, cap. 2"
+      }
+    },
+    "anger": {
+      "text": "«Cualquiera puede enojarse: eso es fácil», escribió Aristóteles; lo difícil es enojarse con la persona adecuada, de la manera adecuada. No te pedía que te avergonzaras del enojo: acá está sorprendentemente de tu lado. En la «Retórica» hizo el primer análisis detallado de la ira: dolor más un deseo de responder a un «desprecio», a no ser tomado en serio. Y en la «Ética a Nicómaco» escribe que quien no se enoja cuando debería parece un tonto, dispuesto a tolerar insultos: eso también es un defecto. La virtud, para Aristóteles, no es la ausencia de ira sino un «término medio». Así que la pregunta útil no es «¿cómo dejo de estar enojado?» sino «¿qué fue acá realmente injusto, y qué medida de respuesta sería la correcta?». Tu enojo puede estar señalando algo importante.",
+      "practice": "Escribí una frase: «Lo que me dolió fue que…», y medí tu respuesta a la manera aristotélica: ni más ni menos de lo que la situación merece. ¿Cuál sería esa respuesta?",
+      "quote": {
+        "text": "Cualquiera puede enfadarse, eso es algo muy sencillo… pero enfadarse con la persona adecuada, en el grado exacto, en el momento oportuno, con el propósito justo y del modo correcto, eso no está al alcance de todos ni es sencillo.",
+        "author": "Aristóteles",
+        "source": "Ética a Nicómaco, libro II, cap. 9"
+      }
+    },
+    "shame": {
+      "text": "Aristóteles notó que la vergüenza se ve desde afuera: nos ponemos colorados por ella como empalidecemos por el miedo; es un sentimiento, no un rasgo. Cuando te da vergüenza, querés esconderte, y es angustiante. En la «Retórica» describe la vergüenza como un dolor y una turbación por cosas que pueden dañar nuestro buen nombre, y señala que la sentimos sobre todo ante aquellos cuya opinión valoramos. En la «Ética» dice que la vergüenza les sienta a los jóvenes: mientras todavía aprendemos a vivir nos equivocamos, y la vergüenza nos frena ante cosas peores. Otra distinción suya también importa: solo tiene sentido de verdad avergonzarse de lo que depende de nosotros —nuestros actos—, no de lo que nos pasó. Así que la vergüenza es señal de que te importa. Podés escucharla, sacar una lección y no dejar que dicte sentencia sobre todo lo que sos.",
+      "practice": "Hacete en voz alta la pregunta de Aristóteles: «¿Me avergüenzo de algo que hice, o de algo que me pasó?». Si fue algo que hiciste, nombrá una cosa que vas a hacer distinto; si te pasó, soltalo al menos por hoy.",
+      "quote": null
+    },
+    "guilt": {
+      "text": "Aristóteles tiene un capitán que tira la carga al mar en una tormenta para salvar el barco: hubo una elección, pero nadie la haría con tiempo calmo. La culpa pesa, pero muestra que la justicia te importa. Aristóteles distinguía los actos voluntarios de los involuntarios: lo que se hace por ignorancia o bajo la presión de las circunstancias, y de lo que la persona después se arrepiente, no lo consideraba maldad. A esos actos los llamaba «mixtos». Y sobre la justicia escribió que su esencia es restablecer una igualdad que se rompió: no castigarte, sino arreglar las cosas en lo posible. La culpa no es un motivo para reprocharte sin fin sino una pregunta: ¿qué exactamente puedo restablecer o reparar ahora?",
+      "practice": "Elegí una acción que, en el sentido de Aristóteles, restablezca una igualdad rota: devolver algo, pedir perdón, ayudar. Hacela hoy o poné un momento para hacerla.",
+      "quote": null
+    },
+    "envy": {
+      "text": "Un viejo proverbio que cita Aristóteles: «el alfarero envidia al alfarero»; no envidiamos al rey sino a nuestros iguales y vecinos. En la «Retórica» analizó este sentimiento difícil de admitir con una precisión notable: dolor por la buena suerte de otro. Justo al lado describió a su «pariente», la emulación, en griego «zelos»: dolor porque otro tiene un bien que a nosotros nos falta pero que también podríamos alcanzar. La diferencia está en la dirección: la envidia quiere que el otro tenga menos; la emulación, que yo tenga más. Aristóteles consideraba la segunda un sentimiento de gente decente; nos mueve a crecer. Tu envidia es materia prima. Podés refundirla preguntándote: ¿qué es exactamente lo que quiero para mí?",
+      "practice": "Escribí: «Envidio que él/ella tenga…», y después refundí la envidia en zelos: «Quiero para mí…». Nombrá un paso en esa dirección.",
+      "quote": null
+    },
+    "emptiness": {
+      "text": "La primera línea de la «Ética a Nicómaco»: todo arte y toda acción parecen tender a algún bien. Cuando nada parece importar, es un estado duro, y no es tu culpa. Aristóteles empezó su ética con una pregunta muy cercana a la tuya: ¿para qué es todo esto? Y tiene que haber un fin que elegimos por sí mismo. Lo llamó «eudaimonía»: no un placer pasajero sino la plenitud de la vida, el florecer. Y creía que consiste en actividad: el flautista tiene su obra, el carpintero la suya, y la obra de un ser humano es vivir actuando y comprendiendo con sentido. El vacío puede significar que ahora tu vida tiene poca actividad propia: cosas que hacés por sí mismas. No hace falta encontrarlo todo de golpe. Podés empezar por algo chico que de verdad te interese.",
+      "practice": "Recordá una actividad en la que alguna vez perdiste la noción del tiempo: Aristóteles la llamaría actividad por sí misma. Dedicale hoy diez minutos sin pensar en el resultado.",
+      "quote": null
+    },
+    "confusion": {
+      "text": "«Todos los hombres desean por naturaleza saber»: así empieza la «Metafísica» de Aristóteles, y el conocer, pensaba, empieza por la perplejidad. Sentirse perdido es desagradable, pero para Aristóteles es donde empieza toda comprensión. Llamaba a este estado con la palabra griega «aporía»: literalmente «sin paso», un callejón sin salida. En la «Metafísica» escribe que quien quiera llegar al fondo de las cosas primero tiene que quedar bien perplejo: quien no pasó por la perplejidad es como un viajero que no sabe adónde ir. Y en la «Ética a Nicómaco» aconseja no exigirle a un tema más precisión de la que permite: en los asuntos de la vida, la claridad llega «a grandes rasgos», no como en matemática. Así que tu confusión no es un fracaso sino una señal honesta de que la pregunta es difícil. Podés explorarla con calma, nombrando exactamente qué no está claro.",
+      "practice": "Contale a alguien tu «aporía», en voz alta, como dos o tres preguntas concretas. Aristóteles razonaba con sus discípulos mientras caminaban: una pregunta bien planteada muchas veces ya es la mitad de la respuesta.",
+      "quote": {
+        "text": "Todos los hombres desean por naturaleza saber.",
+        "author": "Aristóteles",
+        "source": "Metafísica, libro I, cap. 1"
+      }
+    },
+    "fatigue": {
+      "text": "La palabra griega scholé, ocio, nos dio la palabra «escuela»: para Aristóteles el tiempo libre no era vacío sino el valor más alto. El cansancio no es señal de vagancia sino la voz honesta de un ser vivo. Aristóteles observaba con sobriedad que nada humano es capaz de actividad continua; por eso hasta el placer por una misma cosa se apaga con el tiempo. Consideraba necesario el descanso: lo necesitamos porque no podemos trabajar sin pausa. Coincidía con el sabio Anacarsis, que aconsejaba jugar para poder después hacer un trabajo serio. El descanso, para Aristóteles, existe en función de la actividad, no al revés. El cansancio no es un motivo para reprocharte sino una señal de que es hora de darte un respiro.",
+      "practice": "Date un cuarto de hora de scholé, de ocio de verdad, sin tareas y sin pantallas: sentate, mirá por la ventana, no produzcas nada. Y no lo justifiques, ni siquiera ante vos.",
+      "quote": null
+    },
+    "boredom": {
+      "text": "Aristóteles no tenía una enseñanza aparte sobre el aburrimiento, pero notó por qué las cosas nuevas nos deleitan más: al principio la mente está concentrada y despierta, después la atención se afloja y el placer se apaga. Reconocería el estado gris y lento en el que estás. El aburrimiento, entonces, no es el vacío del mundo sino el cansancio de la atención. Para Aristóteles, el placer no es una cosa aparte sino lo que acompaña una actividad y la completa cuando se hace con toda la fuerza. Así que la salida del aburrimiento no es buscar sensaciones cada vez más fuertes, sino volver de verdad a alguna actividad, con la atención encendida.",
+      "practice": "Elegí algo común —un té, una caminata, lavar una taza— y hacelo «con toda la fuerza», como diría Aristóteles: con plena atención a los detalles, como si fuera la primera vez.",
+      "quote": null
+    },
+    "joy": {
+      "text": "«El placer perfecciona la actividad como a los jóvenes la flor de la juventud», escribió Aristóteles, discutiendo con los que encontraban sospechosa la alegría. No se le pega a la vida desde afuera sino que florece desde adentro cuando hacemos algo con toda la fuerza y sin trabas. Se habría tomado en serio tu alegría. Las mejores alegrías, para Aristóteles, son las que van unidas a una buena actividad: comprender, la amistad, un trabajo que nos sale bien. Y la eudaimonía —la felicidad como plenitud de la vida— es impensable sin placer. Así que tu alegría no es un regalo casual que haya que esconder rápido sino una señal de que la vida va bien ahora. Podés simplemente vivirla a pleno.",
+      "practice": "Decí en voz alta, como una fórmula: «Me siento bien cuando…», y completala con la actividad de la que floreció tu alegría. Aristóteles pensaba que vale la pena conocerla de vista.",
+      "quote": null
+    },
+    "love": {
+      "text": "Cuando le preguntaron qué es un amigo, Aristóteles habría contestado: «Una sola alma que habita en dos cuerpos». Contaba el amor entre los mayores bienes de la vida y le dedicó dos libros de la «Ética a Nicómaco» a la philia. Hablaba de «philia», una palabra que abarca por igual la amistad, el amor y el cariño familiar. Distinguía tres clases: por utilidad, por placer y por la persona misma, por su carácter. La última es la más duradera: en ella le deseamos el bien al otro por el otro mismo. La persona amada, para Aristóteles, se vuelve «otro yo»: sentimos sus alegrías y sus penas casi como propias. También observó que el amor consiste más en amar que en ser amado. Tu sentimiento es una de las cumbres de la vida humana, no algo que haya que tener bajo control.",
+      "practice": "Decile hoy a esta persona una cosa que valorás en ella por ella misma, no por lo que te da. Aristóteles llamaría a esto amistad por la persona misma.",
+      "quote": null
+    },
+    "gratitude": {
+      "text": "Aristóteles notó algo curioso: el benefactor suele querer a quien ayudó más de lo que es querido a cambio, como un artesano quiere su obra. La gratitud cálida que sentís ahora es el hilo que responde a ese mismo vínculo. En la «Retórica» examinó la «charis»: la amabilidad, la disposición a ayudar no por beneficio propio sino por el bien de quien recibe la ayuda. La gratitud es la respuesta a esa ayuda desinteresada. En la «Ética a Nicómaco» señala que a algunas personas —los padres, los maestros— nunca se les puede devolver en igual medida, y que eso no tiene nada de vergonzoso: podemos devolver con lo que está a nuestro alcance. La gratitud es también el reconocimiento de un vínculo en el que vos también importás. No sos un deudor; sos parte de un bien compartido.",
+      "practice": "Respondele hoy a una persona a la que le estás agradecido: con una palabra, con atención, con una pequeña ayuda, en la medida en que puedas. No a todos se les puede devolver en igual medida, dice Aristóteles, pero devolver lo que podés ya es justo.",
+      "quote": null
+    },
+    "hope": {
+      "text": "Una bellota, para Aristóteles, es un roble «en potencia»: ya contiene lo que es capaz de llegar a ser. Tu esperanza es esa misma manera de ver tu vida: como algo todavía sin terminar. En la «Retórica» escribe que los jóvenes viven de esperanza, porque la esperanza mira al futuro y ellos tienen mucho futuro por delante; eso los hace más audaces y más rápidos para cobrar ánimo. Aristóteles tiene un concepto que viene justo: la «potencia», en griego «dynamis»: lo que todavía no se hizo realidad pero puede. La esperanza mantiene abierta esa posibilidad. Al mismo tiempo, Aristóteles aconsejaba sabiduría práctica: ayuda ver qué pasos hacia lo que querés dependen realmente de vos. Entonces la esperanza deja de ser espera y se vuelve el comienzo de la acción.",
+      "practice": "Anotá tu esperanza y, al lado, una acción a tu alcance que acerque un poco lo posible a lo real: la bellota un paso más cerca del roble.",
+      "quote": null
+    },
+    "nostalgia": {
+      "text": "«Dulce es recordar los trabajos pasados», cita Aristóteles a Eurípides en la «Retórica». El sentimiento agridulce que tenés ahora era algo que él entendía bien. En la «Retórica» observó que los mayores viven más de la memoria que de la esperanza, porque tienen más pasado que futuro, y que recordar puede ser agradable en sí mismo. O sea, hasta los tiempos difíciles pueden volverse queridos en el recuerdo, porque los vivimos y los aguantamos. La nostalgia no es una huida del presente sino una manera de sentir la totalidad de tu vida. La eudaimonía, para Aristóteles, es la plenitud de una vida entera, no de un solo día, y el pasado es parte de ella. Podés permitirte recordar con gratitud.",
+      "practice": "Contale a alguien una historia de la época que extrañás, con detalles, como se cuentan los trabajos pasados. Notá qué de aquella vida sigue vivo en vos hoy.",
+      "quote": null
+    },
+    "craving": {
+      "text": "Aristóteles comparaba el deseo con un chico que necesita un tutor amable: al chico no se lo castiga por querer, sino que se le enseña a escuchar. El «lo quiero ya» filoso es parte de nuestra naturaleza, y no hay nada de qué avergonzarse. A este tipo de deseo lo llamaba «epithymía»: un apetito de lo agradable que vive en la parte no racional del alma. No nos pedía arrancarlo de raíz: el deseo no hay que aplastarlo sino enseñarle a escuchar a la razón. También señaló con honestidad que un deseo que se complace todo el tiempo crece y puede tapar el razonamiento. Y describió la «debilidad de la voluntad»: cuando una persona sabe qué es mejor, pero la pasión nubla ese saber por un rato, como en alguien dormido o borracho. Ayuda recordar que esta ola sube y pasa, mientras que tu saber sobre lo que de verdad querés se queda con vos.",
+      "practice": "Cuando llegue la ola de ganas, poné un temporizador de diez minutos y pasalos como un tutor con un chico: caminá un poco, tomá agua, respirá. La ola va a subir y a bajar: notá el momento en que empieza a retirarse.",
+      "quote": null
+    },
+    "addiction": {
+      "text": "Aristóteles comparaba a la persona de voluntad débil con una ciudad que tiene buenas leyes pero no las usa. En esta imagen, la adicción no es un fracaso moral ni una sentencia sobre tu carácter. Aristóteles examinó en detalle un estado que llamó «akrasía», debilidad de la voluntad: una persona sabe qué es mejor para ella, pero en el momento decisivo gana la pasión. Algo importante: Aristóteles distinguía a esta persona de la viciosa; quien tiene la voluntad débil se arrepiente de lo que hizo, o sea que sus valores están vivos y es capaz de cambiar. Aristóteles también conocía el poder del hábito: decía que el hábito se vuelve una especie de segunda naturaleza, pero que es más fácil de cambiar que la naturaleza. El camino, según él, no es un arranque de fuerza de voluntad sino ir formando nuevos hábitos, paso a paso.",
+      "practice": "Nombrá en voz alta tres de tus «buenas leyes»: lo que más valorás en la vida. Y si querés apoyo para volver a vivir según ellas, podés hablar con gente que conoce este camino, por ejemplo en un grupo de ayuda mutua (como AA o NA).",
+      "quote": null
+    },
+    "hangover": {
+      "text": "Aristóteles aconsejaba enderezarse como se endereza un palo torcido: de a poco, doblándolo hacia el otro lado. La mañana pesada después, esa mezcla de debilidad corporal y arrepentimiento, es un estado que él reconocería. Escribió que la persona de voluntad débil, a diferencia de la viciosa, después se arrepiente de lo que hizo. Suena amargo, pero es una buena noticia: el arrepentimiento significa que no estás de acuerdo con lo que pasó, y que tus valores están en su lugar. El «término medio», según él, se encuentra alejándose del extremo hacia el que más te tira. Al mismo tiempo era realista: al término medio no se llega en un día sino con la repetición. Hoy no es momento de hacerte un juicio. Hoy es momento de cuidar tu cuerpo y pensar con calma.",
+      "practice": "Primero cuidá el cuerpo: agua, aire fresco, silencio. Después decite en una frase, sin reproches, qué te gustaría hacer distinto la próxima vez: la primera doblada suave del palo.",
+      "quote": null
+    },
+    "euphoria": {
+      "text": "«Dios goza siempre de un placer único y simple», escribió Aristóteles, mientras que nosotros, criaturas complicadas, necesitamos el cambio. Un pico, cuando todo parece luminoso y posible, es un sentimiento maravilloso, y no hace falta arruinarlo. En la «Ética a Nicómaco» Aristóteles explicaba por qué el cambio es tan dulce: nuestra naturaleza no es simple, hay mucho en nosotros, y nos alegra que algo cambie. Tu euforia es una experiencia humana hecha y derecha, un empuje de vida. Aristóteles sí agregaba que las alegrías más confiables son las que nacen de la actividad: del trabajo, del comprender, de la amistad. Así que podés simplemente disfrutar el pico y, al mismo tiempo, notar qué es exactamente lo que se despertó tanto en vos ahora. Eso también te va a servir después, cuando la ola baje.",
+      "practice": "Anotá lo que sentís ahora, lo que parece posible y qué exactamente se despertó tanto en vos. Releelo en un día común, como una carta de vos para vos.",
+      "quote": null
+    },
+    "crash": {
+      "text": "La «Poética» de Aristóteles llama «peripecia» a un giro repentino de la fortuna. Después de un pico, la caída puede ser muy dura: el mundo parece gris, y el brillo reciente, un engaño. Para él la felicidad, la eudaimonía, no es el estado de un solo día sino una cualidad de toda una vida tomada en conjunto. Así como un día cálido no hace un verano, un día duro no hace de una vida un fracaso. También explicaba que nuestra naturaleza no es simple, y por eso el cambio es inevitable en ella: a un pico le sigue un bajón; al esfuerzo, el cansancio. Eso no quiere decir que la alegría haya sido falsa, ni que lo gris sea la verdad sobre el mundo. Es una ola. Aristóteles creía que el sostén no viene de los picos sino de las cosas estables: una rutina conocida, el trabajo, los amigos. Podés apoyarte en ellas hasta que pase la ola.",
+      "practice": "Elegí para hoy una cosa simple y conocida —una caminata, una comida a la hora de siempre, una llamada a un amigo— y hacela sin exigirte nada más. Aristóteles buscaría sostén en cosas estables así, no en los picos.",
+      "quote": {
+        "text": "Porque una golondrina no hace verano, ni tampoco un solo día.",
+        "author": "Aristóteles",
+        "source": "Ética a Nicómaco, libro I, cap. 7"
+      }
+    },
+    "panic": {
+      "text": "Para Aristóteles, todo sentimiento es a la vez un movimiento del cuerpo y un pensamiento: la ira, escribió, es al mismo tiempo «un hervor de la sangre alrededor del corazón» y un deseo de responder a una ofensa. Cuando llega el pánico, da muchísimo miedo: se siente como si el cuerpo se te hubiera ido de las manos. Aristóteles no era psicólogo en el sentido actual, pero en «Acerca del alma» hizo una observación importante: a veces una persona siente todo lo que siente alguien asustado, aunque no haya nada temible alrededor. Así que una ola de terror puede empezar en el cuerpo y recién después encontrar pensamientos que la acompañen. Ayuda volver al cuerpo sin discutir con los pensamientos. Una ola así suele subir, llegar a su punto máximo y bajar en pocos minutos.",
+      "practice": "Apoyá los pies en el piso y sentí el sostén. Soltá el aire despacio y recorré los cinco sentidos que Aristóteles examinó en «Acerca del alma»: nombrá en voz alta una cosa que ves, oís, tocás, olés y saboreás.",
+      "quote": null
+    },
+    "dread": {
+      "text": "Aristóteles aconsejaba deliberar solo sobre lo posible y lo que depende de nosotros: nadie delibera sobre las estrellas o el pasado. Un presentimiento pesado, cuando parece que hay algo oscuro por delante pero no se sabe qué, es uno de los estados más agotadores. En la «Retórica» Aristóteles definió el miedo como un dolor ante la idea de una desgracia que parece cercana. El peso del presentimiento probablemente crece cuando el miedo no tiene un objeto claro: la imaginación vuelve la desgracia a la vez cercana y escurridiza. «Aconsejarse con uno mismo» significa considerar con calma qué es posible, qué es probable y qué depende de nosotros. Y nos recordaba que el coraje no es la ausencia de miedo sino la disposición a seguir siendo vos mismo al lado de él. No hace falta que te saques el presentimiento de encima enseguida. Paso a paso podés devolverle sus contornos y separar lo vago de lo real.",
+      "practice": "Aconsejate con vos mismo a la manera aristotélica, en voz alta: «¿Qué es posible? ¿Qué es probable? ¿Qué depende de mí?». Una frase corta para cada una. Al final, nombrá una cosa que en este momento está bien.",
+      "quote": null
+    },
+    "fomo": {
+      "text": "Aristóteles abrió su «Ética» con una discusión sobre dónde buscar la felicidad: unos la encuentran en el placer, otros en los honores, otros en la riqueza. La sensación de que la vida de verdad está pasando en otro lado, a otras personas, es una trampa parecida. Muchos, escribe, ven el bien en los honores, pero los honores son demasiado superficiales para ser una meta real: dependen más de quienes los otorgan que de quien los recibe. La felicidad, en cambio, debería ser algo propio, difícil de quitar. Y además: la eudaimonía es la plenitud de una vida entera, no una colección de acontecimientos brillantes. Nadie puede estar en todos lados y participar de todo: la vida está hecha de elecciones, no de estar presente en todas partes. Aristóteles te propondría preguntarte: lo que tengo miedo de perderme, ¿es un bien mío, o solo el brillo de otro?",
+      "practice": "Imaginate dentro de un año mirando hacia atrás esta noche: ¿qué vas a recordar de lo que te estás «perdiendo», y qué de lo que estás haciendo ahora? Aristóteles medía la felicidad por una vida entera, no por un solo acontecimiento.",
+      "quote": null
+    },
+    "sleepless": {
+      "text": "Aristóteles escribió un tratado breve, «Sobre el sueño y la vigilia», y en él el sueño no parece una hazaña sino un regalo de la naturaleza. Cuando la noche pasa sin dormir y los pensamientos a oscuras parecen más pesados que de día, te desgasta. Sostenía que los seres vivos necesitan dormir porque ninguno puede estar activo todo el tiempo: el sueño es un descanso natural que existe en función de la vigilia. Dormir no es una tarea que se cumpla a fuerza de esfuerzo sino algo que la naturaleza trae sola cuando no se la interrumpe. Intentar obligarte a dormir muchas veces solo mantiene la mente tensa. También conviene tomar con cautela los pensamientos nocturnos: en «Sobre los ensueños» Aristóteles muestra que cuando las impresiones de afuera se calman, las imágenes de la imaginación se vuelven especialmente vívidas y fácilmente nos parecen realidad.",
+      "practice": "En vez de intentar dormirte, simplemente descansá acostado, como te aconsejaría Aristóteles, para quien el sueño llega solo: sentí el peso de tu cuerpo y soltá el aire despacio. A un pensamiento insistente decile: «Lo deliberamos a la mañana».",
+      "quote": null
+    },
+    "betrayal": {
+      "text": "Aristóteles sostenía que engañar a alguien fingiendo amor es peor que falsificar moneda: se falsificó algo mucho más valioso. La traición hiere hondo: el golpe viene de alguien en quien confiabas. Aristóteles pensó mucho en cómo se deshacen las amistades. Distinguía la amistad por utilidad, por placer y por la persona misma, y señalaba que duele especialmente cuando creíamos que nos querían por nosotros mismos y resultó que era por interés. Es una confirmación importante: tu dolor es proporcional a lo que se dañó. Pero Aristóteles también ofrece consuelo: que te hayan engañado no quiere decir que hayas sido tonto. La confianza es parte de la amistad; sin ella la amistad es imposible. Traicionó el otro, y tu capacidad de amar sigue con vos.",
+      "practice": "Anotá qué valorabas en esta relación: habla de tus valores, no de tu ingenuidad. Después nombrá a una persona en la que todavía podés confiar.",
+      "quote": null
+    },
+    "jealousy": {
+      "text": "Aristóteles observó que estar enamorado es una especie de exceso de amistad, y por eso se dirige a una sola persona: no se puede estar enamorado de muchos a la vez. No escribió sobre los celos por separado, pero de esta idea se sigue mucho. La mezcla angustiante de miedo a perder a quien querés, de herida y de dolor está ligada a la naturaleza misma de ese amor: su exclusividad. En la «Retórica» escribe que nos duelen especialmente los desprecios de los cercanos, de quienes esperamos el bien. Los celos pueden ser una señal de miedo a un desprecio así. Vale la pena escucharlos: no como una orden de actuar, sino como una pregunta: ¿qué me está faltando ahora en nuestra relación?",
+      "practice": "Decite dos frases: «Tengo miedo de que…» y «Me gustaría que…». La segunda se la podés decir con calma a la persona que querés: no habla de sospecha sino de lo que te falta.",
+      "quote": null
+    },
+    "resentment": {
+      "text": "Aristóteles tenía una palabra filosa, «amargos»: la gente que guarda el enojo adentro mucho tiempo sin mostrarlo. El resentimiento cargado en silencio pesa, sobre todo cuando no hay a quién contárselo. Como el sentimiento no sale, nadie puede convencerlos ni consolarlos, y digerir el enojo adentro de uno lleva mucho tiempo. Esas personas, señala, son sobre todo una carga para sí mismas y para sus más cercanos. No es un reproche sino una observación sobria: el resentimiento escondido sigue vivo. En la «Retórica» Aristóteles escribe que la ira se aplaca con el tiempo, cuando quien ofendió reconoce su falta, o cuando entendemos que no hubo desprecio. El resentimiento necesita una salida, no un depósito silencioso.",
+      "practice": "Escribile una carta a la persona con la que estás resentido, sin intención de mandarla: dejá salir el enojo, como te aconsejaría Aristóteles. Notá qué cambió después.",
+      "quote": null
+    },
+    "heartbreak": {
+      "text": "Aristóteles se preguntó cómo tratar a alguien con quien terminó la cercanía, y contestó con suavidad: por el cariño de antes, conservá algo de amabilidad hacia esa persona, salvo que un daño grave lo haya destruido todo. Después de una ruptura el corazón duele casi físicamente, y él no consideraba trivial ese dolor. Escribió que el enamoramiento muchas veces empieza con el placer de ver a la persona amada y puede apagarse cuando ese placer pasa; pero muchas relaciones perduran si las personas llegaron a querer el carácter del otro. Lo que hubo entre ustedes no se vuelve irreal porque terminó. Es parte de tu vida, y podés recordarlo sin odiarte ni odiar a la otra persona.",
+      "practice": "Pensá una cosa que aprendiste sobre vos en esta relación y decila en voz alta: Aristóteles diría que ya se volvió parte de tu carácter. Se queda con vos.",
+      "quote": null
+    },
+    "impostor": {
+      "text": "Aristóteles describió a una persona que es digna de mucho pero se cree indigna y por eso se permite menos, y lo llamó «pusilanimidad», mikropsychía. La sensación de que «no sos quien la gente cree», y de que pronto se va a saber, visita también a gente muy inteligente y con mucha experiencia. Aristóteles no veía en esto modestia sino un error: un falso conocimiento de uno mismo, igual que la vanidad, solo que en la dirección opuesta. La medida, el «término medio», acá es evaluarte tal como realmente sos. Lo que ayuda no es la seguridad en uno mismo sino la sobriedad: mirar lo que efectivamente hiciste y podés hacer, como lo haría un observador imparcial.",
+      "practice": "Imaginá a alguien de afuera y ecuánime —la persona que Aristóteles llamaba prudente— y enumerale en voz alta tres cosas concretas que hiciste bien: hechos, no impresiones. ¿Qué te diría?",
+      "quote": null
+    },
+    "self_hatred": {
+      "text": "Aristóteles se preguntó si uno puede ser amigo de sí mismo, y contestó que toda otra amistad nace de esta. Si tu crítico interior suena convincente y despiadado ahora, Aristóteles no estaría de acuerdo con él. Creía que la relación correcta con uno mismo es la amistad: una buena persona, en sus palabras, debería ser «amante de sí misma» en el buen sentido: desearse un bien verdadero, cuidar su mente y su vida. Un crítico interior que te odia no es un juez justo sino una discordia dentro del alma. Aristóteles te propondría no castigarte, sino aprender despacio a hablarte como se le habla a un amigo.",
+      "practice": "Decite en voz alta lo que le dirías a un amigo cercano en tu situación, con las mismas palabras y el mismo tono. Aristóteles llamaría a esto un primer intento de amistad con vos mismo.",
+      "quote": null
+    },
+    "helplessness": {
+      "text": "«Un médico no delibera si va a curar, sino cómo», escribió Aristóteles: tiene sentido deliberar solo sobre los pasos a nuestro alcance. Cuando parece que nada depende de vos, es uno de los sentimientos más duros. Aristóteles reconocía que mucho escapa realmente a nuestro control: la suerte, las decisiones de otros, las circunstancias. También era honesto en que las desgracias pueden nublar incluso una buena vida. Pero examinó en detalle lo que llamó «lo que depende de nosotros»: el terreno donde podemos deliberar y elegir. A veces se achica a algo muy chiquito: cómo responder, adónde dirigir la atención, qué pedir. Incluso una elección chica es una acción real, no un pobre sustituto de una grande. Y Aristóteles se acordaba de los amigos: lo que es imposible hacer solo a veces se puede hacer con la ayuda de otros.",
+      "practice": "Buscá una cosa muy chica que dependa de vos ahora mismo —como el médico que no pregunta «si» sino «cómo»— y hacela. Si hay alguien a quien podrías pedirle ayuda, nombrá exactamente qué le pedirías.",
+      "quote": null
+    },
+    "procrastination": {
+      "text": "«Nos hacemos constructores construyendo, y citaristas tocando la cítara», escribió Aristóteles. Cuando una tarea no hay forma de arrancarla, detrás suele no haber vagancia sino miedo, cansancio o duda. Aristóteles describió un fenómeno parecido al hablar de la «debilidad de la voluntad»: una persona sabe qué es mejor pero actúa de otro modo. Distinguía dos clases: la impetuosidad, cuando actuamos antes de haber tenido tiempo de pensar, y la debilidad, cuando pensamos pero no sostenemos la decisión. Lo más importante, sin embargo, es su enseñanza sobre el hábito: las virtudes no nos las da la naturaleza; nos volvemos justos haciendo actos justos. No hace falta esperar a que aparezcan las ganas o la confianza. Llegan después de la acción, no antes. Podés empezar por algo muy chico.",
+      "practice": "Hacé los primeros cinco minutos de la tarea que venís postergando, como un constructor pone la primera piedra. No te prometas nada más; solo empezá.",
+      "quote": null
+    },
+    "uprooted": {
+      "text": "Al irse de Atenas por segunda vez, Aristóteles habría dicho que no iba a dejar que los atenienses pecaran dos veces contra la filosofía, en alusión a la ejecución de Sócrates. Nacido en la lejana Estagira, sabía bien lo que es perder pie después de una mudanza y de un corte con un mundo conocido. Para Aristóteles, el ser humano es un ser que vive en comunidad: la polis, la ciudad, era para él el ámbito natural de la vida humana. Así que tus ganas de echar raíces no son un capricho sino una necesidad de tu naturaleza. Pero Aristóteles tiene otra observación, de sus libros sobre la amistad: al viajar, escribe, uno puede ver lo cercano y querido que es todo ser humano para todo otro. Las raíces no se echan en un lugar sino en los vínculos: en la amistad, en el trabajo compartido, en los encuentros que se repiten.",
+      "practice": "Hacé hoy una caminata corta por tu lugar nuevo, por un recorrido que puedas repetir, como los peripatéticos recorrían los senderos del Liceo. La repetición es la primera raicita.",
+      "quote": null
+    },
+    "overload": {
+      "text": "«Trabajamos para tener ocio, y hacemos la guerra para vivir en paz», escribió Aristóteles. Cuando hay más tareas que fuerzas, te desgasta, y no es una debilidad tuya. Aristóteles valoraba la actividad, pero veía el bien más alto en el ocio, la «scholé»: tiempo libre para lo que vale por sí mismo. Una vida hecha enteramente de tareas es como una guerra sin paz. Aristóteles también enseñaba el «término medio»: en la actividad, como en todo, hay exceso y defecto. Un exceso de tareas no hace la vida más plena: le quita justamente aquello para lo que se hace todo. Preguntarte «¿para qué hago esto?» ya es un paso para separar lo importante de lo superfluo.",
+      "practice": "Hacé una lista de todas tus tareas y al lado de cada una poné la respuesta de Aristóteles: «¿para qué?». Postergá o delegá una tarea que no tenga una respuesta clara.",
+      "quote": null
+    },
+    "unreality": {
+      "text": "Aristóteles, un filósofo que confiaba en el mundo, consideraba el tacto el más básico de los sentidos: sin él un animal no puede existir, y a través de él entramos en contacto directo con lo que es. Cuando el mundo, o vos mismo, parecen lejanos y no del todo reales, como detrás de un vidrio, da miedo, y merece ser descrito con suavidad, sin apuro. También sostenía que la percepción de los objetos propios de cada sentido —el color para la vista, el sonido para el oído— casi nunca se equivoca. Cuando los pensamientos sobre la realidad se enredan, las sensaciones más simples se vuelven tu sostén. No hace falta resolver la cuestión de la realidad razonando. Alcanza con tocar algo y dejar que tu cuerpo sienta que está acá.",
+      "practice": "Tocá por turno madera, tela y metal: el más básico de los sentidos, para Aristóteles. Nombrá en silencio tres sensaciones: tibio o frío, liso o áspero, pesado o liviano.",
+      "quote": null
+    },
+    "awe": {
+      "text": "En la «Metafísica» Aristóteles cuenta cómo empezó la gente a filosofar: por el asombro; primero ante lo que tenían a mano, después ante los movimientos de la Luna, el Sol y las estrellas, ante el origen de todo. El asombro que sentís ahora es ese mismo comienzo del que creció toda la filosofía. Quien se asombra siente que no entiende algo y quiere entenderlo. Tu asombro no es una distracción de la vida sino un momento en que se despierta lo más humano que tenemos. Aristóteles consideraba la contemplación, la «theoría» (en griego, literalmente «mirar»), la más alegre y libre de las actividades. No hay apuro por explicar tu asombro. Podés simplemente quedarte en él y mirar.",
+      "practice": "Dejá descansar la mirada un minuto más en lo que despertó tu asombro: theoría en griego simplemente quiere decir «mirar». Después hacé en voz alta una pregunta que te haya surgido, sin contestarla.",
+      "quote": {
+        "text": "Pues los hombres comienzan y comenzaron siempre a filosofar movidos por la admiración.",
+        "author": "Aristóteles",
+        "source": "Metafísica, libro I, cap. 2"
+      }
+    },
+    "relief": {
+      "text": "La comida es especialmente agradable para el hambriento, y el descanso para el cansado: Aristóteles lo explicaba como una vuelta a nuestro estado natural después de la carencia o el dolor. La sensación de que la tensión por fin se afloja merece ser notada, sin apurarse a seguir. Escribió que esos placeres son especialmente vívidos justamente por contraste con lo que vino antes. Tu alivio es una vuelta a vos. El cuerpo y el alma parecen volver a su lugar. Aristóteles valoraba también otra cosa: el placer de una actividad hecha sin trabas. El alivio abre el camino hacia eso: a volver a hacer algo, no solo a aguantar. Podés permitirte disfrutar esta vuelta.",
+      "practice": "Soltá el aire largo y notá en qué parte del cuerpo se aflojó la tensión: esta es la vuelta aristotélica al estado natural. Decite: «Eso quedó atrás».",
+      "quote": null
+    },
+    "calm": {
+      "text": "Praótes: así llamaba Aristóteles a la mansedumbre, al apaciguamiento: lo que llega cuando la ira se calmó, una herida se entendió y el tiempo hizo su trabajo. Conocía el valor de la calma que sentís ahora. En la «Ética a Nicómaco» la mansedumbre es una virtud, el «término medio» respecto de la ira: la persona no es indiferente, pero tampoco se deja arrastrar. Y Aristóteles veía la forma más alta de actividad serena en la contemplación: es, en sus palabras, la más continua y autosuficiente de las actividades, aquella en la que una persona necesita menos de afuera. Tu calma no es vacío ni pereza. Es un tiempo en que el alma no está en guerra con nada y puede simplemente ver. No hace falta llenarla.",
+      "practice": "Quedate unos minutos en esta calma, sin hacer nada: Aristóteles consideraba la contemplación la más libre de las actividades. Solo notá lo que ves y oís a tu alrededor.",
+      "quote": null
+    },
+    "inspiration": {
+      "text": "Aristóteles llamaba a la poesía más filosófica que la historia: la historia cuenta lo que pasó; la poesía, lo que podría pasar. La inspiración, cuando las fuerzas y las ideas parecen llegar solas, es una experiencia viva de ese «podría». Aristóteles la miraba desde su propio ángulo: a través de los conceptos de «potencia» y «acto». Todo lo vivo, según él, tiende a realizar aquello de lo que es capaz: una semilla tiende a volverse árbol. Es la experiencia de tu potencia empezando a hacerse acto. Aristóteles también escribió sobre los poetas: en la «Poética» valoraba su capacidad de ver lo universal en lo particular. Pero también era un maestro del método: el talento necesita oficio, y el oficio crece con la práctica. Así que la inspiración vale la pena no solo vivirla sino convertirla en trabajo mientras está caliente.",
+      "practice": "Ahora mismo, da un pasito que convierta la potencia en acto: un boceto, un plan, una primera frase. Aristóteles diría que el oficio crece con la práctica, no con la espera.",
+      "quote": null
+    },
+    "schadenfreude": {
+      "text": "Aristóteles tiene una palabra griega larga para esto, epichairekakía, la alegría por la desgracia ajena; en la «Ética» la ubica al lado de la envidia. Da vergüenza admitirlo incluso ante uno mismo, y sin embargo casi todos la sentimos. Pero él también traza una distinción fina. En la «Retórica» escribe sobre la «indignación» —dolor por un éxito inmerecido— y señala que esa misma persona naturalmente se alegra cuando alguien que obró mal recibe el castigo que merece. Esa alegría viene de un sentido de justicia, no de la malicia. Y lo más importante: Aristóteles enseñaba que no se nos juzga por sentimientos pasajeros sino por nuestro carácter estable y nuestros actos. Un chispazo de alegría por el mal ajeno no es una sentencia sobre vos. Solo es útil preguntarte de dónde viene: de una herida, de la envidia o de un sentido de justicia.",
+      "practice": "Hacete la pregunta de Aristóteles y contestá en voz alta con una palabra: ¿de qué me alegro, de la justicia, del alivio, o de que alguien esté peor? Una palabra honesta ya afloja el agarre del sentimiento.",
+      "quote": null
+    },
+    "contempt": {
+      "text": "Aristóteles notó que el desprecio es la otra cara de la emulación: quien valora mucho la inteligencia, el coraje o la honestidad tiende a mirar por encima del hombro a quienes no los tienen. Es un sentimiento frío, incómodo de admitir, pero puede decir mucho sobre vos. En la «Retórica» Aristóteles lo examinó como una clase de «desprecio» en sentido amplio: despreciar es considerar que alguien o algo no vale nada. Tu desprecio puede señalar lo que de verdad te importa. Pero Aristóteles también conocía el costo de este sentimiento: el desprecio, según su observación, es la causa principal de la ira de los demás. No hace falta avergonzarte por sentirlo. Es más útil preguntarte qué valor está protegiendo, y si podés servir a ese valor sin menospreciar a otra persona.",
+      "practice": "Decite en voz alta: «Miro esto por encima del hombro porque lo que me importa es…», y hacé hoy una cosa chica en la que ese valor se vea en vos mismo.",
+      "quote": null
+    },
+    "disgust": {
+      "text": "Heráclito, calentándose junto a un horno de cocina, les dijo a unos visitantes que dudaban: «Pasen, que también acá hay dioses»; Aristóteles cuenta la historia en «Sobre las partes de los animales». El asco es una reacción fuerte, casi corporal, y no se puede simplemente «apagar». Aristóteles admite que estudiar algunas criaturas y su interior es desagradable, pero insta a no darse vuelta como un chico: en toda cosa natural hay algo digno de asombro. El asco, entonces, es una primera reacción, no la última palabra. A veces detrás hay una protección contra algo realmente dañino; a veces, solo falta de costumbre. El asco hacia uno mismo se puede examinar con la misma calma: es un sentimiento, no la verdad sobre tu valor.",
+      "practice": "Mirá lo que te da asco (o recordalo) con los ojos de Aristóteles naturalista: ¿qué exactamente, una imagen, un olor, una acción, un pensamiento? Nombrá la reacción por separado del objeto: eso ya ayuda.",
+      "quote": null
+    },
+    "revenge": {
+      "text": "Aristóteles admitió con honestidad lo que los moralistas prefieren callar: anticipar el contragolpe es agradable. El deseo de venganza suele nacer de un dolor real, y tiene su propia lógica. En la «Retórica» Aristóteles definió la ira como un dolor y un deseo de responder a un desprecio. No consideraba monstruoso ese sentimiento. Pero en la «Ética a Nicómaco» también describió la mansedumbre: una persona apacible no es vengativa sino más bien inclinada a perdonar, aunque no se deja pisotear. Y en su enseñanza sobre la justicia mostró otro camino: una igualdad rota debe restablecerla un tercero imparcial —un juez, un mediador—, no la persona dañada por su cuenta. El deseo de venganza es una señal: hubo una injusticia. Podés escucharla sin convertirla en acción, y buscar la reparación en lugar del contragolpe.",
+      "practice": "Imaginá al juez imparcial del que escribió Aristóteles y decile en voz alta: «Me trataron injustamente porque…». Después preguntate: ¿qué restablecería la igualdad sin dañar a nadie?",
+      "quote": null
+    },
+    "anger_at_loved": {
+      "text": "«Nos enojamos más con los amigos que con los desconocidos», señala Aristóteles en la «Retórica»: de ellos esperamos el bien. El enojo con la pareja, los padres, los hijos puede ser especialmente filoso, y después viene la vergüenza. En la «Política» señala lo mismo: el ánimo se levanta con más fuerza contra los cercanos cuando sentimos que nos despreciaron. Esto no es señal de que no haya amor; al contrario, el enojo acá nace de expectativas que solo existen en la cercanía. La medida, el «término medio», importa sobre todo con los que querés. Podés reconocer tu sentimiento y expresarlo sin herir: con palabras, con una pausa, con una charla una vez que la ola bajó.",
+      "practice": "Cuando suba el enojo, salí unos minutos y caminá como un peripatético. Mientras andás, nombrate qué expectativa se rompió: ahí puede empezar una charla tranquila.",
+      "quote": null
+    },
+    "ambivalence": {
+      "text": "Aristóteles describió el vínculo entre padres e hijos como una amistad entre desiguales: con discusiones, reproches, y amor igual. Querer a alguien cercano y no soportarlo al mismo tiempo confunde y a veces asusta, pero él no vería en esto nada antinatural. Escribió que el alma tiene distintas partes —racional y no racional— y que pueden tirar para lados distintos. En la «Retórica» mostró que muchos sentimientos son mezclados por su propia naturaleza: la ira contiene a la vez dolor y placer, y nos enojamos más justamente con los que queremos. Tus sentimientos mezclados no son un error sino señal de un vínculo complejo y vivo. No hace falta reducirlos a uno.",
+      "practice": "Dividí una hoja en dos columnas: «lo que quiero de esta persona» y «lo que me cuesta soportar». Dejá que las dos sean verdad a la vez, como en la amistad entre desiguales de Aristóteles.",
+      "quote": null
+    },
+    "guilty_relief": {
+      "text": "Aristóteles distinguía los sentimientos de los juicios sobre uno mismo: no elegimos asustarnos o alegrarnos, solo cómo actuar. Un alivio que te da vergüenza —después de una ruptura, una partida, incluso la muerte de alguien cercano que estuvo mucho tiempo enfermo— es uno de los sentimientos más silenciosos y pesados, y no contradice el amor. Escribió sobre estados mezclados en los que se combinan dolor y placer, y sobre el placer como vuelta al estado natural después de una tensión larga. Si cargaste mucho tiempo un peso —de cuidados, de miedo, de incertidumbre—, el alivio de que se haya levantado es natural. No anula tu amor ni tu pena; existe al lado de ellos. El alivio habla de cuánto tiempo la pasaste mal, no de alguna frialdad tuya.",
+      "practice": "Decite: «Me siento más liviano, y quise». Después anotá qué peso cargaste todo este tiempo: esa es la respuesta a de dónde viene el alivio.",
+      "quote": null
+    },
+    "indifference": {
+      "text": "Una persona verdaderamente insensible, observó Aristóteles, es una gran rareza: esa insensibilidad «no es humana», porque sentir es parte de nuestra naturaleza. Así que, cuando algo «debería» conmoverte y adentro hay silencio, asusta, pero lo más probable es que sea un estado pasajero, no lo que sos. Pero otra de sus observaciones importa más: los sentimientos, escribió, surgen en nosotros sin elección; no decidimos asustarnos ni enojarnos. Así que exigirte el sentimiento «correcto» por encargo no tiene sentido. La indiferencia puede ser señal de cansancio, de sobrecarga o de protección, cuando el alma ya tuvo demasiado. Para Aristóteles, somos responsables de nuestros actos, no de los sentimientos del momento. Podés actuar con cuidado aunque tu corazón esté callado por ahora, y darle tiempo al sentimiento.",
+      "practice": "En lugar de «¿por qué no siento nada?», preguntate: «¿Qué tan cansado estuve últimamente?», y hacé hoy un gesto de cuidado por vos o por otro sin esperar al sentimiento. Para Aristóteles, el acto puede venir primero.",
+      "quote": null
+    },
+    "escape": {
+      "text": "Después de la muerte de Platón, Aristóteles dejó Atenas y se fue a la isla de Lesbos, donde durante años estudió peces, sepias y erizos de mar en una laguna: la mudanza se convirtió en una ciencia nueva. Las ganas de dejar todo e irse —un trabajo, una ciudad, un rol— son más fuertes cuando la vida se volvió estrecha. Aristóteles ayuda a tomarse en serio este deseo, pero sin apuro. Enseñaba a «aconsejarnos con nosotros mismos»: a deliberar no sobre la meta sino sobre los caminos hacia ella: ¿qué exactamente quiero cambiar, y con qué medios? También describió el coraje como un término medio entre la cobardía y la temeridad: hay coraje en quedarse y coraje en irse. Las ganas de huir son una señal de que te falta algo importante: ocio, libertad, sentido. Vale la pena escucharlas hasta el final y preguntarte qué es exactamente lo que buscás.",
+      "practice": "Completá la frase: «Si me fuera, por fin podría…». Para Aristóteles, esa es la meta, y mudarse es solo uno de los caminos hacia ella. ¿Podrías darte aunque sea una parte ahora mismo?",
+      "quote": null
+    },
+    "forbidden_attraction": {
+      "text": "Aristóteles distinguía lo que nos pasa de lo que elegimos: no se nos elogia ni se nos culpa por asustarnos o enojarnos, solo por nuestros actos. Sentirse atraído por alguien «prohibido», que no está disponible o que «no corresponde», confunde y da vergüenza, pero él no juzgaría el sentimiento en sí. En sus libros sobre la amistad señaló que el amor muchas veces empieza con el placer de ver a la otra persona, y la buena voluntad, con ver algo bueno en ella. La atracción puede estar hablándote de lo que te atrae: vitalidad, atención, libertad, algo que falta en tu vida. Las decisiones sobre los actos son otra cuestión, y para eso Aristóteles valoraba la sabiduría práctica y el tiempo.",
+      "practice": "Imaginá que esta atracción es una carta de tu propia vida. ¿Qué cualidad en ella está pidiendo atención: vitalidad, ser notado, libertad? Nombrala en voz alta y pensá dónde más se podría encontrar.",
+      "quote": null
+    },
+    "social_anxiety": {
+      "text": "«La vergüenza habita en los ojos»: Aristóteles cita este viejo proverbio para explicar por qué nos cuesta más bajo la mirada ajena. El miedo a la gente y a su juicio es angustiante, y estás lejos de ser el único. En la «Retórica» Aristóteles describió la vergüenza como un dolor y una turbación por cosas que pueden dañar nuestra reputación, y señaló que la sentimos sobre todo ante aquellos cuya opinión valoramos. En la «Ética a Nicómaco» habla de un «término medio» en este sentimiento: está el desvergonzado al que no le importa nada, y el tímido que, como él dice, se avergüenza de todo. Lo bueno está en algún punto intermedio. Tu timidez es el extremo de un sentimiento que en sí es natural y hasta valioso. Aristóteles agregaría que la vergüenza corresponde a nuestros actos, no al simple hecho de ser quien sos y verte como te ves.",
+      "practice": "Antes de un encuentro, soltá el aire con calma tres veces y nombrá en silencio a las dos o tres personas cuya opinión acá te importa de verdad. Las demás miradas las podés soltar: la vergüenza corresponde solo ante los que valoramos.",
+      "quote": null
+    },
+    "uncertainty": {
+      "text": "«¿Habrá mañana una batalla naval?»: Aristóteles examina esta pregunta en «Sobre la interpretación», y los lógicos todavía discuten su respuesta. Querer saber qué va a pasar cuando es imposible saberlo es duro, y Aristóteles se lo tomó muy en serio. Hoy el enunciado «habrá» todavía no es definitivamente verdadero ni falso: el futuro está realmente abierto. Esto no es una falla de nuestro conocimiento sino una propiedad del futuro mismo. Y en la «Ética a Nicómaco» aconseja no exigirle a un tema más precisión de la que permite: en los asuntos de la vida juzgamos «a grandes rasgos» y «en general». Tu incertidumbre es honesta: ves el mundo como es. La pregunta no es cómo conocer el futuro, sino qué es razonable hacer ahora.",
+      "practice": "Nombrá en voz alta tres maneras en que podrían salir las cosas —como Aristóteles sopesaría los desenlaces de la batalla naval— y para cada una, una cosa que harías. El futuro sigue abierto, pero vos tenés un plan.",
+      "quote": null
+    },
+    "waiting": {
+      "text": "Aristóteles definió el tiempo como «el número del movimiento»: lo notamos cuando algo cambia. La espera —de resultados, de una respuesta, de noticias— desgasta porque ahora casi nada depende de vos, y el tiempo parece haberse congelado. Aristóteles distinguía «potencia» y «acto»: lo que puede pasar y lo que ya pasó. Esperar es vivir entre las dos, cuando el desenlace todavía no está decidido. En «Sobre la interpretación» mostró que el futuro está realmente abierto hasta que llega. La espera probablemente se hace tan larga porque la atención se congeló en un solo punto y nada se mueve. Aristóteles te propondría devolverle movimiento al tiempo: ocuparte de lo que depende de vos mientras lo demás se decide.",
+      "practice": "Fijá un horario para la próxima vez que vas a mirar las noticias o el mail, y hasta entonces devolvele movimiento al tiempo: agarrá una tarea chica que puedas terminar.",
+      "quote": null
+    },
+    "regret": {
+      "text": "El mejor héroe trágico, para Aristóteles, es Edipo: no lo arruina la maldad sino un error, la hamartía, cometido por ignorancia. El arrepentimiento por algo hecho o no hecho puede ser muy amargo, y Aristóteles lo consideraba un sentimiento importante. Escribió que la persona de voluntad débil, a diferencia de la viciosa, se arrepiente de sus actos, y que justamente por eso puede cambiar: los valores correctos están vivos en ella. Y si actuamos por ignorancia y después sufrimos por eso, Aristóteles no consideraba ese acto verdaderamente voluntario: entonces no sabías lo que sabés ahora. El arrepentimiento no es prueba de que seas una mala persona sino señal de que creciste y ves con más claridad. Aristóteles enseñaba que el carácter se forma con actos repetidos. El pasado no se puede cambiar, pero puede volverse una lección para tu próxima elección.",
+      "practice": "Escribí: «En ese momento no sabía…» y «Ahora sé…». Después, una cosa que vas a hacer distinto en una situación parecida: así, para Aristóteles, el carácter crece a partir del error.",
+      "quote": null
+    },
+    "longing": {
+      "text": "Los amigos, escribió Aristóteles, quieren sobre todo vivir juntos: charlar, compartir la vida cotidiana, hacer cosas uno al lado del otro. Por eso, cuando extrañás a una persona en particular, lo que duele no es una soledad abstracta sino la ausencia justamente de ella. Un amigo, en sus palabras, es «otro yo», y en su presencia sentimos nuestra propia vida de manera más plena. De ahí el dolor de la separación. Pero Aristóteles ofrece una distinción reconfortante: la distancia, escribe, no interrumpe la amistad en sí sino solo su actividad, la vida vivida juntos. El apego mismo, la disposición estable del alma, permanece. Tu añoranza es una forma de ese vínculo. Dice que esta persona sigue siendo parte de tu vida, aunque no esté cerca.",
+      "practice": "Contale a esta persona —o, si no se la puede alcanzar, a otra— una cosa concreta que les encantaba hacer juntos. Para Aristóteles, esto renueva por un momento la actividad de la amistad.",
+      "quote": null
+    },
+    "world_pain": {
+      "text": "En el teatro de Dioniso, miles de atenienses lloraban juntos por las desgracias ajenas: Aristóteles lo llamó «catarsis», una purificación por medio de la compasión y el temor. El dolor por el mundo —por noticias tristes, guerras, injusticia— puede ser casi insoportable. En la «Retórica» Aristóteles examinó dos sentimientos emparentados. La compasión: dolor al ver una desgracia inmerecida que también podría pasarnos a nosotros. La indignación: dolor al ver un éxito inmerecido. Consideraba los dos signos de un buen carácter. Y en la «Poética» mostró que el dolor vivido junto con otros se vuelve algo que se puede sobrellevar. Tu dolor es señal de que el destino humano no te es indiferente. Pero Aristóteles también enseñaba la medida: para no quemarte, necesitás compartir este peso con otros y encontrar dentro de él una tarea a la altura de tus fuerzas.",
+      "practice": "Hoy, limitá las noticias a un solo horario fijo y dale los minutos liberados a una cosa a tu alcance: ayudar, una charla, una palabra amable para alguien que tengas cerca. Así, para Aristóteles, la compasión encuentra su medida.",
+      "quote": null
+    },
+    "rejection": {
+      "text": "El honor, notó Aristóteles, depende más de quienes lo dan que de quien lo recibe, y por eso es demasiado superficial para ser la medida de una persona. Ser rechazado hiere y duele, y él entendía por qué. En la «Retórica» escribe que lo que más nos pica es un «desprecio»: cuando no se nos toma en serio a nosotros, nuestras palabras o nuestras cualidades. Es una de las causas principales de la ira y la tristeza. Aristóteles también escribió con sobriedad que muchos vínculos se construyen por placer o por utilidad y se deshacen cuando cambian las circunstancias, sin que nadie tenga la culpa. Un rechazo habla de circunstancias y de la elección de otra persona; no dicta sentencia sobre vos.",
+      "practice": "Enumerá en voz alta tres cualidades que valorás en vos más allá de este rechazo: la parte tuya que, para Aristóteles, no depende del reconocimiento de nadie.",
+      "quote": null
+    },
+    "abandonment": {
+      "text": "«Las personas no pueden conocerse hasta haber comido juntas la proverbial sal», cita Aristóteles un viejo dicho. El miedo a ser abandonado puede vivir muy hondo y desestabilizarte más que nada. Aristóteles consideraba el apego a las personas parte de la naturaleza humana, así que la necesidad en sí es natural. También escribió sobre cómo se construye una cercanía duradera: la confianza necesita tiempo y una vida compartida. El miedo probablemente crece cuando tu sostén es demasiado estrecho: cuando toda tu vida descansa en una sola persona. Aristóteles valoraba la «autarquía»: no la soledad, sino una vida con varios sostenes: amigos, trabajo, tratarte a vos mismo como a un amigo. Cuantos más haya, menos gobierna todo el miedo a una sola pérdida.",
+      "practice": "Nombrá tres sostenes de tu vida además de la persona que tenés miedo de perder, y dale hoy un poco de tiempo a uno de ellos: una llamada, un encuentro, una actividad que te guste. Así, para Aristóteles, crece la confianza.",
+      "quote": null
+    },
+    "unrequited": {
+      "text": "Aristóteles da el ejemplo de las madres que se alegran de amar a su hijo incluso cuando el hijo no puede corresponder: amar, según él, importa más que ser amado, y en eso hay una fuerza propia de quien ama. El amor sin respuesta hiere y duele, y él se tomaba en serio ese dolor, sin llamarlo tonto ni débil. En la «Ética a Nicómaco» escribe que el amante muchas veces se queja de que su amor excesivo no es correspondido. Tu sentimiento no es un error inútil. La capacidad de amar es tu propia fuerza, y se queda con vos. Pero Aristóteles también valoraba la reciprocidad: el amor es más pleno en la igualdad, y merecés un sentimiento que responda al tuyo.",
+      "practice": "Hacé hoy algo cálido por alguien que pueda responder: un amigo o alguien de tu familia. Aristóteles valoraba la reciprocidad: dejá que tu capacidad de amar trabaje donde va a tener respuesta.",
+      "quote": null
+    },
+    "humiliation": {
+      "text": "Hybris, insolencia: así llamaba Aristóteles a avergonzar a otro por el placer de sentirse superior. Cuando te humillaron, se siente como si hubieran golpeado tu valor mismo, y es una de las experiencias más dolorosas. Él veía en esto la falta de quien humilla, no de quien es humillado. En la «Ética a Nicómaco» agregó que corresponde avergonzarse de nuestros propios actos malos —lo que depende de nosotros—, no de lo que nos hicieron. La vergüenza que sentís en rigor no te pertenece. Aristóteles consideraba la ira ante la humillación una respuesta del todo natural. Tu dignidad no desapareció porque alguien intentó quitártela.",
+      "practice": "Decite: «Esto me lo hicieron, pero no me hace menos». Anotá qué salió herido y qué en vos quedó intacto: para Aristóteles, la falta acá es de otro.",
+      "quote": null
+    },
+    "body_shame": {
+      "text": "Para Aristóteles el alma no es un pasajero dentro de una cáscara sino la «forma» de un cuerpo vivo: si el ojo fuera un ser vivo, la vista sería su alma. La disconformidad con tu cuerpo puede ser silenciosa y constante, y eso no la hace más fácil. Aristóteles veía el cuerpo de otra manera que muchos que vinieron después de él. El cuerpo no es un cuadro para calificar sino aquello a través de lo cual vemos, oímos, tocamos, actuamos y nos alegramos. Reconocía que los bienes externos, la belleza incluida, importan para una vida, pero la felicidad, según él, es ante todo actividad: lo que hacemos, comprendemos y vivimos. Tu cuerpo importa no por cómo se ve ante otros sino porque te permite vivir. Podrías probar tratarlo como a un compañero.",
+      "practice": "Nombrá tres cosas que tu cuerpo te permitió hacer hoy: caminar, abrazar, saborear algo. Aristóteles diría que ahí vive el alma, no en un reflejo.",
+      "quote": null
+    },
+    "illness": {
+      "text": "Un buen general, escribió Aristóteles, aprovecha lo mejor posible el ejército que tiene, y un zapatero hace el mejor zapato con el cuero que le dan. La enfermedad, cuando el cuerpo te falla, agota y asusta, y él no fingía que fuera una pavada. Admitía con honestidad que una vida feliz también necesita bienes externos, y que las desgracias graves pueden nublar incluso una buena vida. Pero también escribió que la felicidad no se quita tan fácilmente: está en la actividad del alma, que es posible incluso en circunstancias limitadas. Y a través de la dificultad, observaba, brilla la nobleza cuando una persona la lleva con dignidad. La enfermedad achica el campo, pero no anula tu vida.",
+      "practice": "Buscá hoy una cosa chica a tu alcance a pesar de la enfermedad —una charla, leer, un minuto junto a la ventana— y hacela con todo el corazón, como el artesano de Aristóteles trabaja con lo que tiene.",
+      "quote": null
+    },
+    "pride": {
+      "text": "Aristóteles consideraba la falsa modestia un error tanto como la jactancia, y llamaba «magnanimidad» a la capacidad de quien es digno de mucho de saberlo con calma. El orgullo por lo que hiciste es un sentimiento bueno y sano, y él no nos pedía esconderlo: no tiene nada de vergonzoso. La «Ética a Nicómaco» tiene una observación hermosa sobre los que crean: un artesano quiere su obra más de lo que la obra podría quererlo a él, como los poetas quieren sus poemas como a hijos. La razón es que en lo que hace, una persona en cierto sentido se realiza a sí misma: su actividad se vuelve visible. Tu orgullo es la alegría de que tu potencia se haya hecho acto. Podés disfrutarlo abiertamente.",
+      "practice": "Decí en voz alta: «Esto lo hice yo», y enumerá las cualidades que hicieron falta. Aristóteles llamaría a esto un conocimiento honesto de uno mismo, no jactancia.",
+      "quote": null
+    },
+    "melancholy": {
+      "text": "«¿Por qué todos los que se han destacado en la filosofía, la política, la poesía o las artes son melancólicos?», pregunta el libro de los «Problemas», una colección de la escuela de Aristóteles. Una tristeza luminosa, donde la pena se mezcla con hondura y hasta con belleza, es un estado sutil, y esta escuela lo trataba con respeto. La autoría de este texto está en discusión, pero la idea en sí se hizo famosa: la melancolía está ligada a la hondura y a la capacidad de ver. Y en la «Poética» Aristóteles escribió sobre el placer particular que da la tragedia, y sobre la «catarsis», la purificación por medio de la compasión y el temor. Tu melancolía puede no ser una falla sino una manera de sentir el mundo más hondo. No hace falta espantarla; podés pasar un rato con ella.",
+      "practice": "Escuchá música o releé poemas acordes a tu ánimo: Aristóteles escribió sobre el placer particular que da la tragedia. Notá qué hay de hermoso en esta tristeza.",
+      "quote": null
+    }
+  }
+}

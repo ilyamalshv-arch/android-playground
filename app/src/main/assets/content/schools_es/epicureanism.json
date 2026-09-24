@@ -1,0 +1,400 @@
+{
+  "id": "epicureanism",
+  "title": "Epicuro",
+  "tradition": "Epicureísmo",
+  "family": "classic",
+  "period": "siglos IV–III a. C. (Lucrecio: siglo I a. C.)",
+  "sortYear": -300,
+  "thinkers": [
+    "Epicuro",
+    "Lucrecio",
+    "Filodemo de Gádara"
+  ],
+  "keyWorks": [
+    "Epicuro, «Carta a Meneceo» (c. 300 a. C.)",
+    "Epicuro, «Máximas capitales»",
+    "Lucrecio, «De la naturaleza de las cosas» (siglo I a. C.)"
+  ],
+  "summary": "El epicureísmo es la escuela que Epicuro fundó en Atenas hacia el 306 a. C.; su comunidad se reunía en un jardín, y por eso terminó llamándose simplemente «el Jardín». Epicuro enseñaba que la meta de la vida es el placer, pero no entendía el placer como lujo y exceso, sino como paz del alma y ausencia de dolor. Los caminos principales hacia él son una comprensión sobria de la naturaleza, una vida sencilla y la amistad.",
+  "onEmotions": "Epicuro veía la filosofía como una medicina para el alma: su tarea es liberarnos del sufrimiento innecesario, no discutir por discutir. Para él, las sensaciones de placer y de dolor son una brújula natural que nos dio la naturaleza, y está bien escucharlas. Pero muchas experiencias dolorosas, pensaba Epicuro, nacen de «opiniones vacías» —creencias falsas sobre los dioses, la muerte, la riqueza y la fama— que inflan nuestras angustias y nuestros deseos. La meta es la ataraxia: la tranquilidad, una claridad serena del alma, como un mar liso sin tormenta. No se llega a ella reprimiendo los sentimientos, sino entendiendo qué deseos son de verdad nuestros y cuidando las alegrías simples.",
+  "entries": {
+    "anxiety": {
+      "text": "Sobre la puerta del Jardín de Epicuro, cuenta la leyenda, colgaban estas palabras: «Forastero, aquí te irá bien quedarte». Acá tu ansiedad sería recibida con cuidado, no con reproches: un ser vivo quiere estar a salvo. Epicuro creía que muchas de nuestras ansiedades nacen de «opiniones vacías», creencias que no resisten un examen tranquilo: que tenemos que ganarnos el favor de poderes superiores, tener cada vez más, evitar todo fracaso. Sus seguidores condensaron la enseñanza en un «cuádruple remedio»: la mayor parte de lo que tememos se puede soportar, y lo que de verdad necesitamos para una buena vida es simple y está a nuestro alcance. Epicuro aconsejaba volver a las necesidades «naturales y necesarias»: comida, techo, amistad, descanso. Si tu ansiedad apunta a esto, merece tu cuidado. Pero si la inflaron las opiniones vacías, podés preguntarte con calma: ¿qué necesito en realidad?",
+      "practice": "Leé despacio, en voz alta, las cuatro líneas del «cuádruple remedio»: «No hay que temer a los dioses. La muerte no se siente. El bien es fácil de conseguir. Lo terrible es fácil de soportar». Después de cada una, respirá y preguntate: ¿esto toca mi preocupación?",
+      "quote": {
+        "text": "No temas a los dioses, no te preocupes por la muerte; el bien es fácil de conseguir, y lo terrible, fácil de soportar.",
+        "author": "Filodemo de Gádara (resumiendo la enseñanza de Epicuro)",
+        "source": "El «cuádruple remedio» (tetrapharmakos)"
+      }
+    },
+    "fear": {
+      "text": "«Como los niños tiemblan y temen todo en la oscuridad ciega, así nosotros, a plena luz, a veces tememos cosas que no son más terribles», escribió Lucrecio, el discípulo romano de Epicuro. No se burlaba del miedo: tu cuerpo te está protegiendo como puede. Pero este terror, decía, no lo disipan los rayos del sol sino la comprensión de cómo funciona la naturaleza. Los epicúreos estudiaban el mundo —los átomos, las causas de las cosas— no por curiosidad, sino para liberarse del miedo a lo desconocido. Podés recibir el miedo como una invitación a la claridad: ¿qué es exactamente lo que me asusta, qué tan probable es, qué sé y qué no sé? Muchas veces, lo que se ve con claridad se achica y se vuelve más fácil de llevar.",
+      "practice": "«Prendé la luz» literalmente, como haría Lucrecio: acercate a una ventana o a una lámpara, mirá las cosas comunes que tenés alrededor y nombrá tres en voz alta. Después, con la misma calma, nombrá lo que temés en una sola frase precisa.",
+      "quote": null
+    },
+    "sadness": {
+      "text": "«Vano es el discurso del filósofo que no cura ningún sufrimiento humano», decía Epicuro. Por eso su escuela se acerca a la tristeza como un médico: con suavidad, con sentido práctico y sin exigirte que estés alegre todo el tiempo. Primero, vale la pena ver si detrás de la tristeza hay una carencia real —de descanso, de compañía, de placeres simples— y atenderla con cuidado. Segundo, recordar que el placer para Epicuro no es una fiesta ni el jolgorio, sino ante todo la ausencia de dolor innecesario: el pan y el agua, escribió, dan el mayor placer a quien los necesita. Epicuro también aconsejaba recordar las cosas buenas que ya pasaron, como contrapeso a la pesadez del presente. Podés tomar la tristeza como una señal callada de que tu alma necesita un poco de calor simple.",
+      "practice": "Regalate cinco minutos de calor simple: una manta, un rayito de sol junto a la ventana, una taza caliente entre las manos. Epicuro diría que esto no es una pavada sino un placer real: quedate ahí sin apurarte.",
+      "quote": {
+        "text": "Vano es el discurso del filósofo que no cura ningún sufrimiento humano.",
+        "author": "Epicuro",
+        "source": "fragmento conservado por Porfirio («Carta a Marcela», 31)"
+      }
+    },
+    "grief": {
+      "text": "Epicuro sobrevivió a su amigo más cercano, Metrodoro, y en su testamento les pidió a los amigos que se reunieran cada mes en memoria de los dos. Su escuela no niega el dolor enorme de la pérdida: hasta el sabio, admitían los epicúreos, va a hacer duelo. Pero su enseñanza ofrece un consuelo particular: el recuerdo agradecido. Epicuro sostenía que el pasado nos pertenece con seguridad: el bien que vivimos nunca puede dejar de haber sido. La pérdida se lleva el futuro junto con la persona, pero no se lleva lo que hubo entre ustedes: las charlas, las risas, los días compartidos. Epicuro escribió que el recuerdo de un amigo muerto puede ser dulce, y aconsejaba honrar a los amigos que se fueron no con lamentos sino pensando en ellos. El duelo se puede atravesar a tu propio ritmo, junto a la gente que todavía está: para Epicuro, la amistad era el sostén principal de la vida.",
+      "practice": "Siguiendo las reuniones de memoria de los epicúreos, contale a alguien —a un amigo, o simplemente al aire— una historia de la persona que perdiste: un día en particular, una frase que decía, un momento gracioso.",
+      "quote": {
+        "text": "Hay que buscar consuelo para la desgracia en el recuerdo agradecido de lo perdido y en saber que lo sucedido no puede deshacerse.",
+        "author": "Epicuro",
+        "source": "Sentencias Vaticanas, 55"
+      }
+    },
+    "loneliness": {
+      "text": "«Antes de pensar qué vas a comer y beber, pensá con quién vas a comer y beber»: Séneca nos transmite este consejo de Epicuro. Una escuela que planteaba la pregunta así entiende muy bien por qué duele tanto la soledad. Para Epicuro, la amistad no era un extra agradable sino uno de los bienes principales de la vida. Vivía con sus amigos y discípulos en una comunidad —el Jardín— que recibía a mujeres y esclavos, algo raro en esa época. Tu soledad es la voz de una de las necesidades más naturales que existen. El epicureísmo sugiere que la amistad crece de cosas chicas: una comida compartida, una charla, el apoyo mutuo. No hace falta buscar enseguida una cercanía profunda. Podés empezar con un pasito hacia alguien, y recordar que necesitar a otros es parte de lo que te hace humano.",
+      "practice": "Invitá a una persona a compartir un mate, una caminata o aunque sea una llamada: un mensaje corto, ahora mismo. Si no hay a quién invitar, imaginá en tu mesa a alguien con quien te resultaría fácil estar.",
+      "quote": {
+        "text": "De todos los bienes que la sabiduría procura para la felicidad de la vida entera, el mayor con mucho es la posesión de la amistad.",
+        "author": "Epicuro",
+        "source": "Máximas capitales, XXVII"
+      }
+    },
+    "anger": {
+      "text": "Filodemo de Gádara, un epicúreo cuya biblioteca quedó sepultada bajo la ceniza del Vesubio, dejó un tratado «Sobre la ira»: sus rollos carbonizados se siguen leyendo hoy. La ira se enciende cuando se toca algo importante, y Filodemo se la tomaba muy en serio. Distinguía la «ira natural» —una respuesta inevitable y proporcionada a un daño real, sin nada de vergonzoso— de la «ira vacía», inflada por opiniones falsas, sed de venganza y darle vueltas sin fin a la ofensa. La ira vacía, pensaba, atormenta sobre todo al que está enojado: le destruye la paz y las amistades. Un epicúreo te sugeriría preguntarte: ¿cuánto de mi enojo es por un daño real, y cuánto por ideas de cómo «tendrían que haber sido» las cosas? Podés tomar la ira como una señal sobre tus límites y cuidarlos con calma, sin entregarle tu tranquilidad.",
+      "practice": "Filodemo desaconsejaba rumiar la ofensa. Soltá el aire despacio diez veces, y con cada exhalación separá mentalmente: «esto pasó» — «esto lo agrego yo». Después preguntate qué parte podés soltar.",
+      "quote": null
+    },
+    "shame": {
+      "text": "«Viví oculto»: esta fórmula breve de Epicuro sonaba como un desafío en una ciudad donde la fama y la opinión de la multitud lo decidían todo. El peso de la vergüenza muchas veces vive justamente en esa mirada ajena, y Epicuro contaba la búsqueda de aprobación entre los deseos «vacíos», insaciables. Si tu vergüenza nació del miedo a no parecer lo bastante exitoso, atractivo o correcto, un epicúreo te preguntaría: ¿de verdad eso hace falta para una vida feliz? Al mismo tiempo, la comunidad epicúrea valoraba la franqueza entre amigos —la parresía, el hablar abierto—: los discípulos compartían sus errores para recibir apoyo y consejo, no condena. Filodemo escribió sobre esto. La vergüenza se aliviana cuando se puede compartir con gente que te quiere bien. Un error dicho en voz alta entre amigos deja de ser un secreto que te carcome.",
+      "practice": "Pensá en alguien que te trata con cariño. Imaginá que le contás, en una sola frase, lo que te pesa, y visualizá su cara al escucharte. Por ahora, alcanza con eso.",
+      "quote": null
+    },
+    "guilt": {
+      "text": "Para Epicuro, la justicia no empieza en el cielo sino en un acuerdo entre personas: no dañarse unos a otros ni dejarse dañar. Si la culpa te está carcomiendo, quiere decir que sabés cuidar a los demás y cumplir esos acuerdos. La culpa muestra dónde, según lo sentís, ese acuerdo se rompió. La respuesta epicúrea a la culpa es práctica: reconocer el error, reparar el daño donde se pueda, hablarlo, sobre todo con los amigos, porque la amistad se apoya en la confianza. Castigarse sin fin, en esta lógica, solo suma sufrimiento y no ayuda a nadie. Epicuro quería liberar a la gente del miedo al castigo eterno; un juicio interior que nunca termina se parece bastante, en el fondo, a ese miedo. Podés hacer todo lo que esté a tu alcance y después permitirte volver a la paz.",
+      "practice": "Elegí un gesto chiquito que repare el acuerdo: una disculpa de una frase, una deuda saldada, una llamada. Hacelo, o poné un momento para hacerlo, y decite que este juicio terminó.",
+      "quote": null
+    },
+    "envy": {
+      "text": "«Nada es suficiente para quien lo suficiente es poco», escribió Epicuro. La envidia suele llegar por la comparación, y su aguijón puede ser muy filoso. Epicuro proponía averiguar qué queremos exactamente. Dividía los deseos en tres clases: naturales y necesarios (comida, techo, amistad), naturales pero no necesarios (comida refinada, cosas lindas) y «vacíos», por ejemplo el deseo de riqueza o fama sin límite. Los deseos vacíos no tienen un límite natural, así que nunca pueden saciarse: siempre va a haber alguien que tenga más. La envidia muchas veces se alimenta justamente de ellos. Epicuro nos recordaba que mucho de lo que ya tenemos fue alguna vez objeto de nuestros sueños. Podés tomar la envidia como una razón para preguntarte: ¿de verdad quiero esto para mí, o me enganchó la comparación de otro?",
+      "practice": "Recorré despacio la habitación con la mirada y nombrá en voz alta una cosa o un vínculo con el que alguna vez soñaste y que hoy tenés. Quedate con eso tres respiraciones.",
+      "quote": {
+        "text": "No eches a perder lo que tienes deseando lo que no tienes; recuerda que lo que ahora tienes estuvo una vez entre las cosas que solo esperabas.",
+        "author": "Epicuro",
+        "source": "Sentencias Vaticanas, 35"
+      }
+    },
+    "emptiness": {
+      "text": "«La carne grita: no tener hambre, no tener sed, no tener frío», escribió Epicuro; quien tiene esto puede competir en felicidad con el mismo Zeus. Cuando todo se siente hueco y cuesta desear cualquier cosa, probablemente te aconsejaría volver justamente a esos placeres más simples, «naturales y necesarios». Epicuro insistía en que la alegría no necesita grandes acontecimientos: un trago de agua para el sediento, calor para el que tiene frío, descanso para el cansado ya son placeres reales. Valoraba especialmente el placer tranquilo, «estable»: el estado en que simplemente nada duele. En el vacío, no hace falta obligarte a sentir entusiasmo. Podés empezar por el cuerpo: comer, abrigarte, dormir un poco, pasar un rato cerca de un amigo. La sabiduría epicúrea está en notar estos pequeños bienes mientras el deseo y el interés vuelven despacio.",
+      "practice": "Tomá un vaso de agua despacio, a sorbos chicos: Epicuro lo contaba como un placer real para el sediento. Notá la frescura, el gusto, cómo responde tu cuerpo, aunque la respuesta sea tenue.",
+      "quote": null
+    },
+    "confusion": {
+      "text": "«El principio y el mayor bien de todo esto es la prudencia», le escribió Epicuro a Meneceo: más valiosa incluso que la filosofía. Cuando una elección no tiene respuesta clara, es fácil sentirse perdido, y la prudencia es por dónde empezar. Su método era «sopesar»: comparar no solo los placeres y molestias inmediatos, sino sus consecuencias. Algunos placeres traen después mucho dolor, y algunas dificultades llevan a un bien mayor. Epicuro también confiaba en la experiencia directa: consideraba las sensaciones y los sentimientos «criterios de verdad», el punto de partida del conocimiento. Cuando te sentís perdido, ayuda no apurarte a sacar grandes conclusiones y volver a lo que claramente sentís y sabés ahora. Y, en el espíritu del Jardín: no decidas cosas importantes en soledad, hablalas con amigos. Podés tomar la confusión como una ocasión para pensar con calma, no como señal de que algo anda mal en vos.",
+      "practice": "Salí a caminar un rato —aunque sea una vuelta a la manzana— y llevate solo una de las opciones. Hacele la pregunta epicúrea: ¿qué me va a dar ahora, y qué dentro de un año? Guardá la otra opción para la próxima caminata.",
+      "quote": null
+    },
+    "fatigue": {
+      "text": "Epicuro fundó su escuela no en el ágora ruidosa sino en un jardín tranquilo. El agotamiento y el burnout son una señal clara del cuerpo y del alma de que ellos también necesitan un jardín así. El epicureísmo es una de las pocas filosofías que pusieron el descanso en el centro mismo de una buena vida. Epicuro enseñaba que el placer más alto no es la excitación intensa sino la aponía y la ataraxia: la ausencia de dolor corporal y la tranquilidad del alma. Aconsejaba liberarse de «la cárcel de los asuntos cotidianos y de la política», es decir, de la carrera sin fin por el estatus y la influencia. El burnout muchas veces significa que pasamos demasiado tiempo sacrificando necesidades naturales a deseos vacíos: más éxito, más aprobación. El descanso, para Epicuro, no es vagancia sino sabiduría. Podés tomar tu cansancio como una señal: es hora de devolverle a tu vida los placeres simples y tranquilos.",
+      "practice": "Date cinco minutos de ocio epicúreo: sentate junto a una ventana o a la sombra, sin hacer ni decidir nada. Cuando aparezca un pensamiento sobre pendientes, contestale: «Después», y volvé al descanso.",
+      "quote": null
+    },
+    "boredom": {
+      "text": "Lucrecio describe a un romano aburrido de su casa: sale disparado hacia su quinta, arreando a los caballos como si se estuviera incendiando, pero apenas cruza el umbral empieza a bostezar y vuelve corriendo a la ciudad. Esta inquietud puede ser angustiante, y Lucrecio la pintó con compasión, no con burla. Así cada uno huye de sí mismo, escribe Lucrecio, pero de uno mismo no se puede escapar. Su respuesta es comprender la naturaleza de las cosas y la propia vida. Para un epicúreo, el aburrimiento muchas veces nace de la persecución de la novedad: los deseos vacíos piden sensaciones cada vez más fuertes y nunca se sacian. Los placeres naturales, en cambio —la comida, una caminata, una charla—, se repiten sin fin y nunca se gastan para quien sabe notarlos. Podés tomar el aburrimiento como una señal para pasar de cazar lo nuevo a prestarle atención a lo conocido.",
+      "practice": "Salí cinco minutos y mirá algo que viste cientos de veces: un árbol, un farol, la casa de al lado. Encontrá tres detalles que nunca habías notado: Lucrecio buscaría la novedad no en los viajes sino en la mirada.",
+      "quote": null
+    },
+    "joy": {
+      "text": "«El placer es principio y fin de la vida feliz», escribió Epicuro en su «Carta a Meneceo», y durante siglos lo acusaron de libertino por eso. Tu alegría es exactamente aquello para lo que se creó su escuela. No veía nada vergonzoso en alegrarse. Pero su alegría no era un banquete ruidoso. Él mismo vivía con mucha sencillez, conforme con pan y agua, y en broma le pidió a un amigo que le mandara una ollita de queso para poder darse un festín cuando quisiera. Para un epicúreo, las fuentes principales de alegría son la amistad, la conversación, la filosofía, una mente clara. El epicureísmo también enseña a saborear la alegría y a recordarla: el recuerdo de lo bueno también es fuente de placer. Así que la alegría no es frivolidad sino justamente aquello hacia lo que la vida tiende por naturaleza. Podés permitirte vivirla plenamente.",
+      "practice": "Contale a alguien —con tu propia voz, no con un emoji— qué te alegró hoy. En el Jardín epicúreo la alegría se compartía en una mesa común: así también se convierte en un recuerdo lindo.",
+      "quote": null
+    },
+    "love": {
+      "text": "«La amistad recorre danzando el mundo, anunciándonos a todos que despertemos a la felicidad», escribió Epicuro. Su escuela valoraba muchísimo el apego cálido, y tu ternura está en buena compañía acá. Pero, para ser honestos, Epicuro y Lucrecio desconfiaban del amor romántico apasionado. En el cuarto libro de su poema, Lucrecio describió la pasión erótica como fuente de inquietud, celos y un ansia insaciable que no trae paz. Los epicúreos no temían la ternura, sino que el amor se convirtiera en un deseo «vacío» de poseer y de sufrir. En cambio, la amistad basada en la confianza y el cuidado mutuo les parecía uno de los bienes más altos. La ternura está más serena cuando tiene mucha amistad adentro: buena voluntad, alegría por la presencia del otro, libertad. El amor no tiene que ser una tormenta: puede ser un jardín.",
+      "practice": "Hacé hoy algo chiquito y amistoso por la persona que querés, sin motivo y sin esperar nada: llevale un té, mandale una imagen graciosa, preguntale cómo le fue en el día. Un amor-jardín crece de estas pequeñas cosas.",
+      "quote": null
+    },
+    "gratitude": {
+      "text": "Muriendo de una enfermedad dolorosa, Epicuro le escribió a un amigo que ese era su «día feliz, y el último de mi vida»: el dolor era fuerte, pero frente a él ponía la alegría de su alma al recordar las charlas que habían tenido. Así, para los epicúreos, la gratitud se volvió casi una medicina. Epicuro consideraba el recuerdo agradecido de lo bueno una de las fuentes más confiables de alegría: nadie puede quitarte el pasado. Un alma desagradecida, decía, vuelve a la persona ávida de variedad sin fin: siempre buscando placeres nuevos y nunca satisfecha. La gratitud no es cortesía sino una práctica que hace la vida más plena: te deja volver una y otra vez al bien que ya fue. Podés tomarla como una riqueza silenciosa que siempre va con vos.",
+      "practice": "Cerrá los ojos y reviví una buena charla del pasado: dónde estaban sentados, qué había en la mesa, cómo sonaba la voz del otro. Epicuro se consolaba así en su último día: probalo aunque sea tres minutos.",
+      "quote": null
+    },
+    "hope": {
+      "text": "«El futuro no es del todo nuestro ni del todo ajeno», le escribió Epicuro a Meneceo: no hay que contar con él como seguro ni desesperar de él. La esperanza te sostiene, y su escuela le da una forma sobria y tranquila. Epicuro también nos recordaba que lo más importante para una buena vida es simple y accesible: un poco de comida, un techo, amigos, paz interior. Por eso la esperanza epicúrea es modesta y confiable: no hace depender la felicidad de grandes golpes de suerte. Todo lo necesario es fácil de conseguir, y sin lo superfluo se puede vivir. Podés esperar lo mejor y al mismo tiempo encontrar alegría en lo que ya tenés ahora: una cosa no le estorba a la otra.",
+      "practice": "Decí dos frases en voz alta: «Espero que…» y «Ahora mismo ya tengo…», y terminá la segunda con algo muy simple: un techo, pan, un amigo. La esperanza epicúrea se apoya en la segunda frase.",
+      "quote": {
+        "text": "Hay que recordar que el futuro no es del todo nuestro ni del todo ajeno, para no esperarlo como si hubiera de llegar con certeza ni desesperar de él como si con certeza no hubiera de llegar.",
+        "author": "Epicuro",
+        "source": "Carta a Meneceo"
+      }
+    },
+    "nostalgia": {
+      "text": "Epicuro comparaba a quien vivió bien con un barco que llegó a puerto: sus bienes están a resguardo en el recuerdo agradecido. Una tristeza tibia por lo que pasó habría tenido sentido para él. Consideraba el pasado un tesoro: el bien que existió nunca puede dejar de haber sido, y podés volver a él en la memoria una y otra vez. La amargura de la nostalgia, para un epicúreo, aparece cuando un recuerdo se convierte en el deseo de recuperar lo que no se puede recuperar. La dulzura llega cuando simplemente nos alegramos de que haya pasado. Podés tomar la nostalgia como una invitación al recuerdo agradecido: no añoranza de lo perdido, sino alegría de que forme parte de tu vida para siempre.",
+      "practice": "Recordá un momento que extrañás y decí en voz alta, como una fórmula epicúrea: «Pasó, y eso nadie me lo puede quitar». Repetilo tres veces y notá cómo cambia el sentimiento.",
+      "quote": null
+    },
+    "craving": {
+      "text": "Imaginá a un epicúreo como un jardinero que ordena los deseos como canteros: lo que creció de la naturaleza, lo que trajo el viento de la costumbre. El «lo quiero ya» filoso puede ser muy fuerte, y Epicuro no te haría sentir vergüenza por eso. Proponía distinguir. Algunos deseos son naturales y necesarios, como el hambre o la sed. Otros son naturales pero no necesarios. Y otros son «vacíos»: no nacen de la naturaleza sino de la opinión y la costumbre. Epicuro observó que los deseos vacíos no tienen un límite natural, así que nunca pueden satisfacerse del todo. También enseñaba a sopesar: no todo placer vale la pena si detrás viene un sufrimiento mayor. Hacerte esta pregunta tranquila no es una prohibición sino una forma de cuidarte. Una ansia, diría Epicuro, muchas veces no habla con la voz de tu naturaleza, sino con la de un hábito que se le encimó.",
+      "practice": "Hacé un «sopesar» epicúreo en la imaginación: visualizate una hora después de ceder a las ganas, y una hora después de no ceder. ¿Cuál de las dos escenas elegirías para vos?",
+      "quote": {
+        "text": "De los deseos, unos son naturales y otros vanos; y de los naturales, unos son necesarios y otros solamente naturales.",
+        "author": "Epicuro",
+        "source": "Carta a Meneceo"
+      }
+    },
+    "addiction": {
+      "text": "«El mayor fruto de la autosuficiencia es la libertad», escribió Epicuro, a quien durante siglos confundieron con un predicador del placer sin límites. A sus ojos, la adicción no es un fracaso moral sino una libertad que se va perdiendo de a poco, y que se puede recuperar. Los epicúreos distinguían el placer como movimiento —el placer «cinético», un destello, la excitación— del placer como estado —el placer «catastemático»: estar satisfecho, en reposo, libre de angustia—. La adicción puede entenderse como una vida que un solo destello fue ocupando de a poco, desplazando los placeres tranquilos del estado sereno. La terapia epicúrea no es flagelarse sino recuperar gradualmente las alegrías simples. Epicuro consideraba la amistad el remedio principal: su Jardín era una comunidad donde la gente se sostenía mutuamente. Es más fácil salir del círculo cuando tu gente está cerca, y cada paso hacia las alegrías tranquilas trae alivio por sí mismo.",
+      "practice": "Elegí un placer tranquilo —una comida caliente, una caminata, una charla— y regalátelo hoy, sin apuro. Y si querés apoyo, podés buscar un grupo de ayuda mutua (como AA o NA): tu propio pequeño «Jardín», donde la gente se sostiene entre sí.",
+      "quote": null
+    },
+    "hangover": {
+      "text": "Los epicúreos llamaban a su filosofía una medicina, y un médico no reta al paciente: le pregunta dónde le duele. La mañana siguiente trae una pesadez física y otra «moral» —ansiedad, vergüenza, lagunas en la memoria—, y un juicio duro no va a ayudar ahora. Epicuro enseñaba a encarar los placeres con cálculo: a veces elegimos un placer detrás del cual viene un sufrimiento mayor, y eso no es un pecado sino un error de cálculo, del que se puede aprender. A la mañana también te puede servir su idea sobre el dolor: el sufrimiento más agudo en general no dura mucho. Los epicúreos consideraban el miedo y las «opiniones vacías» ansiosas los principales enemigos de la tranquilidad; por ejemplo, la certeza de que ahora todos te están juzgando. Ayuda revisarlas con sobriedad: ¿qué pasó en realidad, y qué está completando la ansiedad? Todo lo demás puede esperar mientras te cuidás.",
+      "practice": "Primero el cuerpo, como lo querría un médico epicúreo: un vaso de agua, una ventana abierta, cinco respiraciones lentas al lado. Recién después nombrate una cosa que sabés con certeza sobre ayer, aparte de las conjeturas de la ansiedad.",
+      "quote": null
+    },
+    "euphoria": {
+      "text": "Epicuro distinguía dos placeres, como un destello y una luz estable: el «cinético» —movimiento, excitación— y el «catastemático», un estado tranquilo en el que nada perturba el cuerpo ni el alma. Ahora tenés un destello brillante, y él no querría arruinártelo: para él el placer es un bien natural, no un motivo de vergüenza. Consideraba el segundo el más profundo. La euforia es un placer de movimiento clásico: es maravillosa, pero breve por naturaleza. Un epicúreo la viviría plenamente y después la «aterrizaría» con suavidad: la convertiría en alegría tranquila y en recuerdo agradecido. Epicuro creía que el recuerdo de lo bueno se vuelve en sí mismo fuente de placer. Así, el destello no deja vacío sino calidez.",
+      "practice": "Escribí dos líneas sobre lo que te hace tan feliz ahora y ponele un título epicúreo: «Para el depósito de recuerdos». Cuando baje la euforia, releelas: esa es tu memoria agradecida.",
+      "quote": null
+    },
+    "crash": {
+      "text": "Epicuro podía vivir contento con pan y agua: por eso cada banquete era para él un regalo, no un sostén. La caída después de un pico —una celebración, un éxito, una noche intensa— puede doler: todo alrededor parece sin color. El epicureísmo ofrece una explicación simple. El placer como destello, el «cinético», termina por su propia naturaleza, y si todo tu ánimo se apoyaba en él, viene un bajón. Pero Epicuro señalaba una base más firme: el placer «catastemático», el estado tranquilo en que nada duele y el alma no está perturbada. Al lado de los fuegos artificiales no se ve, pero nunca se va a ningún lado. Un bajón es un buen momento para volver a las cosas simples: comida, sueño, silencio, una charla con un amigo. Epicuro consideraba estas alegrías las más accesibles, y después de ellas nunca viene una caída brusca.",
+      "practice": "Elegí un «placer tranquilo» del kit epicúreo —calor, un té, aire fresco, una llamada a un amigo— y permitítelo dentro de la próxima hora, sin el celular y sin preguntarte si es «suficiente».",
+      "quote": null
+    },
+    "panic": {
+      "text": "Una de las Máximas capitales de Epicuro dice que el dolor más agudo no dura mucho. Una ola de pánico da miedo de verdad: el corazón late fuerte, se corta la respiración, parece que algo terrible está por pasar. No es tu culpa que esto esté pasando. Epicuro pensó mucho en cómo el alma afronta sensaciones corporales intensas. Y, efectivamente, una ola de pánico suele llegar a su punto máximo y bajar en pocos minutos. Epicuro aconsejaba apoyarse en el presente y en el recuerdo de lo bueno en los momentos difíciles: le escribió a un amigo que, cuando estaba con un gran malestar corporal, ponía frente a él la alegría de recordar las charlas que habían tenido. El apoyo está cerca: tu cuerpo, tu respiración, una voz conocida.",
+      "practice": "Apoyá los dos pies en el piso, sentí cómo te sostiene, y soltá el aire más largo de lo que lo tomás. Con cada exhalación, traé la cara de un amigo o una charla cálida —como hizo Epicuro en su hora difícil— mientras la ola se retira.",
+      "quote": null
+    },
+    "dread": {
+      "text": "«Donde estoy yo, no está la muerte; donde está la muerte, no estoy yo»: así intentaba Epicuro quitarle el aguijón a la muerte. El pensamiento de la finitud, la pregunta «¿para qué todo esto?», pesan mucho, y atormentaban a la gente desde mucho antes que él. Epicuro consideraba el miedo a la muerte una de las fuentes principales de la angustia humana y pensó mucho en él. Su argumento es simple: la muerte es ausencia de sensación, así que no puede vivirse como algo terrible. Lucrecio agregaba que la eternidad anterior a nuestro nacimiento no nos asusta en lo más mínimo. Pero lo más importante es la conclusión que Epicuro sacaba: el valor de la vida no está en una duración infinita sino en su calidad. No en perseguir un «sentido eterno», sino en la amistad, la conversación y las alegrías simples que están disponibles hoy. El abismo retrocede a medida que te acercás a la vida misma.",
+      "practice": "Preguntate lo que te preguntaría Epicuro: ¿qué haría que hoy fuera un buen día? No eterno, solo bueno. Elegí una cosa simple —comida, un rato con un amigo, un pensamiento sereno— y hacela dentro de la próxima hora.",
+      "quote": {
+        "text": "La muerte no es nada para nosotros: cuando nosotros somos, la muerte no está presente, y cuando la muerte está presente, entonces ya no somos nosotros.",
+        "author": "Epicuro",
+        "source": "Carta a Meneceo"
+      }
+    },
+    "fomo": {
+      "text": "Mientras Atenas rugía en el ágora y en los teatros, Epicuro cenaba con sus amigos en su Jardín y no sentía que se estuviera perdiendo nada. Cuando tu feed muestra solo los picos de los demás, la sensación de estar en el lugar equivocado agota. Epicuro dio sobre esto un consejo que todavía suena casi desafiante: «viví oculto». No quería decir esconderse de la gente, sino no pasarse la vida persiguiendo fama, estatus y un lugar en cada evento ruidoso. Consideraba esos deseos «vacíos»: no tienen límite natural y nunca pueden saciarse. Para un epicúreo, lo más importante no pasa donde hay más ruido, sino donde te sentís en paz y tu gente está cerca.",
+      "practice": "Dejá el celular y andá al lugar más cercano donde te sientas a gusto: una ventana, un patio, un banco. Quedate un par de minutos y preguntate: ¿con quién me gustaría compartir este pequeño «jardín»?",
+      "quote": {
+        "text": "Vive oculto.",
+        "author": "Epicuro",
+        "source": "máxima conocida por el tratado de Plutarco «Sobre si está bien dicho “Vive oculto”»"
+      }
+    },
+    "sleepless": {
+      "text": "Epicuro aconsejaba meditar su enseñanza «de día y de noche», para no estar nunca perturbado, ni despierto ni dormido. Los pensamientos de las tres de la mañana pueden ser más oscuros y ruidosos que los del día, y una noche así te deja agotado. Epicuro habría llamado a muchos de ellos productos de «opiniones vacías»: de noche la mente tiene especiales ganas de pintar catástrofes, condenas, un futuro que todavía no pasó. Él nos recordaba que el futuro no es del todo nuestro ni del todo ajeno, o sea que no hace falta resolverlo ahora, a oscuras. De noche también podés usar otro de sus remedios, el recuerdo agradecido: volver a un recuerdo lindo y revivirlo en detalle. Esto no es una pelea contra el insomnio, sino una manera de hacer la noche un poco más amable.",
+      "practice": "Acostado, soltá el aire despacio y repetí dos líneas del «cuádruple remedio» al ritmo de la respiración: «El bien es fácil de conseguir… lo terrible es fácil de soportar». Si querés, después reviví en detalle un buen recuerdo.",
+      "quote": null
+    },
+    "betrayal": {
+      "text": "«No es amigo verdadero el que siempre busca la utilidad, ni el que nunca la une a la amistad», escribió Epicuro, y su Jardín se apoyaba en la confianza. Cuando esa confianza se rompe, la herida es especialmente honda: el golpe vino de alguien en quien creías. Para Epicuro este era un tema muy personal: ponía la amistad por encima de casi todo en la vida, así que sabía lo doloroso que es su derrumbe. Epicuro creía que la amistad empieza por el beneficio mutuo pero se vuelve valiosa en sí misma. La traición rompe ese valor, y es natural hacer el duelo por él. Un epicúreo señalaría que la venganza solo prolonga la angustia, mientras que la meta es la ataraxia, la paz interior. Pero Epicuro tampoco te exigiría seguir confiando: podés alejarte en silencio, protegerte y volverte hacia quienes siguieron siendo leales. Una traición no anula toda la amistad que hay en tu vida.",
+      "practice": "Pedile a una persona de confianza simplemente que pase un rato con vos —una caminata, un mate— sin siquiera contarle qué pasó. Epicuro te curaría con la presencia de los amigos, no hablando del traidor.",
+      "quote": null
+    },
+    "jealousy": {
+      "text": "Lucrecio, en el cuarto libro de su poema, describió la obsesión amorosa con una precisión casi clínica: la ansiedad, las sospechas, el deseo tormentoso de poseer, la lectura celosa de cada mirada y cada palabra. Esta mezcla de amor, miedo e inseguridad es tan vieja como el mundo, y no hay por qué avergonzarse de ella. Los epicúreos distinguían esta pasión ansiosa del apego tranquilo y de la amistad, que valoraban mucho. Un epicúreo diría que los celos se alimentan de «opiniones vacías» —cuadros que pinta la imaginación— y que ayuda revisarlas con sobriedad. Y una cosa más: la seguridad en una relación se construye con confianza y charla abierta, no con control. La ataraxia epicúrea acá no es frialdad, sino la posibilidad de amar sin atormentarte a vos ni a la otra persona.",
+      "practice": "Dividí una hoja en dos columnas: lo que sabés con certeza, y lo que completó tu imaginación, esas «opiniones vacías». Después escribí una frase honesta con la que podrías empezar una charla.",
+      "quote": null
+    },
+    "resentment": {
+      "text": "La meta epicúrea es la ataraxia, un alma como un mar en calma; un rencor viejo es como un viento que no para de levantar olas. Un rencor así pesa, y la mayoría de las veces nació de una injusticia real. Epicuro miraba estos sentimientos con sentido práctico: ¿qué me trae esta vivencia, paz o una angustia nueva? El pasado no puede dejar de haber sido, pero podés relacionarte con él de distintas maneras: reviviendo la herida una y otra vez, o dirigiendo a conciencia tu memoria hacia lo que fue bueno. Soltar el resentimiento no significa disculpar a quien te lastimó. Significa dejar de pagarle con tu paz. A veces un agravio simplemente necesita decirse en voz alta a un amigo cercano: los epicúreos valoraban mucho la charla franca.",
+      "practice": "Quedate tres minutos imaginando un mar en calma. Cada vez que la mente vuelva al agravio, anotá suavemente para vos: «viento», y volvé a mirar el agua, hasta que las olas bajen un poco.",
+      "quote": null
+    },
+    "heartbreak": {
+      "text": "«De todos los bienes que la sabiduría procura para una vida feliz, el mayor con mucho es la posesión de la amistad», escribió Epicuro. Una ruptura da vuelta la vida, y después el corazón duele de verdad. Los epicúreos entendían este dolor, aunque desconfiaban del amor apasionado: Lucrecio desaconsejaba hacer de él el único centro de la vida. Pero Epicuro dejó una idea que puede ayudar ahora: las desgracias se curan con el recuerdo agradecido de lo que fue. Lo que vivieron juntos no desaparece: ya pasó y siempre va a seguir siendo parte de tu vida. Otro remedio epicúreo es la amistad: Epicuro creía que los amigos hacen soportable casi cualquier cosa. Ahora podés dejar que estén cerca, sin exigirte «recomponerte» rápido. El dolor no es un error; con el tiempo puede volverse un recuerdo tranquilo.",
+      "practice": "Llamá hoy a un amigo o mandale un mensaje: no hace falta que sea sobre la ruptura, podés simplemente preguntarle cómo está. La medicina epicúrea funciona hasta con una charla corta.",
+      "quote": null
+    },
+    "impostor": {
+      "text": "Filodemo, un epicúreo de Gádara, escribió un tratado «Sobre la franqueza»: sobre cómo en el Jardín los discípulos se contaban honestamente sus tropiezos para crecer. El miedo a ser descubierto en cualquier momento les resulta especialmente conocido a las personas responsables. Epicuro creía que muchos tormentos nacen de «opiniones vacías»; por ejemplo, la convicción de que nuestro valor depende de la fama, el estatus y el juicio ajeno. Desaconsejaba construir la vida alrededor de cómo nos ven los demás. Probablemente Epicuro vería el síndrome del impostor sobre todo como ansiedad por la reputación más que por el trabajo en sí. Admitir que no sabés algo no es quedar expuesto: es una parte común del aprendizaje.",
+      "practice": "Decile a una persona de confianza —o al menos a vos mismo, en voz alta— una frase de franqueza epicúrea: «Esto todavía no lo sé». Fijate que el mundo no se vino abajo.",
+      "quote": null
+    },
+    "self_hatred": {
+      "text": "Imaginá que entrás al Jardín epicúreo y repetís en voz alta lo que dice tu crítico interior: lo más probable es que los amigos de Epicuro se miren entre ellos, porque acá no se le habla así a la gente. Si esa voz está fuerte y despiadada ahora, merecés amabilidad, no darle la razón. Epicuro veía la filosofía como una curación del alma, no como una forma más de juzgarte. La crueldad con uno mismo, para Epicuro, no te acerca ni a la sabiduría ni a la felicidad; solo suma un sufrimiento que se podría evitar. El crítico interior habla en gran parte con la voz de las «opiniones vacías»: varas ajenas, exigencias, miedo a la condena. De ahí una pregunta simple: ¿le dirías esto a un amigo cercano? Si no, quizás esa voz se equivoca. No tenés que discutir con ella todo el día: podés simplemente hacer algo amable y simple por vos.",
+      "practice": "Tomá una frase de tu crítico interior y decila de nuevo en voz alta, como la diría un amigo cercano del Jardín: con suavidad, con honestidad, con cuidado. Los epicúreos creían que es el habla amistosa la que cura.",
+      "quote": null
+    },
+    "helplessness": {
+      "text": "En Lucrecio, los átomos caen por el vacío, y sin embargo a veces se produce un clinamen: un desvío apenas perceptible, gracias al cual nada está del todo predeterminado y los seres vivos tienen libre albedrío. Sentirse sin poder para cambiar nada es muy duro, y no hay por qué culparse por eso. Los epicúreos admitían con honestidad que mucho escapa a nuestro control, pero invitaban a mirar lo que queda. Incluso en su imagen estricta de un mundo hecho de átomos y vacío, dejaron lugar para un pequeño giro. Un epicúreo diría que la impotencia ante las cosas grandes no excluye los pequeños desvíos: acciones simples que devuelven un poco de alegría y de conexión. Y están los amigos: Epicuro decía que no necesitamos tanto su ayuda en sí como la confianza de que va a estar.",
+      "practice": "Hacé hoy un «clinamen» mínimo: tomá otro camino, cambiá de lugar una taza, mandale a alguien dos palabras cálidas. Un desvío chico ya no es predeterminación.",
+      "quote": null
+    },
+    "procrastination": {
+      "text": "«Nacemos una sola vez, y dos veces no es posible nacer; y vos, que no sos dueño del mañana, postergás tu alegría», escribió Epicuro; la vida, agregaba, se malgasta en aplazar. No poder arrancar no te convierte en una persona vaga. Pero el sentido de estas palabras no es arrearte con un látigo. Epicuro hablaba ante todo de la alegría postergada: dejamos para después lo que nos haría más felices. Un epicúreo preguntaría: ¿la tarea se volvió una fuente de miedo —al fracaso, al juicio, a su tamaño—? El «cuádruple remedio» nos recuerda que lo terrible se puede soportar y que el bien está al alcance. Podés empezar por algo chico, y quizás por algo que sea agradable en sí mismo.",
+      "practice": "Buscá la parte más chica y más agradable de la tarea y hacela en cinco minutos, con un placer epicúreo al lado: un mate, tu música favorita, sol sobre el escritorio.",
+      "quote": null
+    },
+    "uprooted": {
+      "text": "Epicuro sabía lo que es perder un hogar: su familia, como otros colonos atenienses, fue expulsada de Samos, y antes de fundar su Jardín en Atenas vivió en Colofón, Mitilene y Lámpsaco. Una mudanza o una emigración te mueve el piso, y extrañar el lugar de antes es natural. Él reunió a su alrededor a gente de muchos lugares, y entre sus discípulos había incluso mujeres y esclavos, algo raro en esa época. Para un epicúreo, el hogar no es ante todo un territorio sino la amistad: un círculo de personas con las que compartís el pan y la conversación. Un nuevo «Jardín» también puede crecer en un lugar nuevo, de a poco, empezando por un solo encuentro.",
+      "practice": "Elegí un rincón de tu lugar nuevo —un café, un banco, un sendero— e imaginá que algún día llevás ahí a alguien a compartir una comida simple. Epicuro también empezó su Jardín con un pedazo de tierra y unos pocos amigos.",
+      "quote": null
+    },
+    "overload": {
+      "text": "Epicuro se mantenía lejos del bullicio del ágora, donde todos los días alguien discutía, gritaba y difundía noticias. El feed infinito, las notificaciones, el ruido: cualquier mente se cansa de eso, y la irritación es natural. Epicuro vivió sin pantallas, pero tenía una idea precisa sobre los deseos «vacíos», los que no tienen límite natural. La necesidad de saberlo todo y estar al tanto de cada acontecimiento es en gran parte un deseo así: nunca puede saciarse, y cuanto más consumís, más querés. La meta epicúrea es la ataraxia, una tranquilidad como un mar liso sin olas. El equivalente actual del Jardín es un tiempo y un lugar sin feed, con cosas simples: una charla tranquila, una caminata, un pensamiento seguido hasta el final.",
+      "practice": "Date diez minutos de «Jardín» sin pantalla: llevá el celular a otra habitación, sentate junto a la ventana y dejá que la mente se aquiete. Si sentís el tirón de mirar las noticias, simplemente marcá ese deseo como «vacío».",
+      "quote": null
+    },
+    "unreality": {
+      "text": "Lucrecio veía el mundo como un tejido vivo de cosas: las motas de polvo en un rayo de sol, el olor del mar, la aspereza de la piedra; para él todo eso era el contacto directo de la realidad. Pero a veces el mundo, o vos mismo, parece irreal, como detrás de un vidrio. Es una experiencia rara y a veces asusta, y se puede hablar de ella con calma. El epicureísmo es una de las filosofías más «con los pies en la tierra»: para Epicuro, todo lo que existe está hecho de átomos y vacío, y las sensaciones sirven de «criterio de verdad», nuestro contacto directo con el mundo. Cuando la realidad se siente desteñida, vale la pena volver a las sensaciones más simples: calor, frío, sabor, tacto. En lo esencial no engañan: el mundo está acá, y vos estás en él. Sos parte de ese tejido, aunque ahora lo sientas apenas.",
+      "practice": "Sostené en la palma algo tibio o fresco —una piedra, una taza, tus llaves— y sentí su peso y su superficie, como haría Lucrecio. Después nombrá en silencio un sonido y un olor que haya a tu alrededor.",
+      "quote": null
+    },
+    "awe": {
+      "text": "Lucrecio miraba el polvo bailando en un rayo de sol y veía una imagen de los átomos moviéndose eternamente por el vacío. El asombro ante lo inmenso o lo bello es una de las experiencias más profundas, y los epicúreos lo valoraban. Lucrecio, el seguidor romano de Epicuro, convirtió su filosofía en un poema, «De la naturaleza de las cosas», lleno de maravilla: mundos innumerables que nacen y mueren. Los epicúreos querían liberar a la gente del miedo a los dioses y a los fenómenos celestes amenazantes, pero no de la maravilla. Al contrario: comprender la naturaleza, para Epicuro, da un placer puro, sin nubes de superstición. Lucrecio confiesa que, al contemplar el mundo que abrió la razón de Epicuro, siente a la vez un deleite divino y un estremecimiento sagrado. Lo que sentís ahora es justamente esa clase de experiencia: el conocimiento y la admiración no compiten en ella sino que se potencian. Podés simplemente vivirla, sin apurarte a explicar nada.",
+      "practice": "Buscá un rayo de luz, un pedazo de cielo o una nube por la ventana y miralo un minuto, sin nombrar ni explicar nada. Lucrecio llamaría a esto el placer puro de la naturaleza de las cosas.",
+      "quote": null
+    },
+    "relief": {
+      "text": "«El límite de la magnitud de los placeres es la eliminación de todo dolor», dicen las Máximas capitales de Epicuro. La exhalación tan esperada que sentís ahora es algo que él valoraba especialmente. Para él el placer más alto no es el deleite agudo sino justamente la ausencia de dolor en el cuerpo y de angustia en el alma: aponía y ataraxia. El alivio es el momento en que lo sentís directamente: la tensión se fue, y la vida misma, libre de angustia, resulta agradable. Epicuro sostenía que, una vez quitado el dolor, el placer ya no crece más: solo varía. Así que el alivio no es una pausa antes de algo «real», sino un bien completo en sí mismo. Podés saborearlo y recordarlo: Epicuro creía que la memoria de los placeres vividos es una reserva confiable que ayuda en los días difíciles. El recuerdo de este alivio después se va a volver ese tipo de sostén.",
+      "practice": "Soltá el aire largo tres veces y con cada exhalación notá qué exactamente se aflojó: los hombros, la mandíbula, los pensamientos. Esto es la aponía epicúrea: quedate ahí, sin agregar nada.",
+      "quote": null
+    },
+    "calm": {
+      "text": "Los epicúreos imaginaban la felicidad como un mar en calma: agua lisa hasta el horizonte. Lo que sentís ahora es casi el nombre exacto de la meta de toda su filosofía. Ataraxia en griego quiere decir «imperturbabilidad»: un alma sin tormentas. Epicuro consideraba este estado no una pausa sosa sino el placer más profundo y estable: el placer «catastemático» del estado sereno. No requiere lujo: el propio Epicuro se conformaba con pan, agua y la compañía de los amigos en su Jardín. La calma que sentís ahora es, según la medida epicúrea, un bien real y no solo una ausencia de acontecimientos. No necesita que le agregues nada. Podés simplemente notar qué la genera, para encontrar el camino de vuelta más seguido. Los epicúreos creían que esas condiciones simples de la calma están al alcance de casi todos.",
+      "practice": "Anotá «tu receta de ataraxia»: qué lugar, qué personas, qué momento y qué actividad están ayudando a tu calma ahora. Doblá la nota y guardala donde la vayas a encontrar en un día inquieto.",
+      "quote": null
+    },
+    "inspiration": {
+      "text": "Epicuro escribió unos trescientos libros —más que casi cualquier filósofo de la Antigüedad— y creía que nunca es demasiado temprano ni demasiado tarde para filosofar. El impulso vivo, las ganas de crear y de entender, evidentemente le eran muy conocidos. La alegría epicúrea de conocer es de las más puras: en una de sus sentencias, Epicuro observa que en otras ocupaciones el fruto llega recién al final, pero en la filosofía el placer va de la mano del conocer mismo. Podés dejar que la inspiración te lleve, sin la presión de «tengo que hacer algo grande». Epicuro también pensaba y escribía entre amigos, en conversación constante: la inspiración crece cuando se comparte, y no te alegra solo a vos.",
+      "practice": "Contale tu idea a alguien que se vaya a alegrar con vos —con un café o por teléfono, como las charlas del Jardín epicúreo—. Que el placer esté en la charla misma, no en un resultado terminado.",
+      "quote": null
+    },
+    "schadenfreude": {
+      "text": "«Dulce es, cuando los vientos revuelven el ancho mar, contemplar desde tierra el gran trabajo de otro»: así abre Lucrecio el segundo libro de su poema. No porque el sufrimiento ajeno sea agradable, explica, sino porque es agradable sentirse a salvo. Este sentimiento incomoda admitirlo, pero los epicúreos lo describieron con una honestidad poco común. El regodeo en la desgracia ajena muchas veces esconde alivio: «esto no me pasó a mí». Los epicúreos agregarían que, si tu paz se alimenta de las desgracias de otros, es frágil, y adentro se esconde miedo o envidia. La verdadera ataraxia, la tranquilidad, no necesita comparaciones. Podés tomar este regodeo como una pista: ¿dónde me siento yo en peligro?",
+      "practice": "Imaginate en la orilla de Lucrecio: una tormenta, el barco de otro, vos en tierra firme. Preguntate: ¿de qué tormenta de mi propia vida me está protegiendo este sentimiento? Contestate en voz alta, en una frase.",
+      "quote": {
+        "text": "Dulce es, cuando en el vasto mar los vientos turban las aguas, contemplar desde tierra el gran esfuerzo de otro; no porque sea un placer que alguien sufra, sino porque es dulce ver de qué males estás tú libre.",
+        "author": "Lucrecio",
+        "source": "De la naturaleza de las cosas, II, 1–4"
+      }
+    },
+    "contempt": {
+      "text": "El Jardín de Epicuro recibía a mujeres y esclavos, algo raro entre las escuelas antiguas, donde a los «de abajo» se los miraba más bien por encima del hombro. El desprecio hace lo contrario: nos pone por encima de los demás y nos amuralla, y es un sentimiento pesado y frío. Los epicúreos construyeron su filosofía sobre la philia, la amistad. Epicuro aconsejaba mantenerse lejos de la lucha política y de la persecución de la fama, pero eso no era desprecio por la gente, sino cuidado de la propia paz. Para un epicúreo, el desprecio es un sentimiento inquieto: te obliga a comparar, vigilar y condenar todo el tiempo, y así te quita la tranquilidad. Ayuda preguntarse: ¿qué está protegiendo? Muchas veces detrás hay una herida o un miedo. Podés simplemente alejarte de lo que te hace daño, sin gastar fuerzas en una soberbia fría.",
+      "practice": "Salí a caminar y mirá a la gente con la que te cruzás simplemente como posibles vecinos del Jardín: sin puntajes, sin comparaciones. Notá cuánta energía se libera cuando no tenés que dictar sentencia.",
+      "quote": null
+    },
+    "disgust": {
+      "text": "Epicuro confiaba en las sensaciones como un primer testigo que no miente: para él eran el «criterio de verdad», que informa de algo real. Por eso un epicúreo se tomaría en serio el asco, ese retroceso del cuerpo: puede advertir honestamente sobre algo dañino. Pero Epicuro distinguía la sensación misma de la opinión que le agregamos, y los errores, según él, viven en esta última. En su cuarto libro, Lucrecio explicaba que la misma cosa a unos les parece agradable y a otros repugnante porque la percepción depende de la constitución del cuerpo: lo que para uno es alimento, para otro es veneno. Un epicúreo preguntaría: ¿dónde está acá la advertencia real, y dónde un juicio de costumbre o la opinión de otro? Si el asco apunta hacia vos, un epicúreo te recordaría con suavidad: tu cuerpo y tus errores son parte de la naturaleza, no una sentencia.",
+      "practice": "Respirá unas cuantas veces y separá a la manera epicúrea: «esto es lo que siente mi cuerpo» —nombralo en una palabra— y «esto es lo que pienso de eso». Si el asco apunta hacia vos, preguntate con la voz de quién habla la segunda parte.",
+      "quote": null
+    },
+    "revenge": {
+      "text": "Lucrecio escribió que Ticio, con el hígado desgarrado para siempre por los buitres, no vive en el inframundo sino entre nosotros: es cualquiera a quien carcomen sus propias pasiones. El deseo de venganza puede ser justamente un buitre así: fuerte y comprensible. Los epicúreos lo encararían con sentido práctico: ¿la venganza va a traer paz? Epicuro creía que la justicia nace de un acuerdo entre personas para no dañarse ni dejarse dañar: su meta es la seguridad, no el desquite. Filodemo, en «Sobre la ira», clasificaba la sed de venganza como «ira vacía», inflada por opiniones falsas y que atormenta sobre todo al que está enojado. La venganza exige pensar todo el tiempo en quien te ofendió, repasar escenas, hacer planes: entregarle tu vida. Lo mejor que se puede hacer con una herida es cuidar tu seguridad y tus límites, apoyarte en tus amigos y recuperar tu tiempo. Tu paz vale más que el castigo de otro.",
+      "practice": "Anotá un paso que te proteja y no dañe a nadie: un «acuerdo» epicúreo con vos mismo sobre tu seguridad. Hacelo lo bastante chico como para darlo esta misma semana.",
+      "quote": null
+    },
+    "anger_at_loved": {
+      "text": "Un epicúreo que se entera de una pelea familiar no preguntaría «¿quién tiene la culpa?» sino «¿quién comió y durmió hoy?». El enojo con las personas más cercanas —la pareja, los padres, los hijos— muchas veces viene con vergüenza: «¿cómo pude saltar así?». Epicuro dividía los deseos en naturales y necesarios —comida, sueño, descanso, seguridad— y vacíos. Cuando los necesarios no se cubren, la irritación se acumula sola: una persona con hambre, sin dormir y agotada salta fácil, casi siempre con quien tiene al lado. Para un epicúreo, muchos estallidos en casa no hablan de falta de amor sino de falta de lo más básico. El testamento de Epicuro se ocupaba de los hijos de sus amigos fallecidos y de la gente de su Jardín; cuidar a los tuyos, según su lógica, incluye cuidarte a vos. Un estallido es una señal, no una sentencia sobre tu amor.",
+      "practice": "Revisá tres cosas simples a la manera epicúrea: ¿cuándo comí, dormí, tomé aire por última vez? Cubrí una de esas necesidades dentro de la próxima hora: eso también es cuidar a los tuyos.",
+      "quote": null
+    },
+    "ambivalence": {
+      "text": "Imaginá la balanza de Epicuro: en un platillo, lo que te da una persona querida; en el otro, lo que te cuesta estar cerca de ella. Querer a alguien y no soportarlo al mismo tiempo desconcierta. El placer y el dolor eran para los epicúreos una brújula natural: una misma persona puede traer las dos cosas, y eso no es una contradicción sino la vida. En la «Carta a Meneceo», Epicuro propone «medir unas cosas con otras»: sopesar con calma qué trae más bien y qué más sufrimiento, sin sacar conclusiones en caliente. A veces, escribe, vale la pena aceptar un dolor por un bien mayor, y a veces rechazar un placer detrás del cual viene un dolor mayor. Para un epicúreo, los sentimientos mezclados no son motivo de vergüenza sino material para este tipo de mirada sobria. No hace falta decidir el destino de la relación; alcanza con ver los dos lados con honestidad.",
+      "practice": "Escribí dos columnas cortas, como los platillos de la balanza de Epicuro: qué te trae alegría en esta relación y qué te trae dolor. No saques conclusiones: solo mirá los dos platillos uno al lado del otro.",
+      "quote": null
+    },
+    "guilty_relief": {
+      "text": "Un epicúreo preguntaría sin vueltas: ¿cómo no va a traer alivio el final de un dolor largo? Y sin embargo, el alivio después de una ruptura, una partida o incluso la muerte de un ser querido que estuvo mucho tiempo enfermo muchas veces llega junto con vergüenza. Para Epicuro, el alivio es uno de los placeres más naturales: el fin del dolor y la vuelta a la paz. A esos placeres los llamaba «catastemáticos»: los placeres tranquilos de un estado en que el cuerpo y el alma ya no sufren. Después de mucha angustia, de cuidar a alguien y de noches sin dormir, este alivio es lo esperable, y no anula el amor. Epicuro aconsejaba guardar con gratitud el recuerdo de los que se fueron, y consideraba el recuerdo de las alegrías pasadas un bien real. Para un epicúreo, el alivio y el amor pueden convivir: uno habla de lo difícil que fue, el otro de lo querido que era.",
+      "practice": "Recordá un momento luminoso con esta persona —de antes de que todo se pusiera pesado— y sostenelo en la memoria un minuto, con gratitud. Los epicúreos consideraban un recuerdo así un bien que nadie puede quitar.",
+      "quote": null
+    },
+    "indifference": {
+      "text": "A Epicuro se lo suele imaginar como un sabio frío, pero nos llegaron sus cartas tiernas a amigos, incluso una a un chico, llena de preguntas y de promesas de golosinas. A veces algo debería conmoverte y adentro hay solo silencio, y eso puede asustar. Los epicúreos buscaban la ataraxia, la imperturbabilidad, pero no es lo mismo que la indiferencia. La tranquilidad de Epicuro era calma, no entumecimiento. Un epicúreo probablemente señalaría que el entumecimiento muchas veces aparece después de una sobrecarga: el alma, como el cuerpo después del dolor, busca descanso y apaga lo que es demasiado. No es motivo para culparte; puede ser una pausa natural para respirar. Los epicúreos aconsejaban volver a los placeres simples: el gusto del pan, un sorbo de agua, una charla con un amigo. Muchas veces es con lo chico, lo corporal, lo concreto, que el sentimiento empieza a volver.",
+      "practice": "Elegí una sensación simple —el gusto del pan, un olor, el calor de una taza entre las manos— y dedicale un minuto entero, como haría un epicúreo. No esperes nada especial; solo notá.",
+      "quote": null
+    },
+    "escape": {
+      "text": "El propio Epicuro una vez se «escapó»: no al fin del mundo, sino a un jardín en las afueras de la ruidosa Atenas, donde los amigos vivían, filosofaban y se cuidaban unos a otros. Las ganas de dejar todo —un trabajo, una ciudad, un rol— les habrían parecido perfectamente comprensibles a los epicúreos. Su consejo de «vivir oculto» era una respuesta al ajetreo de la política y a la carrera por la fama. Pero también eran sobrios: Lucrecio describe a un hombre que corre de la ciudad a su quinta intentando escapar de sí mismo, sin lograrlo. Un epicúreo te propondría distinguir: ¿de qué estoy huyendo, de un dolor real que se puede reducir, o de «opiniones vacías» que se van a venir conmigo? A veces hace falta un cambio. A veces lo que hace falta es un pequeño «Jardín» acá mismo: un lugar y una gente con los que puedas respirar.",
+      "practice": "Cerrá los ojos y recorré mentalmente tu propio «Jardín»: ¿dónde está, quién está ahí, qué estás haciendo? Después buscá una pequeña oportunidad de pasar tiempo en él esta semana, aunque sea una hora.",
+      "quote": {
+        "text": "Hay que liberarse de la cárcel de los asuntos cotidianos y de la política.",
+        "author": "Epicuro",
+        "source": "Sentencias Vaticanas, 58"
+      }
+    },
+    "forbidden_attraction": {
+      "text": "En el Jardín epicúreo los deseos no se avergonzaban sino que se examinaban: con calma, como un médico examina un síntoma. Sentirse atraído por alguien que no está disponible o que «no corresponde» pasa solo y puede desestabilizar mucho. Epicuro lo encararía sin moralizar: los deseos son naturales, y que simplemente aparezcan no es ningún vicio. Pero te propondría una pregunta que recomendaba hacerle a cualquier deseo: ¿qué me va a pasar si se cumple, y qué si no? Epicuro dividía los deseos en naturales y vacíos, y observaba que los vacíos crecen de la imaginación y la opinión y no conocen límite. Un epicúreo exploraría: ¿cuánto de esta atracción es una persona de carne y hueso, y cuánto una expectativa que la mente va completando: una promesa de novedad, de atención, de otra vida? Esta pregunta no dicta sentencia ni decide por vos; solo devuelve claridad.",
+      "practice": "Escribí dos líneas: lo que sabés con certeza sobre esta persona, y lo que completó tu imaginación (una promesa de novedad, de atención, de otra vida). Un epicúreo simplemente miraría las dos líneas, sin dictar sentencia.",
+      "quote": null
+    },
+    "social_anxiety": {
+      "text": "Nadie daba discursos ante una multitud en el Jardín de Epicuro: la gente charlaba en la mesa, en un círculo chico de amigos. Cuando la timidez y el miedo a ser juzgado convierten cada conversación en un examen, un Jardín así se siente especialmente acogedor. Acá los epicúreos son quizás de los aliados más reconfortantes. Epicuro nunca le exigió a nadie que brillara: aconsejaba vivir oculto y no perseguir la aprobación de la multitud, porque consideraba esa sed un deseo vacío que nunca se sacia. Para un epicúreo, no necesitás caerle bien a todo el mundo: para ser feliz alcanza con unas pocas personas bien dispuestas con las que te sentís cómodo. El miedo al juicio muchas veces se alimenta de la «opinión vacía» de que todos te están mirando y juzgando. Epicuro te propondría revisarla: ¿es realmente así? ¿Y a cuál de estas personas me importa de verdad impresionar?",
+      "practice": "Antes de un encuentro, decite en voz baja, como una fórmula epicúrea: «No necesito caerle bien a todo el mundo». Soltá el aire con calma tres veces, y en el grupo buscá a una persona con la que te sientas cómodo: ese es tu pequeño Jardín.",
+      "quote": null
+    },
+    "uncertainty": {
+      "text": "En el mundo de Lucrecio, los átomos caen por el vacío y de pronto se desvían un poquito, sin razón, «en un tiempo incierto y en un lugar incierto». Cuando nadie sabe qué va a pasar y la mente pinta lo peor, esta imagen rara termina ayudando. Lucrecio llamó a este desvío clinamen: en el movimiento de los átomos hay lugar para el azar. El mundo no está escrito de antemano; el futuro, en palabras de Epicuro, no es del todo nuestro ni del todo ajeno. De ahí la conclusión: no tiene sentido ni esperar lo peor como inevitable ni exigirle garantías al futuro. Para un epicúreo, el mejor remedio contra la angustia de lo desconocido es apoyarse en lo que está acá ahora: las alegrías simples, los amigos, la reflexión sobria. Epicuro estaba seguro de que lo que requiere una buena vida está, por regla general, al alcance incluso en un mundo cambiante.",
+      "practice": "Mirá a tu alrededor y nombrá en voz alta tres cosas que hoy tenés seguro: un techo, una taza de té, un amigo al que podés llamar. El futuro no es del todo tuyo, pero estas tres cosas sí.",
+      "quote": null
+    },
+    "waiting": {
+      "text": "Es fácil imaginar el Jardín epicúreo un día en que alguien espera noticias de la ciudad: el pan se sigue partiendo, la charla sigue. La espera —de resultados, de una respuesta, de noticias— parece poner la vida en pausa, y eso desgasta. Los epicúreos valoraban muchísimo el presente. En una de las Sentencias Vaticanas (14), Epicuro le reprocha a quien, sin ser dueño del mañana, posterga la alegría, mientras la vida se le escurre en la demora. La espera se convierte fácilmente en ese tipo de postergación: «cuando sepa, ahí voy a respirar». En términos epicúreos, el resultado no está en tu poder, pero el hoy sí. El placer tranquilo en las cosas simples —una taza de té, una caminata, una charla— es, para Epicuro, completo en sí mismo, no algo «mientras tanto». Podés esperar y vivir al mismo tiempo. La espera es el fondo, no el día entero.",
+      "practice": "Nombrá un placer simple que venís postergando «hasta que llegue la noticia», y regalátelo hoy, sin esperar. Epicuro diría que eso es traer la alegría del futuro de vuelta al presente.",
+      "quote": null
+    },
+    "regret": {
+      "text": "«Lo que fue no puede dejar de haber sido»: para muchos es una sentencia, pero Epicuro proponía usarlo para curar las desgracias. El arrepentimiento por lo que hiciste o no hiciste es señal de que tu vida te importa. Los epicúreos tenían una mirada particular sobre el pasado: para ellos no era solo fuente de dolor sino también un tesoro. Un viejo que vivió bien, escribió Epicuro, descansa como en un puerto, con sus bienes a salvo en el recuerdo agradecido: nadie puede quitarte el bien que viviste. Es una lección doble: el pasado no se puede cambiar, así que discutir con él sin fin es sufrimiento innecesario; pero el pasado también guarda cosas que vale la pena conservar. Podés reconocer un error, sacar una lección y dirigir tu atención al bien que también pasó y que sigue siendo tuyo.",
+      "practice": "Al lado de lo que lamentás, anotá una cosa buena de la misma época de tu vida: algo que tampoco «puede dejar de haber sido». Dejá que las dos líneas sean verdad.",
+      "quote": null
+    },
+    "longing": {
+      "text": "Epicuro les escribía cartas cálidas a sus amigos de Lámpsaco y esperaba con ganas volver a verlos: su filosofía se apoyaba en la amistad y conocía bien la separación. Cuando extrañás a una persona en particular, los epicúreos te entenderían sin muchas palabras. La respuesta epicúrea a la añoranza es la memoria. Para Epicuro, recordar los encuentros alegres no es un consuelo vacío sino un placer real: según Diógenes Laercio, durante una enfermedad grave ponía frente a su dolor la alegría de recordar las charlas pasadas con un amigo. Para un epicúreo, extrañar habla del valor de un vínculo, y se puede suavizar volviendo en la memoria a momentos buenos concretos: no para reabrir la herida, sino para volver a sentir su calor. Un amigo recordado con gratitud, en cierto sentido, sigue cerca.",
+      "practice": "Escribile a esta persona una carta corta, como Epicuro les escribía a sus amigos de Lámpsaco, sobre un buen encuentro que recordás. No hace falta que la mandes.",
+      "quote": null
+    },
+    "world_pain": {
+      "text": "Durante el sitio de Atenas, cuando la ciudad pasaba hambre, Epicuro, cuenta Plutarco, alimentaba a sus discípulos con habas, contadas en partes iguales. Si ahora te duele el mundo —guerras, injusticia, noticias duras—, los epicúreos conocían este sentimiento de primera mano. Su respuesta no fue la indiferencia sino islas de amistad y cuidado: el Jardín, donde la gente se sostenía mutuamente. Epicuro aconsejaba mantenerse lejos de la lucha política por la propia paz, pero de ninguna manera lejos de la gente: la amistad, la ayuda y la bondad simple eran lo que más le importaba. Un epicúreo te propondría distinguir la ayuda real de la inmersión sin fin en noticias alarmantes, que alimenta el miedo pero no ayuda a nadie. Podés llevar el dolor por el mundo sin dejar de ser capaz de cuidar, y para eso también tenés que proteger tu propia tranquilidad.",
+      "practice": "Hacé hoy un acto concreto de cuidado, como Epicuro con sus habas: dale de comer a alguien, llamá a alguien, ayudá a quien tengas cerca. Y pasá la noche sin noticias, con los tuyos o en silencio.",
+      "quote": null
+    },
+    "rejection": {
+      "text": "Al escuchar un «no», un epicúreo preguntaría primero: ¿qué exactamente me quitaron, y qué me queda? Cuando un rechazo se siente como una sentencia sobre todo tu ser, duele muchísimo. Los epicúreos empezarían así: el dolor es real, y como todo dolor cambia y pasa. Después separarían las «opiniones vacías» que la mente le agrega al hecho: «nadie me necesita», «siempre va a ser así». Epicuro creía que una vida feliz necesita poco, y la parte más importante de ese poco es la amistad. Pero la amistad, según él, no requiere la aprobación de todos: alcanza con unas pocas personas con las que podés ser vos. Un rechazo no te quita la capacidad de tener amigos ni te cierra la puerta al futuro. Podés permitirte el duelo, y después volverte hacia quienes están cerca y se alegran de verte.",
+      "practice": "Llamá o mandale un audio a una persona que se alegra de saber de vos: porque sí, sin motivo. Epicuro no curaría el rechazo discutiendo con él, sino con amistad.",
+      "quote": null
+    },
+    "abandonment": {
+      "text": "La comunidad epicúrea se parecía más a una red que a un solo hilo: si se corta una hebra, las otras sostienen. El miedo a ser abandonado puede vivir muy hondo: te dan ganas de aferrarte a alguien y conseguir garantías. Los epicúreos entendían que la mayor parte del tormento humano nace del miedo, y enseñaban a desarmar los miedos. Epicuro te propondría preguntarte: ¿qué es acá una amenaza real, y qué una «opinión vacía» pintada por la imaginación? También insistía en que la felicidad no descansa en una sola persona sino en un círculo de amistad: a la adquisición de amigos la llamaba el mayor de los bienes que la sabiduría procura para una vida feliz. El miedo a perder a una persona se aliviana cuando tenés varios sostenes: no en lugar de esa persona, sino al lado de ella. El amor no se debilita por eso; se vuelve más libre.",
+      "practice": "Dibujá tu «red» epicúrea: un círculo en el medio para vos, y alrededor amigos, familia, compañeros, comunidades. Marcá una hebra que te gustaría fortalecer, y pensá cómo ver a esa persona.",
+      "quote": null
+    },
+    "unrequited": {
+      "text": "Lucrecio notó que el enamorado ve a la persona amada a través de una bruma dorada: una chica morena se vuelve «color miel», una callada, «recatada», y no hay defecto que él no llame virtud. El amor sin respuesta es un dolor tan viejo como el mundo. Los epicúreos, para ser honestos, desconfiaban del amor apasionado: Lucrecio lo describió como una sed que se enciende justamente porque no puede saciarse. Pero la bruma dorada también guarda un consuelo. No es un reproche hacia vos sino una explicación de por qué duele tanto: no añorás solo a una persona, sino también una imagen que creó tu corazón. Podés respetar tu sentimiento y al mismo tiempo ir volviendo de a poco tu atención a los vínculos donde hay reciprocidad: a la amistad, a la gente con la que te sentís cómodo y a gusto.",
+      "practice": "Dale hoy un poco de atención a alguien con quien el cariño es mutuo —un amigo, una hermana, un vecino—: una visita corta o un simple «¿cómo estás?». Los epicúreos curaban lo no correspondido con la reciprocidad de la amistad.",
+      "quote": null
+    },
+    "humiliation": {
+      "text": "En vida, a Epicuro lo cubrieron de calumnias —sus rivales inventaban escándalos sobre él—, y aun así siguió viviendo en su Jardín entre amigos. La humillación quema: se siente como si te hubieran despojado de tu dignidad. Los epicúreos responderían con su pregunta clave: ¿qué de lo que pasó te daña realmente, y qué es opinión? Epicuro consideraba la persecución del honor y del estatus uno de los deseos «vacíos» que nunca se sacian. Así que quedar mal ante los demás, por doloroso que sea, no te quita lo que necesitás para ser feliz: la amistad, las alegrías simples, una mente clara. Cuanto menos depende tu paz del juicio ajeno, menos poder tienen los que intentan humillarte. Esto no quiere decir que haya que negar el dolor: es real. Pero podés reunir a su alrededor lo que te sostiene, sobre todo a la gente que te trata con cariño.",
+      "practice": "Anotá tres cosas que seguís teniendo después de este episodio y que ninguna burla puede tocar: tus amigos, tus habilidades, tus valores. Los epicúreos dirían que eso es lo que la felicidad realmente necesita.",
+      "quote": null
+    },
+    "body_shame": {
+      "text": "Epicuro medía el bien del cuerpo no por el espejo sino por cómo se siente: ¿duele, está abrigado, está a gusto? Estar disconforme con tu cuerpo es un dolor común y silencioso. Para Epicuro, el bien principal del cuerpo es la ausencia de sufrimiento —la aponía— y una sensación tranquila y viva de bienestar, no ajustarse a algún estándar. Probablemente habría contado la búsqueda de una apariencia ideal entre los deseos «vacíos»: nacen de opiniones ajenas, no conocen límite y no traen paz. Para un epicúreo, el cuerpo no es una vidriera sino tu casa, en la que podés vivir alegrías simples: el calor del sol, el fresco del viento, el cansancio agradable después de una caminata. Cuanta más atención le prestes a cómo se siente bien tu cuerpo, menos poder va a tener la idea de cómo «debería» verse.",
+      "practice": "Buscá ahora mismo un placer corporal simple según la medida de Epicuro —agua tibia en las manos, una postura cómoda, un sorbo de té— y quedate en él un minuto, preguntándole a tu cuerpo no «¿cómo te ves?» sino «¿cómo estás?».",
+      "quote": {
+        "text": "Todo lo natural es fácil de conseguir, y solo lo vano es difícil de obtener.",
+        "author": "Epicuro",
+        "source": "Carta a Meneceo"
+      }
+    },
+    "illness": {
+      "text": "Incluso muriendo de una enfermedad dolorosa, Epicuro les escribía a sus amigos y les pedía que cuidaran a los hijos de Metrodoro. Sabía de primera mano lo aterrador y duro que es cuando el cuerpo te falla: por eso su filosofía no es el consuelo de una persona sana. No exigía sufrir en silencio ni avergonzaba a nadie por su debilidad; aconsejaba poner frente al dolor lo que sigue siendo bueno: la alegría de la amistad, el recuerdo de charlas agradables, la claridad del pensamiento. Sus amigos lo visitaban, y cuidarse unos a otros era parte de la vida epicúrea. La enfermedad no es tu culpa ni un motivo para renunciar a las alegrías que todavía están a tu alcance. Incluso en los días difíciles podés encontrar pequeñas islas de paz y dejar que otros te cuiden.",
+      "practice": "Permitite hoy una pequeña isla de paz —tu música favorita, una llamada a un amigo, un recuerdo lindo— sin culpa. Epicuro ponía justamente islas así frente al dolor.",
+      "quote": null
+    },
+    "pride": {
+      "text": "Epicuro se llamaba a sí mismo autodidacta y no le daba vergüenza enorgullecerse de eso, aunque sus rivales se burlaron de él más de una vez. Tu orgullo es un sentimiento bueno y bien ganado: para un epicúreo, la alegría por el propio trabajo es de las más puras. Epicuro distinguía el placer que depende del reconocimiento ajeno —consideraba la persecución de la fama un deseo vacío— del placer tranquilo de algo bien hecho y acorde con tus valores. El primero es insaciable; el segundo es completo en sí mismo. También valoraba la alegría compartida con amigos: está bueno celebrar un trabajo bien hecho entre gente que se va a alegrar con vos. El orgullo sano no necesita público: alcanza con vos, y quizás con un par de personas cercanas.",
+      "practice": "Hacete una pequeña celebración epicúrea: una taza de buen té o un pedazo de queso, y una persona a la que puedas contarle lo que lograste. No hace falta más público.",
+      "quote": null
+    },
+    "melancholy": {
+      "text": "Lucrecio, con toda la racionalidad de su poema, es uno de los poetas más melancólicos de la Antigüedad: en él todo nace y se deshace, los átomos se vuelven a juntar en formas nuevas, y en ese ciclo hay una calma notable. Una tristeza luminosa, una pena mezclada con ternura, le habría resultado cercana. Epicuro consideraba el recuerdo de las alegrías pasadas un placer real, y la tristeza luminosa muchas veces se le parece: recuerda lo bueno sabiendo que ya pasó. Para un epicúreo, una tristeza así no perturba la tranquilidad: puede ser una forma callada de ella. No hace falta espantarla; podés dejarla estar, como el fresco de la tarde después de un día de calor.",
+      "practice": "A la tardecita, salí al balcón o acercate a una ventana y mirá cómo cambia la luz durante un minuto, como Lucrecio miraba el movimiento eterno de las cosas. Dejá que la tristeza se quede con vos, como el fresco de la tarde.",
+      "quote": null
+    }
+  }
+}

@@ -1,0 +1,405 @@
+{
+  "id": "stoicism",
+  "title": "Los estoicos",
+  "tradition": "Estoicismo",
+  "family": "classic",
+  "period": "siglo III a. C. – siglo II d. C.",
+  "sortYear": 125,
+  "thinkers": [
+    "Zenón de Citio",
+    "Séneca",
+    "Epicteto",
+    "Marco Aurelio"
+  ],
+  "keyWorks": [
+    "Séneca, «Cartas a Lucilio» (c. 62–65)",
+    "Epicteto, «Enquiridión» (c. 125)",
+    "Marco Aurelio, «Meditaciones» (c. 170–180)"
+  ],
+  "summary": "El estoicismo es una escuela filosófica que nació en Atenas alrededor del año 300 a. C. y floreció en Roma. Su idea central: no controlamos los acontecimientos, pero sí podemos gobernar cómo los entendemos y cómo respondemos a ellos. El objetivo es vivir «de acuerdo con la naturaleza», es decir, con la razón, con integridad y en conexión con las demás personas.",
+  "onEmotions": "Los estoicos distinguían los «primeros movimientos» —respuestas involuntarias del cuerpo, como el temblor o las lágrimas, que no dependen de nosotros y por las que nadie tiene la culpa— de las «pasiones», estados en los que ya le dimos nuestro asentimiento a un juicio equivocado, como «pasó algo terrible». El ideal no era la insensibilidad sino la apatheia —la libertad frente a las pasiones que nos desbordan— junto con las eupatheiai, los buenos sentimientos: la alegría serena, la precaución razonable, la benevolencia. Para un estoico, trabajar con un sentimiento significa examinar con cuidado la propia «impresión»: ¿qué pienso realmente de lo que está pasando, y es verdad?",
+  "entries": {
+    "anxiety": {
+      "text": "«Cuando veo a un hombre angustiado, me pregunto: ¿qué es lo que quiere?», les decía Epicteto a sus alumnos. Si no quisiera algo que está fuera de su poder, ¿cómo podría estar angustiado? No es un reproche: una mente ansiosa simplemente intenta protegerte de antemano de un futuro que todavía no existe. Epicteto consideraba que había una distinción más importante que todas: nuestros juicios, intenciones y acciones dependen de nosotros; las decisiones de los demás, la salud y el resultado de los acontecimientos, no. La ansiedad suele crecer cuando intentamos sostener en las manos las cosas del segundo tipo. Un estoico no te pide que dejes de sentir; te propone ordenar la preocupación con suavidad: esta parte es mía, y hoy puedo hacer algo con ella; esta otra no es mía, y puedo soltarla sin dejar de que me importe. Entonces la ansiedad deja de ser un veredicto y se vuelve una señal que te indica dónde está tu próximo paso.",
+      "practice": "Doblá un dedo por cada parte de la preocupación y preguntá, como Epicteto: «¿Es mío o no es mío?». Para lo que es tuyo, nombrá un paso para hoy; lo que no es tuyo, soltalo en una exhalación mientras abrís la mano.",
+      "quote": {
+        "text": "No son las cosas las que perturban a los hombres, sino las opiniones sobre las cosas.",
+        "author": "Epicteto",
+        "source": "Enquiridión, 5"
+      }
+    },
+    "fear": {
+      "text": "«¿Era esto lo que yo temía?», se preguntaba Séneca, que a propósito pasaba unos días con la comida más escasa y con ropa áspera. Le escribía a Lucilio que muchas cosas nos asustan más de lo que pueden dañarnos, y probablemente tu miedo también esté pintando el desastre con más detalles de los que tiene. Aun así, el miedo es un protector antiguo: se enciende para cuidar lo que te importa. Los estoicos proponían un ejercicio que más tarde se llamó «premeditatio malorum», pensar de antemano las desgracias: imaginar con calma un desenlace difícil y preguntarte qué harías y en qué fuerzas podrías apoyarte. Paradójicamente, mirar de frente lo que nos asusta muchas veces le quita fuerza: una amenaza difusa se convierte en una dificultad concreta, con la que se puede vivir. El estoicismo no promete que no vaya a quedar nada que temer. Te recuerda que tu capacidad de enfrentar con dignidad lo que pase sigue con vos, sea cual sea el resultado.",
+      "practice": "Hacé una premeditatio corta: cerrá los ojos e imaginá que lo que te da miedo ya pasó. Viví un minuto de ese día en tu mente: ¿qué estás haciendo, quién está cerca, qué seguís teniendo? Después abrí los ojos y fijate dónde estás realmente.",
+      "quote": {
+        "text": "Son más las cosas que nos atemorizan que las que nos oprimen, y sufrimos más a menudo en la imaginación que en la realidad.",
+        "author": "Séneca",
+        "source": "Cartas a Lucilio, XIII"
+      }
+    },
+    "sadness": {
+      "text": "En los campamentos militares del Danubio, Marco Aurelio escribía sus notas, y en ellas hay mucha tristeza callada: por la mortalidad, por los maestros que habían muerto, por la gente. La tristeza que llega cuando algo querido sale distinto de lo que esperábamos también la conocía. A veces se imagina a los estoicos como personas que se prohibían estar tristes, pero no es del todo así. Séneca reconocía que el alma tiene «primeros movimientos» —una pesadez involuntaria, las lágrimas— que no dependen de nosotros y que no tienen por qué darnos vergüenza. El trabajo estoico empieza después: en notar qué pensamiento trae consigo la tristeza. A veces detrás hay un simple «me duele que haya pasado esto», y a veces un «todo va a ser siempre malo». Lo primero se puede simplemente atravesar; lo segundo vale la pena revisarlo, porque ya es un juicio, y los juicios dependen de nosotros. Marco Aurelio se recordaba seguido que todo en el mundo fluye y cambia. Ese pensamiento puede ser un consuelo: tu estado de ahora también es parte del flujo, y no es para siempre.",
+      "practice": "Soltá el aire despacio unas cuantas veces y, con cada exhalación, decí en silencio: «Esto también es parte del flujo». Después preguntate qué pensamiento viene con tu tristeza y fijate: ¿es un hecho o una predicción?",
+      "quote": null
+    },
+    "grief": {
+      "text": "Cuando murió el hijo de Marcia, Séneca le escribió una carta larga, tres años después, porque su duelo todavía no la soltaba. El duelo es amor que ya no tiene adónde ir, y los estoicos lo entendían. Séneca, que también sufrió muchas pérdidas, les escribía cartas de consuelo a sus amigos y no les exigía una calma de piedra. Admitía las lágrimas, pero aconsejaba no dejar que el duelo se tragara la vida entera y, sobre todo, guardar en la memoria lo que había sido dado. Los estoicos recordaban que todo lo que queremos no nos es dado en propiedad sino por un tiempo, como un préstamo de la naturaleza. La idea suena dura, pero también guarda un consuelo: el tiempo que pasaron juntos fue real, y ya nadie te lo puede quitar. El duelo es consecuencia del apego, y los estoicos también valoraban el apego. De a poco, el dolor puede convertirse en un recuerdo agradecido.",
+      "practice": "Contale a alguien —a un amigo, o simplemente al cuarto en silencio, en voz alta— una historia que te guste de la persona que perdiste. Eso es lo que Séneca le pedía a Marcia: no callar sobre él, sino recordarlo.",
+      "quote": {
+        "text": "Que no estén secos los ojos cuando perdemos a un amigo, pero que tampoco se desborden.",
+        "author": "Séneca",
+        "source": "Cartas a Lucilio, LXIII"
+      }
+    },
+    "loneliness": {
+      "text": "Marco Aurelio comparaba a quien se separa de los demás con una mano cortada que yace lejos del cuerpo, y enseguida agregaba que una persona, a diferencia de una mano, puede volver a unirse (VIII, 34). Por eso la soledad duele tanto: somos sociales por naturaleza. Los estoicos enseñaban la oikeiosis, la «apropiación» o el «hacer propio»: desde que nacemos tendemos a cuidarnos a nosotros mismos, y después ese círculo se amplía hasta incluir a los cercanos, a los conciudadanos e, idealmente, a toda la humanidad. Marco Aurelio escribió que estamos hechos para colaborar, como los pies, las manos o los párpados. Tu deseo de cercanía es la voz misma de la naturaleza humana. Al mismo tiempo, los estoicos valoraban saber hacerse buena compañía a uno mismo: Séneca aconsejaba pasar tiempo con los pensamientos de gente valiosa, leyéndolos como quien conversa. La soledad se puede tomar como un recordatorio: soy parte de un todo más grande aunque no haya nadie cerca, y cada gesto amable que hago es un hilo que me une a los demás.",
+      "practice": "Hacé hoy una cosa chiquita por alguien: sostener una puerta, mandar un «¿cómo andás?» corto, agradecerle a la cajera por su nombre. Así se ve el «volver a unirse»: de a un hilo por vez.",
+      "quote": null
+    },
+    "anger": {
+      "text": "Séneca cuenta que Platón, enojado con un esclavo, se quedó inmóvil con la mano levantada y le explicó a un amigo que estaba castigando a un hombre furioso: a sí mismo (Sobre la ira, III, 12). El enojo se enciende cuando algo importante queda tocado —la justicia, los límites, la dignidad— y los estoicos no lo trataban como una pavada. Séneca le dedicó a este sentimiento un tratado entero, «Sobre la ira», y se tomó el tema muy en serio. Distinguía la primera sacudida —el golpe de calor, las ganas de responder, que surgen solas y de las que no sos responsable— de lo que viene después, cuando la mente asiente al pensamiento «me ofendieron, y esto hay que devolverlo». Séneca consideraba que el mejor remedio para la ira es la demora: la ira se debilita si esperás. Marco Aurelio empezaba sus mañanas recordándose que ese día se iba a cruzar con gente difícil, que actúan así por ignorancia y que, aun así, está unido a ellos por una naturaleza común. Los estoicos dirían que podés aceptar el enojo como una señal de lo que valorás, sin apurarte a darle el volante.",
+      "practice": "Cuando sientas que el enojo sube, hacé lo que hizo Platón en la historia de Séneca: quedate quieto. Bajá las manos, soltá el aire despacio tres veces y recién entonces decidí si responder y cómo.",
+      "quote": {
+        "text": "Al despuntar la aurora, decirse de antemano: me encontraré con un indiscreto, un ingrato, un insolente, un mentiroso, un envidioso, un insociable.",
+        "author": "Marco Aurelio",
+        "source": "Meditaciones, II, 1"
+      }
+    },
+    "shame": {
+      "text": "Crates, el maestro del fundador de la Estoa, hizo que el joven Zenón llevara una olla de sopa de lentejas por una calle llena de gente, y después se la rompió de un bastonazo. Chorreando, Zenón salió corriendo, y Crates le gritó: «¿Por qué huís? ¡No te pasó nada terrible!». La vergüenza es algo que queremos esconder, aunque todos la sienten. Los estoicos nos ayudan a mirarla desde otro lado. Para Epicteto, el valor de una persona no lo determinan la opinión ajena, ni la apariencia, ni el éxito, sino cómo usa su prohairesis, la capacidad de elegir y de juzgar. Todo lo demás los estoicos lo llamaban «indiferente»: no insignificante, sino algo que no te hace ni buena ni mala persona. Si tu vergüenza está atada a la mirada de otro, un estoico preguntaría: ¿la opinión de otra persona depende de mí? Si la vergüenza señala algo que hiciste y lamentás, es una señal de que te importa ser una persona decente, lo que quiere decir que tu capacidad para el bien está intacta. Epicteto recordaba que nada grande nace de golpe: aprendemos toda la vida.",
+      "practice": "Acordate de alguna vez que sentiste vergüenza, hace un par de años. Preguntate, como lo haría Crates: «¿Qué cosa terrible me pasó en realidad?». Fijate qué queda hoy de esa vergüenza.",
+      "quote": null
+    },
+    "guilt": {
+      "text": "Todas las noches, cuando se apagaba la lámpara y su mujer, que conocía la costumbre, se quedaba en silencio, Séneca se hacía un juicio a sí mismo: repasaba el día vivido (Sobre la ira, III, 36). La culpa dice lo mismo que ese juicio: te importa cómo afectan tus acciones a los demás. Los estoicos veían a casi todos como un prokopton, «alguien que progresa»: un aprendiz en camino a la sabiduría, para quien los errores son inevitables. Séneca hacía ese juicio nocturno sin crueldad —para entender, no para castigar— y lo cerraba con palabras como «cuidá de no volver a hacerlo; esta vez te perdono». El pasado, según los estoicos, ya no depende de nosotros; lo que depende de nosotros es lo que hacemos ahora: pedir perdón, reparar, actuar distinto la próxima vez. La culpa que se transforma en esa acción ya cumplió su tarea. La culpa que carcome sin fin ya no te ayuda ni a vos ni a las personas que lastimaste.",
+      "practice": "Esta noche, antes de dormir, hacé el juicio de Séneca, corto y misericordioso: un tropiezo, una lección, una frase de perdón. Decítelas cuando ya esté apagada la luz.",
+      "quote": null
+    },
+    "envy": {
+      "text": "«¿Cuánto cuesta una lechuga?», pregunta Epicteto. Un óbolo, digamos: el que pagó el óbolo se llevó la lechuga, y vos, que no pagaste, te quedaste con tu óbolo (Enquiridión, 25). Cuando el éxito de otro pica, duele, y eso no te hace peor persona. Todo tiene su precio, decía: si a alguien lo invitaron a un banquete y a vos no, es que pagó la invitación, con halagos, tiempo, esfuerzo. Si no pagaste ese precio, es raro reclamar la mercadería; pero seguís teniendo lo que te guardaste. Además, para un estoico el verdadero bien es la virtud —sabiduría, justicia, coraje, moderación—, mientras que la riqueza, la fama y el reconocimiento son apenas «indiferentes preferibles». Es lindo tenerlos, pero que vivas bien no depende de ellos. Podés tomar la envidia como una pista de lo que de verdad querés, y preguntarte qué precio estarías dispuesto a pagar vos.",
+      "practice": "Imaginá lo que envidiás en un puesto de feria con la etiqueta del precio: ¿cuántas horas, concesiones y esfuerzos le costó a la otra persona? Decidí si querés comprarlo a ese precio o quedarte con tu óbolo.",
+      "quote": null
+    },
+    "emptiness": {
+      "text": "«¿Hasta cuándo lo mismo? Me despertaré, dormiré, comeré, tendré frío, tendré calor»: así registra Séneca la queja de quienes sienten que la vida se les volvió vacía (Carta XXIV). Es un estado pesado, cuando se fueron las fuerzas y el sentido parece perdido, y no hace falta que te culpes por eso. Los estoicos no describían la apatía en el sentido moderno: su palabra apatheia significaba otra cosa, la libertad frente a las pasiones que desbordan. Pero incluso en el vacío, sostenían, una persona conserva un pequeño punto de apoyo: la capacidad de elegir cómo relacionarse con este momento. Marco Aurelio se confesaba que le costaba levantarse a la mañana y se recordaba: me levanto para hacer el trabajo de un ser humano. No una gran obra, solo la próxima. Los estoicos creían que cada uno está conectado con el todo común, el logos, el orden racional del mundo, y que incluso un pequeño acto de bondad o de cuidado nos devuelve a esa conexión. No tenés que encontrar el sentido de una vez; lo podés ir haciendo de a poco.",
+      "practice": "Levantate y hacé una parte del «trabajo de un ser humano», como lo llamaba Marco Aurelio: servirte agua, abrir una ventana, tender la cama. Decite: «Esto lo elegí yo».",
+      "quote": null
+    },
+    "confusion": {
+      "text": "La palabra griega enchiridion significa «lo que se tiene a mano»: podía nombrar un puñal o un manual, algo que agarrás en un momento difícil. Cuando el mapa conocido de tu vida ya no coincide con el terreno, una cosa así a mano hace especialmente falta. Es un estado honesto: ves que las respuestas viejas ya no encajan. Epicteto empezó su Manual con una sola distinción: algunas cosas dependen de nosotros y otras no. Cuando todo está mezclado, esa distinción funciona como una brújula. No necesitás entender el panorama completo de una: alcanza con encontrar lo que depende de vos ahora mismo. Epicteto también hablaba de los «roles»: cada uno es hijo o hija de alguien, amigo, trabajador, ciudadano, y cada rol sugiere qué conviene hacer. La confusión se puede aceptar como una pausa antes de una elección más precisa. Muchas veces nacen de ella mejores decisiones que de la certeza apurada.",
+      "practice": "Nombrá en voz alta tres de tus roles, por ejemplo «amiga», «hijo», «vecino». Para cada uno, preguntate como Epicteto: ¿qué conviene hacer hoy en este rol? Elegí lo más simple.",
+      "quote": null
+    },
+    "fatigue": {
+      "text": "Séneca recuerda que Sócrates no se avergonzaba de jugar con chicos, ni Escipión de bailar, y escribe: hay que darle descanso a la mente, y se levantará de él mejor y más aguda (Sobre la tranquilidad del alma, 17). Si estás agotado, es señal de que hace mucho que venís cargando mucho. A los estoicos se los suele imaginar como gente de voluntad inquebrantable, pero Séneca escribió que la mente necesita reposo como un campo: sin descanso se agota. Elogiaba las caminatas, el cambio de actividad, la charla con amigos y hasta una comida sin apuro compartida con ellos. Epicteto, por su parte, nos ayuda a ver de dónde puede venir parte del cansancio: gastamos fuerzas en lo que no depende de nosotros, en controlar opiniones ajenas, resultados, el futuro. Soltar eso no es rendirse; es dejar de arrastrar una carga que nunca fue tuya. Los estoicos dirían que cuidar tus fuerzas también es parte de vivir «de acuerdo con la naturaleza»: no sos una máquina sino un ser vivo con límites, y respetarlos es una expresión de la razón.",
+      "practice": "Dejá tu mente en barbecho: durante cinco minutos no hagas nada; sentate, apoyá las manos en las rodillas, mirá por la ventana. Si viene un pensamiento sobre tareas, decile: «Después».",
+      "quote": null
+    },
+    "boredom": {
+      "text": "Séneca describe a la gente que viaja a la costa y enseguida extraña la ciudad: «así cada uno huye de sí mismo» (Sobre la tranquilidad del alma, 2). El aburrimiento puede ser un tormento: el tiempo se arrastra y nada da alegría. Hay que cambiar de alma, no de cielo, le respondió a un amigo que se quejaba de que sus viajes no le servían. Para un estoico, el aburrimiento puede indicar que tu atención se fue a esperar que algo externo te entretenga. Los estoicos proponían traer la atención de vuelta al presente: Marco Aurelio aconsejaba hacer cada tarea entera, con presencia plena, sin distraerse con el ajetreo. Podés tomar el aburrimiento como una invitación: fijate qué está pasando ahora mismo y preguntate para qué podría servir este tiempo.",
+      "practice": "Lavá una taza como Marco Aurelio aconsejaba hacer cada acto, como si fuera el último de tu vida: el agua tibia, el peso de la taza, el sonido. Una taza, entera.",
+      "quote": null
+    },
+    "joy": {
+      "text": "«Ante todo, Lucilio, aprendé a alegrarte», escribe Séneca en su carta vigesimotercera. Tu alegría de ahora es justamente aquello para lo que se entrenaban los estoicos, no algo que se prohibieran. Al contrario: entre las eupatheiai, los buenos sentimientos del sabio, la alegría figuraba primero, chara en griego, gaudium en latín. En esa misma carta señala que la verdadera alegría es cosa seria: crece desde adentro, de una vida buena, en lugar de depender de los regalos casuales de la fortuna. Los estoicos distinguían esa alegría profunda del placer pasajero, que desaparece junto con su causa externa. Eso no quiere decir que no puedas alegrarte por cosas externas: podés, solo que sin aferrarte a ellas con uñas y dientes. Un estoico diría que tu alegría es especialmente firme cuando está ligada a lo que hiciste, a lo que entendiste, a cómo trataste a los demás: a lo que nadie te puede quitar.",
+      "practice": "Contale a una persona qué te alegró hoy, y agregá qué parte tuviste vos en eso.",
+      "quote": {
+        "text": "Ante todo, querido Lucilio, haz esto: aprende a alegrarte.",
+        "author": "Séneca",
+        "source": "Cartas a Lucilio, XXIII"
+      }
+    },
+    "love": {
+      "text": "Séneca le escribió a Lucilio que no se hace un amigo para tener a alguien que se siente junto a su cama, sino para tener a alguien junto a cuya cama sentarse (Carta IX). La ternura que sentís es algo que los estoicos, a pesar de su imagen severa, valoraban mucho. Consideraban natural el apego a la familia y a los amigos: es la misma oikeiosis, el cuidado que se amplía de uno mismo a los cercanos. Es cierto que Epicteto daba un consejo difícil: cuando abrazás a alguien que querés, acordate de que es mortal y de que no te fue dado para siempre. Suena frío, pero el sentido es otro: ese recuerdo vuelve la ternura más viva y atenta, y protege de la costumbre de dar a los seres queridos por sentados. Séneca llamaba a la amistad un gran bien. Los estoicos dirían que el amor es más puro cuando tiene más de desearle el bien al otro que de desear poseerlo.",
+      "practice": "Decile a una persona cercana una cosa concreta que valorás de ella, en voz alta o en un mensaje corto. Epicteto te recordaría: este día juntos es un regalo, no algo garantizado.",
+      "quote": null
+    },
+    "gratitude": {
+      "text": "«De mi abuelo Vero: la bondad y la serenidad de carácter»: así empieza un libro que un emperador romano escribió solo para sí mismo (I, 1). Los estoicos cultivaban la gratitud a conciencia, como una habilidad. El primer libro de las Meditaciones de Marco Aurelio es todo agradecimientos: a su abuelo, a su madre, a sus maestros, a sus amigos, a cada uno por una cualidad o una lección concreta que recibió de ellos. El emperador que gobernaba un reino inmenso empezó sus notas privadas no con sus preocupaciones sino con una lista de lo que otros le habían dado. Séneca escribió un tratado, «Sobre los beneficios», y consideraba la ingratitud uno de los vicios más extendidos, mientras que la capacidad de recibir el bien y recordarlo era señal de un alma sana. Para un estoico, la gratitud nos devuelve la sensación de conexión con el todo: no nos hicimos a nosotros mismos. También ayuda a aceptar: incluso en un día difícil podés encontrar lo que se te dio, y eso equilibra lo que se te quitó.",
+      "practice": "Como Marco Aurelio, escribí una línea con la forma «De… : …»: de quién, y qué cualidad o lección recibiste.",
+      "quote": null
+    },
+    "hope": {
+      "text": "«Dejarás de temer si dejas de esperar»: Séneca cita estas palabras del filósofo Hecatón en su quinta carta a Lucilio, y suenan casi crueles. La esperanza nos ayuda a aguantar, y en los tiempos difíciles es especialmente valiosa, así que vale la pena mirar estas palabras con honestidad. La esperanza y el miedo, escribe Séneca, van juntos como el preso y su guardia, atados por una misma cadena. Quería decir que son dos caras de un mismo estado: una mente suspendida sobre un futuro que no depende de nosotros. No es una invitación a la desesperación, todo lo contrario. Los estoicos proponían mudar el punto de apoyo del futuro al presente: no «todo va a salir bien seguro», sino «pase lo que pase, voy a intentar enfrentarlo con dignidad». Esa esperanza en vos mismo, en tu capacidad de responder, es más firme que la esperanza en las circunstancias. Podés seguir esperando cosas buenas, solo que sin hacer depender del todo tu firmeza interior del resultado.",
+      "practice": "Formulá tu esperanza a la manera estoica, en voz alta, con una «cláusula de reserva»: «Espero que… y si no, puedo…». Escuchá cómo suena la segunda mitad.",
+      "quote": {
+        "text": "Dejarás de temer si dejas de esperar.",
+        "author": "Séneca (citando a Hecatón)",
+        "source": "Cartas a Lucilio, V"
+      }
+    },
+    "nostalgia": {
+      "text": "Séneca dividía la vida en tres tiempos —lo que fue, lo que es y lo que será— y observaba que solo sobre el primero la fortuna perdió todo poder. En esa añoranza dulce y un poco triste del pasado hay mucho amor por lo que viviste. En «Sobre la brevedad de la vida» llama al pasado la parte más segura de nuestra vida: no se nos puede quitar. Lo que fue bueno va a quedar para siempre como algo que fue. Al mismo tiempo, Marco Aurelio se recordaba constantemente que solo podemos vivir en el presente, el único tiempo que de verdad tenemos. Un estoico diría que la nostalgia se puede aceptar como un recuerdo agradecido que alimenta, y no como un intento de traer de vuelta lo que no puede volver. El pasado deja de ser un lugar al que querés escaparte y se vuelve una despensa de la que sacás fuerzas y una comprensión de lo que te importa.",
+      "practice": "Sostené en las manos algo de aquella época —una foto, una carta, una taza vieja— durante un minuto. Preguntate: ¿qué había de valioso en eso, y dónde tiene lugar ese valor ahora?",
+      "quote": null
+    },
+    "craving": {
+      "text": "Zenón, el fundador de la Estoa, mostraba con su propia mano el camino de la impresión a la acción: la palma abierta es la impresión, los dedos apenas doblados son el asentimiento, el puño cerrado es la convicción firme. Una tentación —ese «lo quiero ya» punzante— es como una mano que se cierra sola, y no hay nada vergonzoso en su fuerza. Los estoicos describieron en detalle un mecanismo muy parecido. Primero viene una «impresión»: una imagen de alivio, de sabor, de calma. Después la mente le da o no le da su «asentimiento» (synkatathesis en griego). Epicteto aconsejaba no asentir enseguida, sino decirle a la impresión algo así como: «Esperá, dejame ver qué sos». Entre el impulso y la acción hay un espacio, y ahí vive tu libertad. La tentación en sí puede no desaparecer —los estoicos no exigían que no la sintieras—; proponían no confundir una sensación con una orden. Cada ola que esperaste hasta que pasara es práctica, no un examen, y su resultado no define tu valor.",
+      "practice": "Cuando llegue la ola de ganas, abrí la palma como Zenón y mantenela abierta mientras respirás lento diez veces. Decite: «Esto es una impresión. No le di mi asentimiento».",
+      "quote": null
+    },
+    "addiction": {
+      "text": "Epicteto les aconsejaba a sus alumnos contar los días: «Antes me enojaba todos los días, después día por medio, después cada tres, después cada cuatro» (Disertaciones, II, 18). La adicción no es una falla moral sino un circuito que tardó mucho en formarse y que se agarra fuerte. Los estoicos pensaron mucho en el hábito. Epicteto observaba que toda capacidad se fortalece con las acciones que le corresponden: caminar caminando, correr corriendo. Así que el circuito de la adicción es algo que se entrenó muchísimas veces, no tu «naturaleza», y de la misma manera, paso a paso, se puede entrenar otra cosa. Epicteto, que había sido esclavo, consideraba la libertad el asunto principal de la filosofía: libre es aquel cuya «parte rectora», el hegemonikon, no quedó entregada al poder de las cosas. Al mismo tiempo, los estoicos hablaban con respeto de los prokoptontes, «los que progresan»: gente en camino, no en la meta. En esta mirada, las recaídas no anulan el camino. Hasta Séneca le escribía sus cartas a Lucilio como compañero de ruta, no como un maestro que ya lo había superado todo.",
+      "practice": "Contá como Epicteto, no en años sino en días y horas: nombrá en voz alta una hora reciente en la que el circuito se aflojó. Si querés, contáselo a alguien que entienda: un amigo, o un grupo de ayuda mutua (como AA o NA).",
+      "quote": null
+    },
+    "hangover": {
+      "text": "«No te avergüences de que te ayuden», se escribía Marco Aurelio: un soldado rengo no puede trepar solo la muralla en un asalto, pero con un compañero sí (VII, 7). La mañana después puede ser doblemente dura —el cuerpo duele, la cabeza da vueltas con ansiedad, vergüenza, pedazos de la noche anterior— y una mañana así no merece un veredicto sino suavidad. Los estoicos distinguían los «primeros movimientos» —la respuesta involuntaria del cuerpo: temblor, pesadez, agitación— de los juicios que les agregamos encima: «soy un desastre», «arruiné todo». Lo primero simplemente hay que esperarlo mientras te cuidás. Lo segundo se puede examinar. Marco Aurelio aconsejaba separar el hecho desnudo de la evaluación: «esto es lo que pasó», sin escribirle un veredicto encima. Séneca contaba que cada noche repasaba el día, preguntándose sin castigarse: ¿qué hice mal, qué se puede arreglar? Ayer ya no depende de vos; tu respuesta de hoy, sí.",
+      "practice": "Sentate, apoyá los pies en el piso y respirá despacio. Con cada exhalación, separá el hecho del veredicto como hacían los estoicos: quedate con «esto es lo que pasó ayer» y soltá el «entonces soy un desastre».",
+      "quote": null
+    },
+    "euphoria": {
+      "text": "«Recibir sin orgullo, soltar sin lucha», se escribía Marco Aurelio, un hombre al que la fortuna le había dado más que a casi nadie (VIII, 33). Tu estallido de euforia es intenso, puede haber mucho de real en él —el gusto por la vida, la sensación de fuerza— y no hace falta arruinarlo con sospechas. Los estoicos distinguían la «pasión» del placer —una excitación que se apoya en el pensamiento «esto es lo más importante, necesito más»— de la eupatheia de la alegría, que es serena y se apoya en lo que está en nosotros. Un estoico no apaga la euforia, pero le hace una pregunta chiquita: ¿en qué te apoyás? Si es en algo externo —la suerte, un elogio, un acontecimiento—, entonces, como todo lo externo, va a venir y se va a ir. Marco Aurelio se recordaba constantemente que todo fluye y cambia. Acá esa idea no enfría las cosas sino que libera: podés disfrutar sin aferrarte y sin prometerte que siempre va a ser así. Entonces la bajada también va a ser más suave.",
+      "practice": "En plena euforia, respirá lento tres veces y decite las palabras de Marco: «Recibir sin orgullo, soltar sin lucha». Después nombrá en voz alta qué es exactamente lo que te alegra.",
+      "quote": null
+    },
+    "crash": {
+      "text": "El tiempo es un río de acontecimientos, escribió Marco Aurelio: apenas aparece algo, ya se lo lleva la corriente, y trae otra cosa (IV, 43). La caída después de una celebración, un logro o una noche intensa puede ser inesperadamente empinada, y no es culpa tuya: así suelen funcionar las olas. Los estoicos dirían que el bajón duele especialmente por una comparación involuntaria: «ayer fue así y hoy es asá, entonces algo debe estar roto». Pero tanto el pico de ayer como el bajón de hoy pertenecen a lo «externo», a lo que viene y se va. Marco Aurelio miraba la vida como un flujo de cambios y no veía en eso una amenaza sino el orden natural de las cosas. El punto de apoyo estoico no es el estado de ánimo, sino lo que podés hacer y cómo te relacionás con lo que pasa. Incluso en un día gris quedan cosas chiquitas a tu alcance: hacer una tarea con honestidad, ser amable con alguien, vos incluido. El bajón también es parte del flujo, y también va a pasar.",
+      "practice": "Hacé una cosa chiquita y honesta —tender la cama, contestar un mensaje, sacar la basura— y decite: «Esto dependía de mí, y lo hice».",
+      "quote": null
+    },
+    "panic": {
+      "text": "Aulo Gelio describe una tormenta en el mar: un filósofo estoico que iba a bordo se puso pálido, y después les mostró a los otros pasajeros un pasaje de Epicteto: incluso el sabio se sobresalta ante lo repentino, pero no asiente al pensamiento «estoy perdido». Una ola de pánico da miedo de verdad: el corazón golpea, no te alcanza el aire, y no es culpa tuya que esto pase. Los estoicos sabían que el cuerpo puede responder antes que la razón; a eso lo llamaban «primeros movimientos»: el temblor, la palidez, la respiración entrecortada llegan sin nuestro consentimiento, y ni siquiera el sabio es inmune a ellos. Hay un consuelo en esto: la ola en sí no es un fracaso tuyo. La parte estoica del trabajo es, con suavidad, no agregarle una segunda capa de juicios como «esto no se va a terminar nunca». Una ola de pánico suele llegar a su pico y bajar en pocos minutos. Podés recibirla como al mal tiempo: sin discutir con ella, anclándote en el momento presente, el único, como escribió Marco Aurelio, que de verdad tenemos.",
+      "practice": "Agarrate de algo firme —el borde de una mesa, el respaldo de una silla— y sentí su solidez. Hacé cada exhalación más larga que la inhalación y repetí en silencio, como el estoico en el barco: «El cuerpo tiembla. Yo estoy acá». Nombrá cinco objetos que puedas ver.",
+      "quote": null
+    },
+    "dread": {
+      "text": "Marco Aurelio repasaba mentalmente a los que ya se habían ido —médicos que fruncían el ceño ante los enfermos, astrólogos que predecían la muerte ajena, Alejandro Magno— y agregaba con calma: también ellos (IV, 48). El pensamiento de nuestra finitud y la pregunta «¿para qué todo esto?» pueden caerte encima de golpe, y hablan de la profundidad de tu mente. Los estoicos no les daban la espalda a estas preguntas. Marco Aurelio pensaba seguido en lo fugaz de todo, y de eso no sacaba la conclusión de que nada importa, sino de que el presente es valioso: como el tiempo es limitado, cada día se puede vivir con atención y con bondad. Para los estoicos, el sentido no está en algún lugar afuera, en una garantía de eternidad, sino en la manera misma de vivir: con razón, con justicia, en conexión con los demás. Marco escribió que las personas están hechas para colaborar, como las manos, los pies o los párpados. El abismo no desaparece por eso, pero al lado aparece un punto de apoyo: este día, esta persona, esta buena acción. Con eso alcanza para seguir.",
+      "practice": "Salí un minuto afuera o acercate a una ventana y mirá el cielo. Después bajá la mirada a algo cercano —un árbol, alguien que pasa, tu propia mano— y decite: «Este día. Esta tarea».",
+      "quote": null
+    },
+    "fomo": {
+      "text": "Epicteto proponía comportarse en la vida como en un banquete donde los platos van pasando. Cuando la vida de los demás se ve a toda hora en tu feed, es fácil sentir que todos están en las mejores mesas y vos no. Te llega un plato: servite una porción moderada; pasa de largo: no lo retengas; todavía no te llegó: no estires la mano desde lejos, esperá. Epicteto también recordaba que todo tiene su precio: a alguien lo invitaron a la fiesta porque pagó la invitación con tiempo, halagos, esfuerzo, y vos te quedaste con algo tuyo. Y estás «donde tenés que estar», al menos en un sentido: solo acá tenés acceso a lo que depende de vos. El festín de otro no anula tu propia mesa.",
+      "practice": "Cuando pique el «me lo estoy perdiendo», poné el celular boca abajo y mirá alrededor como un invitado al banquete de Epicteto: ¿qué plato tengo adelante ahora mismo? Dale cinco minutos de atención de verdad.",
+      "quote": null
+    },
+    "sleepless": {
+      "text": "Séneca vivió una vez justo encima de unos baños públicos: los gruñidos de los atletas, los palmazos del masajista, los gritos del vendedor de pasteles; y escribió que el ruido no lo molestaba mientras hubiera silencio adentro (Carta LVI). A las tres de la mañana, los pensamientos tienden a volverse más fuertes y más oscuros que de día, más ruidosos que cualquier baño público. Los estoicos te propondrían no resolver las grandes cuestiones de noche: los juicios que nacen en la oscuridad y el cansancio conviene postergarlos hasta la mañana y examinarlos a la luz del día. Séneca escribió que cada noche repasaba el día y después lo soltaba, y que el sueño después de ese repaso es más tranquilo. No tenés que discutir con cada pensamiento nocturno. Podés decirle con amabilidad «mañana te escucho» y volver a tu respiración. A la mañana, muchos de esos pensamientos van a resultar más chicos de lo que parecían.",
+      "practice": "Susurrale al pensamiento insistente: «Mañana te escucho». Apoyá una mano sobre la panza y contá tus exhalaciones hasta diez; después empezá de nuevo desde uno.",
+      "quote": null
+    },
+    "betrayal": {
+      "text": "El mejor general de Marco Aurelio, Avidio Casio, se sublevó contra él; cuando todo terminó, según Dión Casio, el emperador quemó sin leerlas las cartas de los conjurados. El golpe vino de donde había confianza: por eso la traición hiere tan hondo, y los estoicos no proponen hacer de cuenta que no pasó nada. En las Meditaciones, Marco se recuerda una y otra vez que la gente actúa mal porque se equivoca sobre el bien y el mal, y que ese es su error, no una medida de tu valor. El acto de otra persona no puede hacerte peor: cómo respondés sigue dependiendo de vos. Al mismo tiempo, un estoico no está obligado a volver a confiar en quien lo traicionó: la precaución razonable también es una de las eupatheiai, los buenos sentimientos. Podés hacer el duelo por la confianza perdida, protegerte y no dejar que la amargura lo invada todo, todo al mismo tiempo.",
+      "practice": "Contale a una persona de confianza lo que pasó, no para decidir qué hacer, sino para separar en voz alta: lo que hizo el otro, y lo que sigue siendo mío pase lo que pase.",
+      "quote": null
+    },
+    "jealousy": {
+      "text": "Epicteto aconsejaba no decir nunca de alguien cercano «lo perdí», sino «lo devolví»: a quienes queremos no nos los dan en propiedad sino por un tiempo (Enquiridión, 11). Los celos son una mezcla de miedo a perder, dolor e inseguridad, y detrás hay un apego que para vos es valioso. Los estoicos dirían que los celos atormentan también porque apuntan a algo que, por su propia naturaleza, no depende de nosotros: los sentimientos y las elecciones de otra persona. El consejo de Epicteto suena severo, pero también trae alivio: no necesitás —ni podés— controlar a otra persona. Lo que depende de vos es otra cosa: ser honesto, hablar de lo que sentís, cuidar la relación y cuidarte. El amor estoico no es posesión sino presencia atenta al lado de un ser humano libre.",
+      "practice": "Abrí las dos manos: en la derecha poné mentalmente lo que sabés con certeza; en la izquierda, lo que completa tu imaginación. Bajá la izquierda. ¿Qué conversación honesta queda en la derecha?",
+      "quote": null
+    },
+    "resentment": {
+      "text": "Una vez, en los baños, alguien que no lo reconoció le pegó a Catón; cuando el hombre fue a pedirle perdón, Catón respondió: «No recuerdo que me hayan pegado» (Séneca, Sobre la ira, II, 32). Un rencor viejo pesa, y detrás suele haber una injusticia real: olvidarla como Catón pocas veces es posible. Los estoicos lo tomarían en serio, y también preguntarían: ¿a quién lastima más ahora mismo? En «Sobre la ira», Séneca muestra cómo crece el resentimiento cuando nos volvemos a contar la ofensa una y otra vez, agregándole al hecho interpretaciones cada vez nuevas. Marco Aurelio escribió que la mejor manera de defenderse de quien te hizo daño es no volverse como él. Soltar el resentimiento no quiere decir afirmar «estuvo todo bien», ni necesariamente reconciliarse. Quiere decir recuperar la parte de tu atención que durante años se fue a una herida vieja. Tu juicio sobre lo que hicieron puede seguir igual: lo único que se va es la rumiación sin fin, que es lo que más te atormenta.",
+      "practice": "Probate la frase de Catón —«No recuerdo que me hayan pegado»— no como una mentira sino como un experimento: ¿cómo sería no cargar este rencor durante un minuto? Fijate qué cambia en tus hombros y en tu respiración.",
+      "quote": null
+    },
+    "heartbreak": {
+      "text": "«La pérdida no es otra cosa que cambio», escribió Marco Aurelio (IX, 35), y la frase es fría solo a primera vista. Una ruptura da vuelta la vida: desaparecen las costumbres, los planes, la voz al lado, y un corazón roto duele de verdad. Los estoicos reconocían como naturales esos «primeros movimientos». Al consolar a sus amigos, Séneca aconsejaba no prohibirse el dolor, pero tampoco hacer de él el único contenido de la vida. La mirada estoica propone sostener dos cosas juntas. La primera: lo que hubo entre ustedes fue real; Séneca escribió que el pasado está a salvo y que ya nadie lo puede quitar. La segunda: la otra persona es libre, y su elección no es un veredicto sobre vos. Tu valor no se decide por si ese amor se quedó con vos. De a poco podés ir recuperando lo tuyo —las amistades, el trabajo, el cuidado de vos mismo— sin apurar el dolor.",
+      "practice": "Caminá diez minutos por un recorrido conocido y fijate qué cambió desde la última vez: un cartel, un árbol, la luz. El cambio a tu alrededor —y en vos— pasa solo; no hace falta apurarlo.",
+      "quote": null
+    },
+    "impostor": {
+      "text": "Séneca, el filósofo más leído de Roma, decía de sí mismo que no era un médico sino un enfermo acostado en la misma sala, que compartía remedios con el de al lado (Carta XXVII). Si tenés miedo de que en cualquier momento te «descubran», eso también le pasa a gente muy capaz, y tu misma exigencia con vos habla de responsabilidad. Los estoicos correrían la pregunta de lugar. Epicteto ponía la opinión ajena, la reputación y el reconocimiento entre las cosas que «no dependen de nosotros». Lo que depende de nosotros es cómo hacemos nuestro trabajo: con honestidad, con atención. Epicteto incluso aconsejaba: si querés progresar, conformate con parecer ignorante en las cosas externas. Los estoicos no se hacían pasar por sabios: se llamaban a sí mismos «los que progresan» y no veían nada vergonzoso en eso. No tenés que saberlo todo ya. Ser aprendiz de tu oficio no es un engaño sino una posición honesta, y no hace falta esconderla.",
+      "practice": "Contale a un colega o a un amigo una cosa que estás aprendiendo ahora, así nomás: «Todavía estoy progresando en esto». Fijate que el cielo no se vino abajo.",
+      "quote": null
+    },
+    "self_hatred": {
+      "text": "«Vos»: así se habla Marco Aurelio a sí mismo en las páginas de las Meditaciones, y esa voz es exigente pero casi nunca cruel. Si tu crítico interior suena despiadado, es muy duro, y merecés apoyo, no un veredicto más. A veces se imagina a los estoicos como jueces severos de sí mismos, pero su autoexamen era otra cosa. Séneca describía su repaso nocturno del día como una conversación en la que se decía: «cuidá de no volver a hacerlo; esta vez te perdono». Examinaba acciones; no dictaba sentencia sobre su persona entera. En las Meditaciones, Marco Aurelio también se habla a sí mismo con exigencia, pero como a un amigo: si algo no salió, no te desesperes; volvé a intentarlo. Para los estoicos, la voz que insiste en «no valgo nada» no es la razón sino una pasión, es decir, un juicio equivocado, y no estás para nada obligado a darle la razón.",
+      "practice": "Decí en voz alta una de las frases de tu crítico interior y después reformulala como se hablaba Marco Aurelio: «Esta parte te salió mal. Volvé y probá de nuevo».",
+      "quote": null
+    },
+    "helplessness": {
+      "text": "Cuenta la leyenda que el amo de Epicteto le estaba torciendo la pierna y el esclavo le dijo con calma: «Me la vas a romper»; cuando la pierna se rompió, agregó: «¿No te lo dije?». Cuando parece que no se puede cambiar nada, es uno de los sentimientos más tormentosos que hay. Los estoicos no negaban que una parte enorme de la vida no depende de nosotros; al contrario, empezaban justamente por ahí. Pero su distinción funciona en las dos direcciones. Incluso cuando las circunstancias no dependen de vos, queda una zona angosta pero real: cómo entendés lo que pasa, adónde dirigís tu atención, cómo te tratás a vos y a los demás. Epicteto, que había sido esclavo y además era rengo, conocía la impotencia de primera mano, y quizás justamente por eso valoraba tanto esa pequeña isla de libertad. La impotencia ante lo grande no anula la fuerza en lo chico. A veces lo único que podés hacer es vivir el día de hoy con suavidad. Y eso ya es mucho.",
+      "practice": "Pensá en Epicteto y encontrá tu propia «islita»: nombrá tres cosas que siguen siendo tuyas en este minuto: tu respiración, tu mirada, tu próxima palabra. Elegí una y hacela con cuidado.",
+      "quote": {
+        "text": "De las cosas existentes, unas dependen de nosotros y otras no dependen de nosotros.",
+        "author": "Epicteto",
+        "source": "Enquiridión, 1"
+      }
+    },
+    "procrastination": {
+      "text": "«Reivindícate para ti mismo»: así empieza la primera carta de Séneca a Lucilio. El tiempo nos lo quitan, nos lo roban, y más todavía lo perdemos nosotros postergando las cosas. Séneca no lo decía para avergonzar a nadie: detrás del «no puedo arrancar» hay más seguido miedo, cansancio o una tarea demasiado grande que pereza. Marco Aurelio, a juzgar por sus notas, también sufría para levantarse a la mañana y se convencía a sí mismo: me levanto para hacer el trabajo de un ser humano. La solución estoica es no enfocarse en la tarea entera sino en la próxima acción: hacer lo que tenés adelante como si fuera lo único. Empezar quiere decir dar un primer paso muy chiquito, no conquistarlo todo de una.",
+      "practice": "Poné un temporizador de cinco minutos y hacé solo el primer pedacito de la tarea, diciéndote, como Marco Aurelio al amanecer: «Me levanto para hacer el trabajo de un ser humano». Cuando suene, podés parar.",
+      "quote": {
+        "text": "Nada, Lucilio, es nuestro; solo el tiempo es nuestro.",
+        "author": "Séneca",
+        "source": "Cartas a Lucilio, I"
+      }
+    },
+    "uprooted": {
+      "text": "Séneca pasó ocho años desterrado en Córcega, una isla pelada y rocosa, y desde allí le escribió una consolación a su propia madre. Perder tu casa es perder no solo una dirección sino el idioma de las calles, las caras conocidas, el suelo bajo los pies: es un duelo real. Los estoicos lo conocían desde adentro: Musonio Rufo y Epicteto también fueron expulsados de Roma. En esa consolación, Séneca decía que adonde sea que nos arrojen, siguen con nosotros la naturaleza que todos compartimos y nuestra propia alma. Los estoicos se llamaban a sí mismos «cosmopolitas», ciudadanos del mundo: una persona no pertenece solo a su ciudad sino a la inmensa comunidad de todos los seres humanos. Eso no anula la nostalgia de casa, pero ofrece un segundo punto de apoyo: no te caíste del mundo, estás en otra parte de él, y acá también hay gente a la que te podés acercar.",
+      "practice": "Recorré tu lugar nuevo y encontrá una cosa que está ahí adonde sea que te arrojen: el cielo, un árbol, el pan recién hecho en una panadería. Séneca diría: este es el mundo que todos compartimos, y también es tuyo.",
+      "quote": null
+    },
+    "overload": {
+      "text": "«Quien está en todas partes no está en ninguna», le advertía Séneca a Lucilio, que devoraba un libro tras otro (Carta II): mejor pocas cosas, pero a fondo, para que lo que leés tenga tiempo de volverse propio. Cuando hay más noticias, mensajes y opiniones de las que te entran en la cabeza, el cansancio y la irritación son naturales. Epicteto aconsejaba poner a prueba cada «impresión» antes de dejarla entrar: ¿qué sos, y tenés que ver conmigo? Y Marco Aurelio observaba que la mayor parte de lo que decimos y hacemos no es necesario, y aconsejaba preguntarse antes de cada cosa: ¿hace falta esto? El filtro estoico es simple: la mayor parte del ruido no depende de vos y no requiere tu asentimiento.",
+      "practice": "Antes del próximo toque en el feed, dejá el dedo suspendido sobre la pantalla y preguntá, como Marco Aurelio: «¿Hace falta esto?». Si no, llevá el celular a otro cuarto por diez minutos.",
+      "quote": null
+    },
+    "unreality": {
+      "text": "«Esta túnica de púrpura es lana de oveja teñida con sangre de molusco»: así se entrenaba Marco Aurelio para ver las cosas «como son», sin brillo ni niebla (VI, 13). Cuando todo lo que te rodea —o vos mismo— parece no del todo real, como detrás de un vidrio, es una experiencia rara y muchas veces inquietante, y se puede hablar de ella con calma. Los estoicos no la describían en términos modernos, pero probablemente dirían que el punto de apoyo en esos momentos no está en entender enseguida qué pasa, sino en lo que siempre está a mano: el cuerpo, el momento presente, la próxima tarea. Ese nombrar sobrio puede ayudar a recuperar el contacto: acá está la mesa, acá la taza, acá mi mano. El mundo no se fue a ninguna parte, y podés volver a él paso a paso.",
+      "practice": "Agarrá el objeto más cercano y describilo en voz baja, como lo haría Marco Aurelio: «Esto es una taza: barro cocido, blanca, tibia de un lado». Después hacé lo mismo con la silla en la que estás y con el piso bajo tus pies.",
+      "quote": null
+    },
+    "awe": {
+      "text": "«La mirada desde lo alto»: así se llama un ejercicio de Marco Aurelio: elevarse con el pensamiento y mirar la tierra desde arriba —ejércitos, campos, bodas, mercados, nacimientos y muertes—, todo a la vez (VII, 48). El asombro ante un cielo estrellado, el mar o la música es algo que los estoicos valoraban mucho. Para ellos el mundo es un único orden vivo, atravesado por el logos, el principio racional, y el ser humano es parte de él. Esa «mirada desde lo alto» achica las preocupaciones chicas y vuelve más palpable la conexión con el todo. Séneca escribió que contemplar la naturaleza eleva el alma y la saca del encierro de las preocupaciones cotidianas. Para un estoico, la reverencia no es una fuga de la vida sino un recordatorio de su escala: sos una parte pequeña pero real de un todo inmenso. Ese sentimiento se puede simplemente vivir, sin apurarse a explicarlo.",
+      "practice": "Cerrá los ojos y hacé la «mirada desde lo alto»: elevate por encima del cuarto, de la casa, de la ciudad, hasta que la tierra sea un globo. Quedate ahí un minuto y después volvé despacio a tu cuerpo.",
+      "quote": null
+    },
+    "relief": {
+      "text": "Epicteto decía que las dificultades muestran quién es una persona: como un entrenador de lucha, Dios te puso enfrente a un rival joven y duro (Disertaciones, I, 24). Ahora que el combate terminó y la tensión aflojó, la ola tibia del alivio es lindo simplemente vivirla. Los estoicos dirían que el alivio muchas veces muestra cuánta fuerza se fue en esperar el desastre: Séneca señaló más de una vez que la imaginación nos atormenta más que los hechos mismos. El alivio es un buen momento para verlo sin reproches: «así que esto es todo lo que venía cargando». Los estoicos también valoraban la gratitud porque las cosas salieron bien, no como un deber, sino como la continuación natural del alivio. También podés notar que la dificultad que atravesaste te dejó algo: experiencia, conocimiento de tu propia fuerza. Y por ahora podés simplemente soltar el aire y permitirte descansar.",
+      "practice": "Soltá el aire largo tres veces, como un luchador después del combate, dejando caer los hombros en cada una. En la última, decite: «Eso ya quedó atrás».",
+      "quote": null
+    },
+    "calm": {
+      "text": "«Buscan retiros en el campo, junto al mar, en las montañas», escribió Marco Aurelio, «pero a cualquier hora podés retirarte dentro de vos mismo» (IV, 3). Los estoicos consideraban este estado sereno uno de los frutos de la filosofía. Lo llamaban euthymia, buen ánimo, una disposición pareja de la mente; Séneca le dedicó un tratado entero, «Sobre la tranquilidad del alma». La calma estoica no es la ausencia de acontecimientos sino la estabilidad por dentro, cuando no dependés de cada ola de afuera. La calma que sentís ahora es justamente una experiencia de ese refugio interior. Vale la pena recordarla con el cuerpo: cómo se sienten tu respiración, tus hombros, tu mirada. Así, en un día difícil, vas a tener adónde volver.",
+      "practice": "Durante tres minutos no hagas nada: sentate como en tu «retiro interior» y simplemente notá tu respiración, tus hombros, tu mirada. Acordate de este lugar: podés retirarte acá en un día difícil.",
+      "quote": null
+    },
+    "inspiration": {
+      "text": "«Siento, Lucilio, que no solo me estoy corrigiendo sino transformando», escribe Séneca en su sexta carta, y en esa frase se escucha el impulso de alguien cuya mente se encendió. La inspiración es un impulso vivo, cuando tenés ganas de actuar y crear, y es alegre en sí misma. Los estoicos dirían que revela la naturaleza racional del ser humano, que tiende a la acción: Marco Aurelio se recordaba que una persona nace para trabajar, no para quedarse calentita bajo las frazadas. Séneca insistía constantemente en que la filosofía se prueba con hechos, no con palabras lindas, y le aconsejaba a Lucilio llevar los buenos pensamientos a la práctica. El consejo estoico para alguien inspirado es simple: dejá que el impulso se vuelva acción, aunque sea chiquita, y no pongas como condición que la inspiración dure para siempre. Lo que empezaste en la subida se puede seguir con calma cuando la subida afloje.",
+      "practice": "Da el primer paso mientras el impulso todavía está caliente: una línea de un boceto, un llamado, un archivo nuevo con nombre. Séneca diría: un pensamiento se prueba con la acción.",
+      "quote": {
+        "text": "La filosofía enseña a obrar, no a hablar.",
+        "author": "Séneca",
+        "source": "Cartas a Lucilio, XX"
+      }
+    },
+    "schadenfreude": {
+      "text": "Manos, pies y párpados de un mismo cuerpo, la fila de dientes de arriba y la de abajo: así veía Marco Aurelio a las personas; actuar unos contra otros va contra la naturaleza (II, 1). Cuando el fracaso de otro trae un placer secreto, la gente rara vez lo admite, pero eso no te hace mala persona. Los estoicos explicarían la alegría por el mal ajeno a través de la «impresión»: en algún lugar adentro asentiste al pensamiento de que el fracaso del otro te suma algo: justicia, espacio, un respiro en la competencia. Epicteto objetaría: el bien de una persona está en su propia elección, su prohairesis, así que el fracaso ajeno no le suma nada a tu bien ni le quita nada. Entonces esa alegría es una señal: en algún lado te sentís perjudicado o herido. Ese es justamente el lugar que vale la pena mirar, con suavidad, sin reprocharte.",
+      "practice": "Cuando notes esa alegría por el mal ajeno, deseale en silencio a esa persona una cosa buena y simple: una buena noche de sueño, una salida, una solución. Marco diría: esto es una mano ayudando a otra mano.",
+      "quote": null
+    },
+    "contempt": {
+      "text": "«Alguien se baña apurado: no digas que se baña mal, decí que se baña rápido», enseñaba Epicteto (Enquiridión, 45). El desprecio achica a una persona ante tus ojos, y muchas veces detrás de esa frialdad hay cansancio, dolor o ganas de protegerte. Los estoicos mismos aconsejaban «despreciar» muchas cosas —la fama, el lujo, la opinión de la multitud—, es decir, ver que no hacen mejor a nadie. Pero hacia las personas mismas, Marco Aurelio tenía otra actitud: quien se equivoca lo hace por ignorar qué es bueno y qué es malo, y aun así sigue siendo tu pariente en la razón. ¿Cómo sabés por qué alguien hace lo que hace?, preguntaba Epicteto. Los estoicos dirían que el desprecio es un juicio, no un hecho. Podés notarlo y partirlo en dos: lo que la persona hizo realmente, y el veredicto que yo le agregué.",
+      "practice": "Contate a vos mismo el acto que te despierta desprecio usando solo hechos y verbos, como lo haría Epicteto: «rápido», no «mal». Fijate si el sentimiento cambia.",
+      "quote": null
+    },
+    "disgust": {
+      "text": "Una vez Marco Aurelio admiró las grietas en la corteza de un pan: no formaban parte del plan del panadero y, sin embargo, de algún modo le gustan a la vista (III, 2). Del mismo modo, escribió, para quien mira la naturaleza hasta la espuma en la boca del león y las arrugas de la vejez tienen su propia belleza. El asco es un sentimiento corporal antiguo que nos hace retroceder ante lo que parece sucio, ajeno o echado a perder; puede tener que ver con personas, con situaciones y hasta con nosotros mismos. Para un estoico, el asco puede respetarse como una protección, pero no tomarse como la última palabra: lo que lo provoca también es parte de la naturaleza, con su propio orden. Y si el asco se vuelve contra vos mismo, un estoico te recordaría: ni tu cuerpo ni tus errores agotan quién sos; lo más importante en vos es la capacidad de juzgar y de elegir.",
+      "practice": "Mirá lo que te da asco, o su imagen en tu mente, con los ojos de Marco el naturalista: forma, color, de qué está hecho, qué papel cumple en la naturaleza. Dos minutos, sin adjetivos de juicio.",
+      "quote": null
+    },
+    "revenge": {
+      "text": "«La venganza es una palabra inhumana, aunque pase por justa», observa Séneca (Sobre la ira, II, 32). Las ganas de devolverle el golpe a alguien son una respuesta natural al dolor que te causaron: llevan adentro un sentido de justicia y la necesidad de que tu dolor sea reconocido. En «Sobre la ira», Séneca examinó justamente esa sed de revancha y la consideró la parte más destructiva de la ira: la venganza nos pone al servicio de quien nos lastimó, nos hace pensar en él, gastar en él nuestro tiempo y nuestras fuerzas. Un estoico diría que el deseo de venganza al principio es solo un «primer movimiento», y no sos responsable de que aparezca; pero vos decidís si asentir al pensamiento «tengo que hacérsela pagar». Podés reconocer: me duele, me trataron injustamente, y dirigir tu fuerza a protegerte a vos y a tus límites en lugar de a dañar a otro. Así seguís siendo dueño de tu propia vida, y no una prolongación del acto de otro.",
+      "practice": "Decí en voz alta, para vos o a alguien cercano: «Me duele, me trataron injustamente, y de lo que necesito protegerme es…». Cerrá con un paso tranquilo que no le haga daño a nadie.",
+      "quote": {
+        "text": "La mejor manera de defenderte de ellos es no volverte semejante a ellos.",
+        "author": "Marco Aurelio",
+        "source": "Meditaciones, VI, 6"
+      }
+    },
+    "anger_at_loved": {
+      "text": "«Toda cosa tiene dos asas», decía Epicteto: por una se la puede llevar, por la otra no. Cuando querés a alguien y de repente te encontrás hirviendo de bronca con esa persona, y después te da vergüenza, es algo muy humano: con los más cercanos es con quienes menos defensas tenemos. Si tu hermano te hace un daño, no lo agarres por el asa «me hizo daño», porque así no se puede llevar; agarralo por la otra: «es mi hermano, nos criamos juntos» (Enquiridión, 43). Eso no anula tu enojo: puede estar señalando una necesidad importante. Cada noche Séneca repasaba el día, con calma y sin castigarse: ¿dónde me encendí, qué me tocó un nervio, cómo voy a actuar distinto? Los estoicos dirían que un estallido no anula el amor; muestra el lugar donde la próxima vez hace falta una pausa.",
+      "practice": "Agarrá una taza por el asa y decite la otra «asa» de la situación: «Es mi hermano», o «es mi vieja, pasamos por mucho juntas». Sostenela así un minuto.",
+      "quote": null
+    },
+    "ambivalence": {
+      "text": "El estoico Hierocles imaginaba la vida como un conjunto de círculos: en el centro, yo mismo; después la familia, los parientes, los conciudadanos, toda la humanidad; y la tarea es acercar los círculos al centro. Pero ¿qué hacés cuando el círculo más cercano te da calor y te irrita a la vez, cuando querés a alguien y no lo soportás? Este estado enredado pasa mucho más seguido de lo que la gente suele admitir. Los estoicos ayudarían a desatar ese nudo. Para ellos, una persona cercana no es del todo «buena» ni del todo «mala», sino un ser humano vivo, con acciones que dependen de él y rasgos que vos no elegís. Para los estoicos, el lazo con los cercanos no es solo un sentimiento sino una actitud elegida. No tenés que exigirte un amor entero y parejo: alcanza con distinguir qué es exactamente lo que despierta ternura y qué lo que despierta irritación, y responder a cada cosa por separado.",
+      "practice": "Imaginá a esta persona en el círculo de Hierocles, al lado tuyo. Nombrá un rasgo que te dan ganas de acercar y uno que pide distancia, y dejá que los dos sean verdad.",
+      "quote": null
+    },
+    "guilty_relief": {
+      "text": "Séneca le confiesa a Lucilio que una vez lloró tanto a su amigo Anneo Sereno que el dolor lo desbordó, y le aconseja otra cosa: con el tiempo, recordar con alegría a los que se fueron (Carta LXIII). El alivio después de perder a alguien cercano, sobre todo después de una enfermedad larga, es un sentimiento por el que mucha gente se culpa en secreto. Pero el alivio y el amor pueden convivir. Un peso largo —cuidar, el miedo, la impotencia— desgasta a una persona, y cuando termina, el cuerpo y la mente sueltan el aire de manera natural. Para un estoico, esto es un «primer movimiento», no un veredicto sobre tu amor. Séneca no exigía una tristeza pareja. Epicteto te recordaría: respondés por cómo actuaste, no por qué sentimiento surgió solo. El alivio habla de lo duro que fue, no de que hayas querido menos.",
+      "practice": "Decí despacio, en voz alta: «Me siento más liviano porque fue muy duro». Decilo otra vez, más lento, y fijate que el amor no se fue a ningún lado por estas palabras.",
+      "quote": null
+    },
+    "indifference": {
+      "text": "Epicteto comparaba la vida con una obra de teatro: el autor elige el papel, y lo nuestro es interpretar bien el que nos tocó (Enquiridión, 17). A veces algo debería conmoverte —la desgracia de alguien, una noticia importante— y sin embargo por dentro hay silencio, y eso asusta: «¿Me pasa algo?». A los estoicos se los suele imaginar como predicadores de la insensibilidad, pero no es exacto: su apatheia no es indiferencia sino libertad frente a las pasiones que desbordan, junto con un cuidado vivo por los demás. Los estoicos probablemente señalarían que a veces una calma chicha llega después de una tensión larga, como el silencio después del ruido, y en sí misma no dice nada de tu bondad. Lo que los estoicos consideraban más importante no era la intensidad de un sentimiento sino la intención y la acción: en «Sobre los beneficios», Séneca escribió que el valor de una buena acción está en la voluntad de quien la hace. Podés cuidar incluso cuando la emoción calla. El sentimiento puede volver más adelante, y por ahora alcanza con la acción.",
+      "practice": "Interpretá tu papel en una escena chiquita: hacé un llamado, ayudá a cargar algo, contestá un mensaje, sin exigirte sentir nada. Después simplemente anotá: hecho.",
+      "quote": null
+    },
+    "escape": {
+      "text": "«¿Por qué te sorprende, si a donde vayas te llevás a vos mismo?»: así, según Séneca, le respondió Sócrates a un hombre al que los viajes no le servían (Carta XXVIII). Las ganas de dejar todo e irte —cambiar de trabajo, de ciudad, de rol— son más fuertes cuando la carga hace rato supera lo que podés aguantar, y Séneca las trataba con simpatía. El punto no es que no puedas irte, sino que parte del peso viaja con nosotros. Séneca proponía ordenarlo: ¿de qué estoy huyendo exactamente, del lugar o de la manera en que vivo en él? Epicteto agregaría: mirá qué depende de vos acá. A veces un cambio es una elección sensata; a veces alcanza con cambiar el orden interior de las cosas. Las ganas de irte son una señal honesta de que algo tiene que cambiar.",
+      "practice": "Salí a dar una vuelta corta, como una pequeña fuga, y preguntate en el camino: ¿de qué estoy huyendo exactamente, del lugar o de la manera en que vivo en él? ¿Qué de todo eso se vino conmigo a caminar?",
+      "quote": null
+    },
+    "forbidden_attraction": {
+      "text": "Epicteto aconsejaba decirle a una impresión intensa: «Esperá, dejame ver quién sos y de qué se trata» (Disertaciones, II, 18), y entre sus ejemplos está justamente la belleza de una persona. La atracción hacia alguien que no está disponible o que «no es la persona indicada» inquieta: surge sola, sin pedir permiso. Los estoicos ayudan a sacarle parte de la culpa. La atracción en sí es un «primer movimiento», una impresión que llega sin nuestro consentimiento; Epicteto enseñaba que qué «impresiones» nos llegan no depende de nosotros, pero cómo las manejamos, sí. Podés preguntarte: ¿qué es exactamente lo que me atrae, la persona misma o lo que representa para mí: libertad, atención, otra vida? Una pregunta así no dicta veredictos ni da órdenes; simplemente te devuelve la claridad y el derecho a decidir por vos mismo.",
+      "practice": "Decile en silencio a esta impresión, como aconsejaba Epicteto: «Esperá, dejame mirarte». Después nombrá en una palabra lo que promete: ¿libertad, atención, otra vida?",
+      "quote": null
+    },
+    "social_anxiety": {
+      "text": "Cada uno se quiere a sí mismo más que a nadie y, sin embargo, valora la opinión de los demás sobre él por encima de la propia, se asombraba Marco Aurelio (XII, 4). Cuando la gente te mira y parece que te están pesando, la timidez y el miedo al juicio nos agarran a muchísimos. Epicteto, que había sido esclavo, pensó mucho en la opinión ajena y la consideraba el ejemplo principal de lo que «no depende de nosotros»: lo que otros piensan de vos depende de ellos. Suena a mala noticia, pero hay libertad en eso: podés dejar de hacerte responsable de lo que pasa en la cabeza de los demás. Incluso aconsejaba: si querés progresar, conformate con que te tengan por ignorante en las cosas externas (Enquiridión, 13). Un estoico diría que tu tarea en una conversación es ser honesto y amable; la impresión que causás ya no es tu trabajo.",
+      "practice": "Antes de un encuentro, apoyá una mano sobre el pecho y elegí una intención que dependa de vos, por ejemplo «escuchar con atención». Después, juzgate solo por eso, no por cómo quedaste.",
+      "quote": null
+    },
+    "uncertainty": {
+      "text": "Los estoicos aconsejaban agregarle a cualquier plan unas pocas palabras: «si nada lo impide». Voy a navegar a Roma, si nada lo impide. No saber agota: la mente quiere saber cómo va a terminar todo, y no hay respuesta. Los estoicos vivían en un mundo donde la guerra, el destierro o la enfermedad podían llegar en cualquier momento, y desarrollaron una actitud particular ante eso. Esa «cláusula de reserva» significa: proponételo, hacé todo lo que puedas y aceptá que el resultado no está en tus manos. Una acción así no depende del resultado: tu parte está hecha aunque el desenlace sea otro. Marco Aurelio proponía no atormentarse imaginando la vida entera de una vez, sino preguntarse qué hay en el momento presente que sea realmente insoportable (VIII, 36). Los estoicos dirían que la incertidumbre no es una falla sino el estado normal del mundo; tu sostén no viene de conocer el futuro, sino de tener claro cómo vas a responder a lo que venga.",
+      "practice": "Pensá un plan para mañana y pronuncialo a la manera estoica, con la cláusula de reserva: «Voy a hacer esto, si nada lo impide». Fijate cómo cambia la sensación en el pecho.",
+      "quote": null
+    },
+    "waiting": {
+      "text": "«El mayor obstáculo para vivir es la espera, que depende del mañana y pierde el hoy», escribió Séneca en «Sobre la brevedad de la vida». Esperar resultados, una respuesta o una noticia puede ser más tormentoso que la respuesta misma: la vida parece quedar en pausa. Los estoicos no te proponían dejar de esperar —es imposible—, pero sí una distinción: el resultado está en otras manos, pero cómo vivís hoy depende de vos. Epicteto diría: la carta va a llegar o no, sin importar cuántas veces mires el celular; pero esta tarde, una charla con un amigo, una caminata, eso es tuyo. Para un estoico, la espera se puede aceptar como un fondo, sin entregarle todo tu tiempo. Esperar y vivir al mismo tiempo también es una habilidad, y se puede aprender.",
+      "practice": "Guardá el celular en un cajón por media hora y agarrá una tarea que no dependa de la respuesta: regar las plantas, cocinar algo, salir a caminar. La respuesta va a llegar o no sin que la chequees.",
+      "quote": {
+        "text": "El mayor obstáculo para vivir es la espera, que depende del mañana y pierde el hoy.",
+        "author": "Séneca",
+        "source": "Sobre la brevedad de la vida, 9"
+      }
+    },
+    "regret": {
+      "text": "«Hice buena navegación cuando naufragué», solía decir Zenón: fue la pérdida de su cargamento lo que llevó al comerciante de Citio a Atenas, y a la filosofía. Lamentar lo que hiciste o no hiciste es señal de que te importa cómo vivís. Los estoicos miraban el pasado con sobriedad: ya no depende de nosotros, y no se puede cambiar. Marco Aurelio se recordaba que cada uno vive solo en el instante presente, y que lo demás o ya se vivió o es incierto (III, 10). Pero no es una invitación a olvidar. Séneca repasaba cada día todas las noches y admitía que lo hacía sin miedo, porque podía decirse: «Cuidá de no volver a hacerlo; esta vez te perdono» (Sobre la ira, III, 36). Un estoico diría que el arrepentimiento sirve cuando se vuelve lección, y atormenta cuando se vuelve veredicto. El pasado se puede transformar en comprensión, y la comprensión, en tu próxima acción.",
+      "practice": "Decite una frase en el espíritu de Zenón sobre tu propio «naufragio»: «Este error me enseñó…». Cerrá con las palabras de Séneca: «Esta vez te perdono».",
+      "quote": null
+    },
+    "longing": {
+      "text": "Séneca le confesaba a Lucilio que cuando le llegaba una carta suya era como ver a su amigo al lado: guarda huellas reales, una letra que uno reconoce (Carta XL). Cuando extrañás a una persona en particular, las palabras generales casi no consuelan, y los estoicos no consideraban ese sentimiento una debilidad. Séneca creía que la cercanía se puede guardar en los pensamientos: un amigo en quien pensamos está, en algún sentido, con nosotros. Al mismo tiempo, los estoicos recordaban que las personas que queremos no dependen de nosotros y no nos son dadas para siempre. El pensamiento es amargo, pero enseña a atesorar cada encuentro y cada carta. Los estoicos dirían que extrañar habla del valor de un vínculo; podés dejar que sea, y al mismo tiempo sostener ese vínculo: con una palabra, un recuerdo, algo que hubieran hecho juntos.",
+      "practice": "Cerrá los ojos y reviví con todo detalle un minuto compartido con esta persona: la luz, la voz, el olor, lo que tenías en las manos. Séneca diría: ahora mismo está con vos.",
+      "quote": null
+    },
+    "world_pain": {
+      "text": "Parte de las Meditaciones se escribió en un campamento militar mientras la peste se extendía por el imperio, y muchas páginas de Marco Aurelio tratan de cómo no endurecerse. Las noticias duras, las guerras y la injusticia le duelen a una persona sensible, y eso es señal de que sentís tu conexión con los demás. Los estoicos llamaban al ser humano «cosmopolita», ciudadano del mundo: no pertenecemos solo a nuestra ciudad sino a toda la humanidad. La respuesta estoica al dolor por el mundo tiene dos partes. La primera es distinguir qué depende de vos: no el desenlace de los acontecimientos mundiales, sino tu bondad, la ayuda a los que tenés cerca, la honestidad. La segunda es no confundir la compasión con sumergirse sin fin en las noticias: eso te vacía, y el mundo necesita gente a la que todavía le queden fuerzas. Podés cargar este dolor sin dejar que te quiebre.",
+      "practice": "Hacé una buena acción a tu alcance: ayudar a un vecino, acompañar a alguien cercano, hacer un llamado. Después, como Marco tras un día en el campamento, regalate una hora sin noticias.",
+      "quote": null
+    },
+    "rejection": {
+      "text": "Diógenes, de quien los estoicos aprendieron a no depender de la opinión ajena, le pedía limosna a una estatua, «para acostumbrarse a que le digan que no». Un rechazo, la frialdad, una puerta cerrada se sienten como un juicio sobre todo lo que sos, y eso duele. Epicteto diría que acá se mezclan dos cosas: la decisión de otra persona, que no depende de vos, y tu valor, que no depende de ella. El Enquiridión (25) tiene una parábola: no te invitaron al banquete, lo que quiere decir que no pagaste el precio al que se vende, halagos y adulación, y te quedaste con lo que no entregaste. Para un estoico, el «no» de otro es un hecho sobre su elección, no un veredicto sobre vos. Eso no anula el dolor: los primeros movimientos de la herida y la tristeza son naturales. Pero no tenés que asentir al juicio agregado «entonces no valgo nada». El rechazo muestra cuánto querías el vínculo, y esa capacidad de tender la mano hacia la gente sigue con vos.",
+      "practice": "Si querés, probá el pequeño ejercicio de Diógenes: pedí hoy algo trivial donde un «no» no cueste nada, otra mesa, una indicación a alguien en la calle. Fijate: te dijeron que no, y seguís entero.",
+      "quote": null
+    },
+    "abandonment": {
+      "text": "Séneca escribió que el sabio se basta a sí mismo y, aun así, desea tener un amigo, un vecino, un compañero (Carta IX). Cuando tenés miedo de que te dejen, parece que sin esa persona tu punto de apoyo va a desaparecer. Los estoicos no despacharían este sentimiento, pero te propondrían mirar con suavidad dónde está en realidad tu punto de apoyo. Epicteto enseñaba que los cercanos son lo más valioso, pero no son «nuestros» en el sentido de depender del todo de nosotros: sus decisiones les pertenecen. De ahí sacaba una conclusión que no es fría sino liberadora: podés amar sin aferrarte, y buscar sostén también en vos mismo, en tu capacidad de elegir, de cuidar, de construir vínculos. Un estoico diría que el miedo a perder un vínculo habla de su valor; al mismo tiempo, podés fortalecer lo que no depende de una sola persona.",
+      "practice": "Dibujá mentalmente a tu alrededor los círculos de Hierocles y, en cada uno, encontrá una persona, un lugar o una actividad que te sostiene. Simplemente fijate que están ahí.",
+      "quote": null
+    },
+    "unrequited": {
+      "text": "«Si querés ser amado, amá»: Séneca cita esta receta del estoico Hecatón y promete que funciona mejor que cualquier filtro de amor (Carta IX). Cuando el sentimiento está pero no hay respuesta, es uno de los dolores humanos más antiguos. Los estoicos no dirían que amás «en vano». El amor, tal como lo entendían, puede ser una expresión de benevolencia, de desearle el bien al otro, y es un sentimiento digno. Pero señalarían una distinción importante: tu sentimiento es tuyo, podés aceptarlo y darle una dirección, mientras que el sentimiento del otro no depende de vos. Epicteto consideraba que intentar controlar lo que está fuera de nuestro poder es la fuente principal de tormento. La receta de Hecatón no es una promesa de reciprocidad sino un recordatorio de que la capacidad de amar sigue siendo tuya. Podés respetar tu amor sin exigirle una respuesta.",
+      "practice": "Hacé hoy algo amable por otra persona, no por esta. Fijate: la capacidad de amar funciona incluso sin respuesta.",
+      "quote": null
+    },
+    "humiliation": {
+      "text": "Cuando alguien le escupió la cara a Catón, él se limpió y dijo: «Ahora puedo asegurarles a todos que se equivocan quienes dicen que no tenés boca» (Séneca, Sobre la ira, III, 38). La humillación quema: parece que te sacaron la dignidad delante de todos. Los estoicos pensaron mucho en esto, porque entre ellos estaban tanto el esclavo Epicteto como el senador Séneca, que vivió el destierro. Su idea central: la dignidad no es algo que se pueda quitar desde afuera. Quien te humilló manda sobre sus propias palabras y acciones, pero no sobre si vos estás de acuerdo con su evaluación. Eso no quiere decir que tenga razón ni que no haya dolor. Quiere decir que la última palabra sobre tu valor sigue siendo tuya. En «Sobre la constancia del sabio», Séneca escribió que una afrenta puede herir a una persona, pero no puede empequeñecer a quien tiene su sostén adentro. Los estoicos dirían que la humillación dice más del acto de quien humilló que de vos.",
+      "practice": "Enderezá la espalda, sentí los pies en el piso y decí en voz baja: «Haya hecho lo que haya hecho esta persona, mi dignidad está en mis propias acciones». Nombrá una acción tuya que respetes.",
+      "quote": {
+        "text": "Recuerda que no te ofende quien te insulta o te golpea, sino tu opinión de que esas cosas son ofensivas.",
+        "author": "Epicteto",
+        "source": "Enquiridión, 20"
+      }
+    },
+    "body_shame": {
+      "text": "Séneca describe a su amigo Clarano: un cuerpo débil y sin gracia, y un alma tal que parece haber elegido a propósito una morada modesta (Carta LXVI). No estar conforme con tu cuerpo es un dolor común y muchas veces silencioso. Los estoicos contaban el cuerpo entre los «indiferentes», ese es su término: no algo insignificante, sino algo que no hace a una persona ni buena ni mala. Entre los indiferentes hay algunos «preferibles» —la salud, la fuerza—, pero tu valor no vive ahí. Un alma grande y hermosa, escribió Séneca, puede habitar cualquier cuerpo y no se achica en lo más mínimo por eso. Para un estoico, el cuerpo no es una vidriera para los ojos ajenos sino un compañero al que le podés agradecer lo que hace. Los cánones de belleza cambian de época en época, pero la capacidad de ser amable y honesto sigue siendo tuya en cualquier cuerpo.",
+      "practice": "Pasá la palma por tu brazo, del hombro a la muñeca, y nombrá tres cosas que tu cuerpo hizo hoy por vos: te llevó, te abrigó, te dejó sentir un sabor. Agradecele, como Marco les agradecía a sus maestros.",
+      "quote": null
+    },
+    "illness": {
+      "text": "Epicteto, que era rengo, decía: «La enfermedad es un impedimento del cuerpo, pero no de la elección»; la renguera le pone trabas a la pierna, no a vos (Enquiridión, 9). Cuando el cuerpo te falla, da miedo y agota: los planes se caen, y tus fuerzas se van en simplemente pasar el día. Los estoicos no veían la enfermedad como motivo de vergüenza ni exigían una muestra de buen ánimo. Séneca estuvo muy enfermo a lo largo de su vida y le escribía a Lucilio con honestidad sobre sus dolencias. En una carta (LXXVIII) cuenta cómo en la enfermedad lo ayudaron sus amigos, su cuidado y su conversación, y que una persona enferma sigue teniendo un trabajo importante propio: no dejar que el miedo infle el sufrimiento, y encontrar lo que todavía le da alegría. Un estoico diría que la enfermedad no es ni tu culpa ni tu esencia. Tu tarea no es «vencerla» a fuerza de voluntad, sino encontrar lo que hoy sigue dependiendo de vos: la atención, un pensamiento, una palabra amable.",
+      "practice": "Dejá que alguien te cuide: aceptá ayuda, o simplemente charlá con un amigo, como hacía Séneca cuando estaba enfermo. Que todo lo demás hoy no sea tu trabajo.",
+      "quote": {
+        "text": "La enfermedad es un impedimento del cuerpo, pero no de la voluntad, a menos que ella misma lo quiera.",
+        "author": "Epicteto",
+        "source": "Enquiridión, 9"
+      }
+    },
+    "pride": {
+      "text": "Una vid que dio sus uvas no busca testigos ni recompensas: así describía Marco Aurelio a una persona que hizo una buena acción (V, 6). El orgullo por lo que hiciste es un buen sentimiento, y no hace falta esconderlo. Los estoicos distinguían la vanidad, que vive del elogio ajeno, de las eupatheiai, los sentimientos buenos y razonables, entre los que está la alegría serena. La alegría del trabajo bien hecho pertenece justamente a ese terreno: no se apoya en la opinión de los demás sino en tu propia acción. Los estoicos dirían que el orgullo sano se reconoce porque no necesita compararse con otros y no le teme a su indiferencia. Permitite sentirlo: pusiste en esto tu fuerza y tu elección.",
+      "practice": "Quedate un minuto sentado como una vid después de la cosecha: sin agregar nada, sin mostrárselo a nadie. Nombrá para vos qué cualidades tuyas pusiste ahí: constancia, honestidad, cuidado.",
+      "quote": null
+    },
+    "melancholy": {
+      "text": "«Hojas: unas las esparce el viento por el suelo, otras las brota el bosque en primavera; así es la generación de los hombres»: Marco Aurelio copia para sí estos versos de Homero (X, 34). En la tristeza luminosa, la pena se mezcla con ternura hacia el mundo, y los estoicos, por raro que parezca, la conocían bien. Marco Aurelio volvía una y otra vez a la idea de que todo fluye. En sus manos eso no suena a desesperación sino a una capacidad de ver la belleza de lo que pasa. Séneca escribió que la fruta es más grata cuando su temporada está por terminar (Carta XII), y que los años tardíos tienen su propio encanto. Para un estoico, la melancolía puede ser una forma de ver con claridad: ves que nada es eterno, y por eso tu atención a la vida se vuelve más tierna. No hace falta echarla; le podés dar un poco de tiempo.",
+      "practice": "Salí unos minutos afuera o abrí una ventana y buscá algo que pronto va a cambiar: la luz, las hojas, las nubes. Miralo como Marco miraba las hojas, sin apuro, sin sacar conclusiones.",
+      "quote": null
+    }
+  }
+}

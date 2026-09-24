@@ -1,0 +1,393 @@
+{
+  "id": "existentialism",
+  "title": "Sartre y Beauvoir",
+  "tradition": "Existencialismo",
+  "family": "phenomenology_existential",
+  "period": "siglo XX",
+  "sortYear": 1943,
+  "thinkers": [
+    "Jean-Paul Sartre",
+    "Simone de Beauvoir"
+  ],
+  "keyWorks": [
+    "Bosquejo de una teoría de las emociones (1939)",
+    "El ser y la nada (1943)",
+    "El existencialismo es un humanismo (1946)",
+    "Para una moral de la ambigüedad (1947)",
+    "El segundo sexo (1949)"
+  ],
+  "summary": "El existencialismo sostiene que el ser humano no tiene una «esencia» predeterminada: «la existencia precede a la esencia», y nos volvemos nosotros mismos a través de nuestras propias elecciones. Sartre puso el acento en la libertad radical y la responsabilidad; Simone de Beauvoir subrayó que la libertad siempre está encarnada en una situación concreta y no puede separarse de la libertad de las demás personas.",
+  "onEmotions": "En su «Bosquejo de una teoría de las emociones», Sartre describió la emoción como una transformación «mágica» del mundo: cuando el camino de la acción está bloqueado, la conciencia cambia la manera misma en que percibe la situación. Para Sartre, una emoción no es algo que simplemente «nos pasa» sino una forma de relacionarnos con el mundo en la que participamos. Eso no significa que un sentimiento pueda apagarse a fuerza de voluntad: significa que tenemos libertad en cómo vivimos con él. Beauvoir agregó que los sentimientos siempre están insertos en una situación, el cuerpo, la historia, los vínculos, y reflejan la «ambigüedad» de la existencia humana: somos libres y limitados al mismo tiempo.",
+  "entries": {
+    "anxiety": {
+      "text": "«El hombre está condenado a ser libre», escribió Sartre, y esa frase describe la ansiedad mejor que cualquier definición. Si una elección te hace temblar, no hay nada de qué avergonzarse. Sartre distinguía el miedo, que es ante una amenaza externa, de la angustia (angoisse): el sentimiento que aparece cuando tomamos conciencia de nuestra propia libertad. Nadie ni nada va a decidir por vos, ningún manual de instrucciones garantiza el camino correcto, y eso puede marearte. Sartre creía que esta angustia no es una enfermedad sino una señal de que te tomás la vida en serio. Mucha gente se esconde de ella en la «mala fe» (mauvaise foi): el autoengaño de creer que no hay elección y que todo ya está decidido. Tu ansiedad es una forma de honestidad: ves que el futuro está abierto. No hace falta que decidas todo de una vez; alcanza con hacer la próxima elección chiquita.",
+      "practice": "Parate y da un paso adelante, diciéndote: «Elijo este paso». Fijate que ningún manual de instrucciones lo dio por vos.",
+      "quote": {
+        "text": "El hombre está condenado a ser libre.",
+        "author": "Jean-Paul Sartre",
+        "source": "El existencialismo es un humanismo (1946)"
+      }
+    },
+    "fear": {
+      "text": "Se acerca una fiera, las piernas se aflojan, la persona se desmaya: es uno de los ejemplos de Sartre. Él no veía ahí cobardía sino una astucia particular de la conciencia, y puede que tu miedo también esté intentando protegerte. En su «Bosquejo de una teoría de las emociones» llamó a ese desmayo una conducta «mágica»: cuando no podemos enfrentar una amenaza con la acción, la conciencia intenta, por así decirlo, abolirla anulando la percepción misma. Sartre proponía ver una emoción no como una avería sino como una manera de responderle al mundo. Entonces podés preguntarte: ¿qué está intentando hacer este miedo por mí? ¿Y qué acciones, por chiquitas que sean, todavía tengo a mano? Beauvoir agregaría que el miedo siempre está inserto en una situación: a veces refleja con precisión una vulnerabilidad real de tu posición, y entonces el problema está en la posición, no en vos.",
+      "practice": "Interrogá a tu miedo como a una persona: «¿Qué estás intentando hacer por mí?». Después levantate y hacé una acción pequeña que todavía esté a tu alcance.",
+      "quote": null
+    },
+    "sadness": {
+      "text": "Cuando todo se vuelve gris, Sartre no veía una avería sino un acto silencioso de la conciencia. Si estás triste ahora, escuchá a qué está respondiendo. En su «Bosquejo de una teoría de las emociones», Sartre describió así la tristeza pasiva: cuando el mundo nos exige demasiado, la conciencia parece «atenuarlo», volviendo todo gris y sin importancia, para sacarnos de encima por un rato una tarea insoportable. O sea que la tristeza no es tu fracaso sino una respuesta a un mundo que ahora pesa demasiado. Beauvoir te recordaría la «ambigüedad» humana: somos libres y limitados a la vez, actuamos y padecemos. La tristeza es un momento en que el segundo lado se siente con más fuerza. Podés atravesarla sin renunciar al primero: tu libertad no se fue a ningún lado; simplemente está esperando.",
+      "practice": "Quedate tres minutos en silencio, dejando que el mundo siga gris. No arregles nada: solo notá de qué tarea te está dando un respiro tu tristeza.",
+      "quote": null
+    },
+    "grief": {
+      "text": "Otoño de 1963: Beauvoir está sentada junto a la cama de su madre moribunda, y ninguna filosofía lo hace más liviano. Conoce desde adentro el tipo de pérdida que vos cargás ahora. Simone de Beauvoir escribió sobre eso de manera muy personal en «Una muerte muy dulce» (1964), el libro sobre la enfermedad y la muerte de su madre. Mostró que ninguna filosofía vuelve «razonable» una pérdida: la muerte de alguien cercano se vive como una intrusión y una injusticia, aunque desde afuera parezca «natural». Esto importa para el existencialismo: el duelo no necesita ser justificado ni explicado. Beauvoir mostró también que nuestros vínculos con los demás pasan a ser parte de quienes somos, así que una pérdida también nos cambia. Aceptar el duelo es permitirte no buscarle sentido enseguida. Con el tiempo vas a encontrar tu propia manera de llevar este recuerdo, y esa va a ser tu forma de sostener el vínculo.",
+      "practice": "Si querés, decile en voz alta una frase a la persona que ya no está. No para obtener respuesta: para que el vínculo tenga voz.",
+      "quote": null
+    },
+    "loneliness": {
+      "text": "Durante años, Sartre y Beauvoir escribieron en el Café de Flore de París en mesas vecinas: cada uno en lo suyo, pero uno al lado del otro. Cuando estás solo y duele, su filosofía no lo niega. Sartre creía que, en cierto sentido, cada uno está solo frente a su propia libertad: nadie puede elegir por vos. Hablaba de «desamparo»: no tenemos respuestas prefabricadas bajadas desde arriba. Pero en «Para una moral de la ambigüedad» Beauvoir subrayó el otro lado: mi libertad necesita la libertad de los otros. Los sentidos por los que vale la pena vivir se crean juntos, no a solas; alguien encerrado en sí mismo no puede ser verdaderamente libre. Dicho de otro modo, la soledad no es prueba de que no hacés falta sino una experiencia de lo profundamente que sos un ser de vínculos. Podés reconocer esta soledad existencial y, aun así, buscar personas con quienes tu libertad se encuentre con la suya.",
+      "practice": "Mandale un audio a alguien con quien te sentís más libre: solo preguntale cómo le fue hoy.",
+      "quote": {
+        "text": "Quererse libre es también querer libres a los otros.",
+        "author": "Simone de Beauvoir",
+        "source": "Para una moral de la ambigüedad (1947)"
+      }
+    },
+    "anger": {
+      "text": "El problema no sale, y la persona rompe la hoja en un arranque: así abre Sartre su análisis de la ira. Probablemente tu furia también está frente a una puerta cerrada. En su «Bosquejo de una teoría de las emociones», Sartre describió la ira como un intento de cambiar el mundo «mágicamente» cuando el camino directo está cerrado: no aparece salida, y nos enojamos, como si la fuerza del sentimiento pudiera reemplazar a la acción. Pero la ira también puede ser una respuesta a una injusticia real, a que no se reconozca tu libertad. En «El segundo sexo», Beauvoir mostró cómo los sentimientos de quienes tienen la libertad restringida suelen despacharse como «temperamento» o «naturaleza». Vista así, tu ira merece ser escuchada: ¿qué callejón sin salida o qué injusticia está señalando? Tenés derecho a enojarte, y derecho a decidir qué hacer con esa fuerza.",
+      "practice": "Apretá los puños mientras contás hasta cinco, soltalos y preguntate: «Si mi enojo pudiera hacer un solo reclamo, ¿cuál sería?».",
+      "quote": null
+    },
+    "shame": {
+      "text": "Un pasillo, una cerradura y, de pronto, pasos a tus espaldas. Es la escena más famosa de «El ser y la nada»: un hombre que espía por una puerta se da cuenta de que lo vieron; si ahora sentís vergüenza, conocés ese instante desde adentro. En ese instante se ve a sí mismo con ojos ajenos: como un objeto, como «el que espía». Es «la mirada del Otro»: otra persona puede verme de una manera en que yo no me veo, y no tengo control sobre esa imagen. La vergüenza, para Sartre, es reconocer que, en algún sentido, soy de verdad ese que el otro ve. Pero esto es importante: no te reducís a esa mirada. Ella fija un momento, mientras que vos sos una libertad que sigue. La vergüenza muestra que vivís entre personas, pero no te define de una vez y para siempre.",
+      "practice": "Imaginá otra vez esa mirada sobre vos y completá en silencio: «Vio en mí…, pero yo también soy…». Decí la segunda mitad despacio.",
+      "quote": {
+        "text": "La vergüenza es vergüenza de sí ante el prójimo.",
+        "author": "Jean-Paul Sartre",
+        "source": "El ser y la nada (1943)"
+      }
+    },
+    "guilt": {
+      "text": "Sartre decía que una persona es la suma de sus actos, pero esa suma todavía no está cerrada. Cuando la culpa te pesa, vale la pena recordarlo. Respondemos por nuestros actos porque somos libres: no se le pueden echar del todo al carácter o a las circunstancias. Pero es importante distinguir la responsabilidad de la autoflagelación. Sartre criticaba la «mala fe» (mauvaise foi): un autoengaño en el que o fingimos no tener ninguna libertad o, al revés, nos reducimos rígidamente a un solo acto: «Soy una mala persona y listo». Eso también es una huida: no sos una cosa con propiedades fijas, sos una elección en curso. Así, la culpa puede dejar de ser un veredicto y volverse un punto desde el cual decidís cómo seguir viviendo. Reconocer un acto sin reducirte a él: eso es la honestidad.",
+      "practice": "Escribí dos frases: «Esto es lo que hice…» y «Ahora elijo…», y fijate en la distancia entre el acto y vos.",
+      "quote": {
+        "text": "El hombre no es otra cosa que lo que él se hace.",
+        "author": "Jean-Paul Sartre",
+        "source": "El existencialismo es un humanismo (1946)"
+      }
+    },
+    "envy": {
+      "text": "En la mesa de al lado alguien parece estar viviendo una vida de verdad, y Sartre te explicaría por qué esa imagen resulta tan convincente. La envidia es desagradable, pero muy humana. Sartre describía nuestras relaciones con las personas a través de «la mirada»: el otro se convierte fácilmente en nuestra vara de medida, y empezamos a vernos con sus ojos. La envidia, entonces, es un momento en que la vida ajena parece «real» y completa, y la tuya, insuficiente. Pero Sartre te recordaría que el otro tampoco es una cosa con una esencia terminada: también duda y elige, y vos ves solo la fachada. Y tu propia vida no está resuelta; todavía está tomando forma. Beauvoir agregaría que muchos de nuestros deseos están moldeados por nuestra situación y por las expectativas sociales. Podés tomar la envidia como una pista: ¿qué hay acá que sea de verdad tu propio proyecto, y qué es una vara que te impusieron?",
+      "practice": "Imaginá que vivís un martes cualquiera de la persona que envidiás, con sus dudas y su cansancio. ¿Qué de ese día querés de verdad?",
+      "quote": null
+    },
+    "emptiness": {
+      "text": "Sartre llamó al hombre «una pasión inútil», y de ahí sacó que el sentido solo puede hacerse, nunca encontrarse. Si te sentís hueco por dentro, el existencialismo conoce ese estado de primera mano. En la novela de Sartre «La náusea», Antoine Roquentin ve de pronto el mundo despojado de todo sentido dado: las cosas simplemente están, «de más», ahí para nada. Es una experiencia inquietante, pero los existencialistas la veían como un punto de partida, no como un final: si el sentido no viene dado de antemano, se puede crear. «La existencia precede a la esencia»: primero existimos, y después hacemos de nosotros alguien. Beauvoir subrayaba que el sentido nace en los «proyectos», en lo que hacemos junto con otros y para el mundo. El vacío no significa que algo ande mal con vos; significa que los sentidos prefabricados dejaron de funcionar. Los nuevos no tienen que ser enormes: podés empezar por algo muy pequeño.",
+      "practice": "Hacé una cosa chiquita no «porque hay que hacerla» sino porque lo decidiste: mové una taza, volvé por otro camino. Decite: «Esta es mi elección».",
+      "quote": null
+    },
+    "confusion": {
+      "text": "«Usted es libre, elija, es decir, invente», le dijo Sartre a un alumno desorientado. Cuando no hay respuestas listas, la confusión es lo más honesto que se puede sentir. Sartre describía el «desamparo»: no hay una autoridad externa que te diga cómo vivir como corresponde. En su conferencia «El existencialismo es un humanismo» cuenta el caso de un alumno que, durante la guerra, no sabía si irse a pelear con la Francia Libre o quedarse con su madre, para quien era el único sostén. Ningún sistema moral podía decidir por él, y lo único que Sartre pudo hacer fue devolverle su libertad. Dicho de otra manera, la confusión no es señal de estupidez sino de que estás frente a una elección real. Beauvoir agregaría que la ambigüedad es la condición normal de la vida, y que no hace falta esperar una claridad absoluta para actuar.",
+      "practice": "Tirá una moneda con dos opciones en mente y atrapá el momento en que está en el aire: ¿qué resultado ya estás esperando? Esa es tu elección; la moneda no tiene nada que ver.",
+      "quote": {
+        "text": "Usted es libre, elija, es decir, invente.",
+        "author": "Jean-Paul Sartre",
+        "source": "El existencialismo es un humanismo (1946)"
+      }
+    },
+    "fatigue": {
+      "text": "Beauvoir, que recorrió media Francia a pie, sabía que el cuerpo no discute con la voluntad: simplemente pone un límite. El agotamiento y el burnout no son falta de fuerza de voluntad. Al existencialismo se lo asocia a menudo con la libertad radical, pero Beauvoir aclaró: la libertad siempre existe en una «situación», en un cuerpo, en circunstancias, condiciones de trabajo, vínculos. El cuerpo no es un obstáculo para la libertad sino su condición. Visto así, el cansancio habla de los límites reales de tu situación, y reconocerlos es simplemente honesto. En todo caso, lo que sería «mala fe» es hacer de cuenta que sos una función incansable. Sartre describió a un mozo de café que hace de «mozo» con tanto empeño que parece no ser otra cosa que ese papel. Vos no sos un papel ni una función. Permitirte parar también es una elección libre, quizás la más honesta ahora mismo.",
+      "practice": "Imaginá el papel que más estás sosteniendo ahora como un uniforme, y sacátelo mentalmente, botón por botón. Quedate un minuto sin él.",
+      "quote": null
+    },
+    "boredom": {
+      "text": "Domingo en Bouville: Roquentin mira desde una ventana cómo los vecinos pasean por el bulevar, y no tiene idea de cómo llenar el día. El aburrimiento parece trivial, pero los existencialistas lo tomaban en serio. Sartre probablemente diría que aparece cuando el mundo deja de responder a nuestros «proyectos», a aquello hacia lo que tendemos: las cosas están, pero no nos llaman a nada. Los días de Roquentin se arrastran, y su propia vida le resulta ajena. Pero para el existencialismo esto no es un veredicto: si el sentido no viene incorporado al mundo de antemano, el aburrimiento se vuelve un espacio en el que podés preguntarte qué querés vos. Beauvoir escribía sobre la «trascendencia»: la capacidad humana de ir más allá de lo dado y tender hacia algo nuevo. Tal vez el aburrimiento sea una señal de que es hora de dar un paso hacia otro lado.",
+      "practice": "Salí cinco minutos y tomá un camino que nunca tomaste, por pura curiosidad, sin ninguna utilidad. Fijate en una cosa que te haya llamado.",
+      "quote": null
+    },
+    "joy": {
+      "text": "Agosto de 1944, París liberada: Beauvoir recordaría después esos días como una explosión de alegría pura. Los existencialistas no eran para nada solo filósofos de lo sombrío. En su «Bosquejo de una teoría de las emociones», Sartre describió la alegría como un estado en el que parecemos poseer lo que deseamos de inmediato y por completo, sin esperar a que las cosas se vayan acomodando paso a paso. En «Para una moral de la ambigüedad», Beauvoir discutía con quienes veían el existencialismo como una filosofía de la desesperación: para ella la libertad no es solo una carga, también es fuente de la alegría de existir, de la creación, de la amistad, de la afirmación de la vida. Así que la alegría no necesita achicarse ni postergarse «para tiempos mejores»: es una manera legítima de estar en el mundo. Podés permitirte alegrarte sin chequear si te lo ganaste y sin esperar la trampa.",
+      "practice": "Contá en voz alta qué es exactamente lo que te alegra ahora, en una frase completa, como si le contaras una noticia a un amigo.",
+      "quote": null
+    },
+    "love": {
+      "text": "En 1929, Sartre y Beauvoir hicieron un pacto: estar juntos sin poseerse, y discutieron sobre eso toda la vida. La ternura que sentís está justo en el corazón de esa discusión. En «El ser y la nada», Sartre describió la contradicción del amor: queremos que el otro nos elija libremente y, al mismo tiempo, queremos, por así decirlo, «poseer» su libertad, lo cual es imposible. Beauvoir buscó una salida de ese callejón. En «El segundo sexo» escribió que el amor auténtico debería apoyarse en el reconocimiento mutuo de dos libertades: un amor en el que ninguno se disuelva en el otro ni se vuelva su sombra. Entonces la ternura no es un deseo de apropiarse sino la alegría de que el otro sea libre y, aun así, esté cerca. El amor no anula tu libertad ni te exige sacrificarte. Podés abrazarlo como un proyecto compartido entre dos.",
+      "practice": "Decile a alguien cercano una frase sobre lo que admirás de sus propias elecciones, no de lo que hace por vos.",
+      "quote": null
+    },
+    "gratitude": {
+      "text": "Toda su vida Beauvoir recordó a Zaza, la amiga de su juventud junto a la cual se sintió ella misma por primera vez, y volvió a ella una y otra vez en sus libros. La calidez de la gratitud encaja perfectamente con el existencialismo. Beauvoir subrayaba que nadie es libre solo: mi libertad es posible gracias a otros, a quienes me criaron, me enseñaron, me sostuvieron, me abrieron el mundo. La gratitud, entonces, es reconocer que tu vida está entretejida con libertades y elecciones ajenas. No es dependencia ni deuda, sino esa misma «ambigüedad» de la que escribía Beauvoir: nos creamos a nosotros mismos y, a la vez, nos recibimos de los otros. La gratitud no le resta nada a tu independencia. Al contrario: muestra de qué vínculos vivos creció tu libertad, y te deja sentir su calor.",
+      "practice": "Mandale a una persona un mensaje corto: «Mi vida habría sido distinta sin vos, y te cuento cómo».",
+      "quote": null
+    },
+    "hope": {
+      "text": "Las últimas conversaciones de Sartre, grabadas en 1980, se publicaron como «La esperanza ahora». Si estás esperando algo, el existencialismo habla de eso con honestidad. Sartre advertía contra la esperanza pasiva, la de esperar que todo cambie solo: un ser humano, decía, es su proyecto y existe solo en la medida en que se realiza. Pero eso no es rechazar la esperanza; es una invitación a volverla activa. En su obra «Las moscas», Orestes dice que la vida humana empieza del otro lado de la desesperación: no necesitás garantías para actuar. Y en esas últimas conversaciones de 1980, Sartre llamó explícitamente a la esperanza parte de lo que hace humano al ser humano. Dicho de otro modo, la esperanza es un futuro abierto en el que tu próximo paso significa algo.",
+      "practice": "Da ahora mismo un paso minúsculo hacia lo que esperás: buscá el número, abrí la página que hace falta.",
+      "quote": null
+    },
+    "nostalgia": {
+      "text": "«Nací a las cuatro de la mañana del 9 de enero de 1908», así empieza Beauvoir sus memorias. Estirarse hacia el pasado es un sentimiento tierno y complicado. Para Sartre, el pasado es parte de nuestra «facticidad»: ocurrió, no se puede cambiar, y en cierto sentido se vuelve lo que «somos». Pero para Sartre el sentido del pasado no está fijado para siempre: lo determina cómo vivimos ahora y qué elegimos después. El mismo hecho puede resultar el comienzo de una pérdida o el comienzo de un camino nuevo, según lo que venga. Vista así, la nostalgia no es una cárcel sino un diálogo: extrañás algo valioso, y podés decidir cómo va a seguir ese valor en tu vida presente. En sus muchos tomos de memorias, Beauvoir mostró cómo volver al pasado ayuda a entender en quién te estás convirtiendo.",
+      "practice": "Buscá una foto vieja de esa época y mirala un minuto. ¿Qué había de valioso ahí que podría seguir hoy, aunque sea con otra forma?",
+      "quote": null
+    },
+    "craving": {
+      "text": "Un jugador que ayer resolvió con firmeza no volver a jugar se acerca hoy otra vez a la mesa de juego: Sartre analiza este ejemplo en «El ser y la nada» sin una pizca de condena. Un «lo quiero ya» punzante no te hace peor persona. El jugador descubre que la resolución de ayer no funciona sola: está en el pasado, y hay que volver a elegirla, ahora mismo. Sartre veía en esto la angustia (angoisse) de la libertad. Eso no significa que el antojo sea trivial y fácil de vencer a fuerza de voluntad: Beauvoir recordaba que la libertad siempre existe en una situación, con un cuerpo, una historia, un cansancio. Pero sí significa que no tenés que coincidir con la ola del deseo. En cada momento nuevo decidís otra vez, y cada «ahora no» también es una elección real, aunque tengas que repetirla un minuto después.",
+      "practice": "Levantate, alejate tres pasos del lugar donde te agarró y decí en voz alta: «En este minuto elijo…», por ejemplo, salir a tomar aire.",
+      "quote": null
+    },
+    "addiction": {
+      "text": "Para Sartre la pregunta clave es qué hacemos con lo que nos pasó, y la adicción no es la excepción. No es un fracaso moral ni un veredicto sobre tu carácter. Sartre distinguía la «facticidad», todo lo que ya está dado: el cuerpo, el pasado, los hábitos, las circunstancias, de la «trascendencia», la capacidad de ir más allá de lo dado. Un ciclo de adicción de larga data es parte de tu facticidad, y pesa muchísimo. Pero para Sartre una persona nunca coincide del todo con nada de sí misma: no sos «un adicto» como una piedra es una piedra. Beauvoir agregó algo importante: la libertad no es heroica en soledad; siempre se realiza junto con otros, en una situación donde algunas cosas traban y algunas personas ayudan. Así que salir del ciclo no es un acto de una súper voluntad aislada sino la construcción lenta de otro «proyecto» de vida, uno con lugar para personas, apoyo y tiempo.",
+      "practice": "Si tenés ganas, nombrá en voz alta a una persona o un grupo de ayuda mutua (como AA o NA) donde este tipo de ciclo se entienda desde adentro. Solo nombralo: no hay nada que decidir ahora.",
+      "quote": null
+    },
+    "hangover": {
+      "text": "«El que anoche…»: Sartre mostró cómo una sola frase puede convertir a una persona en un objeto. La mañana después de tomar, con el cuerpo pesado, ansiedad y vergüenza, deja esa trampa muy cerca. Todo esto merece compasión, no juicio. Sartre describía la vergüenza como vivirse bajo «la mirada del Otro»: de repente parece que te convertiste en objeto de la evaluación ajena, en «el que anoche…». Pero Sartre tiene también otra idea: una persona nunca se reduce a un acto ni a una noche. No somos una cosa con propiedades fijadas de una vez para siempre sino una existencia que continúa. Beauvoir agregaría que somos seres «ambiguos»: en nosotros hay vulnerabilidad y libertad al mismo tiempo, y una no anula a la otra. O sea que la mañana siguiente no es un veredicto sino un punto más desde el cual seguir: con calma, sin autoflagelarte, cuidándote.",
+      "practice": "Hacé hoy una cosa chiquita que te cuide en lugar de castigarte: una comida caliente, una caminata corta, un mensaje honesto si hace falta.",
+      "quote": null
+    },
+    "euphoria": {
+      "text": "Un mundo que de pronto parece al alcance de la mano, como por arte de magia: Sartre conocía esa sensación y no tenía ningún apuro por desvalorizarla. En su «Bosquejo de una teoría de las emociones», Sartre escribió que una emoción es una transformación «mágica» del mundo. En la alegría parecemos intentar apoderarnos de lo que deseamos de inmediato y por completo, sin esperar los pasos lentos que exige la realidad. De ahí la sensación de que todo es posible ya mismo. Sartre no lo consideraba un error: así vive la conciencia la plenitud abierta del futuro. Podés vivir la euforia con todo su brillo. Y el existencialismo agrega una idea que no arruina el momento sino que lo prolonga: la libertad no vive solo en los estallidos, sino también en cómo las posibilidades que se abrieron se vuelven después, paso a paso, tus propios proyectos.",
+      "practice": "Anotá una posibilidad que se te abrió ahora y guardá la nota hasta mañana: que espere una mirada más tranquila.",
+      "quote": null
+    },
+    "crash": {
+      "text": "Hace un momento el mundo estaba abierto de par en par, y ahora está otra vez estrecho y gris: Sartre lo describiría como el regreso del «coeficiente de adversidad» de las cosas. No es tu culpa ni la prueba de que el subidón era falso. Sartre hablaba del «coeficiente de adversidad» de las cosas: el mundo no se dobla al instante ante nuestros deseos; todo tiene peso, distancia, lentitud. En el subidón esa resistencia parece desaparecer, y en la caída vuelve toda de golpe, y el contraste se siente insoportable. Desde el punto de vista de Sartre, la emoción transforma «mágicamente» el mundo, pero después la realidad regresa con sus obstáculos. No es una derrota sino un encuentro con la situación real, que es donde la libertad efectivamente actúa. No hace falta que te exijas un nuevo despegue. Podés dar un paso a la medida del peso que hoy tiene el mundo.",
+      "practice": "Elegí una acción exactamente del tamaño de la fuerza que tenés hoy, hacer la cama, lavar una taza, y hacela. Fijate: el mundo se movió un paso.",
+      "quote": null
+    },
+    "panic": {
+      "text": "El mundo se vuelve de repente una sola amenaza compacta y sin salida: Sartre describió esos momentos sin una pizca de reproche. El corazón late fuerte, no te alcanza el aire: da miedo de verdad. En su «Bosquejo de una teoría de las emociones», Sartre describió cómo, en el miedo intenso, la conciencia, al no encontrar salida por la acción, parece caer en un mundo «mágico» donde la amenaza está en todas partes a la vez. Subrayó que la emoción se apodera del cuerpo entero y que la conciencia queda atrapada en una trampa que ella misma se tendió: cree en su propia vivencia. Sartre no veía en esto debilidad sino un intento extremo de protegerse. Visto así, no tenés que pelear contra la ola; podés volver suavemente del mundo «mágico» al real, a través de acciones y sensaciones simples. Una ola de pánico suele llegar a su pico y bajar en unos pocos minutos.",
+      "practice": "Agarrá cualquier objeto sólido, las llaves, una taza, y sentí su peso. Exhalá más despacio de lo que inhalás y nombrá en silencio qué tenés en la mano y dónde estás parado.",
+      "quote": null
+    },
+    "dread": {
+      "text": "Imaginá un hombre que no puede morir: Beauvoir puso a un héroe así en el centro de su novela «Todos los hombres son mortales» (1946). Cuando se abre la finitud de la vida y surge el «¿para qué?», su respuesta es inesperada. Su héroe, Fosca, es inmortal, y justamente por eso nada tiene peso para él: el amor, el trabajo, las elecciones, todo se puede postergar, repetir, olvidar. La infinitud resulta no ser una salvación sino un vacío. El sentido, según Beauvoir, nace precisamente de que el tiempo no es infinito: nuestros actos importan porque son nuestros y no se pueden repetir. El vértigo ante el abismo es el reverso de lo valiosa que es cada vida concreta, incluida la tuya. No hace falta que resuelvas esta pregunta ya: podés dejar que te recuerde lo que te importa.",
+      "practice": "Pasá un minuto mirando algo que no va a volver a pasar exactamente así: la luz en la ventana, una cara, esta tarde. Decite: «Esto es mío, y pasa una sola vez».",
+      "quote": null
+    },
+    "fomo": {
+      "text": "«El infierno son los otros», dice un personaje de «A puerta cerrada», la obra de Sartre, y esa frase sabe mucho del miedo a perderse algo. Parece que la vida de verdad está pasando en otro lado y que vos llegaste tarde. Sartre subrayaba que la libertad siempre implica elegir, y elegir implica renunciar: al elegir una cosa, inevitablemente no vivo otra. No es un defecto de tu vida sino la condición de toda vida humana. Sartre escribió además mucho sobre «la mirada del Otro»: empezamos a vernos con ojos ajenos y a medir nuestra vida con la imagen que muestran los demás. Esa frase suele leerse como misantropía, pero el propio Sartre lo explicó: los otros se vuelven un infierno cuando dependemos por completo de su juicio sobre nosotros. Así que el miedo a perderte algo no es la verdad sobre tu vida sino quedar cautivo de una mirada ajena. Tu vida está donde elegís.",
+      "practice": "Da vuelta el celular boca abajo y pasá tres minutos mirando lo que tenés justo enfrente. Decí: «Acá es donde estoy»: acá es donde está pasando tu vida.",
+      "quote": {
+        "text": "El infierno son los otros.",
+        "author": "Jean-Paul Sartre",
+        "source": "A puerta cerrada (1944)"
+      }
+    },
+    "sleepless": {
+      "text": "A las tres de la mañana, la conciencia, como diría Sartre, se convierte fácilmente en juez y empieza a dictar sentencias. Si estás despierto y los pensamientos dan vueltas, no es tu culpa. Sartre distinguía la conciencia «prerreflexiva», cuando simplemente vivimos, actuamos, vemos, de la reflexión, cuando la conciencia se vuelve sobre sí misma. Dentro de la reflexión distinguía la reflexión «pura», que simplemente ve con claridad, de la «impura», que empieza a juzgar, a dictar veredictos y a moldear una imagen definitiva de uno mismo. De noche, cuando no se puede actuar, la reflexión se vuelve «impura» con facilidad: los pensamientos giran, el pasado y el futuro se convierten en condenas contra vos. O sea que las conclusiones nocturnas no son la voz de la verdad sino una conciencia encerrada en sí misma, sin salida al mundo. No hace falta resolverlas ahora: mucho de lo que de noche parece definitivo vuelve a ser una pregunta abierta a la mañana.",
+      "practice": "Decile en silencio al pensamiento que da vueltas: «Te miro a la luz del día». Después sentí el peso de la frazada y lo fresco de la almohada: volvé de la reflexión a la simple presencia.",
+      "quote": null
+    },
+    "betrayal": {
+      "text": "Durante la Ocupación, Sartre y Beauvoir vivieron en un mundo donde la confianza podía costar una vida, y pensaron en serio la traición. Si te traicionaron, tu enojo, tu desconcierto y tu dolor están justificados. En «Para una moral de la ambigüedad», Beauvoir escribió que la libertad de una persona es inseparable de la libertad de los otros: construimos nuestra vida apoyándonos unos en otros. Confiar es decidir dejar entrar a otra persona en tu propio proyecto, hacerla parte de tu mundo. Justamente ahí hiere la traición: el otro se aprovechó de esa apertura y te trató como a una cosa y no como a una persona libre. Entonces tu dolor no es ingenuidad sino la prueba de que te tomaste en serio al otro. Y esto es importante: la traición habla de la elección del otro, no de tu valor. Sartre insistía en que cada uno responde por sus propios actos, y este acto no es tuyo.",
+      "practice": "Nombrá en voz alta un valor que la traición tocó: la lealtad, la apertura, la confianza. Agregá: «Sigue siendo mío».",
+      "quote": null
+    },
+    "jealousy": {
+      "text": "«El otro es tanto un centro del mundo como yo»: Beauvoir hizo este descubrimiento no en una biblioteca sino en su propia vida amorosa. Los celos son un tormento, y los existencialistas los conocían por algo más que los libros. La primera novela de Simone de Beauvoir, «La invitada» (1943), gira en torno a los celos en un triángulo amoroso y se nutre mucho de su propia experiencia. Su protagonista, Françoise, lo descubre con dolor. En «El ser y la nada», Sartre explicó por qué duele tanto: queremos que la persona amada nos elija libremente, siempre, pero la libertad del otro, por definición, no puede pertenecernos. Así que los celos no son señal de un amor «malo» sino un choque con el hecho de que la persona amada sigue siendo otra, separada. Dicho de otro modo, podés aceptarlos como el dolor de esa separación, y preguntarte qué es lo que en realidad te falta.",
+      "practice": "Durante un minuto, imaginá el mundo con los ojos de la persona que te da celos: también es el centro de su mundo. Después preguntate: «¿Qué es lo que en realidad me falta?».",
+      "quote": null
+    },
+    "resentment": {
+      "text": "Una persona puede esperar años una sola frase, «Me equivoqué», y los existencialistas te explicarían por qué. El resentimiento de larga data casi siempre tiene una causa real. Sartre y Beauvoir escribieron mucho sobre el «reconocimiento»: para una persona es vital que otro reconozca su libertad y su dignidad en vez de tratarla como una cosa. Visto así, el resentimiento es un reconocimiento negado: la expectativa de que quien te lastimó algún día entienda y diga «me equivoqué». Esa expectativa es legítima, pero en silencio te mantiene atado a la mirada de esa persona en particular. El existencialismo propone no renunciar a tu verdad, sino dejar de hacer del reconocimiento ajeno la única llave hacia ella. El reconocimiento puede venir de otras personas y, sobre todo, de vos: una injusticia sigue siendo una injusticia aunque quien la cometió nunca lo admita.",
+      "practice": "Leete en voz alta, despacio: «Lo que me pasó fue injusto, y mi dolor tiene sus razones». El reconocimiento empieza por tu propia voz.",
+      "quote": null
+    },
+    "heartbreak": {
+      "text": "«El segundo sexo» tiene un capítulo llamado «La enamorada», donde Beauvoir escribe sobre un amor en el que una persona se disuelve por completo. El dolor de un corazón roto no hay que apurarlo. En «El segundo sexo», Beauvoir describió con qué frecuencia en el amor una persona, sobre todo una mujer, educada para eso, se disuelve en el otro: lo vuelve el centro del mundo, deja de lado sus propios proyectos, vive a través de la mirada de él. Entonces una ruptura se lleva no solo a la persona amada sino el cimiento mismo de la propia vida. Pero su pensamiento también ofrece consuelo: tu yo no desaparece junto con la relación. Debajo del dolor siguen estando tus propios deseos, amistades y búsquedas, en los que quizás hace mucho que no pensabas. Podés hacer el duelo todo el tiempo que necesites, y de a poco recuperar tu mundo.",
+      "practice": "Dale hoy cinco minutos a algo que era tuyo antes de esta relación: una canción, un recorrido, un libro, una actividad con las manos.",
+      "quote": null
+    },
+    "impostor": {
+      "text": "El mozo de Sartre se mueve con demasiada precisión y hace reverencias con demasiado entusiasmo, como si estuviera «jugando» a ser mozo. La escena es de «El ser y la nada», y la conoce cualquiera que viva con la sensación de «ahora me descubren». Sartre muestra que todos lo hacemos de una u otra forma: nadie es su papel como una mesa es una mesa. Una médica, un docente, una gerente: cada uno interpreta un papel que nunca coincide del todo con quien es. Así que sentirte impostor no prueba que seas peor que los demás, sino que es una percepción honesta de la distancia entre persona y papel que tenemos todos. La única diferencia es que vos la notás. Tu capacidad vive en tus actos, no en coincidir a la perfección con un papel.",
+      "practice": "Acordate de una cosa que hiciste bien en este papel y contásela a alguien en una sola frase, sin atenuantes.",
+      "quote": null
+    },
+    "self_hatred": {
+      "text": "El crítico interno dice «eso es lo que sos» con voz de juez, y Sartre se pasó la vida discutiendo justamente con ese tono. Cuando te odiás, el veredicto suena a verdad. Pero el existencialismo ofrece una objeción importante. Sartre consideraba «mala fe» (mauvaise foi), entre otras cosas, el intento de definirse de una vez para siempre, como una cosa: «yo soy así», «no valgo nada». Un ser humano, para Sartre, nunca coincide con el veredicto de nadie, ni siquiera con el propio. En su libro sobre el escritor Jean Genet, Sartre mostró cómo un chico al que los adultos marcaron como ladrón primero aceptó esa palabra ajena como su destino y después la convirtió en literatura: hizo de ella algo propio. La voz del crítico muchas veces es una mirada ajena, absorbida hace mucho. O sea que su veredicto no es definitivo: sos más grande que cualquier etiqueta.",
+      "practice": "Poné en palabras, en voz alta, la etiqueta que usa tu crítico interno, y después una cosa que hiciste y que no encaja con ella. Decí: «Eso también soy yo».",
+      "quote": {
+        "text": "Lo importante no es lo que han hecho de nosotros, sino lo que hacemos nosotros con lo que han hecho de nosotros.",
+        "author": "Jean-Paul Sartre",
+        "source": "San Genet, comediante y mártir (1952)"
+      }
+    },
+    "helplessness": {
+      "text": "Beauvoir discutió una vez con Sartre: ¿es tan libre una mujer encerrada en un harén como alguien que puede irse? Ella insistía en que no, y habría entendido tu impotencia. A Sartre se lo suele pintar como el campeón de la libertad sin límites, pero Beauvoir lo corrigió: la libertad siempre existe en una situación, con un cuerpo, dinero, una historia, el poder de otros. En «Para una moral de la ambigüedad» escribió que hay situaciones en que a una persona realmente le quitan sus posibilidades, y eso no es culpa suya sino una injusticia. Entonces tu impotencia puede estar reflejando con honestidad restricciones reales y no una debilidad personal. Pero el existencialismo agrega: aun en una situación estrecha queda la libertad de tu postura, cómo entender lo que pasó, en qué apoyarte, con quién unirte. Beauvoir subrayaba que la libertad crece junto con otros: lo que es imposible a solas a veces se vuelve posible al lado de alguien.",
+      "practice": "Dividí una hoja al medio: a la izquierda, lo que ahora está fuera de tu control; a la derecha, una cosa chiquita donde todavía tenés elección, aunque sea en cómo te parás frente a lo que pasa.",
+      "quote": null
+    },
+    "procrastination": {
+      "text": "La tarea está sobre el escritorio, y la conciencia de golpe encuentra mil razones para considerarla aburrida: Sartre lo llamaría un pequeño acto de hechicería. Casi nunca se trata de vagancia. En su «Bosquejo de una teoría de las emociones», Sartre escribió que cuando el camino de la acción parece demasiado difícil, la conciencia busca una salida «mágica»: en lugar de cambiar el mundo, cambia la manera de percibirlo. Como el zorro de la fábula que declara verdes las uvas que no alcanza, de pronto la tarea nos parece aburrida, sin importancia o aterradora, y postergarla se siente como un alivio. Dicho de otro modo, la procrastinación no es un vicio sino una forma de protegerse cuando la tarea se siente como una pared. No tenés que elegir «hacer todo». Alcanza con elegir un primer paso tan chiquito que la pared se convierta en camino.",
+      "practice": "Poné un temporizador de dos minutos y hacé solo el primerísimo paso: abrir el archivo, sacar el cuaderno. Cuando suene, podés parar.",
+      "quote": null
+    },
+    "uprooted": {
+      "text": "Durante años Sartre y Beauvoir vivieron en hoteles: para ellos el hogar tenía más que ver con lo que hacían que con un lugar. Perder tus apoyos conocidos después de una mudanza o una emigración cala hondo. Sartre describía la vida humana a través de la noción de «situación»: el lugar, la lengua, el entorno no son decorado sino aquello dentro de lo cual toman forma nuestros proyectos. Beauvoir te recordaría que esto no es solo una prueba personal: una mudanza suele estar atada a circunstancias que la persona no controla, y sentirse perdido es una respuesta honesta a ellas. Pero Sartre subrayaba también otra cosa: el sentido de un lugar no está dado de antemano. Se vuelve «mío» por lo que hago en él, con quién me vinculo, adónde voy. Visto así, tu hogar anterior sigue siendo parte de tu historia, mientras el nuevo todavía se está construyendo, con tus elecciones.",
+      "practice": "Salí a caminar por tu lugar nuevo y elegí un punto, un banco, una ventana, una esquina, que desde hoy vas a considerar tuyo.",
+      "quote": null
+    },
+    "overload": {
+      "text": "Una fila para el colectivo en la plaza Saint-Germain: la gente está una al lado de la otra, pero la une solo la espera de lo mismo; así describió el Sartre tardío, en la «Crítica de la razón dialéctica», la «serialidad». Un feed interminable agota, y no tiene que ver con tu debilidad. En esa fila cada uno es intercambiable y está solo entre los demás. El feed crea una serialidad parecida: millones de personas miran lo mismo, pero cada una a solas, y el ritmo lo marca el flujo y no sus propios proyectos. Quedar agotado por eso es cómo responde una libertad cuando no le dejan espacio. El existencialismo no te pide renunciar al mundo, pero te recuerda que la atención también es una elección, y que podés recuperarla, aunque sea por unos minutos.",
+      "practice": "Cerrá todas las pestañas y quedate dos minutos sin leer nada. Después preguntate: «¿Qué quiero saber yo?», y dedicate solo a eso.",
+      "quote": null
+    },
+    "unreality": {
+      "text": "Un tranvía, un asiento, y la palabra «asiento» que de pronto no se queda pegada al objeto: Sartre escribió esta escena en «La náusea». Si sentís que todo a tu alrededor, o vos mismo, no es del todo real, es raro e inquietante, y merece un cuidado suave. Las cosas se vuelven ajenas, como vistas por primera vez. Sartre lo describió sin ningún diagnóstico: como un momento en que la trama conocida de nombres y sentidos se afloja. Da miedo, pero para Sartre muestra que la «normalidad» cotidiana del mundo se apoya en nuestra participación: todo el tiempo les estamos dando sentido a las cosas. Así que la irrealidad no es la desaparición del mundo sino un aflojamiento pasajero de ese lazo, y se restablece con la acción y el contacto.",
+      "practice": "Agarrá un objeto simple, nombralo en voz alta y hacé algo con él: serví agua en un vaso, mové un libro. Dejá que la acción vuelva a hacer familiar la cosa.",
+      "quote": null
+    },
+    "awe": {
+      "text": "Beauvoir salía sola a las montañas de Provenza por un día entero: en sus memorias «La plenitud de la vida» describió con deleite esas caminatas, horas andando, cautivada por el espacio abierto. A los existencialistas se los imagina sombríos, pero el asombro ante lo inmenso lo conocían bien. Para ella era la alegría de la libertad al encontrarse con el mundo. En «¿Qué es la literatura?», Sartre escribió que el ser humano es aquel por medio del cual el ser «se revela»: las montañas y el mar no nos esperan, pero es en la mirada humana donde se despliega su grandeza. O sea que el asombro es el momento en que tu libertad se encuentra con algo más grande que ella y no se siente achicada sino ensanchada. No hace falta explicarlo ni darle un uso: alcanza con dejarte ser testigo.",
+      "practice": "Andá a una ventana o salí afuera y pasá un minuto mirando lo más grande que tengas a la vista: el cielo, un árbol, un edificio. Decite: «Soy testigo».",
+      "quote": null
+    },
+    "relief": {
+      "text": "Una puerta que hace un momento estaba cerrada con llave de pronto está abierta, y toda la habitación, diría Sartre, cambió. El alivio vale la pena vivirlo en lugar de pasarlo de largo. En su «Bosquejo de una teoría de las emociones», Sartre describió cómo una emoción cambia toda la cara del mundo: en la angustia todo aprieta y amenaza, y cuando la amenaza pasa, el mundo vuelve a ser un lugar donde se puede actuar. El alivio es justamente esa transición, del «nada es posible» al «otra vez se puede». Desde Beauvoir se podría agregar que el alivio siempre llega en una situación concreta, después de una tensión concreta, y refleja con honestidad cuánto aguantaste. Así que el alivio no es una pavada ni una señal para tirarte de cabeza a lo siguiente. Es el momento en que la libertad vuelve a sentir espacio a su alrededor. Permitite notarlo y quedarte un rato ahí.",
+      "practice": "Respirá hondo y exhalá despacio, enderezá los hombros y nombrá en voz alta una cosa que volvió a ser posible.",
+      "quote": null
+    },
+    "calm": {
+      "text": "A Beauvoir le encantaban las noches largas de conversación y las caminatas sin apuro: su filosofía de la libertad no excluía el ocio. La paz no necesita justificación. Podría parecer que una filosofía de la libertad y la responsabilidad no deja lugar al descanso. Pero en «Para una moral de la ambigüedad», Beauvoir criticaba al «hombre serio», el que subordina la vida a fines abstractos y nunca se permite simplemente estar. La libertad, para ella, no existe al servicio de una carrera interminable sino de la vida misma, con lugar para la alegría, el juego, la calma. Dicho de otro modo, la tranquilidad no es una fuga de la responsabilidad ni un tiempo «vacío». Es una de las formas de la libertad: te permitís vivir, no solo lograr cosas. No tenés que ganártela: podés simplemente elegir quedarte en ella.",
+      "practice": "Decite: «Ahora elijo no lograr nada», y quedate así un par de minutos, notando qué se siente.",
+      "quote": null
+    },
+    "inspiration": {
+      "text": "«Escribir es hacer una llamada al lector», sostuvo Sartre en «¿Qué es la literatura?» (1948). Cuando la inspiración te agarra, vale la pena cuidar ese estado alegre y vivo. Para él la creación es una «llamada» a la libertad de otro: el escritor crea un texto, pero este cobra vida solo cuando un lector responde libremente. Vista así, la inspiración no es un don misterioso enviado desde afuera sino un momento en que tu libertad siente que puede dirigirse al mundo y a los demás. Beauvoir escribió toda su vida, novelas, ensayos, memorias, y veía la escritura como una manera de darle sentido a su situación y compartirla con otros. La inspiración no tiene que convertirse en una obra maestra para ser real. Es una invitación: podés sumarle al mundo algo que sin vos no estaría.",
+      "practice": "Escribí una primera frase dirigida a una persona concreta, aunque sea imaginaria, para quien está pensado lo que querés crear.",
+      "quote": null
+    },
+    "schadenfreude": {
+      "text": "Por un momento es otro el que está bajo la mirada en lugar de vos: Sartre te explicaría por qué eso trae alivio. Cuesta admitir que te alegrás del mal ajeno, pero eso no dice nada definitivo sobre vos. Sartre describía cómo vivimos bajo «la mirada del Otro»: los demás nos ven, nos evalúan, y todo el tiempo nos sentimos en sus ojos. Con esa tensión, el éxito ajeno puede vivirse como una amenaza, y el fracaso ajeno como un breve respiro: por un momento no somos nosotros los juzgados. Alegrarse del mal ajeno no es una «esencia malvada», y menos todavía si, para Sartre, una persona no tiene esencia de antemano: nos definimos por lo que hacemos. El sentimiento se encendió, eso es un hecho, pero qué hacés con él depende de vos. Podés simplemente notarlo y preguntarte dónde te estás sintiendo juzgado en este momento.",
+      "practice": "Completá la frase, en silencio o en un papel: «Su fracaso me hizo sentir mejor porque tengo miedo de que me juzguen como…».",
+      "quote": null
+    },
+    "contempt": {
+      "text": "En el museo de Bouville, Roquentin estudia los retratos de los satisfechos padres fundadores de la ciudad y los llama «canallas». Si ahora estás mirando a alguien con desprecio, no te apures a juzgarte: Sartre conocía bien ese sentimiento frío. Pero también veía el otro lado: en «Reflexiones sobre la cuestión judía» mostró cómo el desprecio por los demás puede servir para esquivar la propia libertad y la propia incertidumbre, apoyándose en la «bajeza» ajena para sentirse sólido. Entonces sirve preguntarse: ¿el desprecio está protegiendo tu valor, o te está ayudando a no mirar algo en vos? Las dos respuestas son posibles, y las dos merecen una mirada honesta.",
+      "practice": "Preguntate en voz baja: «Mirando a esta persona, ¿qué es lo que no quiero ser?», y quedate un minuto con la respuesta sin juzgarla.",
+      "quote": null
+    },
+    "disgust": {
+      "text": "La raíz de un castaño en el jardín público de pronto le parece a Roquentin viscosa, de más, repugnantemente real. El asco es un sentimiento fuerte, casi corporal, y no hace falta discutir con él. La novela de Sartre «La náusea» está dedicada entera a una experiencia parecida: el protagonista de repente siente náuseas ante la existencia misma de las cosas, la raíz de un castaño, un vaso de cerveza, su propia mano. Todo le parece sobrante, viscoso, presente de un modo invasivo. Para Sartre esto fue un descubrimiento: el mundo no está obligado a tener un sentido prefabricado, y el asco es un encuentro con esa contingencia desnuda. O sea que el asco ante una situación, ante la gente o ante vos mismo puede entenderse como un momento en que los sentidos conocidos se caen. Es desagradable, pero también es honesto. La novela no termina en desesperación sino con una esperanza tenue: el protagonista escucha una canción y piensa en crear algo propio.",
+      "practice": "Alejate de lo que te da asco, soltá el aire despacio unas cuantas veces y mirá algo agradable. Después preguntate: «¿Qué sentido me está faltando acá?».",
+      "quote": {
+        "text": "La Náusea no está en mí: la siento allí, en la pared, en los tirantes, en todas partes a mi alrededor.",
+        "author": "Jean-Paul Sartre",
+        "source": "La náusea (1938)"
+      }
+    },
+    "revenge": {
+      "text": "Invierno de 1945: Beauvoir está sentada en la sala del juicio contra el colaboracionista Brasillach, tratando de entender qué quiere de verdad: justicia o revancha. Cuando te lastimaron, se levanta en vos una fuerza que exige justicia. En su ensayo «Ojo por ojo» (1946), Simone de Beauvoir examinó este sentimiento en serio, sin condenarlo. Escribió que hay un sentido humano profundo en la venganza: queremos que quien nos hizo daño reconozca que somos personas libres y no cosas que se pueden tratar de cualquier manera. Pero Beauvoir vio también la tragedia de la venganza: el reconocimiento no se puede arrancar a la fuerza, y el dolor devuelto no restituye lo que te quitaron. Entonces tu deseo es un reclamo de respeto por tu libertad. Podés buscar caminos que afirmen esa libertad en lugar de multiplicar el daño.",
+      "practice": "Escribí: «Quiero que entienda que yo…». ¿Qué reconocimiento necesitás en realidad?",
+      "quote": null
+    },
+    "anger_at_loved": {
+      "text": "Si estiramos el pensamiento de Sartre, las emociones estallan más seguido donde no hay forma de irse, y de quienes amamos es de quienes más cuesta irse. Saltar con tu pareja, tus viejos o tus hijos, y la vergüenza de después, no te convierten en mala persona. En su «Bosquejo de una teoría de las emociones», Sartre describió las emociones como una conducta «mágica»: cuando una situación se vuelve insoportable y no hay salida directa, la conciencia intenta cambiar el mundo con la fuerza del sentimiento. Con los seres queridos pasa especialmente seguido, porque es con ellos que más a menudo chocamos contra un callejón sin salida: el cansancio, los conflictos que se repiten, no poder irse. Beauvoir agregaría que la libertad siempre está encarnada en una situación concreta, en la falta de fuerzas, de tiempo, de apoyo. Dicho de otro modo, un estallido es la señal de un callejón sin salida, no la verdad sobre tu amor.",
+      "practice": "Después de un estallido, andá un minuto a otra habitación y soltá el aire despacio cinco veces. Preguntate: «¿En qué callejón estaba?», y buscá una pequeña salida.",
+      "quote": null
+    },
+    "ambivalence": {
+      "text": "Beauvoir tituló su libro «Para una moral de la ambigüedad», porque consideraba la ambigüedad no un defecto sino la esencia misma de la existencia humana. Para quien quiere mucho a alguien y al mismo tiempo no lo soporta, el título es casi un consuelo: esto pasa, y es profundamente humano. Somos libres y limitados a la vez, unidos a los otros y separados, amamos y queremos independencia. Beauvoir criticaba los intentos de huir de esa ambigüedad: de volver todo unívoco, «correcto», resuelto de una vez para siempre. Visto así, los sentimientos encontrados hacia alguien cercano no son señal de un amor falso sino un reflejo honesto de que los vínculos entre dos personas libres son inevitablemente de doble filo. No tenés que elegir un solo sentimiento; podés vivir reconociendo los dos.",
+      "practice": "Decí en silencio, no a esa persona: «Te quiero, y al mismo tiempo me cuesta cuando vos…». Dejá que las dos mitades de la frase suenen igual de fuerte.",
+      "quote": null
+    },
+    "guilty_relief": {
+      "text": "«Una muerte muy dulce» es un libro en el que Beauvoir no escondió ninguno de sus sentimientos. Si después de una ruptura, una partida o la larga enfermedad de un ser querido llegó el alivio, y detrás vino una culpa punzante, sabé esto: el alivio no anula el amor. En «Una muerte muy dulce» (1964), Simone de Beauvoir describió con una honestidad poco común las últimas semanas de vida de su madre, y lo contradictorios que eran sus propios sentimientos: ternura, agotamiento, bronca, lástima. No intentó volverlos «como corresponde». Su «moral de la ambigüedad» sugiere que los sentimientos humanos rara vez son puros, y que la honestidad importa más que cumplir expectativas. Tu alivio es una de las voces que hay en vos, junto al dolor y al amor. Habla de cuánto estabas cargando, no de lo poco que amabas.",
+      "practice": "Anotá tres sentimientos que tenés ahora hacia esta persona y esta situación. Dejá que los tres se queden en la hoja.",
+      "quote": null
+    },
+    "indifference": {
+      "text": "«Espíritu de seriedad»: así llamaban Sartre y Beauvoir a la creencia de que los valores y las reacciones correctas están dados de antemano, como leyes de la naturaleza, y que estamos obligados a ajustarnos a ellos. Si por dentro hay solo silencio donde «deberías» conmoverte, asusta, pero no te vuelve una persona sin corazón: no te pasó nada vergonzoso. Para los existencialistas no existe una lista prefabricada de lo que «se supone» que hay que sentir. Así que tu indiferencia no es una regla rota sino un hecho de tu estado que se puede reconocer con honestidad. Sartre mostró que las emociones son maneras de responder a una situación; a veces el silencio también es una respuesta, al agotamiento o a la sobrecarga, por ejemplo. Reconocerlo con honestidad ya es un comienzo. El sentido no tiene por qué aparecer a pedido.",
+      "practice": "Quedate dos minutos con este silencio, sin intentar sentir «como corresponde». Solo registrá: «Así es ahora».",
+      "quote": null
+    },
+    "escape": {
+      "text": "A los veintiún años, Beauvoir se fue de la casa de sus padres y le alquiló una pieza a su abuela, para no vivir según el guion de otros. Las ganas de largar todo dicen mucho de vos. Sartre sostenía que «la existencia precede a la esencia»: no tenés que coincidir para siempre con el papel de mozo, de gerente, de «buena hija». Un papel no es tu naturaleza sino algo que alguna vez elegiste o aceptaste. En el ensayo «Pirro y Cineas», Beauvoir cuenta la historia de un rey que planea conquistar el mundo entero para después descansar, y de un consejero que le pregunta: ¿por qué no descansar ya? Muestra que el ser humano siempre tiende más allá de lo que hay. O sea que las ganas de escapar son la señal de una libertad que no entra en el marco. No hace falta derribar todo de una vez: primero podés preguntarte hacia dónde, exactamente, te está tirando esa libertad.",
+      "practice": "Imaginá un día cualquiera en el que no te reducís a tu papel. ¿Qué habría en él? Encontrá una cosa chiquita de ese día que sea posible esta misma semana.",
+      "quote": null
+    },
+    "forbidden_attraction": {
+      "text": "Una mujer en una cita deja su mano en la de su acompañante y hace como si nada pasara: así nos muestra Sartre, en «El ser y la nada», escondiéndonos de nuestra propia elección. La atracción por alguien «prohibido» inquieta, pero por sí sola no decide nada ni te define. Sartre llamó «mala fe» a este tipo de autoengaño. Entonces es más honesto reconocer la atracción que hacer de cuenta que no está. Reconocerla no te compromete a ninguna acción. Simplemente te devuelve claridad: esto es lo que siento, y soy yo quien decide cómo vivir con eso. La libertad empieza por la verdad sobre uno mismo.",
+      "practice": "Poné una mano en el pecho y decite sin juzgarte: «Sí, siento esto». Fijate cómo cambia la tensión cuando no tenés que fingir.",
+      "quote": null
+    },
+    "social_anxiety": {
+      "text": "Un café donde parece que todos te miran es el escenario perfecto para la filosofía de Sartre. Tenerle miedo a la gente y a su juicio agota, y no estás solo en esto. Sartre describió «la mirada del Otro»: cuando nos miran, de pronto nos sentimos un objeto bajo evaluación, y no podemos controlar cómo nos ven. Eso de verdad inquieta: Sartre no hizo de cuenta que fuera fácil. Pero también mostró que el otro ve solo un costado, una instantánea, mientras vos seguís siendo una libertad que continúa. Beauvoir agregaría que los demás también viven bajo la mirada de alguien, y que las libertades de las personas están entrelazadas, no solo enfrentadas. Dicho de otro modo, la persona frente a la que te da vergüenza probablemente también le tenga un poco de miedo a tu mirada.",
+      "practice": "En un lugar con mucha gente, mirá a dos o tres desconocidos y registrá: cada uno también está bajo la mirada de alguien y puede estar un poco nervioso. ¿Cómo cambia tu respiración?",
+      "quote": null
+    },
+    "uncertainty": {
+      "text": "Sartre decía que el ser humano se «proyecta» hacia un futuro que todavía no existe, como un puente que se construye mientras ya lo estás cruzando. No saber desgasta: querés algo firme, y no hay nada. Sartre describió la «angustia» como el sentimiento que aparece cuando tomamos conciencia de nuestra libertad: nada garantiza de antemano lo que va a pasar, y ninguna regla va a decidir por nosotros. No fingió que fuera agradable. Pero ahí también hay una posibilidad: como el futuro no está escrito, nuestros actos significan algo de verdad. Beauvoir subrayaba que la libertad siempre existe en una situación concreta, con límites que hay que tener en cuenta con honestidad. Vista así, la incertidumbre no es solo una amenaza sino también un espacio para elegir. No tenés que ver todo el camino: alcanza con el próximo paso, elegido por vos.",
+      "practice": "Decile a alguien una frase: «No sé cómo va a salir, pero hoy elijo…», y terminala.",
+      "quote": null
+    },
+    "waiting": {
+      "text": "Pirro se prepara para conquistar el mundo entero y así descansar después, y su consejero le pregunta por qué no descansar ahora: Beauvoir examinó esta discusión en su ensayo «Pirro y Cineas». Esperar resultados, una respuesta, una noticia puede estirarse de manera angustiante. Sartre describía al ser humano como una criatura que siempre tiende hacia adelante, hacia sus posibilidades: vivimos «proyectándonos» hacia el futuro. Por eso la espera es tan difícil: el futuro al que tendemos depende de la decisión de otro, y nos quedamos congelados. En «Pirro y Cineas», Beauvoir reflexionaba que una persona no puede vivir solo para lo que vendrá «después»: el presente también tiene que tener sentido. No tenés que entregarle todo tu tiempo a la espera. Hasta que llegue la decisión, seguís siendo una libertad que puede elegir cómo vivir hoy.",
+      "practice": "Ahora mismo, hacé una cosa que tenga sentido sea cual sea la respuesta: regá una planta, llamá a un amigo, prepará un té.",
+      "quote": null
+    },
+    "regret": {
+      "text": "El pasado, para Sartre, es como una frase cuyo final todavía no se escribió: las palabras no se pueden cambiar, pero su sentido depende de las que vengan después. El arrepentimiento por lo que hiciste o no hiciste habla de lo que te importa. Sartre sostenía que el pasado es parte de nuestra «facticidad»: ocurrió, y no se puede cambiar. Pero para Sartre el sentido del pasado no está cerrado. Lo determina lo que hacemos ahora: el mismo hecho puede volverse el final de un camino o un giro hacia algo nuevo, según lo que elijas hoy. Así que el arrepentimiento no es solo un veredicto sino también un material. No tenés que ser la persona que una vez se equivocó: te estás eligiendo de nuevo todo el tiempo. Podés preguntarte no «¿por qué hice eso?» sino «¿qué voy a hacer con esto ahora?».",
+      "practice": "No te preguntes «¿por qué hice eso?» sino «¿qué voy a hacer con esto ahora?», y respondé en voz alta en una frase.",
+      "quote": null
+    },
+    "longing": {
+      "text": "Sartre entra en un café donde quedó en encontrarse con su amigo Pierre, con un cuarto de hora de retraso, y Pierre no está. Esta escena de «El ser y la nada» describe con mucha precisión lo que es extrañar a una persona en particular. Todo el café, las mesas, las caras, el humo, se vuelve un fondo para esa ausencia: no ve el café sino «no-Pierre». Sartre mostró que la ausencia no es un vacío sino una forma especial de presencia que tiñe el mundo entero. O sea que extrañar es la manera en que una persona querida sigue estando en tu mundo: a través de su ausencia. Es una señal de cuánto pasó a ser parte de tus sentidos. No tenés que espantar este sentimiento; podés llevarlo con suavidad.",
+      "practice": "Fijate hoy en el lugar o el momento en que la ausencia de esta persona se siente más fuerte. Frená ahí un minuto y saludala en silencio.",
+      "quote": null
+    },
+    "world_pain": {
+      "text": "Sartre leía los diarios casi todos los días y firmaba petitorios: no sabía darle la espalda al mundo. Las noticias terribles, la violencia y la injusticia te hieren a vos también, y eso habla de tu capacidad de compasión. Sartre escribió que al elegirnos estamos, en cierto sentido, eligiendo una imagen de la humanidad entera, y que por eso no somos responsables solo de nosotros. Puede parecer un peso insoportable. Pero Beauvoir aclaró: la libertad siempre es concreta y está encarnada en una situación. No podemos cargar el mundo entero, pero sí podemos actuar donde estamos: acompañar a alguien cercano, hacer lo que está a nuestro alcance. Tu dolor es una señal de tu vínculo con los otros. Se puede convertir en cuidado concreto sin ahogarte en un flujo interminable de noticias. Proteger tus fuerzas también es parte de la responsabilidad.",
+      "practice": "Esta semana, hacé una cosa concreta que esté a tu alcance, por ejemplo acompañar a alguien cercano, y después regalate una hora sin noticias.",
+      "quote": null
+    },
+    "rejection": {
+      "text": "Estás bajo la mirada de alguien, y esa mirada llega a una decisión sin vos: así describía Sartre el encuentro con el Otro. Cuando te rechazaron, la herida es profunda, y es natural. Sartre describió en detalle cómo dependemos de la mirada del Otro: otra persona puede ver en nosotros lo que no vemos, y no tenemos poder sobre su juicio. Justamente por eso el rechazo pega tan fuerte: otra libertad dijo «no», y no la podemos convencer. Pero acá también hay una idea liberadora: la mirada ajena es su elección, no la verdad definitiva sobre vos. No te reducís a cómo te vio una persona. Para Sartre, el ser humano no tiene una esencia terminada que alguien pueda evaluar de manera concluyente. Seguís creándote a través de tus actos.",
+      "practice": "Contale a alguien cercano una cosa de vos que la persona que te rechazó nunca llegó a ver.",
+      "quote": null
+    },
+    "abandonment": {
+      "text": "«Desamparo» es una de las palabras clave de Sartre: la usaba para la posición de todo ser humano, a quien nadie desde arriba le entregó instrucciones. El miedo a que te dejen suena especialmente agudo en esa palabra, y merece ternura. Suena frío, pero Beauvoir agregó algo importante: la libertad de una persona siempre está entrelazada con la libertad de los otros; nos necesitamos para que nuestra vida tenga sentido. El miedo al abandono es una vivencia aguda de esa dependencia. Visto así, podés reconocer: el otro es libre, y su presencia no se puede garantizar. Eso duele. Pero un vínculo que se apoya en la libertad y no en el control es el más valioso. Y no estás indefenso: vos también tenés la libertad de construir vínculos.",
+      "practice": "Fortalecé hoy un vínculo con un paso chiquito: un mensaje, una llamada, un agradecimiento.",
+      "quote": null
+    },
+    "unrequited": {
+      "text": "El que ama, para Sartre, quiere volverse el mundo entero para el otro, y esa es su desgracia inevitable. Cuando un amor no es correspondido, el dolor es real. Sartre fue bastante sombrío en su análisis del amor: en «El ser y la nada» mostró que el que ama quiere volverse todo para el otro, pero la libertad del otro siempre se escurre, no se puede apropiar. Beauvoir lo veía distinto: en «El segundo sexo» escribió que el amor auténtico se construye sobre el reconocimiento mutuo de dos libertades. Que un amor no sea correspondido no es tu fracaso sino un encuentro con la libertad de otra persona, que ninguna intensidad del sentimiento puede cambiar. No valés menos porque no te eligieron. Tu capacidad de amar es tuya, y se queda con vos.",
+      "practice": "Leete despacio, en voz baja: «Es libre de no amarme. Yo soy libre de seguir siendo yo».",
+      "quote": {
+        "text": "El amor auténtico debería fundarse en el reconocimiento recíproco de dos libertades.",
+        "author": "Simone de Beauvoir",
+        "source": "El segundo sexo (1949)"
+      }
+    },
+    "humiliation": {
+      "text": "«Lo importante no es lo que han hecho de nosotros, sino lo que hacemos nosotros con lo que han hecho de nosotros», escribió Sartre. La humillación es una de las experiencias más dolorosas, y no es tu culpa haberla atravesado. Sartre describió cómo la mirada del Otro puede convertirnos en objeto: una imagen «congelada» sobre la que no tenemos poder. La humillación es la forma extrema de esto: no solo te ven, te reducen a algo bajo. Toda su vida Beauvoir escribió sobre cómo se priva de libertad a las personas volviéndolas «otras», volviéndolas objetos. Así que la humillación no es la verdad sobre vos sino el acto de alguien que te negó el reconocimiento. Tu libertad no desapareció: está herida, pero sigue.",
+      "practice": "Parate, enderezá la espalda y apoyá bien los dos pies en el piso. Preguntate: «¿Qué quiero hacer con lo que me hicieron?», y respondé con una palabra.",
+      "quote": null
+    },
+    "body_shame": {
+      "text": "«No se nace mujer: se llega a serlo», y del mismo modo, mostró Beauvoir, nadie nace creyendo que su cuerpo «no está bien». Es un sentimiento común y doloroso. En «El segundo sexo», Simone de Beauvoir mostró que nuestra relación con el cuerpo la crea en gran medida la sociedad: miradas, estándares y expectativas que absorbemos desde la infancia. La imagen del cuerpo «correcto» no es naturaleza sino un guion cultural. Sartre agregaría que vivimos el cuerpo como «cuerpo-para-otro»: nos vemos con ojos ajenos. O sea que la vergüenza por tu cuerpo no es la verdad sobre vos sino el reflejo de una mirada ajena. De a poco podés recuperar tu cuerpo como tu manera de vivir y no como un objeto de evaluación.",
+      "practice": "Apoyá las palmas sobre los hombros y sentí lo que este cuerpo está haciendo por vos ahora: respira, te sostiene, te da calor. Un minuto, sin juicio, solo atención a su trabajo.",
+      "quote": {
+        "text": "…el cuerpo no es una cosa, es una situación.",
+        "author": "Simone de Beauvoir",
+        "source": "El segundo sexo (1949)"
+      }
+    },
+    "illness": {
+      "text": "Hacia el final de su vida Sartre quedó casi ciego y siguió trabajando: dictaba y escuchaba mientras sus amigos le leían. Cuando el cuerpo te falla, se te mueve el piso. Es duro, y tenés todo el derecho de sentir pena. En «El ser y la nada», Sartre describió el cuerpo no como un objeto que poseemos sino como aquello a través de lo cual estamos en el mundo. Dio un ejemplo: a una persona le duelen los ojos mientras lee, y el dolor no está separado de la lectura; tiñe las líneas mismas de la página. Beauvoir subrayaba que la libertad siempre existe en una situación, y la enfermedad también es una situación, no el fin de la libertad. Entonces seguís siendo alguien que elige cómo vivir estos días, aunque el margen de elección se haya achicado. A veces la libertad está simplemente en cómo te tratás hoy.",
+      "practice": "Tomá hoy vos una decisión chiquita, qué leer, con quién hablar, cómo descansar, y decite: «Esto lo elegí yo».",
+      "quote": null
+    },
+    "pride": {
+      "text": "«El hombre no es otra cosa que el conjunto de sus actos», dijo Sartre en su famosa conferencia de 1945. El orgullo por lo que hiciste es un sentimiento sano y bien ganado, y no hace falta apurarse a esconderlo. Dicho de otro modo, el orgullo por un resultado es reconocerte en tu propia acción: esto elegí, esto creé. Es lo opuesto de la «mala fe», en la que nos escondemos de nuestra libertad. Beauvoir advertía contra una sola cosa: convertir los logros en un ídolo congelado, en «espíritu de seriedad», donde el resultado se vuelve más importante que la persona viva. Pero el orgullo como alegría por lo que hiciste es un reconocimiento de tu propia libertad en acción. Permitite disfrutar este momento.",
+      "practice": "Decí en voz alta qué hiciste y qué elección hubo detrás. Decí: «Esto es mío».",
+      "quote": null
+    },
+    "melancholy": {
+      "text": "Un disco que suena en un café: en las últimas páginas de «La náusea», Sartre le regala a su protagonista agotado un momento de tristeza luminosa, donde la pena se mezcla con la ternura. No hace falta «arreglarla». El protagonista, gastado por el sinsentido, está sentado escuchando una vieja canción de jazz, «Some of These Days». La melodía es triste, pero tiene una pureza y una necesidad que al caos de las cosas le faltan. El protagonista siente una esperanza tenue: tal vez él también podría crear algo así. Vista así, la melancolía puede no ser una caída sino una sensibilidad especial a la belleza de lo que pasa. Sartre y Beauvoir sostenían que el sentido lo creamos nosotros, y la tristeza luminosa muchas veces se vuelve el comienzo de esa creación.",
+      "practice": "Escuchá una canción que vaya con tu ánimo, entera, hasta el final, sin hacer ninguna otra cosa al mismo tiempo.",
+      "quote": null
+    }
+  }
+}

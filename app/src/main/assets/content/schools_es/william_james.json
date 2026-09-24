@@ -1,0 +1,404 @@
+{
+  "id": "william_james",
+  "title": "William James",
+  "tradition": "Pragmatismo",
+  "family": "nineteenth",
+  "period": "fines del siglo XIX – principios del siglo XX",
+  "sortYear": 1890,
+  "thinkers": [
+    "William James"
+  ],
+  "keyWorks": [
+    "«¿Qué es una emoción?» (1884)",
+    "Principios de psicología (1890)",
+    "La voluntad de creer (1897)",
+    "Las variedades de la experiencia religiosa (1902)",
+    "Pragmatismo (1907)"
+  ],
+  "summary": "William James fue un filósofo y psicólogo estadounidense, uno de los fundadores del pragmatismo. Creía que las ideas deben ponerse a prueba por la diferencia que hacen en la vida, y fue uno de los primeros en describir la conciencia como una «corriente» viva y continua. Después de atravesar de joven una crisis emocional grave, escribió sobre la vida interior con una compasión poco común.",
+  "onEmotions": "James propuso una teoría famosa, conocida como la teoría de James-Lange: una emoción es, en gran medida, la sensación de los cambios corporales. No lloramos simplemente porque estamos tristes: la sensación de las lágrimas, la respiración y la tensión es en sí misma una parte importante de la tristeza. De ahí una conclusión práctica: a través del cuerpo, la atención y la acción podemos influir en nuestros sentimientos. James también escribió mucho sobre el hábito, sobre la creencia y sobre el «alma enferma» —las personas que sienten con agudeza el lado oscuro de la vida—, y consideraba su experiencia no menos valiosa que la de los optimistas naturales.",
+  "entries": {
+    "anxiety": {
+      "text": "James no preguntaría «¿qué te preocupa?» sino «¿dónde está tu ansiedad ahora: en el pecho, en la garganta, en los hombros?». Es un estado difícil, y él, que de joven pasó por ataques de miedo, lo conocía desde adentro. Su teoría de las emociones señala algo importante: la ansiedad vive en gran parte en el cuerpo: el corazón acelerado, la respiración despareja, los músculos tensos. Eso no significa que no sea «real». Pero sí significa que el cuerpo no es solo el lugar donde se siente la ansiedad, sino también una puerta por la que se puede influir en ella. En su ensayo «El evangelio de la relajación», James aconsejaba actuar y hablar «como si» el estado que buscás ya estuviera ahí. Así que podés empezar por respirar y moverte con más calma. La ansiedad no va a desaparecer por orden, pero su base corporal puede aflojarse un poco, y el sentimiento mismo se aquieta.",
+      "practice": "Buscá dónde exactamente está la ansiedad y apoyá ahí la palma. Hacé cinco exhalaciones, cada una un poco más larga que la inhalación, actuando «como si» la calma ya hubiera llegado, como aconsejaba James.",
+      "quote": null
+    },
+    "fear": {
+      "text": "Vemos un oso y corremos, y recién entonces, según James, tenemos miedo, porque corremos. Si ahora estás asustado, en esta paradoja hay un sostén inesperado. En su teoría de las emociones James planteó una idea insólita. Solemos pensar que primero nos asustamos y después temblamos. Él creía lo contrario: primero reacciona el cuerpo —el corazón golpea, los músculos se tensan— y el miedo es en gran parte la sensación de esos cambios. Eso no convierte al miedo en un error: el cuerpo evalúa el peligro al instante y nos prepara para él. Pero ayuda a manejarlo. El miedo no es un veredicto de que seas cobarde, sino una ola de reacción corporal con un principio y un final. Podés notarla, nombrarla y esperar a que pase sin fundirte con ella: «mi cuerpo se está preparando para un peligro».",
+      "practice": "Decite: «Mi cuerpo se está preparando para huir de un oso». Registrá tres sensaciones corporales —el corazón, la respiración, los músculos— y observá cómo cambia la ola, sin escaparte de ella.",
+      "quote": {
+        "text": "Nos sentimos tristes porque lloramos, enojados porque golpeamos, asustados porque temblamos.",
+        "author": "William James",
+        "source": "Principios de psicología, cap. XXV, «Las emociones» (1890)"
+      }
+    },
+    "sadness": {
+      "text": "James dividía a las personas en «mentalidades sanas» —optimistas naturales— y «almas enfermas», que sienten con agudeza el lado doloroso de la vida, y consideraba más completa la experiencia de estas últimas, porque abarca todo lo que hay en el mundo, incluido el dolor. Si ahora estás triste, quizá así es como estás viendo: de manera más amplia y honesta, no peor que los demás. Esa tristeza no necesita que la apuren ni que la escondan. Tu tristeza no es un error de percepción sino una manera de ver la realidad más a fondo. James escribió que esas personas, después de atravesar la oscuridad, muchas veces llegan a una alegría más duradera: los llamó los «nacidos dos veces». La tristeza puede ser parte de ese camino y no un callejón sin salida.",
+      "practice": "Caminá despacio diez minutos sin intentar animarte: solo dejá que la tristeza camine al lado tuyo. El «alma enferma», para James, ve más: fijate qué ves vos en particular hoy.",
+      "quote": null
+    },
+    "grief": {
+      "text": "La carta de despedida de James a su padre moribundo llegó demasiado tarde; su hermano Henry la leyó en voz alta junto a la tumba. El duelo no se arregla con consejos. Su teoría de las emociones muestra lo estrechamente ligados que están los sentimientos al cuerpo: el duelo se siente como un peso en el pecho, un nudo en la garganta, cansancio, y es la respuesta natural de un organismo vivo a la pérdida. En los Principios de psicología escribió que las personas cercanas se vuelven parte de nuestro «yo», y cuando se van, una parte nuestra se va con ellas. No es raro que el duelo también se sienta como una pérdida de uno mismo. Desde un punto de vista pragmático, las pequeñas acciones cotidianas pueden ser un apoyo: ayudan a que la vida siga mientras el sentimiento se atraviesa a su propio ritmo.",
+      "practice": "Decí en voz alta unas palabras dirigidas a la persona que perdiste —junto a una ventana o a una foto—, como Henry leyó la carta de su hermano junto a la tumba. Después hacé algo chiquito y amable por tu cuerpo: un vaso de agua, una manta abrigada, una caminata corta.",
+      "quote": null
+    },
+    "loneliness": {
+      "text": "Difícilmente podría idearse un castigo más cruel, escribió James, que ser soltado en la sociedad y pasar absolutamente inadvertido. Si ahora te sentís solo, esa línea explica por qué duele tanto. En los Principios de psicología describió el «yo social»: la parte de nuestro yo que vive en el reconocimiento de los demás. Escribió que una persona tiene tantos yoes sociales como individuos que la reconocen y llevan una imagen de ella en la mente. La soledad no es un capricho sino el hambre de una parte muy importante tuya. Eso ayuda a aceptar el sentimiento sin vergüenza. El pragmatismo de James también sugiere una dirección: no mires todos tus vínculos a la vez, sino qué pequeño paso hacia alguien es posible hoy.",
+      "practice": "Hoy dale a una persona una señal de que la registraste: llamá por su nombre a quien te atiende en el negocio, preguntale a un vecino cómo está, respondele a un amigo con tu voz en lugar de un emoji. El «yo social», para James, crece en las dos direcciones.",
+      "quote": null
+    },
+    "anger": {
+      "text": "«Negate a expresar una pasión, y muere»: esta línea de James suena dura, pero detrás hay una mecánica corporal simple. El enojo es un sentimiento fuerte, y muchas veces tiene algo de verdad: algo tocó tus límites. A partir de su teoría de las emociones, James notó que la expresión corporal de un sentimiento lo alimenta en gran medida. En los Principios de psicología escribió que si contás hasta diez antes de descargar tu enojo, el motivo puede llegar a parecerte muy distinto. Entre el estallido y la acción hay un espacio. No se trata de hacer como si no hubiera enojo —James, de hecho, mostró que los sentimientos son reales y corporales—. Se trata de dejar que el cuerpo se calme un poco y después decidir con calma qué querés hacer con lo que te enojó. Entonces el enojo se vuelve información y no una orden.",
+      "practice": "Cuando suba el enojo, salí un par de minutos y caminá despacio, contando los pasos hasta diez: el cuerpo se calma más rápido que los pensamientos. Después preguntate: ¿qué exactamente me tocó, y qué quiero hacer al respecto?",
+      "quote": null
+    },
+    "shame": {
+      "text": "James contaba de un hombre que se moría de vergüenza por ser solo el segundo mejor boxeador del mundo, aunque había una sola persona por encima de él. Si ahora sentís vergüenza, esa historia absurda puede hablar más de vos de lo que parece. James propuso una fórmula simple pero profunda: la autoestima es igual a nuestros éxitos divididos por nuestras pretensiones. Es decir, no sufrimos simplemente por los fracasos, sino por la distancia entre lo que logramos y lo que esperábamos de nosotros. La vergüenza se puede reducir no solo aumentando el «numerador» —los éxitos—, sino también revisando el «denominador»: las exigencias que te pusiste. James escribió que renunciar a algunas pretensiones es un alivio tan bendito como verlas satisfechas.",
+      "practice": "Leé en voz alta las palabras de James: «Renunciar a las pretensiones es un alivio tan bendito como verlas satisfechas». Nombrá una exigencia sobre vos mismo a la que podrías renunciar hoy, aunque sea a medias.",
+      "quote": {
+        "text": "Autoestima = Éxito / Pretensiones.",
+        "author": "William James",
+        "source": "Principios de psicología, cap. X, «La conciencia del yo» (1890)"
+      }
+    },
+    "guilt": {
+      "text": "«Aprovechá la primera oportunidad posible para actuar según cada resolución que tomes», aconsejaba James en su capítulo sobre el hábito. La culpa pesa, y muchas veces muestra que te importa actuar bien. Como pragmatista, James miraba las ideas y los sentimientos con una pregunta: ¿qué diferencia hace esto en la vida? Así, la culpa es útil cuando lleva a la acción —una disculpa, una reparación, un hábito nuevo— y se vuelve estéril cuando solo da vueltas en círculo. James valoraba mucho el hábito: escribió que nuestro carácter está hecho en gran parte de muchas pequeñas acciones repetidas. Así que reparar no exige convertirte al instante en otra persona: alcanza con dar un primer paso y repetirlo.",
+      "practice": "Dá hoy un pequeño paso hacia la reparación —un mensaje de disculpa, algo devuelto, un llamado— mientras la resolución todavía está tibia. Para James, la primera oportunidad es la más importante.",
+      "quote": null
+    },
+    "envy": {
+      "text": "Buen mozo, atlético, rico, ingenioso, seductor, filósofo y santo: James admitía que le gustaría ser todo eso, pero «el filósofo y el seductor no podrían convivir en la misma casa de arcilla». Cuando la envidia pica, vale acordarse de esa sonrisa honesta. En los Principios de psicología James describió el yo de una persona de manera muy amplia: incluye no solo el cuerpo y los pensamientos sino también la ropa, la casa, la familia, el trabajo, la reputación. Todo lo que llamamos «mío» se vuelve parte de nosotros. La envidia es cuando el «mío» de otro roza el nuestro: como si otra persona tuviera un pedazo del yo que nos gustaría tener. James también señaló que nadie puede ser todo a la vez. Al elegir un yo, hay que renunciar a los otros. La envidia puede recordarte tu elección y su valor.",
+      "practice": "Imaginá vivir la vida entera de la persona que envidiás, de la mañana a la noche, con todas sus renuncias. ¿A cuál de tus propios yoes tendrías que renunciar a cambio? ¿Querrías ese intercambio?",
+      "quote": null
+    },
+    "emptiness": {
+      "text": "El 30 de abril de 1870, James, con veintiocho años y meses de apatía encima, escribió en su diario: «Mi primer acto de libre albedrío será creer en el libre albedrío». Si ahora te sentís vacío y sin fuerzas, sabé que él empezó desde el mismo lugar. A veces no hace falta esperar a que aparezca el sentido para empezar a actuar: una acción pequeña puede ser ella misma el comienzo del sentido. Esto hace eco de su idea de «la voluntad de creer»: en ciertas cuestiones, nuestra creencia y nuestros pasos ayudan a crear aquello en lo que creemos. James no prometía soluciones rápidas, pero mostró que hasta una elección diminuta devuelve la sensación de participar en tu propia vida.",
+      "practice": "Elegí una acción muy chiquita para la próxima hora —tender la cama, abrir una ventana, regar una planta— y hacela simplemente porque lo decidiste. Ese es tu «primer acto de libre albedrío» de hoy.",
+      "quote": {
+        "text": "Mi primer acto de libre albedrío será creer en el libre albedrío.",
+        "author": "William James",
+        "source": "Diario, 30 de abril de 1870"
+      }
+    },
+    "confusion": {
+      "text": "Un bebé, escribió James, vive el mundo como «una gran confusión floreciente y zumbante». Cuando los pensamientos y los sentimientos se enredan y no hay una respuesta clara, volvemos por un rato a esa cuna, y no hay nada vergonzoso en eso. James describió la conciencia como una «corriente»: no está hecha de piezas separadas y prolijas, sino que fluye sin cortes, a veces en «vuelos» rápidos, a veces en «posadas» lentas. En esa corriente siempre hay una «franja»: sensaciones vagas, medio pensamientos, presentimientos que todavía no sabemos nombrar. La confusión no es una falla sino un momento en que la corriente tiene mucha franja y pocos lugares claros donde posarse. Es una parte común del funcionamiento de la mente. El pragmatismo de James agrega un consejo: si no está claro qué pensamiento es el correcto, preguntate qué diferencia práctica haría cada opción. La claridad muchas veces no llega en la cabeza sino en la acción.",
+      "practice": "Hacele a tu confusión la pregunta central del pragmatismo: «¿Qué diferencia práctica haría?». Tomá dos pensamientos entre los que estás dividido e imaginá qué harías mañana si cada uno fuera cierto. Si no cambia nada, la discusión se puede soltar.",
+      "quote": null
+    },
+    "fatigue": {
+      "text": "«Aflojen su maquinaria intelectual y práctica», pedía James en «El evangelio de la relajación» (1899), mirando a la gente que se apura y tensa los músculos, la cara y la voz incluso cuando no hace falta. Si estás agotado, es una señal honesta: tus fuerzas se volvieron menores que lo que se te exige. Según su teoría de las emociones, esa tensión corporal alimenta por sí misma la sensación de ansiedad y agotamiento. El desgaste no es solo mucho trabajo, sino también la costumbre de estar siempre acelerado. James aconsejaba aprender a soltar la tensión: relajar el cuerpo, no gastar energía en apuros innecesarios, permitirse pausas. No es vagancia sino un cuidado sensato de un recurso que no es infinito.",
+      "practice": "Aflojá, uno por uno, lo que está apretado sin motivo: la frente, la mandíbula, los hombros, los puños. Con cada exhalación, decí en silencio la palabra de James: «Aflojá».",
+      "quote": null
+    },
+    "boredom": {
+      "text": "James pasó una semana en el balneario modelo de Chautauqua —conferencias, limpieza, orden perfecto— y al irse exclamó: «¡Uf! ¡Qué alivio!». El aburrimiento puede aparecer incluso donde todo está en orden: el mundo se vuelve chato, y es desagradable. Él mostró que el hábito ahorra energía: las acciones repetidas se vuelven automáticas y dejamos de notarlas. Eso es útil, pero tiene su reverso: la vida puede convertirse en un fondo que no miramos. El aburrimiento no es necesariamente un «mundo aburrido», sino una atención que se desliza sobre lo conocido. James también señaló que el interés nace de conectar algo nuevo con lo que ya nos importa. Así que al aburrimiento se lo puede recibir con curiosidad: encontrá un detalle inadvertido en lo conocido y conectalo con algo que te importe.",
+      "practice": "Hacé un recorrido conocido y encontrá en él tres detalles que nunca habías notado. Para cada uno preguntate, como enseñaba James: ¿con qué cosa que me importa está conectado?",
+      "quote": {
+        "text": "Mi experiencia es aquello a lo que accedo a prestar atención.",
+        "author": "William James",
+        "source": "Principios de psicología, cap. XI, «La atención» (1890)"
+      }
+    },
+    "joy": {
+      "text": "A James le encantaba el relato de Stevenson sobre unos chicos que escondían faroles de lata bajo el abrigo y eran felices simplemente porque ahí adentro los faroles estaban encendidos. Tu alegría, como ese farol, no necesita explicarse ante nadie: podés simplemente dejarla arder. Al estudiar las emociones, James mostró cómo la alegría se apodera de todo el cuerpo: liviandad, hombros erguidos, una sonrisa, ganas de moverse. Para él no son «expresiones» secundarias sino la tela misma del sentimiento. La alegría no solo nos llega: podemos sostenerla un poco a través del cuerpo: notar la sonrisa, no apurarse a esconderla, dejarla durar. En Las variedades de la experiencia religiosa, James describió con interés a personas de mentalidad «sana», que saben notar lo bueno y entregarse a ello. Según él, eso en parte se puede aprender: con atención y con la costumbre de notar.",
+      "practice": "Quedate en la alegría durante tres respiraciones, como un chico con un farol bajo el abrigo: ¿dónde arde en tu cuerpo? No se la muestres a nadie: solo dejá que se avive un poco.",
+      "quote": null
+    },
+    "love": {
+      "text": "El yo, para James, no termina en la piel: incluye tu casa, tu ropa, tu trabajo, y a las personas que amás. La ternura que sentís ahora es la sensación de ese límite ensanchándose para dejar entrar a otro. Desde su teoría de las emociones, la ternura es todo un conjunto de sensaciones: calor en el pecho, suavidad en la cara, ganas de tocar. No es una ilusión sino una respuesta viva de todo el organismo. En los Principios de psicología James escribió también que las personas que amamos se vuelven parte de nuestro yo ampliado: vivimos sus alegrías y sus problemas casi como propios. Eso nos hace más vulnerables, pero también más ricos. El pragmatismo agregaría: el amor se revela en la diferencia que hace: en palabras, cuidados, pequeños actos.",
+      "practice": "Decile a la persona que amás una cosa concreta que notás en ella: no «te quiero» sino «me gusta cómo…». El pragmatismo pone a prueba el amor por la diferencia que hace.",
+      "quote": null
+    },
+    "gratitude": {
+      "text": "«Mi experiencia es aquello a lo que accedo a prestar atención», escribió James. Cuando la gratitud te abriga, estás eligiendo qué entra en tu experiencia. James agregaría tres cosas. Primero, la emoción vive en el cuerpo: la gratitud es calor, distensión, a veces lágrimas, y vale no pasarla de largo sino sentirla del todo. Segundo, nuestra experiencia está hecha de aquello a lo que prestamos atención: si notás lo bueno, el mundo de verdad se vuelve otro para vos. Tercero, James creía que los hábitos se forman por repetición. La gratitud también puede volverse un hábito, no por obligación, sino porque la mente aprende de a poco a ver lo que te sostiene. Esto no anula las dificultades, pero suma al cuadro lo que ya está ahí.",
+      "practice": "Decile «gracias» a una persona por algo concreto que hizo hoy o hace poco, en voz alta o en un mensaje. Así la gratitud va pasando de sentimiento a hábito.",
+      "quote": null
+    },
+    "hope": {
+      "text": "Un escalador está frente a un abismo, y el único camino es un salto: James escribió que la confianza en el éxito ayuda a lograrlo. Si estás esperando algo, estás parado frente a tu propio abismo. En su ensayo «La voluntad de creer» sostuvo que en ciertas cuestiones tenemos derecho a creer aun sin pruebas concluyentes, sobre todo cuando la creencia misma influye en el resultado. La esperanza no es autoengaño sino participar en la creación del futuro: te da fuerza para actuar, y las acciones cambian la realidad. La esperanza no garantiza un resultado. Pero hace posible el paso, y James creía que es justamente en ese paso donde se muestra nuestra libertad.",
+      "practice": "Parate como ante un salto: pies firmes, hombros abiertos, inclinado apenas hacia adelante. Nombrá en voz alta tu primer paso chiquito, y sentí cómo tu cuerpo se prepara para darlo.",
+      "quote": {
+        "text": "Creé que la vida merece ser vivida, y tu creencia ayudará a crear el hecho.",
+        "author": "William James",
+        "source": "«¿Vale la pena vivir?» (1895), en La voluntad de creer (1897)"
+      }
+    },
+    "nostalgia": {
+      "text": "¿Por qué reconozco el recuerdo de ayer como mío y no como la historia de otro? James respondía: nuestras propias vivencias vuelven con una particular «calidez e intimidad». Si ahora el pasado te tironea, esa es la calidez que sentís. La nostalgia es la sensación de esa misma calidez, un sentido de la continuidad de tu yo. La corriente de la conciencia fluye, todo cambia, y sin embargo seguís siendo vos: el pasado se siente propio. La nostalgia, entonces, no es solo añoranza de lo perdido, sino también la confirmación de que tu vida es una sola historia. Y esa calidez se puede traer al presente, no solo buscar atrás.",
+      "practice": "Traé un hilo de esa calidez al día de hoy: prepará ese mismo té, poné esa canción, llamá a esa persona. La corriente sigue fluyendo, pero el yo en ella es uno.",
+      "quote": null
+    },
+    "craving": {
+      "text": "James describió cómo dos ideas luchan en la conciencia: una tira hacia un placer conocido, la otra hacia lo que querés para vos en conjunto. Unas ganas intensas pueden ser casi físicas, y no hace falta avergonzarse de ellas. Él consideraba decisiva la atención: la voluntad, para James, es en gran parte el esfuerzo de sostener el pensamiento correcto frente a la mente hasta que la ola baje. Y en Las variedades de la experiencia religiosa señaló con sobriedad que la atracción por la embriaguez muchas veces esconde una sed de algo más grande —expansión, unión, un «sí» al mundo— que la embriaguez misma satisface solo por un rato y a un precio alto. Las ganas no son un veredicto sino una ola y una pregunta: ¿qué estoy buscando de verdad?",
+      "practice": "Cuando lleguen las ganas, nombralas en voz alta: «Esto es una ola». Sostené frente a tu mente un pensamiento sobre lo que te importa y seguí respirando hasta que la ola empiece a bajar: eso, para James, es la voluntad.",
+      "quote": null
+    },
+    "addiction": {
+      "text": "En una vieja obra de teatro, Rip Van Winkle se excusaba de cada recaída con un «esta no cuenta», pero James señaló que el sistema nervioso cuenta todo. Y cuenta con la misma fidelidad cada paso en la dirección contraria. En su capítulo sobre el hábito describió el sistema nervioso como un material plástico: una acción repetida va marcando un surco cada vez más hondo, y seguirlo se vuelve casi automático. Eso explica por qué es tan difícil romper el ciclo, y saca de encima la acusación de «falta de voluntad». Pero de la misma idea nace la esperanza: la plasticidad funciona en los dos sentidos, y un surco nuevo también se marca repitiendo. James aconsejaba apoyarse en un sostén de afuera y en cada pequeña acción en la dirección correcta. Y en Las variedades de la experiencia religiosa describió con respeto a personas que encontraron una salida a través de la comunidad y de un cambio en aquello en lo que se apoyaban por dentro.",
+      "practice": "Notá hoy una pequeña acción hacia un surco nuevo y decite: «Esta cuenta». Si querés, pensá quién podría acompañarte: alguien cercano, o un grupo de ayuda mutua (como AA o NA).",
+      "quote": null
+    },
+    "hangover": {
+      "text": "«¿Qué diferencia hace?»: la pregunta central del pragmatismo le queda justo a la mañana siguiente: ¿cuánto de esta oscuridad es la verdad sobre tu vida, y cuánto la voz de un cuerpo agotado? Te duele el cuerpo, se amontonan la ansiedad y la vergüenza, y no hace falta castigarte. James nos recuerda que las emociones nacen en gran parte de las sensaciones corporales. Cuando el cuerpo está deshidratado, agotado y sobreestimulado, produce ansiedad y pesimismo por sí solo, y la mente les encuentra explicaciones enseguida: «arruiné todo», «todos me juzgan». Mucha de la ansiedad de la mañana es la voz del cuerpo, no una evaluación precisa de tu vida. Eso no significa que lo de anoche no importe. Pero las grandes conclusiones sobre vos mismo conviene dejarlas para cuando tu cuerpo se haya recuperado.",
+      "practice": "Tomá un poco de agua, exhalá despacio y ordenalo en voz alta: «Esto es mi cuerpo. Las conclusiones sobre la vida pueden esperar hasta mañana». James lo llamaría poner a prueba las ideas con la cabeza despejada.",
+      "quote": null
+    },
+    "euphoria": {
+      "text": "James era pragmatista hasta en el éxtasis: de cualquier experiencia fuerte preguntaba qué frutos da. Si ahora el mundo parece haberse abierto de par en par, no hace falta arruinarlo con sospechas: mejor pensar en la cosecha. En Las variedades de la experiencia religiosa describió estados en los que todo parece conectado, importante, posible, y creía que tienen un valor propio: muestran que la conciencia cotidiana habitual es solo una forma de experiencia. La euforia no solo se puede vivir, también se puede «levantar la cosecha»: notar qué pensamientos y deseos abre, y qué de todo eso vale la pena llevar a los días comunes. El subidón va a pasar, pero lo que encontraste puede quedarse.",
+      "practice": "Levantá la cosecha: anotá un pensamiento o un deseo de este subidón. En un par de días, releelo y preguntate, a la manera de James: ¿qué diferencia podría hacer esto en mi vida?",
+      "quote": null
+    },
+    "crash": {
+      "text": "«Pasate el día sentado en una postura abatida, suspirando y respondiendo a todo con voz lúgubre, y tu melancolía se va a quedar», escribió James. La caída después de un subidón es desagradable y muchas veces asusta: parece que el gris ahora es para siempre. Según su teoría de las emociones, un sentimiento es en gran parte la sensación de un estado corporal. Después de un pico fuerte —una fiesta, un éxito, una noche sin dormir—, el cuerpo queda agotado, y su cansancio se vive como pesimismo y falta de sentido. La bajada no es la revelación de que la vida está vacía, sino una oscilación natural que va a pasar a medida que te recuperes. James también describió la conciencia como una «corriente»: los estados en ella no se quedan quietos, uno fluye hacia el otro. La caída también es parte de la corriente. No tenés que creerle todo lo que te susurra.",
+      "practice": "Hacé lo contrario de la «postura abatida»: parate, abrí los hombros, caminá por la habitación y decí con voz común: «Esto es una bajada, no la verdad sobre mi vida».",
+      "quote": null
+    },
+    "panic": {
+      "text": "«Un corresponsal francés»: así firmó James, en Las variedades de la experiencia religiosa, el relato de su propio terror: una tarde, al anochecer, de repente recordó a un paciente de un manicomio y sintió un «miedo a mi propia existencia». Si el corazón te golpea y parece que algo terrible está por pasar, estás en compañía de alguien que lo vivió. Lo vivió y siguió viviendo y trabajando. Su teoría de las emociones dice: el miedo es en gran parte la sensación de un corazón acelerado, una respiración entrecortada, tensión. Eso significa que también se puede influir en el miedo a través del cuerpo. Una ola así suele llegar a su pico y bajar en pocos minutos. No necesitás vencerla ahora: necesitás ayudar a tu cuerpo a atravesarla: una exhalación, algo firme bajo los pies, atención a lo que te rodea.",
+      "practice": "Apoyá los pies en el piso y dale a tu cuerpo la postura de una persona tranquila: bajá los hombros, aflojá las manos. Varias veces, exhalá más despacio de lo que inhalás, y nombrá en silencio cinco objetos que puedas ver.",
+      "quote": null
+    },
+    "dread": {
+      "text": "«No le tengas miedo a la vida. Creé que la vida merece ser vivida, y tu creencia ayudará a crear el hecho»: así terminó James su conferencia «¿Vale la pena vivir?». Si la pregunta «¿para qué todo esto?» se te está cerrando encima, él la trataría con un respeto enorme. En Las variedades de la experiencia religiosa distinguió a las «mentalidades sanas», que no notan el lado oscuro de la vida, del «alma enferma», que lo ve con agudeza. Y creía que esta última ve más, no menos. Él mismo pasó por una crisis grave. Su respuesta pragmática no fue un consuelo de palabras: en esa conferencia dijo que el sentido no está esperando listo, sino que se crea en parte con nuestra participación: creencia, acción, cuidado. El vértigo puede reconocerse como una pregunta honesta, que se responde no razonando sino con los pasos de la vida.",
+      "practice": "Leé despacio y en voz alta: «Creé que la vida merece ser vivida, y tu creencia ayudará a crear el hecho». Después hacé una tarea chiquita en la que hoy seas necesario, aunque sea un poco.",
+      "quote": null
+    },
+    "fomo": {
+      "text": "De joven James estudió pintura y tenía la intención seria de ser artista, y en cambio se volvió médico, psicólogo, filósofo. La sensación de que todos los demás viven vidas más interesantes mientras vos te perdés lo principal es agotadora; James conocía el precio de cada puerta cerrada. En los Principios de psicología escribió que cada uno de nosotros tiene muchos yoes posibles: podrías ser científico, viajero, el alma de la fiesta, pero no podés ser todos a la vez. Elegir uno significa renunciar a los otros, y eso no es una derrota sino una condición de la vida. James hasta decía que renunciar a las pretensiones trae alivio. El miedo a perderte algo es la sombra inevitable de cualquier elección. No significa que elegiste mal. Significa que sos una persona viva en un mundo donde hay más posibilidades que vidas.",
+      "practice": "Sentate cinco minutos donde estés, sin el celular, y decile en voz baja a cada posibilidad que te estás perdiendo ahora: «Esto no es mío por ahora». Fijate cómo responde tu cuerpo al yo que elegiste.",
+      "quote": null
+    },
+    "sleepless": {
+      "text": "James comparaba la conciencia con el vuelo de un pájaro: los «vuelos» se alternan con las «posadas», y ninguna orden lo hace posarse en una rama. A las tres de la mañana, cuando el sueño no llega, ese vuelo es especialmente ruidoso, y pelearlo a la fuerza rara vez funciona. James describió la conciencia como una «corriente»: los pensamientos fluyen solos, uno se engancha con otro, y no se los puede frenar por orden. De noche, sin tareas de afuera, esa corriente se vuelve especialmente fuerte, y el cuerpo, según la teoría de las emociones de James, suma su propia tensión, que a su vez tiñe los pensamientos de ansiedad. En «El evangelio de la relajación» James aconsejaba no pelear con el estado sino soltar la tensión muscular y el apuro. Los pensamientos nocturnos no son necesariamente ciertos: a las tres de la mañana todo se ve más oscuro de lo que es. Podés dejar que la corriente fluya sin seguir cada pensamiento.",
+      "practice": "Acostado, imaginá tus pensamientos como pájaros que saltan de rama en rama: no los espantes. Mientras tanto, subí con la atención por el cuerpo y con cada exhalación soltá un lugar: los pies, la panza, los hombros, la mandíbula, la frente.",
+      "quote": null
+    },
+    "betrayal": {
+      "text": "Un puñado de asaltantes puede robar un tren entero porque cada pasajero teme confiar en los demás: James da este ejemplo en «La voluntad de creer». Cuando traicionaron tu confianza, se derrumba aquello en lo que te apoyabas, y ese dolor es legítimo. James escribió mucho sobre la confianza como fuerza práctica: en ese ensayo señaló que muchos lazos humanos descansan en que alguien esté dispuesto a confiar primero, y que sin esa disposición no hay cooperación posible. La traición muestra el otro lado: confiar siempre es un riesgo. Tu dolor no prueba que hayas sido ingenuo. Estabas haciendo lo que hace posible la vida entre personas. James agregaría: la cuestión no es si confiar o no, sino en quién y cuánto. Eso se puede ir decidiendo de a poco, apoyándote en la experiencia y no en el miedo.",
+      "practice": "Decí en voz alta —para vos o a alguien cercano—: «Confié porque…». James no lo llamaría un error, sino el coraje del pasajero que se animó a ir primero.",
+      "quote": null
+    },
+    "jealousy": {
+      "text": "Cada uno de nosotros, pensaba James, lleva su yo en los ojos de quienes lo quieren; por eso, cuando esa mirada se vuelve hacia otro lado, parece que una parte tuya se va con ella. Esa mezcla ardiente de miedo, herida e inseguridad es conocida por casi todos. En los Principios de psicología James contó los celos entre las reacciones instintivas, muy antiguas, que compartimos con los animales. Eso ayuda a no avergonzarte del sentimiento en sí: aparece más rápido de lo que alcanzamos a pensar. Cuando parece que el reconocimiento se va hacia otro, sufre nuestra propia autoestima. Así que los celos tienen menos que ver con la otra persona que con el miedo a perder tu lugar en la vida de alguien. Podés reconocer este sentimiento sin convertirlo enseguida en acción: la ola sube y baja.",
+      "practice": "Fijate dónde sentís los celos en el cuerpo. Decite: «Tengo miedo de perder mi lugar en la mirada de alguien». Respirá con esto un minuto sin hacer nada.",
+      "quote": null
+    },
+    "resentment": {
+      "text": "¿Qué ve quien te lastimó cuando recuerda aquel día? James probablemente respondería: casi nada. Un rencor sostenido mucho tiempo es una carga pesada, y casi siempre hay detrás una injusticia real. En su ensayo «Sobre cierta ceguera en los seres humanos» escribió que casi siempre somos ciegos a la vida interior de los demás: no vemos qué les importa, qué los atormenta, para qué viven. Esa ceguera es mutua. La persona que te lastimó muy probablemente no vio tu dolor, y quizá todavía no lo ve. El resentimiento muchas veces se apoya en esperar que el otro por fin entienda. Esa espera es comprensible, pero te ata a esa persona. A veces el alivio llega cuando reconocés vos mismo tu propia verdad, sin esperar a que el otro la reconozca.",
+      "practice": "Escribí una carta que no hace falta mandar: «Me dolió porque…». Terminala con la frase: «Esto lo reconozco yo mismo, sin esperar a que vos lo veas».",
+      "quote": null
+    },
+    "heartbreak": {
+      "text": "«Todo lo que un hombre puede llamar suyo»: así de amplio definía James el yo: el cuerpo, la casa, los planes, los seres queridos. Si ahora duele tanto que cuesta respirar, esta definición es la explicación: te sacaron un pedazo del yo, y eso necesita tiempo. Cuando alguien cercano se va, perdemos parte de nuestro propio yo ampliado, y por eso el dolor se siente casi físico. No es una exageración. El duelo de una ruptura es un trabajo de reconstruirte: te sacaron una parte importante del yo, y lleva tiempo encontrar un nuevo equilibrio. El James pragmatista agregaría que los hábitos que te unían a esa persona van a seguir resonando mucho tiempo. De a poco, otros nuevos van a ocupar su lugar.",
+      "practice": "Elegí la hora que más dolorosamente te recuerda a esa persona y poné ahí un ritual nuevo y diminuto, solo para vos: otra taza, otro camino, una canción. Los surcos nuevos se marcan repitiendo.",
+      "quote": null
+    },
+    "impostor": {
+      "text": "Después de doce años terminando los Principios de psicología, James los llamó «una masa repugnante, distendida, tumefacta, hinchada, hidrópica» que solo probaba que «W. J. es un incapaz». Si tenés miedo de que te descubran, estás en compañía del autor de un clásico. James propuso una fórmula útil: la autoestima depende de la relación entre éxitos y pretensiones. Cuanto más alta ponemos la vara, menos nos satisface cualquier resultado real. El síndrome del impostor muchas veces crece de pretensiones infladas: parece que un «verdadero experto» lo sabe todo, mientras que vos solo sabés mucho. James escribió que tenemos muchos «yoes sociales» —somos distintos con distintas personas— y que eso no es un engaño sino simplemente cómo está hecho un ser humano. También señaló que renunciar a pretensiones insoportables trae casi tanto alivio como cumplirlas. Podés permitirte no ser perfecto, y seguir siendo vos.",
+      "practice": "Leé en voz alta el veredicto de James sobre su propio libro —«una masa repugnante, distendida, tumefacta, hinchada, hidrópica»— y sonreí: ese libro se volvió un clásico. Después nombrá una exigencia sobre vos mismo que puedas tachar honestamente.",
+      "quote": {
+        "text": "Renunciar a las pretensiones es un alivio tan bendito como verlas satisfechas.",
+        "author": "William James",
+        "source": "Principios de psicología, cap. X, «La conciencia del yo» (1890)"
+      }
+    },
+    "self_hatred": {
+      "text": "El juez interior, podría decir James, no es la voz de la verdad sino un hábito, un surco por el que el pensamiento corre porque ya corrió por ahí mil veces. Cuando esa voz insiste en que sos malo y no valés nada, duele mucho, y está equivocada, por convincente que suene. James mismo pasó de joven por una crisis grave y una larga autocrítica. Su salida no fue ganarle la discusión al juez interior, sino un paso práctico: decidió creer en su propio libre albedrío y actuar sin esperar a que desaparecieran las dudas. James también mostró que la autoestima depende de nuestras pretensiones: si las exigencias sobre uno mismo están infladas, cualquiera se va a ver a sí mismo como un fracaso. Así que el crítico es la consecuencia de una vara que se puede revisar. No necesitás quererte primero para dar un paso.",
+      "practice": "Imaginá que un amigo cercano habla así de sí mismo, y decí en voz alta qué le responderías. Después repetite a vos las mismas palabras: un surco nuevo empieza con la primera vez.",
+      "quote": null
+    },
+    "helplessness": {
+      "text": "En cualquier situación, el James pragmatista preguntaría no «¿puedo cambiarlo todo?» sino «¿qué diferencia puede hacer mi próximo paso?». La impotencia pesa: parece que no se puede cambiar nada, y esa sensación muchas veces refleja límites reales. James, que de joven pasó por una crisis de impotencia, llegó a una conclusión pragmática: no podemos saber de antemano si nuestros esfuerzos van a alcanzar, pero algunas cosas se vuelven posibles solo cuando actuamos como si lo fueran. En «La voluntad de creer» escribió que hay casos en los que la fe en un resultado ayuda por sí misma a producirlo. No es «pensá en positivo» ni una promesa de que todo va a salir bien. Es una invitación a encontrar un área chiquita donde tu paso cambie algo, y apoyarte en ella. Entonces la impotencia no es el final sino el lugar donde empieza una acción muy pequeña.",
+      "practice": "Buscá una acción que lleve menos de cinco minutos y toque la situación aunque sea un poquito: un llamado, una pregunta, un objeto que cambiás de lugar. Hacela y fijate qué diferencia hizo, aunque sea en cómo te sentís.",
+      "quote": null
+    },
+    "procrastination": {
+      "text": "Una mañana fría, un cuarto sin calefacción, y vos ahí acostado sabiendo que es hora de levantarte: así abre James su análisis de la voluntad, con humor y con simpatía. Si no podés arrancar, no es vagancia sino un estado que todos conocen. Y de repente, en un momento en que te distrajiste de la lucha, ya estás de pie. James creía que la acción empieza cuando el pensamiento correcto ocupa la conciencia sin interferencias, no cuando nos obligamos. Así que a la procrastinación no hace falta vencerla con reproches morales. Lo que ayuda es hacer que el pensamiento necesario sea simple y cercano: no «escribir el informe» sino «abrir el archivo». Todo lo demás puede empezar solo.",
+      "practice": "Formulá tu primer paso de modo que lleve menos de un minuto: «abrir el documento», «sacar las zapatillas». Pensá solo en eso, como en aquella mañana fría, y de repente te vas a encontrar de pie.",
+      "quote": null
+    },
+    "uprooted": {
+      "text": "James creció entre continentes: su padre llevó a los hijos por Ginebra, París, Londres y Bonn, y cada escuela nueva significaba empezar de cero. Cuando una mudanza te saca el suelo bajo los pies, el idioma conocido y el ritmo de vida, es una pérdida real. Según su teoría, una parte enorme de nuestra vida descansa en hábitos: ahorran energía y dan sensación de estabilidad. Cuando te mudás, cientos de hábitos se rompen a la vez, y todo lo que antes pasaba solo ahora exige esfuerzo. De ahí el cansancio agotador y la desorientación. James también escribió sobre el «yo social»: vivimos en el reconocimiento de la gente que nos conoce, y en un lugar nuevo todavía nadie nos conoce. Tu pesadez es el precio natural de reconstruirte. Los hábitos y vínculos nuevos se forman de a poco, una repetición a la vez.",
+      "practice": "Empezá un pequeño hábito diario en el lugar nuevo: la misma caminata, el mismo café. Fijate cómo se va volviendo «tuyo».",
+      "quote": null
+    },
+    "overload": {
+      "text": "«El arte de ser sabio es el arte de saber qué pasar por alto», escribió James, uno de los primeros en estudiar la atención. Cuando la avalancha de información te hace pedazos la atención, no es tu incapacidad de concentrarte: así funciona la avalancha misma. Él escribió que la atención es elección: percibimos el mundo solo seleccionando una pequeña parte de él, y es esa selección la que hace nuestra la experiencia. Cuando el flujo es demasiado grande, elegir se vuelve imposible y la conciencia queda desbordada. La sobrecarga no es un fracaso personal sino una señal de que te quitaron la elección. Podés recuperarla con decisiones chiquitas: qué no leo ahora, qué no respondo, qué dejo sin atención.",
+      "practice": "Elegí tres cosas que hoy puedas pasar por alto a conciencia, y durante cinco minutos cerrá todas las ventanas y pestañas. Quedate en silencio, repitiendo: «Esto no lo tomo».",
+      "quote": {
+        "text": "El arte de ser sabio es el arte de saber qué pasar por alto.",
+        "author": "William James",
+        "source": "Principios de psicología, cap. XXII, «El razonamiento» (1890)"
+      }
+    },
+    "unreality": {
+      "text": "«La percepción de la realidad»: James le puso ese título a todo un capítulo de los Principios, mostrando que la sensación de «esto es real» no es evidente y puede debilitarse. Si ahora el mundo o vos mismo se sienten irreales, es extraño e inquietante; tratate con suavidad. En Las variedades de la experiencia religiosa citó relatos de personas para quienes el mundo de repente se volvió lejano, ajeno, como detrás de un vidrio, y los trató sin juzgar. Desde el punto de vista de James, la sensación de realidad está estrechamente ligada al cuerpo y a un interés vivo por las cosas. Así que podés volver a ella a través de las sensaciones y de una acción simple, sin discutir con vos mismo.",
+      "practice": "Tocá con la palma una superficie cercana: una mesa, una pared, una tela. Nombrá en voz alta tres sensaciones: temperatura, textura, presión. Para James, la sensación de realidad empieza en el cuerpo.",
+      "quote": null
+    },
+    "awe": {
+      "text": "Una noche de verano de 1898, James anduvo por los bosques de los Adirondacks bajo la luna y después le escribió a su esposa que los dioses de todas las mitologías de la naturaleza parecían reunirse en su pecho. Un asombro así es raro y valioso, y James lo estudió en serio. En Las variedades de la experiencia religiosa describió estados en los que una persona se siente conectada con algo más grande que ella, y señaló sus rasgos: son difíciles de poner en palabras y, al mismo tiempo, se sienten como un conocimiento, como una revelación. James no se apuraba a explicar esas experiencias como «mera» fisiología: creía que había que juzgarlas por sus frutos, por cómo cambian una vida. Tu asombro no es una emoción vacía sino un momento en que el marco de siempre se ensancha. Podés simplemente vivirlo y recordarlo.",
+      "practice": "Quedate un minuto más en silencio con lo que te llenó de asombro. Después intentá encontrarle una palabra, y fijate, como le pasó a James, que las palabras no alcanzan.",
+      "quote": {
+        "text": "Nuestra conciencia normal de vigilia, la conciencia racional, como la llamamos, no es más que un tipo especial de conciencia, mientras que a su alrededor, separadas de ella por la más tenue de las pantallas, se encuentran formas potenciales de conciencia completamente diferentes.",
+        "author": "William James",
+        "source": "Las variedades de la experiencia religiosa, conferencias XVI–XVII, «Misticismo» (1902)"
+      }
+    },
+    "relief": {
+      "text": "¿Qué diferencia está haciendo este alivio en tu cuerpo ahora mismo? Ahí empezaría James. Algo se soltó, podés exhalar: permitite sentirlo del todo. Según su teoría de las emociones, James diría que el alivio es en gran parte la sensación del cuerpo que se afloja: los hombros se relajan, la respiración se hace más honda. En Las variedades de la experiencia religiosa describió también momentos de alivio más profundos: cuando una persona deja de sostenerlo todo sola y siente que puede confiar, soltar. James consideraba muy importantes esas experiencias: muestran cuánta energía gastamos habitualmente en tensión. El alivio es una pista: así puede ser tu cuerpo sin la carga de más. Vale notarlo y recordarlo.",
+      "practice": "Fijate en qué parte del cuerpo las cosas se volvieron más livianas ahora. Apoyá ahí la palma durante algunas respiraciones y simplemente quedate con la sensación.",
+      "quote": null
+    },
+    "calm": {
+      "text": "James dio su «Evangelio de la relajación» ante egresadas de una escuela de gimnasia de Boston y las instó a no vivir en un apuro y una tensión constantes cuando no hace falta. La calma que sentís ahora es un estado valioso, y no necesita justificación. Según su teoría de las emociones, la tensión corporal genera ansiedad por sí misma, y la relajación genera calma. La calma no es vagancia ni inacción, sino un recurso del que después nace una actividad clara y fuerte. James creía que la compostura serena funciona mejor que el esfuerzo convulsivo. Así que no solo podés valorar tu calma, sino también memorizarla con el cuerpo, para que después te resulte más fácil volver a ella.",
+      "practice": "Memorizá cómo se sienten ahora tus hombros, tu cara y tu respiración. Inventá una palabra ancla corta para este estado, para que tu cuerpo pueda encontrar el camino de vuelta más tarde.",
+      "quote": null
+    },
+    "inspiration": {
+      "text": "En «Las energías de los hombres» (1907) James describió el «segundo aire»: después del primer cansancio se abre de pronto una nueva capa de fuerzas, mientras que por lo general vivimos con una parte pequeña de nuestras capacidades, sin saber de las reservas. Si ahora parece que las fuerzas te entran a raudales y tenés ganas de hacer, inventar, crear, vale la pena cuidar ese estado vivo y luminoso. La inspiración es un momento en que tocamos esas reservas. James no lo consideraba misticismo: esas fuerzas las liberan las ideas fuertes, el entusiasmo, el ejemplo de otras personas. La inspiración no hay que gastarla en preocuparse por adónde se va a ir. Mejor darle una tarea, aunque sea chiquita, para que la energía que encontraste llegue a convertirse en un acto.",
+      "practice": "Dale ahora una tarea a la energía que encontraste: un primer paso hacia la idea: un boceto, un llamado, una página abierta. James creía que el segundo aire se abre en la acción, no en la espera.",
+      "quote": {
+        "text": "Comparados con lo que deberíamos ser, estamos solo medio despiertos.",
+        "author": "William James",
+        "source": "«Las energías de los hombres» (1907)"
+      }
+    },
+    "schadenfreude": {
+      "text": "James admitía que, habiéndolo apostado todo a la psicología, se sentía mortificado si otros sabían más que él de ella, y en cambio estaba perfectamente contento de ignorar el griego. Esa pequeña alegría por el fracaso ajeno es desagradable de notar, pero es muy humana y no dice nada definitivo sobre vos. Él mostró que nuestra autoestima se construye en gran parte por comparación. Su fórmula «la autoestima es igual al éxito dividido por las pretensiones» también explica esa alegría maliciosa: el fracaso del otro parece achicar por un momento la distancia entre nosotros y quien nos gustaría ser. No es una señal de maldad, sino de una autoestima herida que busca un respiro. James creía que es útil tratar los sentimientos como hechos de la experiencia: notarlos, nombrarlos, preguntar adónde llevan. Entonces esa alegría se vuelve una pista: sobre dónde te duele compararte.",
+      "practice": "Preguntate: «¿Dónde lo aposté todo, si me estoy comparando con esta persona?». Nombrá una pretensión que se podría aflojar un poco, como James, que ignoraba el griego con toda tranquilidad.",
+      "quote": null
+    },
+    "contempt": {
+      "text": "Viajando por las montañas de Carolina del Norte, James solo veía a su alrededor desmontes feos, hasta que entendió que para los colonos eran un símbolo de trabajo y de esperanza. En el desprecio hay un frío de superioridad, y no es fácil admitirlo ante uno mismo. James escribió un ensayo breve pero famoso, «Sobre cierta ceguera en los seres humanos». Ahí dice que casi siempre somos ciegos al significado interior de la vida de los demás: lo que para otro está lleno de sentido, a nosotros, desde afuera, nos parece vacío y absurdo. El desprecio muchas veces es exactamente esa clase de ceguera. No hace falta superarla enseguida. Podés simplemente admitir que no estás viendo todo.",
+      "practice": "Sobre la persona que despreciás, completá la frase: «Quizá esto le importa porque…». Alcanza con una suposición: a James le alcanzó con un desmonte.",
+      "quote": null
+    },
+    "disgust": {
+      "text": "Hacemos una mueca, retrocedemos, sentimos náuseas, y recién entonces, para James, «sentimos asco»: la emoción es la percepción de esos cambios corporales. Es un sentimiento fuerte y antiguo, y no hace falta avergonzarse de él. El asco es ante todo el cuerpo diciendo «alejate». Es un mecanismo de protección antiquísimo, y se dispara más rápido que el pensamiento. Por eso el asco hacia una persona, una situación o incluso hacia vos mismo no siempre es un juicio meditado: el cuerpo puede estar reaccionando a un olor, a un tono, a un recuerdo. James sugería notar cómo expresar un sentimiento lo intensifica. Si ablandás un poco la postura y la respiración, a veces se vuelve visible qué hay detrás del asco: miedo, una herida, o simplemente cansancio.",
+      "practice": "Fijate cómo aparece el asco en tu cuerpo: la cara, los hombros, el estómago. Aflojá suavemente un lugar y mirá qué cambia.",
+      "quote": null
+    },
+    "revenge": {
+      "text": "Todo pensamiento que ocupa la conciencia, para James, tiende por sí mismo a llevarse a cabo: lo llamó «acción ideomotora». Si tenés ganas de vengarte, te lastimaron, y una fuerza que reclama justicia está buscando salida; eso no te hace mala persona. James sugeriría mirar hacia dónde apunta tu atención. La voluntad, creía, se reduce en gran parte a aquello en lo que sostenemos la atención. Las fantasías de venganza no significan que seas «malvado»; son un pensamiento que reclama salida y por eso ocupa todo el campo. No hace falta pelearlo de frente: podés ensanchar suavemente tu atención: ¿qué otra cosa es cierta en esta situación? ¿Qué necesitás ahora: protección, reconocimiento, paz?",
+      "practice": "Decite la fantasía de venganza en una sola frase, y después terminá en voz alta: «Lo que de verdad necesito es…»: protección, reconocimiento, paz. La atención puesta en la necesidad, para James, cambia la acción misma.",
+      "quote": null
+    },
+    "anger_at_loved": {
+      "text": "«No somos más que manojos de hábitos que caminan», escribió James, y donde más hábitos tenemos es con la gente con la que vivimos. El enojo con los seres queridos se enciende en muchos de nosotros, y también la vergüenza de después, pero no sos una mala persona porque aparezca. James escribió que los hábitos son «surcos» en el sistema nervioso: lo que se repite empieza a pasar solo, antes de que alcancemos a pensar. Con quienes más tiempo pasamos es con los cercanos, así que es con ellos donde se forman los surcos de reacción más hondos, muchas veces desde la infancia, o por el cansancio. Un estallido no es un veredicto sobre tu amor, sino un camino muy transitado por el que corrió un impulso nervioso. James creía que los surcos pueden cambiarse de a poco: no con grandes promesas, sino con pequeñas acciones repetidas, empezadas en la primera oportunidad.",
+      "practice": "Elegí un gesto nuevo y diminuto para los momentos de irritación —una exhalación, un paso al costado, las palabras «dame un minuto»— y probalo hoy. Un surco empieza a cambiar con la primera repetición.",
+      "quote": null
+    },
+    "ambivalence": {
+      "text": "Un hombre que corre alrededor de un árbol, ¿da la vuelta alrededor de la ardilla que se sigue escondiendo detrás del tronco? James respondió: los dos bandos tienen razón, según lo que entiendas por «dar la vuelta». Querer a alguien y no soportarlo es un acertijo parecido. En Las variedades de la experiencia religiosa James dedicó un capítulo entero al «yo dividido»: describió a personas en las que conviven aspiraciones opuestas, y lo trató con mucha simpatía. También insistía en el «pluralismo»: la realidad no tiene por qué reducirse a una sola fórmula, y la experiencia puede contener cosas que lógicamente discuten entre sí. Los sentimientos mezclados hacia alguien cercano no son ni un error ni una señal de falsedad. Reflejan que las relaciones tienen muchas capas. James creía que la unidad interior llega de a poco, a veces sola, y que no hace falta apurarla a la fuerza.",
+      "practice": "Decite: «Las dos cosas están en mí, y los dos sentimientos son ciertos, según de qué lado del árbol mires». Fijate cómo responde tu cuerpo.",
+      "quote": null
+    },
+    "guilty_relief": {
+      "text": "La conciencia, para James, no suena como una sola nota sino como un acorde: en cada momento conviven sentimientos que deberían excluirse entre sí. Si después de una separación, una partida o la larga enfermedad de un ser querido sentís alivio junto con una culpa aguda, sabé esto: el alivio no anula el amor, sino que vive al lado. James trataba esos estados mezclados con mucha simpatía. El alivio y la pena pueden fluir uno junto al otro sin desplazarse. James, que conoció en carne propia largos períodos de agotamiento, entendía también lo caro que sale una tensión prolongada. Cuando termina, el cuerpo y el alma exhalan, y eso es natural. Tu alivio habla de todo lo que soportaste.",
+      "practice": "Poné la mano sobre el pecho y decí: «Siento alivio, y amo». Dejá que las dos frases suenen juntas, como un acorde.",
+      "quote": null
+    },
+    "indifference": {
+      "text": "El mundo puede volverse de repente «chato», ajeno y sin color: James reunió relatos así en Las variedades de la experiencia religiosa y conocía ese estado por sus propios años de crisis. Si donde algo «debería» conmoverte hay silencio adentro, asusta, pero no te convierte en alguien sin corazón. Sé amable con vos mismo. Él subrayaba que no es una elección de la persona: la sensación de que las cosas importan es un don que puede debilitarse por un tiempo. James también enseñaba que las emociones son en gran parte corporales. La indiferencia puede ser simplemente una señal de cansancio del organismo, no un defecto moral. No hace falta obligarte a sentir de la manera «correcta». James creía que la corriente de la conciencia cambia, y que los colores tienen su manera de volver.",
+      "practice": "Hoy registrá una cosa diminuta que haya despertado aunque sea una sombra de respuesta: un sabor, un sonido, un calorcito. Hasta una sombra cuenta: para James, los colores vuelven de a poco.",
+      "quote": null
+    },
+    "escape": {
+      "text": "«Vacaciones morales»: James escribió con simpatía sobre la necesidad de soltar, al menos por un rato, la tensión constante de la responsabilidad. Las ganas de dejar todo e irte dicen algo importante: sobre la frescura que te falta. James llamó al hábito «el enorme volante de la sociedad»: nos mantiene en nuestro surco, lo cual a la vez nos salva y nos limita. Con los años, escribió, una persona casi se funde con su profesión y sus modales. El sueño de escaparse es el anhelo de descansar del surco y de las fuerzas sin usar: James creía que por lo general vivimos con solo una parte de nuestra energía. No tenés que derribar tu vida. Podés fijarte qué clase de frescura te está faltando.",
+      "practice": "Regalate unas «vacaciones morales» de quince minutos: hacé algo que nunca hacés en tu papel de siempre.",
+      "quote": {
+        "text": "El hábito es, pues, el enorme volante de la sociedad, su más precioso agente conservador.",
+        "author": "William James",
+        "source": "Principios de psicología, cap. IV, «El hábito» (1890)"
+      }
+    },
+    "forbidden_attraction": {
+      "text": "La conciencia, escribió James, es una corriente en la que no dejan de aparecer imágenes y deseos que nunca pedimos. La atracción por alguien que está «fuera de los límites» puede dar vergüenza y miedo, pero el sentimiento en sí todavía no es un acto ni un veredicto. James describió el «yo dividido»: un estado en el que distintas aspiraciones viven al mismo tiempo en una persona, y una de ellas le parece ajena. Escribió sobre eso sin moralizar, como una parte natural de la vida interior. La atracción habla más bien de lo que tu corriente está buscando: novedad, atención, otra versión de vos. Es útil preguntarte de qué parte de tu vida te está hablando este sentimiento. Entenderlo no te compromete a nada.",
+      "practice": "Nombrá en silencio, con una sola palabra, cómo te sentís cerca de esta persona. Después preguntate, como un pragmatista: ¿en qué otro lugar de mi vida podría hacerle lugar a esa palabra?",
+      "quote": null
+    },
+    "social_anxiety": {
+      "text": "«Silbar para darse coraje no es una mera figura retórica», escribió James. La timidez y el miedo al juicio pesan y alejan a mucha gente de los demás; James proponía ir no contra el sentimiento sino a través del cuerpo. Escribió que una persona tiene tantos «yoes sociales» como personas que la conocen: somos un poco distintos con cada una. Por eso la opinión de otro nos toca con tanta fuerza: parece crear uno de nuestros yoes. Pero James también ofreció una idea práctica: el sentimiento y la acción están más ligados de lo que parece. No siempre podemos ordenarle a un sentimiento que desaparezca, pero sí podemos cambiar un poco la postura, la voz y la respiración, y el sentimiento las sigue. Así que no tenés que esperar a que pase el miedo. Podés dar un paso chiquito junto con el miedo.",
+      "practice": "Antes de una conversación, cuadrá los hombros, bajalos, hacé una exhalación lenta y, si nadie te escucha, silbá bajito unos compases. No esperes a que el miedo desaparezca: simplemente empezá.",
+      "quote": {
+        "text": "La acción parece seguir al sentimiento, pero en realidad la acción y el sentimiento van juntos.",
+        "author": "William James",
+        "source": "«El evangelio de la relajación» (1899)"
+      }
+    },
+    "uncertainty": {
+      "text": "En abril de 1906 un terremoto despertó a James en Stanford, y más tarde confesó que no sintió miedo sino «alegría y bienvenida», como si le dijera a la tierra: «¡Dale, y más fuerte!». La incertidumbre agota: la mente quiere saber cómo va a terminar todo, y saberlo es imposible. Él consideraba el universo «pluralista» e inacabado: el futuro no está escrito de antemano; contiene posibilidades reales. Eso inquieta, pero para James es también donde está nuestra libertad: como el resultado no está predeterminado, nuestras acciones de verdad influyen en algo. En el ensayo «¿Vale la pena vivir?» escribió que la vida siempre implica riesgo, y que nuestra fe en un resultado posible a veces ayuda por sí misma a producirlo. La incertidumbre no es solo una amenaza, sino también un espacio en el que tus pasos importan.",
+      "practice": "Hacé una caminata de cinco minutos por un camino nuevo: doblá donde nunca doblaste. James consideraba el mundo inacabado; fijate cómo es caminar sin saber qué hay a la vuelta de la esquina.",
+      "quote": {
+        "text": "Solo arriesgando nuestra persona de una hora a otra es que vivimos de verdad.",
+        "author": "William James",
+        "source": "«¿Vale la pena vivir?» (1895)"
+      }
+    },
+    "waiting": {
+      "text": "Una hora en una fila se hace eterna y se olvida enseguida, mientras que una semana de viaje pasa volando y sin embargo ocupa mucho lugar en la memoria: James notó esta paradoja del tiempo. Cuando estás esperando resultados, una respuesta o noticias, el tiempo se estira de manera angustiante. Parece que no hay nada que hacer salvo mirar el reloj. Además, escribió que la espera misma fija nuestra atención en el paso del tiempo. La angustia de esperar no es debilidad tuya sino una ley de la percepción. Y de ahí se desprende un consejo amable: llená un poco el tiempo que pasás esperando. No para olvidarte, sino para no dejarte solo frente a un reloj vacío.",
+      "practice": "Llená la próxima hora con una actividad para las manos o los ojos: cocinar, caminar, dibujar. Para James, el tiempo lleno pasa más rápido; fijate si es así.",
+      "quote": null
+    },
+    "regret": {
+      "text": "Si el mundo es un mecanismo al que le dieron cuerda de antemano, el arrepentimiento no tiene sentido: así razonaba el determinista, y James le respondió con toda una conferencia, «El dilema del determinismo». El arrepentimiento que no te suelta resulta ser, ahí, una prueba sorprendentemente importante. Él razonaba así: si nos arrepentimos de algo, con eso admitimos que las cosas podrían haber sido de otra manera, que el mundo no es un mecanismo escrito de antemano. El arrepentimiento, para James, es la prueba de que las personas tienen una elección real y de que sus acciones tienen peso. Tu dolor habla de libertad y responsabilidad, no de que no valgas nada. Pero la misma idea implica: como el futuro también está abierto, el arrepentimiento puede convertirse en la comprensión de cómo querés actuar de ahora en adelante.",
+      "practice": "Imaginá la bifurcación en la que estabas entonces, y viví honestamente un minuto del otro camino en tu imaginación, sin adornarlo. Después preguntate: ¿qué me enseña ese camino para la próxima bifurcación?",
+      "quote": null
+    },
+    "longing": {
+      "text": "James comparaba los hábitos con surcos: nos acostumbramos a una voz, a unos gestos, a rituales compartidos, y cuando la persona no está, los surcos la siguen esperando. Si extrañás a una persona en particular, es un sentimiento hondo, y no tiene nada de vergonzoso. James explicaría de dónde viene. Escribió que nuestro yo es mucho más amplio que el cuerpo: incluye a las personas cercanas, nuestra casa, todo lo que llamamos «mío». La pérdida o la ausencia de alguien cercano, en sus palabras, se siente como la pérdida de una parte de uno mismo. Extrañar es tu yo ampliado sintiendo un lugar vacío. No hace falta apurarlo. Muestra cuánto esta persona se volvió parte tuya.",
+      "practice": "Hoy hacé uno de los hábitos que compartían —la misma caminata, el mismo té, la misma canción— como señal de vínculo y no como herida.",
+      "quote": null
+    },
+    "world_pain": {
+      "text": "Meliorismo: así llamaba James a la posición entre la desesperación y el optimismo despreocupado: el mundo no está ni condenado ni salvado, y se lo puede hacer mejor. Cuando las noticias duras, la violencia y la injusticia te duelen, es señal de que sos capaz de compasión. James no le daba la espalda al sufrimiento: escribió que el «alma enferma», que ve el mal en el mundo, puede ver la realidad con más amplitud que el optimista alegre. Pero tampoco proponía la desesperación. Cada aporte, para James, importa. Tu dolor no necesita ni ser adormecido ni crecer sin límite. Puede convertirse en un aporte chiquito, a la medida de tus fuerzas. Y no te olvides de descansar: el meliorismo es un camino largo, no una carrera corta.",
+      "practice": "Elegí una buena acción concreta para esta semana: un pequeño aporte meliorista. Después permitite una hora sin noticias.",
+      "quote": null
+    },
+    "rejection": {
+      "text": "Una persona, escribió James, tiene tantos yoes sociales como personas y grupos que la conocen, y cada uno la ve a su manera. Cuando te rechazaron —para un trabajo, una amistad, un amor—, hiere profundo, y James entendía bien por qué. Escribió sobre el «yo social» —el reconocimiento que recibimos de los demás— y consideraba la necesidad de ser notado una de las más fuertes del ser humano. Por eso el rechazo se siente casi como un dolor físico. El rechazo de una persona hiere uno de esos yoes, pero no anula a todos los demás. Podés darte tiempo para hacer el duelo, y recordar a quienes ante sus ojos seguís existiendo, importando y siendo querido.",
+      "practice": "Llamá a alguien con quien te sientas registrado, solo para escuchar su voz. Dejá que responda otro de tus yoes.",
+      "quote": {
+        "text": "No podría idearse castigo más diabólico, si tal cosa fuera físicamente posible, que ser soltado en la sociedad y pasar absolutamente inadvertido para todos sus miembros.",
+        "author": "William James",
+        "source": "Principios de psicología, cap. X (1890)"
+      }
+    },
+    "abandonment": {
+      "text": "«¿Te caigo bien o no?»: James se tomó en serio esta pregunta en «La voluntad de creer», como un problema filosófico. Si tenés miedo de que te dejen, es un sentimiento hondo y doloroso, y merece ternura. La respuesta muchas veces depende de si yo mismo estoy dispuesto a dar un paso hacia vos, a creer que es posible. Para James hay verdades que se crean con la confianza: las relaciones se sostienen porque cada uno actúa con la fe de que el otro también va a estar. El miedo es comprensible, porque confiar siempre es un riesgo. Pero también sugiere que no estás simplemente esperando de manera pasiva a ver si te dejan: tus pequeños pasos de confianza participan en la creación del vínculo.",
+      "practice": "Hoy hacé un pequeño gesto de confianza hacia alguien cercano —un mensaje, una pregunta, un agradecimiento— y fijate qué sentís al hacerlo.",
+      "quote": null
+    },
+    "unrequited": {
+      "text": "Jack está enamorado de Jill, y todos alrededor se encogen de hombros: ¿qué le ve? En «Sobre cierta ceguera en los seres humanos», James se preguntó cuál de ellos está más cerca de la verdad. Si amás sin ser correspondido, tu dolor es real, y James estaría del lado del enamorado. Se inclinaba a pensar que el enamorado ve lo que de verdad está ahí, y que los demás son ciegos. Tu amor no es una tontería ni un error, sino una agudeza especial de la mirada para el valor de otra persona. Que no tenga respuesta no anula esa agudeza. Pero es importante dirigir esa misma capacidad de ver el valor también hacia vos: vos también merecés esa clase de mirada.",
+      "practice": "Anotá qué viste en esta persona, con la mirada aguda de Jack. Y al lado, una cualidad tuya que merezca la misma mirada.",
+      "quote": null
+    },
+    "humiliation": {
+      "text": "«Sentimiento de sí»: así llamaba James a las emociones primarias de satisfacción e insatisfacción con uno mismo, que, como mostró, dependen mucho del reconocimiento de los demás. Si te humillaron delante de otros, como si te despojaran de tu dignidad, no es tu culpa que haya pasado. Es una de las experiencias más dolorosas que existen. La humillación golpea exactamente ahí: en el «yo social», en la imagen con la que nos ven. Pero James subrayaba que tenemos muchos yoes sociales, y que el núcleo de la persona —la corriente de la conciencia, la sensación viva de uno mismo desde adentro— no le pertenece a ninguna mirada ajena. La humillación hiere una faceta tuya, pero no te quita tu yo. Podés darle tiempo a la herida para que sane.",
+      "practice": "Decite: «Lo que me hicieron no es lo que soy». Buscá a una persona con la que sientas tu dignidad.",
+      "quote": null
+    },
+    "body_shame": {
+      "text": "El cuerpo, escribió James, es la «parte más íntima» de nuestro yo material: lo vivimos como nosotros mismos. Por eso cualquier juicio sobre el cuerpo hiere tan hondo, y por eso el disgusto con él es tan común y tan doloroso. Y su fórmula de la autoestima —éxitos divididos por pretensiones— sugiere de dónde viene parte de ese dolor: de un «denominador» enorme, de expectativas que muchas veces se imponen desde afuera. James señaló que renunciar a algunas pretensiones alivia tanto como lograrlas. No hace falta pelear con tu cuerpo; podés revisar tus exigencias sobre él. El cuerpo no es un proyecto para calificar, sino el que te deja vivir y sentir.",
+      "practice": "Apoyá la palma sobre la parte de tu cuerpo que más seguido juzgás y decile: «Hoy renuncio a esta pretensión». James prometía que renunciar trae alivio: fijate si llega.",
+      "quote": null
+    },
+    "illness": {
+      "text": "Una subida a la montaña en los Adirondacks, en 1898, le forzó el corazón a James, y vivió sus últimos doce años con el corazón dañado, escribiendo en ese tiempo Las variedades de la experiencia religiosa y Pragmatismo. Cuando tu cuerpo te falla, el suelo se mueve, y tenés todo el derecho de estar mal. James lo sabía de primera mano: casi toda su vida luchó con problemas de espalda, de vista y de corazón, y con largos períodos de agotamiento. En Las variedades de la experiencia religiosa escribió con respeto sobre personas que encontraron sentido y sostén en las circunstancias más difíciles. La enfermedad es parte de la experiencia humana, no una derrota. James proponía poner a prueba las ideas según cómo nos ayudan a vivir. Podrías preguntarte: ¿qué pensamiento sobre tu enfermedad hace este día un poco más llevadero?",
+      "practice": "Buscá una frase —de un libro, una carta, una canción— que haga el día de hoy un poco más llevadero, y leela en voz alta. James ponía a prueba las ideas según cómo nos ayudan a vivir.",
+      "quote": null
+    },
+    "pride": {
+      "text": "James consideraba la «autocomplacencia» una emoción primaria, tan natural y necesaria como la alegría. Tu orgullo por lo que hiciste es un sentimiento sano y merecido, y no hace falta esconderlo. James no veía nada vergonzoso en él. Describió cómo se nota en el cuerpo: la postura erguida, la soltura de movimientos, las ganas de actuar. Es una señal del organismo: «lo lograste, podés». Y su fórmula de la autoestima —éxitos divididos por pretensiones— nos recuerda que la sensación de logro no tiene por qué postergarse hasta las grandes victorias. Si hiciste lo que te importaba, el «numerador» creció. Permitite disfrutar este momento sin compararlo con los éxitos ajenos.",
+      "practice": "Enderezate, respirá hondo y nombrá en voz alta una cosa que hiciste. Quedate medio minuto en esa sensación.",
+      "quote": null
+    },
+    "melancholy": {
+      "text": "Ningún estado, escribió James, vuelve nunca exactamente como fue: la corriente de la conciencia no conoce repeticiones. Una tristeza serena, una pena mezclada con ternura, es la sensación de ese saber, y no necesita que la «arreglen». James distinguía dos tipos de alma: la de «mentalidad sana», que ve el mundo luminoso, y el «alma enferma», que siente su fragilidad y su sombra. Para él la palabra «enferma» no era un veredicto. Creía que esa mirada puede abarcar la realidad con más amplitud, porque no le da la espalda a la pérdida, y que las visiones del mundo más profundas nacen del contacto con ella. Tu melancolía no es una avería sino una sensibilidad especial para lo que pasa. Quizá la tristeza suave sea simplemente saber que la corriente nunca se repite.",
+      "practice": "Salí afuera o acercate a una ventana un par de minutos y fijate qué, en este momento, está pasando y no va a volver.",
+      "quote": null
+    }
+  }
+}

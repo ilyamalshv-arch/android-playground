@@ -1,0 +1,366 @@
+{
+  "id": "nussbaum",
+  "title": "Nussbaum",
+  "tradition": "Ética neoaristotélica de las emociones",
+  "family": "analytic",
+  "period": "siglos XX–XXI",
+  "sortYear": 2001,
+  "thinkers": [
+    "Martha Nussbaum"
+  ],
+  "keyWorks": [
+    "La fragilidad del bien: fortuna y ética en la tragedia y la filosofía griega (1986)",
+    "El conocimiento del amor: ensayos sobre filosofía y literatura (1990)",
+    "La terapia del deseo: teoría y práctica en la ética helenística (1994)",
+    "Paisajes del pensamiento: la inteligencia de las emociones (2001)",
+    "El ocultamiento de lo humano: repugnancia, vergüenza y ley (2004)",
+    "La ira y el perdón: resentimiento, generosidad, justicia (2016)",
+    "La monarquía del miedo: una mirada filosófica a la crisis política actual (2018)"
+  ],
+  "summary": "Martha Nussbaum (n. 1947) es una filósofa estadounidense que trabaja sobre el pensamiento antiguo, la ética y el derecho. Muestra que una buena vida humana es inevitablemente vulnerable: depende de la suerte, de otras personas y del cuerpo. Junto con el economista Amartya Sen, Nussbaum desarrolló el «enfoque de las capacidades», una descripción de las capacidades básicas que toda persona necesita para vivir una vida digna, y escribió extensamente sobre cómo las emociones moldean nuestra vida personal y pública.",
+  "onEmotions": "La idea central de Nussbaum es que las emociones no son fuerzas ciegas, sino «juicios de valor». Cada emoción contiene la idea de que algo que no está del todo bajo nuestro control importa muchísimo para nuestra vida: el duelo dice «perdí a alguien infinitamente querido», el miedo dice «algo que me importa está amenazado». Por eso las emociones tienen su propia inteligencia: se las puede entender y examinar. Nussbaum discute con los estoicos, que querían liberarse de las emociones: para ella, las emociones son un reconocimiento de nuestra vulnerabilidad y de nuestros apegos, sin los cuales la vida sería más pobre. Al mismo tiempo, analiza con cuidado las emociones peligrosas, el asco, la vergüenza primitiva, el deseo de revancha de la ira y el miedo, y muestra cómo nacen del deseo de no ser vulnerables.",
+  "entries": {
+    "anxiety": {
+      "text": "«¿Qué es lo que acá me importa tanto?»: Martha Nussbaum le haría esta pregunta a cualquier emoción. Para ella, las emociones no son sacudidas ciegas, sino «juicios de valor»: cada una contiene la idea de que algo importante para tu vida está fuera de tu control. La ansiedad agota; es una forma borrosa del miedo: sentís que algo querido está amenazado, pero no podés decir exactamente qué, ni de dónde va a venir el problema. En «La monarquía del miedo» Nussbaum escribe que el miedo es nuestra emoción más temprana: viene del desamparo del bebé, y los adultos llevamos su huella. La ansiedad, entonces, no es una falla, sino la señal de que tenés algo que proteger. Cuando lográs nombrar ese valor, la ansiedad en general se vuelve más concreta y más silenciosa.",
+      "practice": "Completá la frase: «Estoy ansioso porque quiero mucho…», y nombrá una cosa o una persona concreta.",
+      "quote": null
+    },
+    "fear": {
+      "text": "El monarca entre los sentimientos, para Nussbaum, es el miedo: tiende a gobernar a las otras emociones y a convertirse en ira, asco o envidia. En «La monarquía del miedo» explica por qué: es la emoción más antigua, surge en un bebé desamparado antes que el amor o la compasión. Tu miedo es una respuesta honesta a lo que puede lastimar. Nussbaum señala otro rasgo suyo: achica el mundo a «yo» y «mi seguridad». No propone tacharlo: muchas veces señala una vulnerabilidad real. Pero aconseja no darle todo el poder y darles voz a las cosas que agrandan el mundo: la esperanza, el amor, la confianza, el trabajo compartido. Podés tener miedo y aun así no dejar que el miedo decida por vos.",
+      "practice": "Nombrá tu miedo en voz alta en una frase, y después dos sentimientos más que estén en vos ahora mismo: amor, interés, esperanza. Que el monarca tenga consejeros.",
+      "quote": null
+    },
+    "sadness": {
+      "text": "Los estoicos enseñaban que el sabio nunca está triste: no se apega a lo que está fuera de su control. Nussbaum, que los estudió en «La terapia del deseo», discute con ellos en este punto. Las emociones son para ella juicios de valor, y la tristeza contiene la idea: «Había algo importante para mí, y se fue o se achicó». Las personas, el trabajo y los lugares que no dependen de nosotros de verdad importan, así que esa idea muchas veces es cierta. No hace falta apurar tu tristeza: dice la verdad, sobre tu apego y sobre lo que sos capaz de valorar. Aceptarla es admitir que no vivís en una fortaleza, sino entre cosas que se pueden amar y perder.",
+      "practice": "Preguntale en voz alta a tu tristeza: «¿De qué valor me hablás?», y dejá que la respuesta llegue sin juicio, como en una charla con un amigo.",
+      "quote": null
+    },
+    "grief": {
+      "text": "Nussbaum abre «Paisajes del pensamiento» con su propia pérdida: está dando una conferencia en otro país, se entera de que su madre se está muriendo, cruza el océano en avión y llega demasiado tarde. El duelo, escribe, no es una tormenta sin sentido, sino un juicio de una fuerza enorme: ya no está una persona que era parte de la estructura de tu vida. Por eso lo abarca todo: no toca un solo pensamiento, sino todo el cuadro de lo que te importa. El duelo cambia a medida que esos juicios se van reconstruyendo de a poco: el vínculo con quien murió no desaparece, sino que encuentra otro lugar dentro de tu vida. Hacer el duelo es reconocer el valor de quien perdiste. Es una forma de amor que continúa, y ninguna filosofía debería apurarlo.",
+      "practice": "Escribí una cosa que esta persona trajo a tu vida y que se quedó con vos.",
+      "quote": null
+    },
+    "loneliness": {
+      "text": "Al desarrollar el «enfoque de las capacidades» con el economista Amartya Sen, Nussbaum armó una lista de lo que una vida no puede no tener si va a ser verdaderamente humana, y uno de los puntos es la «afiliación»: la capacidad de vivir con otros y para otros, de tener relaciones cercanas y respeto por uno mismo. La soledad duele, y el dolor habla de algo importante. No es un defecto personal, sino la señal de que una de las necesidades humanas centrales ahora no tiene por dónde salir. Nussbaum insiste en que esas capacidades no dependen solo de nosotros, sino también de cómo está organizada la sociedad que nos rodea. Tu soledad no es un veredicto sobre tu capacidad de amar, sino un recordatorio de que estás hecho para el vínculo.",
+      "practice": "Pensá en una persona con la que te sentiste bien, aunque sea una vez. Escribile un par de líneas, aunque no se las mandes enseguida.",
+      "quote": null
+    },
+    "anger": {
+      "text": "Al final de la «Orestíada», las Furias, diosas de la venganza, se convierten en las «Benévolas» y se instalan en Atenas: Nussbaum abre «La ira y el perdón» con esta escena. El enojo muchas veces señala una injusticia real, y no hay que ignorarlo. Siguiendo a Aristóteles, Nussbaum distingue dos partes en la ira: el dolor por un daño inmerecido y el deseo de «revancha», de que el culpable sufra. La primera está justificada. Con la segunda discute: el sufrimiento ajeno no deshace el daño. Ve la salida en la «ira de transición»: reconocer que pasó algo inaceptable y mirar hacia el futuro, hacia lo que se puede cambiar. Tu enojo es una señal legítima, y se lo puede dirigir adonde de verdad ayuda.",
+      "practice": "Caminá a paso rápido unos minutos y, mientras caminás, respondé dos preguntas: ¿qué me dolió exactamente? ¿Y qué haría que mañana las cosas estuvieran realmente mejor?",
+      "quote": {
+        "text": "¡Qué indignante! Hay que hacer algo al respecto.",
+        "author": "Martha Nussbaum",
+        "source": "La ira y el perdón (2016), la fórmula de la «ira de transición»"
+      }
+    },
+    "shame": {
+      "text": "Un bebé quiere ser el centro todopoderoso del mundo, y un día descubre que es chiquito, dependiente e imperfecto. Ahí, para Nussbaum, nace la «vergüenza primitiva», que describe en «El ocultamiento de lo humano». Esta vergüenza por nuestra misma limitación humana vuelve una y otra vez, y puede ser justamente lo que te está doliendo ahora. Nussbaum la distingue de la vergüenza «constructiva», que nos ayuda a aspirar a ideales. La vergüenza primitiva exige lo imposible: ser invulnerable. Si la reconocés, podés decirte: mis necesidades y mis errores no me hacen peor que los demás; me hacen humano, como a todos. Todo el mundo conoce esta vergüenza, y en eso también hay algo de consuelo.",
+      "practice": "Preguntate: «¿Me avergüenzo de un acto concreto, o de ser imperfecto en general?». Si es lo segundo, apoyá una mano en el pecho y decí: «Como todos».",
+      "quote": null
+    },
+    "guilt": {
+      "text": "Un chico que empujó con bronca a su mamá y después le lleva un dibujo: así, siguiendo a Melanie Klein, Nussbaum podría imaginar el nacimiento de la culpa madura. La culpa surge cuando nos damos cuenta de que lastimamos a alguien que queremos y deseamos repararlo; el peso que sentís dice que te importa. En «El ocultamiento de lo humano» Nussbaum contrapone la culpa a la vergüenza: la vergüenza dice «soy malo de pies a cabeza», la culpa dice «hice algo malo», y por eso abre el camino a la «reparación». Al mismo tiempo, en «La ira y el perdón» advierte contra el deseo de castigarse: el autocastigo no repara el daño. La culpa útil mira hacia adelante: hacia el cuidado y la restauración del vínculo.",
+      "practice": "Elegí un pequeño gesto de reparación, tu propio «dibujo»: un mensaje corto, una ayuda, una palabra amable para la persona en cuestión. Hacelo hoy.",
+      "quote": null
+    },
+    "envy": {
+      "text": "«Si vos ganaste, yo perdí»: así, para Nussbaum, ve el mundo la envidia, como un juego de suma cero. En «La monarquía del miedo» describe este sentimiento doloroso, centrado en los bienes de otros y en la comparación con uno mismo, y encuentra su raíz en el miedo y la inseguridad. Cuesta admitir la envidia, pero todo el mundo la siente. Nussbaum la distingue de la «emulación»: el deseo de parecerse al otro sin quitarle nada. Si mirás de cerca, la envidia muestra lo que valorás. Podés quedarte con ese conocimiento y dejar de lado la hostilidad hacia la otra persona. Nussbaum cree que el éxito ajeno puede enseñar, no solo herir.",
+      "practice": "Imaginá que el bien que envidiás es de los dos, y que a la otra persona no se le quitó nada. ¿Qué te gustaría hacer entonces por vos, hoy?",
+      "quote": null
+    },
+    "emptiness": {
+      "text": "Los estoicos soñaban con la «apatheia», la libertad frente a las pasiones, y Nussbaum muestra en «La terapia del deseo» que una vida sin apegos no es serena, sino empobrecida. El vacío se parece a esa pobreza, solo que no la elegiste: las cosas están, pero su valor no se siente, los juicios sobre lo que importa parecen haberse callado. Es un estado silencioso pero pesado, y difícil de explicarles a otros. Sin embargo, Nussbaum también escribe, en «La fragilidad del bien», sobre lo vulnerables que son los apegos. Quizás el vacío no sea tu ausencia, sino una pausa para respirar después de que valorar se volvió doloroso. Los valores no desaparecieron; necesitan tiempo y suavidad para volver a responder. Nussbaum no te apuraría: reconstruir los valores lleva tiempo.",
+      "practice": "Salí afuera o acercate a una ventana unos minutos y esperá una cosita que mueva algo, aunque sea un segundo: un olor, un sonido, una cara. Con eso alcanza.",
+      "quote": null
+    },
+    "confusion": {
+      "text": "«Finamente consciente y ricamente responsable»: Nussbaum tomó estas palabras de Henry James como título de uno de los ensayos de «El conocimiento del amor»; así describe a una persona capaz de ver la complejidad sin simplificarla. Estar desorientado es natural cuando la vida da un giro inesperado y los viejos mapas dejan de funcionar. Siguiendo a Aristóteles, Nussbaum sostiene que la sabiduría práctica no es un conjunto de reglas listas, sino «percepción»: la capacidad de ver con atención los detalles de una situación concreta. La confusión, entonces, no es un fracaso, sino una admisión honesta de que la situación es más compleja que las respuestas hechas. La salida no es una conclusión rápida, sino una atención paciente al detalle: qué está pasando realmente acá, y qué me importa a mí.",
+      "practice": "Imaginá tu situación como una escena de una novela de Henry James: quién está, qué siente cada uno, qué está en juego. ¿Qué detalle notaría primero el narrador?",
+      "quote": {
+        "text": "Las emociones dan forma al paisaje de nuestra vida mental y social. Como los «levantamientos geológicos» que un viajero podría descubrir en un paisaje donde ayer solo había tierra llana, marcan nuestras vidas como desparejas, inciertas y propensas a los vuelcos.",
+        "author": "Martha Nussbaum",
+        "source": "Paisajes del pensamiento (2001), introducción"
+      }
+    },
+    "fatigue": {
+      "text": "«Un animal necesitado»: así llama Nussbaum, sin ninguna ofensa, al ser humano: tenemos un cuerpo que necesita descanso, sueño y cuidado. Así que el cansancio no es vagancia ni un defecto de carácter. En «El ocultamiento de lo humano» muestra con qué frecuencia la gente se avergüenza de esta vulnerabilidad corporal y sueña con ser incansable, como una máquina. Su lista de capacidades humanas centrales incluye tanto la salud como el «juego»: la capacidad de reír, descansar y disfrutar del tiempo libre. No es un agregado agradable a la vida, sino parte de ella. El cansancio es un mensaje legítimo del cuerpo sobre sus límites, no un motivo para reprocharte. Permitirte descansar es reconocerte como un ser vivo, no como una herramienta.",
+      "practice": "Regalate cinco minutos de «juego», un punto de la lista de Nussbaum: sin utilidad ni objetivo, garabateá, cantá una canción, jugá con el gato.",
+      "quote": null
+    },
+    "boredom": {
+      "text": "En «La copa dorada» de Henry James, que Nussbaum analizó más de una vez, todo un drama depende de una grieta casi invisible en una copa de cristal. Para ella es un ejemplo de «percepción atenta»: la capacidad de notar los detalles finos de personas y cosas. El aburrimiento puede ser una tortura, y no hay por qué avergonzarse. Nussbaum casi no escribió sobre el aburrimiento directamente, pero su lista de capacidades centrales incluye «sentidos, imaginación y pensamiento», y también el «juego». Si llevamos su idea más lejos, el aburrimiento es la señal de que esas capacidades ahora no tienen nada que hacer. La atención puede devolverle la vida incluso a lo conocido. El aburrimiento no es un veredicto ni sobre vos ni sobre el mundo; puede ser una invitación a mirar más de cerca o a permitirte jugar.",
+      "practice": "Elegí un objeto cercano y describilo en voz alta con tanto detalle como lo haría James: su color, sus grietas mínimas, su historia. ¿Qué cosa nueva notaste?",
+      "quote": null
+    },
+    "joy": {
+      "text": "Píndaro comparaba la excelencia humana con una vid alimentada por el rocío: Nussbaum abre «La fragilidad del bien» con esta imagen. Las cosas buenas de la vida, el amor, la amistad, un proyecto compartido que sale bien, crecen como una planta: dependen del clima, de la suerte y de otras personas, y por eso son frágiles. La alegría, para Nussbaum, es el juicio de que pasó algo verdaderamente valioso. Y la fragilidad no anula el valor, sino que muchas veces lo constituye: nos alegramos de lo que podría no haber pasado. Así que no hace falta contener la alegría por miedo a perderla, ni desvalorizarla con un «esto no va a durar». Podés simplemente admitir: ahora tuve suerte, y vale la pena vivirlo a pleno.",
+      "practice": "Pará un minuto y mirá a tu alrededor: ¿quiénes y qué tuvieron parte en tu alegría, personas, azar, el clima? Hacele a cada uno un gesto silencioso con la cabeza.",
+      "quote": null
+    },
+    "love": {
+      "text": "En «El banquete» de Platón el amor sube una escalera: de una persona hermosa a la belleza en general, donde ya nada puede herir. Nussbaum propone bajar de esa escalera. Lo que ella valora es el amor por una persona concreta e irreemplazable, con todas sus particularidades, su ser aparte y su libertad. El amor es uno de los sentimientos más importantes y más vulnerables, y da conocimiento: a través de él vemos más claro al otro y a nosotros mismos. Un amor así inevitablemente nos vuelve vulnerables, pero esa vulnerabilidad no es un error; es el precio de estar abiertos. Permitite amar sin exigirle garantías al amor. Nussbaum llama a esto «el conocimiento del amor»: ver a una persona como es, no como nos conviene verla.",
+      "practice": "Mirá a la persona que amás, en persona o en una foto, y encontrá tres rasgos que solo tiene ella. Dejá que tu mirada se detenga en cada uno.",
+      "quote": null
+    },
+    "gratitude": {
+      "text": "Los estoicos soñaban con hacer de la persona una fortaleza inexpugnable que no necesita a nadie; Nussbaum señala que en una fortaleza así no habría a quién agradecerle. La gratitud contiene un juicio: otra persona hizo algo valioso por mi vida. Es un reconocimiento de la dependencia, y para Nussbaum la dependencia es parte de la vida humana común: somos seres que necesitan a otros. Es cierto que en «La ira y el perdón» advierte que en las relaciones cercanas es mejor no «llevar la cuenta», ni de agravios ni de favores. La gratitud viva no es una deuda que hay que devolver, sino la alegría de no estar solo y de que el bien realmente ocurre. Y el juicio mismo «me ayudaron» ya te acerca a la gente.",
+      "practice": "Decile hoy a una persona que te mejora la vida qué hizo exactamente por vos: en una frase, sin «bueno, vos sabés».",
+      "quote": null
+    },
+    "hope": {
+      "text": "El discurso «Tengo un sueño» de Martin Luther King empieza con amargura, con un cheque que Estados Unidos devolvió con la marca «fondos insuficientes», y después gira hacia la esperanza; Nussbaum analiza ese giro como un modelo. En «La monarquía del miedo» escribe que la esperanza y el miedo son gemelos: los dos surgen cuando el desenlace de algo importante es desconocido. Pero el miedo encoge, mientras que la esperanza agranda el mundo y empuja a actuar. Siguiendo a Kant, Nussbaum habla de la esperanza como una postura práctica: no un pronóstico de que todo va a salir bien, sino la elección de vivir como si el bien fuera posible. La sostienen «prácticas»: el arte, la amistad, el trabajo compartido. Tu esperanza no es ingenuidad, sino una manera de aferrarte a lo que querés.",
+      "practice": "Hacé hoy una cosa chiquita «en nombre» de lo que esperás, aunque sea una llamada o una página leída.",
+      "quote": null
+    },
+    "nostalgia": {
+      "text": "Un pedacito de magdalena mojado en té le devuelve al narrador de Proust todo Combray; Nussbaum, lectora atenta de Proust, vería en esto cómo un sentimiento guarda el conocimiento de lo valioso. La nostalgia es un juicio agridulce sobre el pasado: ahí había algo que significaba mucho para vos. En «La fragilidad del bien» muestra que muchos bienes dependen de las circunstancias y no pueden durar para siempre, pero no por eso fueron menos reales. Al mismo tiempo, Nussbaum advertía contra idealizar un pasado que parece más seguro de lo que fue. La nostalgia suave no te tira para atrás; te recuerda que sabés valorar, y esa capacidad sigue con vos en el presente.",
+      "practice": "Encontrá tu propia «magdalena», un olor, un sabor o una canción de esa época, y quedate un par de minutos con ella. ¿Qué de ese valor podrías traer ahora a tu vida?",
+      "quote": null
+    },
+    "craving": {
+      "text": "Epicuro dividía los deseos en naturales y «vacíos», inflados por pensamientos falsos como «sin esto no lo soporto». En «La terapia del deseo» Nussbaum comparte su descubrimiento central: dentro de los deseos se esconden creencias, y eso significa que la filosofía puede ser una medicina para el alma. Las ganas pueden ser muy fuertes, y por sí mismas no te hacen mala persona. Podés hacer algo más que aguantarlas: podés examinarlas con calma: ¿qué creencia habla en ellas, qué prometen? En general llegan como una ola y después bajan. Mientras las examinás, ya no estás simplemente obedeciendo sus órdenes. Nussbaum llama terapéutica a esa mirada: la filosofía no prohíbe; cura a través de la atención.",
+      "practice": "Hacé tres respiraciones lentas y en cada exhalación preguntá, al estilo de Epicuro: «¿Este deseo es natural, o lo infló un pensamiento?». Después notá cómo cambió la ola.",
+      "quote": null
+    },
+    "addiction": {
+      "text": "Para «La terapia del deseo» Nussbaum inventó a una alumna, Nikidion, que va sucesivamente a los epicúreos, los escépticos y los estoicos para que le traten el alma. Un buen filósofo, como un buen médico, mira su historia y sus circunstancias particulares en lugar de sermonearla. La adicción merece la misma mirada: no es una falla moral, y la vergüenza acá no ayuda. El «enfoque de las capacidades» de Nussbaum incluye la «razón práctica», la capacidad de planificar la propia vida, y la adicción achica justamente esa capacidad. Pero las capacidades de una persona también dependen de su entorno y del apoyo que recibe. La recuperación no es una hazaña solitaria de fuerza de voluntad, sino una recuperación gradual de la libertad, en la que la ayuda de otros, como los grupos de ayuda mutua (como AA o NA), tiene su lugar.",
+      "practice": "Pensá en una persona o una comunidad donde te escucharían sin juzgarte, un grupo de ayuda mutua, por ejemplo. Si podés, decile hoy a alguien de ahí al menos: «Ahora la estoy pasando mal».",
+      "quote": null
+    },
+    "hangover": {
+      "text": "«Hice algo de lo que me arrepiento» y «no sirvo para nada»: en «El ocultamiento de lo humano» Nussbaum separa estas dos frases como culpa y «vergüenza primitiva». La mañana siguiente muchas veces llegan juntas, y tanto el cuerpo como el alma se sienten pesados. La culpa sugiere reparar algo. La vergüenza primitiva solo paraliza. Ayuda separar una de otra: reconocer acciones concretas, si las hubo, y no dictar un veredicto sobre vos entero. Nussbaum escribió mucho sobre cómo la gente se avergüenza de su naturaleza corporal; tu cuerpo ahora te pide cuidado, no castigo. Tratarte con suavidad no es consentirte, sino la condición para ordenar las cosas con calma más tarde.",
+      "practice": "Abrí una ventana y quedate al lado un par de minutos, sintiendo el aire en la cara. Repasar lo de ayer puede esperar: ahora le toca al cuidado.",
+      "quote": null
+    },
+    "euphoria": {
+      "text": "Nussbaum tomó de Proust el título original de «Paisajes del pensamiento», «Upheavals of Thought»: las emociones son para ella «levantamientos geológicos» que reforman el paisaje de una vida. En la euforia ese paisaje de pronto se vuelve inmenso y luminoso, y un subidón así se puede valorar. Una alegría fuerte contiene el juicio de que algo valioso se acercó. Vale la pena notar qué fue exactamente lo que te levantó así: ¿un logro, un encuentro, una idea? En «La fragilidad del bien» Nussbaum recuerda que mucho de lo bueno es frágil y depende de las circunstancias, pero eso no es motivo para renunciar a la alegría, solo para vivirla con atención. Disfrutá este momento, recordá de qué se trata y dejá que se vuelva parte de tu historia.",
+      "practice": "Anotá qué causó exactamente el subidón y qué ves ahora con más claridad que de costumbre. Podés releerlo otros días.",
+      "quote": null
+    },
+    "crash": {
+      "text": "Una vida con emociones es, en palabras de Nussbaum, inevitablemente «despareja, incierta y propensa a los vuelcos»: es una propiedad de un ser al que algo le importa, no una falla. La caída después de un subidón puede sentirse como caer de una altura, y realmente es dura. En la caída cambian los juicios de valor: lo que hace poco parecía enorme y cercano de pronto parece lejano o sin importancia. Pero un juicio nuevo que llega en un momento de agotamiento no es necesariamente más verdadero que el anterior. Ni la subida ni la bajada dictan un veredicto final sobre tu vida. La caída es parte del paisaje que estás recorriendo, no su final, y podés esperar a que pase tratándote con suavidad.",
+      "practice": "Decite: «Esto es una caída, y es un estado, no una conclusión». Después envolvete en una manta o sentate más cómodo y dale a tu cuerpo cinco minutos de descanso.",
+      "quote": null
+    },
+    "panic": {
+      "text": "Un bebé aterrado no necesita argumentos: necesita los brazos de un adulto, calor y sostén. Nussbaum ve en el desamparo del bebé la fuente de nuestro miedo más antiguo. En el pánico ese miedo sube con toda su fuerza, pasando por encima de la razón: el cuerpo parece escaparse de control, y se siente como si no fuera a terminar nunca. Una ola así en general llega al pico y baja en unos pocos minutos. El contrapeso del miedo, para Nussbaum, es el sostén y la presencia. Para un adulto, parte de ese sostén puede venir de su propio cuerpo: el piso bajo los pies, la respiración lenta, el calor de sus propias manos. Y si hay alguien cerca, podés pedirle simplemente que se quede con vos.",
+      "practice": "Rodeate los hombros con los brazos, como se sostiene a un chico, y sentí el piso con los pies. Hacé cada exhalación más larga que la inhalación hasta que la ola empiece a retirarse.",
+      "quote": null
+    },
+    "dread": {
+      "text": "Lucrecio intentaba curar a la gente del horror a la muerte con un argumento: donde está la muerte, no estamos nosotros. En «La terapia del deseo» Nussbaum examina este argumento con respeto, y admite con honestidad que no consuela del todo, porque sí tenemos cosas que perder. Del mismo modo, una sensación pesada de mal presagio, sobre todo sin una causa clara, es la voz de un miedo muy antiguo, no una profecía. En «La monarquía del miedo» señala que el miedo aísla: empuja a la persona hacia adentro, y el mundo se vuelve estrecho y oscuro. Pero se debilita en compañía de otros: en la confianza, en el trabajo compartido. Nussbaum propone oponerle la esperanza: no la certeza de un buen final, sino la disposición a aferrarse a lo que querés. No tenés que quedarte solo con este sentimiento.",
+      "practice": "Decile a alguien de confianza: «Ahora me siento angustiado y pesado». Una frase ya es un paso fuera del aislamiento.",
+      "quote": null
+    },
+    "fomo": {
+      "text": "La pregunta trágica, como la llama Nussbaum, es así: ¿es esta una elección en la que cualquier decisión me va a quitar algo valioso? Leyendo la tragedia griega en «La fragilidad del bien», muestra que hay muchos valores y no siempre son compatibles. Una vida honesta reconoce esas pérdidas en lugar de hacer como si se pudiera tener todo. El miedo a perderte algo no es codicia, sino una visión de cuánto valor hay en el mundo: la vida ofrece más de lo que se puede abarcar. El dolor por lo que no elegiste es natural. Pero una vida en la que estás del todo presente en una cosa es más rica que una vida en la que estás en todos lados con la cabeza y en ninguno de verdad.",
+      "practice": "Elegí una cosa que estés haciendo hoy y decite: «Ahora elijo esto». Notá cómo cambia tu atención.",
+      "quote": null
+    },
+    "sleepless": {
+      "text": "Las emociones, para Nussbaum, son juicios, y un juicio se puede revisar; solo que a las tres de la mañana no hay nadie que lo revise, y parece indiscutible. Una noche sin dormir te desgasta, y los pensamientos en la oscuridad pesan más que de día. Si llevamos más lejos la idea de Nussbaum, la «monarquía del miedo» es especialmente fuerte de noche: estamos solos, el mundo se calló, y vuelve la antigua sensación de desamparo. Los juicios nocturnos nacen del cansancio y la soledad, no de una mirada clara. Nussbaum nos recuerda que somos seres corporales y necesitados, y eso no es motivo para reprocharse. No tenés que resolver esta noche todo lo que te preocupa. Podés simplemente cuidarte, como cuidarías a alguien cercano que no puede dormirse.",
+      "practice": "Apoyá una mano en la panza y hacé algunas exhalaciones lentas. Decite: «Los juicios nocturnos no son finales. Los reviso de nuevo a la mañana».",
+      "quote": null
+    },
+    "betrayal": {
+      "text": "La Hécuba de Eurípides es una reina noble que, traicionada por un amigo que asesinó a su hijo, se convierte en vengadora; en «La fragilidad del bien» Nussbaum lee esta tragedia como la historia de cómo la traición puede sacudir el carácter mismo. La traición hiere hondo porque golpea la confianza, una de las cosas más valiosas que tenemos. Confiar no es ingenuidad, sino la condición de la amistad y del amor. En «La ira y el perdón» Nussbaum escribe que detrás del enojo por una traición muchas veces hay duelo: no perdiste solo a una persona, sino también aquello en lo que creías. El duelo, si se le permite existir, con el tiempo libera. Tu capacidad de confiar no fue un error, y no tenés por qué perderla por una sola persona.",
+      "practice": "Nombrá en voz alta qué perdiste exactamente además de la persona: fe, planes, una imagen del futuro. Date un minuto de silencio para hacer el duelo.",
+      "quote": null
+    },
+    "jealousy": {
+      "text": "El narrador de Proust tiene a Albertine casi bajo llave, quiere conocer cada uno de sus pensamientos, y aun así no puede poseerla. Nussbaum lee estas páginas de cerca: en los celos, escribe, se mezclan el amor, el miedo a la pérdida y el deseo de controlar al otro. Los celos son una tortura, y hasta las personas que aman mucho los sienten. El problema es que el otro es una persona aparte y libre, y muchas veces eso es justamente lo que la hace amada. Los celos son una señal de cuánto significa esa persona para vos. Podés reconocerlos sin convertirlos en un intento de control, y preguntarte de qué miedo hablan. Amar a una persona libre es aceptar que no es del todo tuya.",
+      "practice": "Completá la frase: «Tengo miedo de que…». Después preguntate: ¿qué necesito para sentirme seguro, y puedo decirlo directamente?",
+      "quote": null
+    },
+    "resentment": {
+      "text": "Como si el dolor de otro pudiera, como una poción mágica, curar tu herida: Nussbaum llama a esta idea una especie de «pensamiento mágico». En «La ira y el perdón» describe cómo un viejo rencor se aferra a una fantasía de «revancha»: parece que si el culpable sufre, se va a restablecer el equilibrio. El rencor no salió de la nada: te trataron injustamente. Pero el sufrimiento ajeno no deshace tu daño. Nussbaum también critica el perdón «transaccional», que le exige al otro un arrepentimiento humillante. En su lugar propone un camino «de transición»: reconocer que pasó algo inaceptable y llevar la atención al futuro. Soltar un rencor no significa disculpar al culpable; significa dejar de darle tu fuerza.",
+      "practice": "Imaginá que mañana la persona que te lastimó se castigara a sí misma. Seguilo con honestidad: ¿qué cambiaría realmente en tu vida? ¿Y qué necesitás de verdad?",
+      "quote": null
+    },
+    "heartbreak": {
+      "text": "«¡La señorita Albertine se ha ido!», anuncia la criada, y el narrador de Proust, seguro de que ya no la amaba, de pronto descubre su amor a través de un dolor agudo. Nussbaum analiza este episodio en «El conocimiento del amor»: el sufrimiento mismo es conocimiento de cuánto significaba una persona para vos. Un corazón roto es uno de los dolores más agudos, y no hay por qué avergonzarse. En «Paisajes del pensamiento» muestra que una pérdida así se parece al duelo: hace falta tiempo para que los juicios de valor se reconstruyan y para que esa persona ocupe otro lugar en tu vida. El dolor no prueba que te equivocaste al amar. Prueba que sabés amar.",
+      "practice": "Escribí una frase sobre lo que aprendiste de vos gracias a este amor. Ese conocimiento va a seguir siendo tuyo.",
+      "quote": null
+    },
+    "impostor": {
+      "text": "El profesional impecable que nunca duda es una ficción, diría Nussbaum: en «El ocultamiento de lo humano» muestra que todas las personas son limitadas, necesitan de otros y aprenden sobre la marcha. La sensación de estar «en el lugar equivocado» y de que te van a desenmascarar en cualquier momento les llega a personas muy capaces. Detrás muchas veces está la «vergüenza primitiva»: la exigencia infantil de ser perfecto y todopoderoso. Frente a esa exigencia, cualquier incertidumbre común parece prueba de fraude. Pero quienes parecen impecables también esconden su vulnerabilidad. No tenés que ser perfecto para tener derecho a tu lugar. Una persona que está creciendo no es un fraude.",
+      "practice": "Preguntale a un colega o a un amigo cuándo se sintió un impostor alguna vez. Escuchá, y notá que aprender no es lo mismo que engañar.",
+      "quote": null
+    },
+    "self_hatred": {
+      "text": "La compasión, para Nussbaum, está hecha de tres juicios: el sufrimiento es serio, es inmerecido, y esta persona me importa. Probá aplicarte los tres a vos. Si ahora te estás tratando con odio, eso duele muchísimo, y no merecés esa crueldad. En «El ocultamiento de lo humano» Nussbaum describe la «vergüenza primitiva»: la exigencia de ser perfecto, invulnerable, sin necesidades ni debilidades. Cuando esa exigencia imposible no se cumple, la voz interior dicta un veredicto sobre la persona entera. Pero ese veredicto no es la verdad sobre vos; es el eco de un ideal inalcanzable. Merecés al menos la amabilidad que le darías a un amigo con el mismo dolor.",
+      "practice": "Imaginá que un amigo cercano te dice estas palabras sobre sí mismo. ¿Qué le contestarías? Decítelo a vos, aunque sea en un susurro.",
+      "quote": null
+    },
+    "helplessness": {
+      "text": "En «Las mujeres y el desarrollo humano» Nussbaum cuenta la historia de Vasanti, de Ahmedabad, en la India: después de dejar a un marido violento, no podía hacer nada sola, pero con un pequeño préstamo de una cooperativa de mujeres se compró una máquina de coser. La impotencia es uno de los sentimientos más difíciles: querés cambiar algo y no podés. Nussbaum, experta en tragedia griega, sabe bien cuánto en la vida depende de la «tyche», el azar. No somos todopoderosos, y nadie lo es; tu impotencia no es prueba de debilidad, sino un encuentro con esta verdad compartida. Pero la historia de Vasanti muestra también otra cosa: donde una persona sola no puede, juntos muchas veces podemos más.",
+      "practice": "Dividí una hoja en dos partes: «no está en mis manos» y «está al menos un poco en mis manos». En la segunda columna, elegí una acción chiquita.",
+      "quote": null
+    },
+    "procrastination": {
+      "text": "«¿Qué juicio se esconde detrás de este sentimiento?»: Nussbaum probablemente empezaría también acá con esta pregunta, aunque no escribió sobre la postergación directamente. Postergar no es vagancia, y detrás muchas veces hay sentimientos difíciles de notar. A veces es miedo al juicio y «vergüenza primitiva»: la exigencia de hacerlo perfecto de entrada, o mejor no hacerlo. A veces es un conflicto de valores: esta tarea te importa, y el descanso también, y otra cosa más. Nussbaum valora más la «percepción» atenta de una situación concreta que reglas generales como «ponete las pilas y listo». Cuando entendés qué sentimiento te frena, arrancar se vuelve más fácil: trabajás con la causa, no con vos como si fueras un enemigo.",
+      "practice": "Preguntate: «¿A qué le tengo miedo en esta tarea?». Después da el paso más chiquito: cinco minutos, sin exigir que salga bien.",
+      "quote": null
+    },
+    "uprooted": {
+      "text": "Lo que nos ata a casa no son abstracciones, sino canciones, calles, olores concretos: Nussbaum lo muestra en «Emociones políticas». Las emociones para ella siempre están ligadas a lo concreto: a las personas, los lugares, los sonidos y las costumbres que eran parte de la estructura de tu vida. Por eso sentirte arrancado de raíz es una pérdida real, aunque el cambio lo hayas elegido, y se vive como un duelo, no como una simple incomodidad. Su lista de capacidades centrales incluye la «afiliación» y el «control sobre el propio entorno»: cuando se alteran, la vida objetivamente se vuelve más difícil. Tu añoranza de tus raíces muestra lo capaz que sos de apegarte, y esa capacidad te va a ayudar a echar raíces de nuevo.",
+      "practice": "Poné una canción del lugar que dejaste y escuchala entera. Después pensá: ¿qué pedacito de ese mundo podrías crear acá?",
+      "quote": null
+    },
+    "overload": {
+      "text": "La atención, para Nussbaum, es casi una habilidad moral: ver a una persona o una situación en toda su concreción. Pero la atención es finita, y ahí está la raíz de la sobrecarga. Cada pedido, tarea o noticia trae el juicio «esto importa», y cuando hay demasiados juicios así al mismo tiempo, la atención simplemente cede. En «La fragilidad del bien» escribe sobre la «pregunta trágica»: a veces distintas cosas importantes no se pueden hacer al mismo tiempo, y es más honesto admitirlo que culparse por falta de fuerza. Su lista de capacidades incluye también el «juego» y el descanso. La sobrecarga no es señal de que no estés a la altura, sino de que necesitás elegir qué dejar de lado por un tiempo.",
+      "practice": "Cerrá los ojos dos minutos y preguntate: ¿qué cosa importa de verdad hoy? A todo lo demás decile en silencio: «Esperá».",
+      "quote": null
+    },
+    "unreality": {
+      "text": "Para Nussbaum, las emociones son lo que cose el mundo a una persona: a través de ellas las cosas se vuelven importantes, «propias». A veces esos hilos se aflojan, por cansancio, estrés o dolor, y el mundo de pronto parece irreal, como detrás de un vidrio, y parece que mirás tu vida desde afuera. Es una experiencia extraña y a veces aterradora, y no te vuelve «fallado». El mundo pierde color y parece plano. En «El conocimiento del amor» Nussbaum habla de la «percepción» atenta de los detalles concretos como camino hacia la realidad. La vuelta puede empezar por algo simple: un olor, un sonido, un contacto que te recuerde de nuevo que estás acá.",
+      "practice": "Nombrá cinco cosas que ves, cuatro sonidos, tres sensaciones en tu cuerpo. No te apures: solo registrá lo concreto.",
+      "quote": null
+    },
+    "awe": {
+      "text": "Entre las emociones que examina Nussbaum, el asombro es especial: casi no pregunta qué me va a pasar a mí; simplemente queda impactado por el valor de lo que tiene delante. El asombro ante algo inmenso o hermoso es una experiencia rara y valiosa. Nussbaum cree que el asombro nos saca de nosotros mismos, amplía el círculo de lo que nos importa y así ayuda a la compasión incluso hacia criaturas lejanas. En «Justicia para los animales» escribe sobre cómo el asombro ante la vida de los animales nos abre un mundo entero. Tu asombro es un momento en que el mundo se mostró más grande que vos. Quedate en él. Nussbaum cree que esos momentos merecen espacio y tiempo.",
+      "practice": "Quedate un minuto más con lo que te asombró, sin hacer nada y sin sacar fotos. Si hay un ser vivo cerca, un pájaro, un árbol, un perro, simplemente miralo.",
+      "quote": null
+    },
+    "relief": {
+      "text": "Los griegos llamaban «tyche» a la parte de suerte de la que depende toda vida humana, y en «La fragilidad del bien» Nussbaum recuerda que un buen desenlace no es solo un logro, sino también un regalo de las circunstancias. El alivio contiene un juicio: la amenaza a lo que querés pasó. Muestra cuánto significaba para vos aquello por lo que temías, y vale la pena saborearlo. No hace falta buscar enseguida el próximo motivo de preocupación ni decirte «es muy pronto para alegrarse». El alivio es un momento en que el cuerpo y el alma pueden soltar la tensión. Permitite vivirlo y quizás notar quién o qué ayudó. El alivio confirma que tu miedo era por algo verdaderamente valioso.",
+      "practice": "Soltá el aire despacio y notá en qué parte del cuerpo algo se aflojó. Agradecé en silencio a una persona o a un golpe de suerte que ayudó.",
+      "quote": null
+    },
+    "calm": {
+      "text": "Una fortaleza en la que nada puede entrar, y un jardín donde todo está vivo pero, por ahora, tranquilo: dos imágenes de la calma. Nussbaum, discutiendo con los estoicos y su ideal de «apatheia», la libertad frente a las pasiones y los apegos, elige la segunda: una paz comprada al precio de renunciar a amar empobrece la vida. La calma de la que habla no es desapego, sino confianza: seguís queriendo a personas y cosas, pero ahora mismo ninguna está amenazada. Una calma así no contradice los sentimientos vivos; les da espacio. No tenés que hacer nada con ella ni temer que se termine. Podés simplemente estar en ella y notar en qué se apoya.",
+      "practice": "Mirá a tu alrededor y nombrá en silencio en qué se apoya tu calma ahora: un lugar, personas, un ritmo. Recordalo como tu jardín.",
+      "quote": null
+    },
+    "inspiration": {
+      "text": "Nussbaum, que practica canto desde hace muchos años, incluyó «sentidos, imaginación y pensamiento» en su lista de capacidades humanas centrales: la capacidad de crear, de expresarse y de vivir lo que da sentido. Para ella no es un lujo, sino parte de una vida digna. La inspiración es un impulso alegre, cuando tenés ganas de crear y de actuar. En «El conocimiento del amor» muestra que la imaginación y el arte también son una forma de conocer: nos ayudan a ver lo que el razonamiento seco no puede. La inspiración es el momento en que tu imaginación y tus valores se encuentran. No hace falta comprobar si va a salir «lo bastante bien». Podés simplemente seguirla y permitirte la alegría de hacer.",
+      "practice": "Anotá ya la idea o la imagen principal, mientras está viva. No la edites: solo guardala.",
+      "quote": null
+    },
+    "schadenfreude": {
+      "text": "«El camino del estatus» llama Nussbaum a la lógica en la que todo se reduce a quién está más arriba y quién más abajo. En «La ira y el perdón» muestra lo fácil que es tomarlo, y alegrarse del mal ajeno es quizás el atajo más corto. Es desagradable notarlo en uno mismo, pero casi todo el mundo lo siente, y en sí no te hace mala persona. En «La monarquía del miedo» la envidia ve el mundo como un juego de suma cero: si el otro ganó, yo perdí. Esta alegría es su reverso: el fracaso ajeno parece restablecer el equilibrio por un momento. Insinúa dónde te sentís herido o poco valorado. Ese conocimiento se puede usar para cuidar tu propia herida en lugar de disfrutar la caída del otro.",
+      "practice": "Preguntate: «¿Qué en mí se lastima porque a esta persona le fue bien?». Escribí la respuesta: habla de vos, no de ella.",
+      "quote": null
+    },
+    "contempt": {
+      "text": "En la cárcel, Nelson Mandela aprendió el idioma de sus guardias y se interesó por sus vidas; en «La ira y el perdón» Nussbaum ve en eso un rechazo del desprecio, incluso donde había todos los motivos para sentirlo. El desprecio es un sentimiento frío, y cuesta admitirlo. Pero muchas veces protege algo vulnerable. En «El ocultamiento de lo humano» Nussbaum muestra cómo la gente pone a otros «más abajo» para no sentir su propia debilidad: lo que no queremos ver en nosotros se lo atribuimos a otros. A veces el desprecio reacciona a una injusticia real. Pero vale la pena preguntarse de qué dolor te está protegiendo. El sentimiento se puede reconocer sin convertirlo en tratar a una persona como inferior.",
+      "practice": "Hacete una pregunta: «¿Qué de lo que desprecio en esa persona no querría ver en mí?». Solo registrá la respuesta, sin condenarte.",
+      "quote": null
+    },
+    "disgust": {
+      "text": "Babas, podredumbre, olor a descomposición: el asco primario, para Nussbaum, retrocede ante todo lo que nos recuerda que somos animales y que somos mortales. En «El ocultamiento de lo humano» lo distingue del asco «proyectivo», que se traslada a personas y grupos. El asco es una reacción fuerte y antigua, y todo el mundo lo tiene. Pero el asco proyectivo, cree Nussbaum, es una brújula moral poco confiable: muchas veces dice más sobre nuestro miedo que sobre el otro. Si el asco se vuelve contra vos mismo, también puede ser una huida de tu propia naturaleza corporal. El sentimiento en sí no es culpa tuya. Lo que importa es notar cuándo se convierte en base para juzgar a personas.",
+      "practice": "Cuando suba el asco, da un paso atrás y soltá el aire. Preguntá: «¿Es mi cuerpo reaccionando a algo concreto, o un juicio sobre una persona?». Simplemente distinguí una cosa de la otra.",
+      "quote": null
+    },
+    "revenge": {
+      "text": "«Ojo por ojo» parece la justicia más natural, pero en «La ira y el perdón» Nussbaum hace una pregunta simple: ¿qué va a reparar exactamente el dolor de otro? Las ganas de venganza se entienden: te lastimaron y querés que se restablezca la justicia. Nussbaum admite que el dolor y la indignación están justificados si de verdad te hicieron daño. Pero a la idea de que el sufrimiento del culpable va a arreglar algo la llama «el camino de la revancha»: el pasado no va a cambiar, y tu herida no se va a curar con la suya. Propone la «ira de transición»: reconocer que lo que pasó fue inaceptable y mirar hacia el futuro, hacia protegerte, recuperarte, hacia lo que se puede cambiar por vías legítimas. Podés actuar a favor tuyo en lugar de en contra del otro.",
+      "practice": "Apretá los puños cinco segundos y después abrilos despacio. Mientras tenés las palmas abiertas, nombrá una cosa que necesitás para tu seguridad y tu recuperación: sobre vos, no sobre quien te lastimó.",
+      "quote": null
+    },
+    "anger_at_loved": {
+      "text": "Al final de «Las bodas de Fígaro» el Conde, atrapado en una mentira, se arrodilla: «Condesa, perdón», y ella perdona con más suavidad de la que él merece. A Nussbaum le encanta esta escena de Mozart como imagen de cómo las personas cercanas pueden salir del enojo sin revancha. El enojo con los seres queridos es una de las emociones más comunes, y casi siempre después nos da vergüenza. En «La ira y el perdón» Nussbaum señala que en las relaciones íntimas somos más vulnerables: tanto depende de los cercanos que sus acciones hieren más hondo. Detrás de ese enojo muchas veces hay miedo y dolor, y «llevar la cuenta» solo aleja a las personas. Siguiendo a Melanie Klein, escribe que el amor y la agresión hacia la misma persona conviven desde la infancia. Tu enojo no anula tu amor.",
+      "practice": "Preguntate en voz baja: «¿Qué es lo que realmente temo, o lo que me duele, cuando me enojo con esta persona?». Cuando estés listo, hablale de eso, no del enojo.",
+      "quote": null
+    },
+    "ambivalence": {
+      "text": "Winnicott hablaba de la madre «suficientemente buena»: no una perfecta, sino una que a veces alimenta y consuela y a veces llega tarde y decepciona. En «Paisajes del pensamiento» Nussbaum desarrolla esta idea: la ambivalencia empieza en la infancia, y el chico aprende a entender que se trata de una misma persona, ni ideal ni malvada, sino entera. Querer a alguien y al mismo tiempo no soportarlo es un estado muy común. El amor maduro, para Nussbaum, ve en el otro una persona aparte e imperfecta y puede tolerar sentimientos mezclados hacia ella. Tu ambivalencia no es falta de amor, sino señal de que ves entera a la persona cercana. Idealizar o demonizar es más fácil, pero esa es la mirada de un chico, no la de un adulto.",
+      "practice": "Escribí dos columnas sobre la persona cercana: «lo que quiero de ella» y «lo que me cuesta soportar». Notá que las dos son verdad al mismo tiempo.",
+      "quote": null
+    },
+    "guilty_relief": {
+      "text": "«Lo quería» y «para mí era insoportablemente difícil»: para Nussbaum son dos juicios de valor, y los dos pueden ser verdad a la vez. Mucha gente siente un alivio del que se avergüenza, aunque rara vez lo cuenta: después de dejar un trabajo agotador, de una separación, o de la larga enfermedad de un ser querido. En «La fragilidad del bien» Nussbaum muestra cómo distintos valores pueden entrar en conflicto y cómo una vida honesta reconoce ese conflicto en lugar de hacer como si uno de los sentimientos estuviera mal. Tu alivio no anula el amor ni el cuidado. Habla de cuánto tiempo cargaste el peso, y de que tu propia vida también vale algo.",
+      "practice": "Completá dos frases: «Lo que me importaba era…» y «Lo que me costaba era…». Dejá que las dos sigan siendo verdad.",
+      "quote": null
+    },
+    "indifference": {
+      "text": "En «Tiempos difíciles» de Dickens, el señor Gradgrind les enseña a los chicos a ver a las personas solo como números, mientras que Sissy Jupe se empeña en imaginar a cada persona concreta; en «Justicia poética» Nussbaum se pone del lado de Sissy. La compasión, según ella, surge cuando una persona entra en nuestro «círculo de preocupación»: cuando sentimos que importa para nuestra propia vida. Si no se siente ningún vínculo, los sentimientos se quedan callados; no es una falla moral, sino una propiedad de las emociones. Además, la indiferencia puede ser una defensa cuando el alma está sobrecargada de dolor. La imaginación, la literatura, el arte, las historias concretas, puede ampliar de a poco ese círculo. La indiferencia no es un veredicto sobre tu capacidad de sentir, sino quizás una señal de cansancio o de distancia.",
+      "practice": "De eso que no te toca, elegí a una persona concreta e imaginá su mañana, como lo haría Sissy. No te exijas sentir; solo mirá.",
+      "quote": null
+    },
+    "escape": {
+      "text": "A la capacidad de decidir por vos mismo cómo va a ser tu vida Nussbaum la llama «razón práctica», y la cuenta entre las dos capacidades que atraviesan todas las demás. Las ganas de dejarlo todo, un trabajo, una ciudad o un rol, dicen que tu vida actual te está apretando en algún lado. Su lista incluye también el «juego», la «afiliación» y el «control sobre el propio entorno». El deseo de escapar es una señal: una de esas capacidades ahora no tiene espacio. No es irresponsabilidad, sino información. Nussbaum valora la percepción atenta de lo concreto. Antes de decidir nada, ayuda entender de qué querés alejarte exactamente y hacia qué te sentís realmente atraído.",
+      "practice": "Caminá cinco minutos y, mientras caminás, completá dos frases: «Quiero alejarme de…» y «Quiero llegar a…». La segunda parte muchas veces importa más que la primera.",
+      "quote": null
+    },
+    "forbidden_attraction": {
+      "text": "En el «Fedro», para sorpresa de muchos lectores, Sócrates elogia la «locura» del amor como un regalo de los dioses que nos revela el valor de otra persona; Nussbaum le dedica a este diálogo un capítulo de «La fragilidad del bien». Sentirte atraído por alguien que «no corresponde» o que no está disponible puede avergonzarte, asustarte o encantarte, todo a la vez. Nussbaum no dicta veredictos acá, pero propone mirar de cerca: la atracción no es solo un impulso, sino un juicio: veo algo importante en esta persona. También escribe sobre la «pregunta trágica»: cuando distintos valores y compromisos chocan, y el conflicto en sí no vuelve mala a una persona. Entender qué ves exactamente en el otro y qué dice eso de vos importa más que apurarse a juzgar.",
+      "practice": "Preguntate: «¿Qué valor veo en esta persona?». Escribí la respuesta solo para vos.",
+      "quote": null
+    },
+    "social_anxiety": {
+      "text": "Todos en la sala están escondiendo algo: en «El ocultamiento de lo humano» Nussbaum muestra que todos ocultamos nuestra vulnerabilidad, nuestras necesidades y nuestra imperfección. Describe la «vergüenza primitiva»: el miedo a que los otros nos vean como no «deberíamos» ser. El miedo a la gente y a su juicio es una tortura, y no tiene nada de vergonzoso. La imagen de la persona «normal» e impecable es, para Nussbaum, en gran parte una ficción que la sociedad usa para estigmatizar a quienes son distintos. Tu timidez no es prueba de que algo ande mal con vos, sino una versión intensificada de un sentimiento que todos tienen. La gente a tu alrededor también tiene miedo de que la vean. Saberlo puede hacer los encuentros un poco más fáciles.",
+      "practice": "En tu próximo encuentro, notá en alguien una señal de inseguridad: un gesto, una pausa. Decile en silencio: «Vos también te escondés, y yo también».",
+      "quote": null
+    },
+    "uncertainty": {
+      "text": "Los griegos soñaban con vencer a la «tyche», el azar, con la «techne», con un arte y una razón que lo controlaran todo. En «La fragilidad del bien» Nussbaum encuentra ese sueño comprensible pero imposible: la invulnerabilidad completa exigiría renunciar al amor, a la amistad y a todo lo que no depende de nosotros. La incertidumbre es dura: cuesta vivir cuando no está claro qué va a pasar. Pero Nussbaum compara una buena vida con una planta, no con una joya: una planta es vulnerable, pero vive y crece. Una piedra no le teme a nada, pero tampoco ama nada. La incertidumbre no es un fracaso tuyo, sino la condición de una vida que tiene algo vivo y valioso.",
+      "practice": "Mirá un par de minutos cualquier planta cercana, en la ventana o afuera. Vive sin garantías; nombrá una cosa en la que podés apoyarte pase lo que pase.",
+      "quote": {
+        "text": "Ser un buen ser humano es tener una especie de apertura al mundo, una capacidad de confiar en cosas inciertas que están fuera de tu control… se basa en ser más como una planta que como una joya, algo bastante frágil, pero cuya belleza tan particular es inseparable de esa fragilidad.",
+        "author": "Martha Nussbaum",
+        "source": "Entrevista con Bill Moyers, A World of Ideas (1988)"
+      }
+    },
+    "waiting": {
+      "text": "«Dejarás de temer si dejas de esperar», aconsejaba Séneca. Nussbaum no está de acuerdo con él, aunque admite que la esperanza y el miedo son gemelos: los dos nacen cuando algo importante está fuera de nuestras manos. Esperar, resultados, una respuesta, noticias, desgasta: ya no podés influir en el desenlace, pero todavía no lo conocés, y los sentimientos se turnan. En «La monarquía del miedo» Nussbaum propone darle lugar a la esperanza como práctica: seguir viviendo, haciendo cosas, estando con gente mientras no hay respuesta. Tu espera es tan difícil porque el desenlace te importa. No es motivo para poner la vida en pausa hasta que llegue la respuesta. Una vida que espera sigue siendo una vida.",
+      "practice": "Para el tiempo de espera, elegí una actividad chiquita y agradable. Volvé a ella cada vez que tus pensamientos se vayan de nuevo a la espera.",
+      "quote": null
+    },
+    "regret": {
+      "text": "Agamenón en Áulide tiene que elegir entre su hija y su ejército, y cualquiera de las dos elecciones es terrible; en «La fragilidad del bien» Nussbaum escribe que la respuesta correcta acá no es la insensibilidad, sino un dolor que reconoce el valor de lo perdido. Lamentar lo que hiciste o no hiciste dice que te importa. Es una manera de ver con honestidad que el otro camino también tenía valor. Pero Nussbaum lo distingue del autocastigo: en «La ira y el perdón» advierte contra la «revancha», incluida la que se dirige contra uno mismo. El arrepentimiento puede convertirse en respeto por lo perdido y en una lección para el futuro, en lugar de un juicio interminable contra vos. Nussbaum valora ese dolor: muestra que ves el mundo en toda su complejidad.",
+      "practice": "Escribí una frase: «Lamento…, porque lo que me importaba era…». ¿Qué dice esto de tus valores hoy?",
+      "quote": null
+    },
+    "longing": {
+      "text": "Ninguna «persona parecida» puede reemplazar a esta: la irreemplazabilidad, para Nussbaum, es justamente en lo que consiste el amor por una persona concreta. En «Paisajes del pensamiento» discute con la idea platónica de que el amor debería elevarse hacia la belleza en general para volverse más seguro: esta persona no es un ejemplo de algo general. Por eso la añoranza es tan precisa: extrañás justamente su voz, sus costumbres, su mirada. Extrañar es un sentimiento pesado, y está lleno de amor. Es prueba de con qué precisión viste y amaste al otro. No hace falta apurarlo: refleja un vínculo que sigue siendo real aunque la persona no esté cerca. Nussbaum no intentaría convencerte de soltar: el amor por lo irreemplazable no está hecho para pasar rápido.",
+      "practice": "Recordá un detalle concreto de esta persona: un gesto, una frase, una entonación. Quedate un minuto con ese recuerdo.",
+      "quote": null
+    },
+    "world_pain": {
+      "text": "Un espectador griego en el teatro lloraba por el dolor ajeno y entendía que él mismo podía terminar en el lugar del héroe; Nussbaum ve en eso una escuela de compasión. Que te duela el mundo, las noticias duras, las guerras, la injusticia, muestra que tu corazón está abierto. La compasión, para Nussbaum, es la base de una sociedad justa. Pero en «La monarquía del miedo» advierte: cuando el dolor es demasiado grande, el miedo puede encogernos y convertirse en impotencia o en ira. Como contrapeso nombra la esperanza como práctica: pequeños actos concretos, compañía, arte. No tenés que cargar solo con todo el dolor del mundo. Podés sentirlo y aun así guardar fuerzas para hacer tu parte.",
+      "practice": "Elegí un gesto amable concreto que esté hoy a tu alcance, aunque sea muy chiquito. Después date una hora de descanso de las noticias.",
+      "quote": null
+    },
+    "rejection": {
+      "text": "Dos sentimientos, dice Nussbaum, suelen entrelazarse donde nos rechazaron: el duelo por un vínculo que no va a ser, y una «herida de estatus», la sensación de que nos pusieron más abajo. El primero es honesto: esperabas un vínculo, y no va a ser. El segundo, según «La ira y el perdón», es engañoso: tu valor como persona no lo determina la elección de otro. La otra persona es libre y distinta de vos, y su decisión habla de sus deseos y circunstancias, no de tu valor. Este dolor es profundo, y tiene sentido. Nussbaum en general aconseja no confundir lo que se perdió con lo que sos. Vale la pena atravesar el duelo, pero el veredicto sobre vos lo podés rechazar.",
+      "practice": "Dividí una hoja en «lo que perdí» y «lo que decidí sobre mí». Preguntate si lo segundo es verdad.",
+      "quote": null
+    },
+    "abandonment": {
+      "text": "La capacidad de estar solo, escribió Winnicott, nace de manera paradójica: cuando un chico juega solo, sabiendo que la madre está cerca. Nussbaum desarrolla esta idea: el miedo a ser abandonado es uno de los más antiguos, arraigado en el desamparo del bebé, cuando la ausencia de los otros se sentía como una amenaza a la vida misma. Los adultos llevamos esa huella, y puede ser muy fuerte. Tu miedo es la voz de esa necesidad tan temprana. La capacidad de estar solo se forma de a poco, a medida que aprendemos a confiar en que el cuidado va a volver. Un adulto puede darse parte del sostén que antes le daban otros, y buscar personas confiables cerca.",
+      "practice": "Poné una mano en el pecho y decite: «Estoy acá; no me voy a abandonar». Recordá a una persona que estuvo con vos en un momento difícil.",
+      "quote": null
+    },
+    "unrequited": {
+      "text": "En «El banquete» Alcibíades cuenta cómo persiguió a Sócrates y solo recibió un rechazo tranquilo; en «La fragilidad del bien» Nussbaum lee su discurso como la voz del amor por una persona irreemplazable. El amor no correspondido es un dolor particular: amás, y el otro no responde. El amor maduro, para Nussbaum, ve en el otro a una persona aparte y libre, no una extensión de los propios deseos. De ahí una verdad dura: el amor no se puede ganar ni forzar. Pero de eso no se sigue que tu amor no tenga sentido o que no seas suficiente. El amor es un juicio sobre el valor de otro, y ese juicio puede ser acertado aun sin reciprocidad. Hacer el duelo por lo que no pasó es natural. Y la capacidad de amar así sigue siendo tuya.",
+      "practice": "Decite en voz alta, en una frase, qué te dijo este amor sobre lo que te importa. Hablá abiertamente, como Alcibíades, sin vergüenza.",
+      "quote": null
+    },
+    "humiliation": {
+      "text": "La dignidad, sostiene Nussbaum, no se puede quitar como se quita una billetera: le pertenece a una persona simplemente por ser persona. La humillación es una de las experiencias más pesadas, sobre todo si fue pública. En «El ocultamiento de lo humano» se opone a la humillación como violación de la dignidad humana y muestra que quien humilla muchas veces proyecta en el otro su propio miedo a ser débil e imperfecto. Así que la humillación, por dolorosa que sea, dice más de quien la infligió que de vos. Tu dolor es real y merece atención. Pero tu dignidad se quedó con vos, aunque en ese momento pareciera lo contrario.",
+      "practice": "Escribite: «Lo que me hicieron no anula mi dignidad». Leelo en voz alta, aunque todavía no te lo creas del todo.",
+      "quote": null
+    },
+    "body_shame": {
+      "text": "Walt Whitman le cantó al «cuerpo eléctrico» y no se avergonzaba ni del sudor ni de las arrugas; Nussbaum lo pone como ejemplo para una sociedad que se esconde de su propia naturaleza corporal. En «El ocultamiento de lo humano» muestra cómo el asco por nuestra animalidad y nuestra mortalidad se traslada a los cuerpos, sobre todo a los que no encajan en estándares estrechos, por ejemplo los cuerpos que envejecen. La insatisfacción con el propio cuerpo está muy extendida, y no hace falta avergonzarte todavía más por eso. Esos estándares no son una verdad objetiva sobre la belleza, sino en gran parte la proyección de un miedo compartido a ser vulnerables. Para Nussbaum el cuerpo no es un objeto para calificar, sino una fuente de capacidades: moverse, sentir, disfrutar, estar con otros.",
+      "practice": "Hacé un movimiento que a tu cuerpo le haga bien: estirate, mové los dedos. Agradecele a tu cuerpo una cosa que te permite hacer.",
+      "quote": null
+    },
+    "illness": {
+      "text": "El Filoctetes de Sófocles vive solo en una isla durante años con una herida que no cierra, y Nussbaum lee esta tragedia como una lección de compasión: el público ve que algo así le podría pasar a cualquiera. Cuando el cuerpo te falla, da miedo y es injusto, y esos sentimientos son legítimos. En «La fragilidad del bien» Nussbaum muestra que una buena vida humana es inevitablemente vulnerable: depende del cuerpo y de la suerte. No es un fracaso tuyo. La gente se avergüenza de sus necesidades y de depender de otros, y sueña con una invulnerabilidad que nadie tiene, pero para Nussbaum la dependencia es parte de la vida común. Aceptar ayuda no es humillante. La enfermedad no anula tu valor ni tu capacidad de amar y ser amado.",
+      "practice": "Elegí un pedido chiquito y hacéselo hoy a alguien cercano. Aceptar ayuda también es parte de la vida humana.",
+      "quote": null
+    },
+    "pride": {
+      "text": "En «La ira y el perdón» Nussbaum separa con mucha claridad dos sentimientos: un orgullo que necesita que otro pierda, y el orgullo por el trabajo mismo. El primero está centrado en el estatus y se pone por encima de los demás. El segundo es sano y merecido: contiene el juicio «hice algo valioso, y eso importa para mi vida». Hiciste algo, aguantaste algo, llevaste algo hasta el final, y vale la pena saborearlo. En el «enfoque de las capacidades» Nussbaum valora la «razón práctica» y la capacidad de llevar adelante los propios planes. Tu orgullo es el reconocimiento de que usaste esas capacidades. Permitite alegrarte, sin achicar lo que hiciste. Un orgullo así no necesita ni público ni perdedores.",
+      "practice": "Anotá qué hiciste y qué hizo falta para lograrlo. Decite: «Esto lo hice yo».",
+      "quote": null
+    },
+    "melancholy": {
+      "text": "Nussbaum le dedica un capítulo entero de «Paisajes del pensamiento» a la Segunda Sinfonía de Mahler: una música que atraviesa el duelo hacia la luz sin renunciar a la tristeza. La música, según ella, puede expresar y aclarar emociones complejas. La melancolía suave se le parece: contiene a la vez tristeza y belleza. La melancolía es un reconocimiento silencioso de la fragilidad de todo lo valioso: sentís que la belleza no es eterna, y eso la vuelve todavía más querida. La misma idea recorre «La fragilidad del bien»: la belleza de la vida humana es inseparable de su vulnerabilidad. La melancolía no necesita arreglo. Se la puede vivir como se escucha una música triste: dejando que revele algo sobre lo que querés.",
+      "practice": "Escuchá una obra musical que acompañe tu estado de ánimo, de principio a fin. Notá qué dice sobre lo que te importa.",
+      "quote": null
+    }
+  }
+}

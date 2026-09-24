@@ -1,0 +1,378 @@
+{
+  "id": "affect_theory",
+  "title": "Teoría de los afectos",
+  "tradition": "Teoría de los afectos",
+  "family": "affect_theory",
+  "period": "décadas de 1990–2010",
+  "sortYear": 2004,
+  "thinkers": [
+    "Brian Massumi",
+    "Sara Ahmed"
+  ],
+  "keyWorks": [
+    "B. Massumi, «La autonomía del afecto» (1995)",
+    "B. Massumi, «Parábolas de lo virtual» (2002)",
+    "S. Ahmed, «La política cultural de las emociones» (2004)",
+    "S. Ahmed, «Fenomenología queer» (2006)",
+    "S. Ahmed, «La promesa de la felicidad» (2010)",
+    "S. Ahmed, «Vivir una vida feminista» (2017)"
+  ],
+  "summary": "La teoría de los afectos es una corriente del pensamiento humanístico de las décadas de 1990–2010 que nació de la filosofía de Spinoza y Deleuze. Mira los sentimientos no como algo encerrado «adentro» de una persona, sino como fuerzas que atraviesan los cuerpos, circulan entre las personas y recorren la sociedad. Brian Massumi estudia el afecto como intensidad corporal, mientras que Sara Ahmed estudia cómo las emociones circulan y se «pegan» a personas, cosas y palabras.",
+  "onEmotions": "Massumi distingue el afecto de la emoción. El afecto es una intensidad prepersonal: una oleada corporal que ocurre antes de que alcancemos a nombrarla. La emoción es una intensidad ya «capturada», que recibió un nombre y un lugar en la historia que contamos sobre nosotros. Sara Ahmed se hace otra pregunta: no «¿qué es una emoción?», sino «¿qué hacen las emociones?». Según ella, las emociones no le pertenecen a una sola persona: se mueven entre las personas, se «pegan» a objetos, grupos y palabras, y al hacerlo trazan límites: quiénes somos «nosotros», quiénes son «ellos», qué cuenta como una buena vida. Para ambos, un sentimiento no es ni una falla ni un asunto puramente privado, sino una manera en que el mundo nos toca y nosotros tocamos el mundo.",
+  "entries": {
+    "anxiety": {
+      "text": "En los años 2000 los estadounidenses se despertaban cada mañana con el color del «nivel de amenaza terrorista»: amarillo, naranja, rojo. Brian Massumi analizó esa escala como ejemplo de cómo un peligro que todavía no ocurrió ya está actuando sobre el cuerpo ahora. Si la ansiedad vive también en vos, no hay nada vergonzoso en eso. Massumi llama a esa amenaza un «hecho afectivo»: un futuro que se siente como real en el presente. El cuerpo responde a estas señales antes de que alcancemos a pensarlas, y la ansiedad se vuelve el fondo general de una época, no solo un rasgo personal tuyo. Esta distinción puede liberar un poco: la ansiedad te atraviesa como el clima atraviesa una ciudad, pero no agota quién sos. Y su intensidad, para Massumi, es también una energía sin forma que puede encontrar otro cauce.",
+      "practice": "Apoyá la mano donde vive ahora la ansiedad en tu cuerpo y preguntate: ¿a qué está respondiendo en este minuto, no en el futuro?",
+      "quote": null
+    },
+    "fear": {
+      "text": "Los hombros se tensan, los pasos se acortan, ciertas calles desaparecen en silencio de tu mapa personal: así, para Sara Ahmed, el miedo achica el cuerpo. Es una señal antigua y necesaria, y merece respeto. Massumi subraya que el miedo ocurre primero en el cuerpo: la respiración, los músculos y el corazón reaccionan una fracción de segundo antes de que aparezca el pensamiento «tengo miedo». Ahmed le suma a esto una dimensión social. Y ese achicamiento está repartido de manera desigual: a algunos les dicen desde chicos «tené cuidado»; a otros, «el mundo es tuyo». Verlo significa entender que tu miedo no es solo una debilidad personal, sino también una huella de cómo el mundo trató a personas como vos. Entonces podés preguntarte con suavidad qué espacio te quitó el miedo, y recuperar al menos una parte pequeña.",
+      "practice": "Imaginá un lugar o una actividad de la que el miedo te fue alejando y, mentalmente, da el paso más chico y más seguro de vuelta hacia ahí. Notá cómo responde tu cuerpo.",
+      "quote": {
+        "text": "La piel es más rápida que la palabra.",
+        "author": "Brian Massumi",
+        "source": "Parábolas de lo virtual (2002)"
+      }
+    },
+    "sadness": {
+      "text": "«¡Dale, sonreí!»: una persona triste escucha esto tan seguido que empieza a pedir perdón por su propia cara. Tu tristeza no necesita pedir perdón. En «La promesa de la felicidad», Sara Ahmed muestra cómo la sociedad convierte la felicidad en un deber: se espera que nos alegremos por las cosas «correctas», y una persona triste es vista como un problema que hay que arreglar lo antes posible. Ahmed propone no apurarse con ese arreglo. La infelicidad, según ella, puede ser una forma de conocimiento: la tristeza a veces nota lo que la alegría general prefiere no ver: injusticia, pérdida, lo que en la vida «no cierra». Vista así, tu tristeza no es una avería del ánimo, sino una sensibilidad que está registrando algo. Podés quedarte con ella sin apurarte a convertirla en sonrisa, y escuchar lo que dice.",
+      "practice": "Decí despacito: «Quizás mi tristeza está notando que…» y terminá la frase. No arregles nada, solo escuchá.",
+      "quote": null
+    },
+    "grief": {
+      "text": "Una palabra siempre es más chica que lo que nombra: Brian Massumi construye sobre esto su teoría de la intensidad. En el duelo se ve con especial claridad: ningún plazo y ninguna palabra justa pueden contener lo que te está pasando. La palabra «duelo» captura solo en parte lo que ocurre en el cuerpo: el peso, el vacío en el pecho, las olas repentinas. Así que está bien si no podés explicarlo. Sara Ahmed, apoyándose en Judith Butler, señala que la sociedad no reconoce todas las pérdidas por igual: algunas se lloran en público, mientras que otras pasan inadvertidas, por ejemplo la pérdida de un amigo, de un animal o de una relación que tu entorno no consideraba «de verdad». Tu duelo es real aunque nadie a tu alrededor lo haya confirmado. Es la prueba de un vínculo que importaba y que sigue importando.",
+      "practice": "Nombrá —para vos o en un papel— lo que perdiste, tal como lo sentís, no como suele hablarse de eso.",
+      "quote": null
+    },
+    "loneliness": {
+      "text": "Hay habitaciones donde las sillas parecen haber sido puestas para otra persona: Sara Ahmed describe esta sensación con una precisión casi física. La soledad duele, y ese dolor dice cuánto necesitamos a los demás. Ahmed invita a ver los sentimientos no como algo encerrado dentro de un individuo: las emociones surgen en el límite entre nosotros y el mundo, y ellas mismas trazan ese límite. En «Fenomenología queer» escribe que el espacio puede estar dispuesto «para» algunos cuerpos y no para otros, y entonces una persona se siente fuera de lugar, como si el mundo no saliera a su encuentro. La soledad no es prueba de que algo ande mal en vos, sino a veces una señal de que a tu alrededor hay pocas formas en las que encajes. Ahmed también recuerda otra cosa: quienes se sienten «fuera de la línea» muchas veces se encuentran entre sí, y ese encuentro cambia el espacio mismo.",
+      "practice": "Salí un rato a donde haya gente —una plaza, un café, un negocio— y buscá a quienes también parezcan estar «fuera de la línea». Solo notalo: no son los únicos.",
+      "quote": {
+        "text": "Las emociones no están simplemente «en» lo individual o en lo social, sino que producen las superficies y los límites mismos que permiten delinear lo individual y lo social como si fueran objetos.",
+        "author": "Sara Ahmed",
+        "source": "La política cultural de las emociones (2004)"
+      }
+    },
+    "anger": {
+      "text": "Una cena familiar, todos sonríen, y una persona dice: «Eso me dolió». Es a ella a quien enseguida se trata como la causa del mal clima: Sara Ahmed la llamó la «feminista aguafiestas». Tu enojo puede venir del mismo lugar: responde a algo realmente injusto. Ahmed lo dice así: cuando señalás un problema, te convertís en el problema. Su punto no es que el enojo siempre sea bueno, sino que muchas veces trae información que a otros les resulta incómodo escuchar. Esto puede sacarte una culpa innecesaria por «arruinar el ambiente». Tu enojo no es necesariamente destrucción; a veces es una manera de decir «acá algo está mal» y de negarte a hacer como si todo estuviera bien.",
+      "practice": "Preguntale a tu enojo: ¿a qué está señalando exactamente, y qué te gustaría que los demás por fin escucharan?",
+      "quote": {
+        "text": "¿La feminista le mata la alegría a otras personas al señalar momentos de sexismo? ¿O expone los malos sentimientos que se ocultan, se desplazan o se niegan bajo los signos públicos de alegría?",
+        "author": "Sara Ahmed",
+        "source": "La promesa de la felicidad (2010)"
+      }
+    },
+    "shame": {
+      "text": "«¿Ante quién?», le preguntaría primero Sara Ahmed a tu vergüenza. Querés desaparecer, esconder la cara: uno de los sentimientos más tortuosos. En «La política cultural de las emociones» muestra que la vergüenza siempre está ligada a otros. Sentimos vergüenza ante una mirada —real o imaginada— y nos avergonzamos porque no estuvimos a la altura de un ideal que nos importa a nosotros y a aquellos cuyo amor queremos conservar. La vergüenza, para Ahmed, vuelve el yo contra sí mismo: la mirada se da vuelta hacia adentro, el cuerpo parece encogerse. Pero en esta descripción también hay consuelo: la vergüenza muestra cuánto valorás tu vínculo con las personas y su reconocimiento. Podés preguntarte de quién es ese ideal y si realmente es tuyo. A veces la vergüenza solo informa que quedaste fuera de la norma de otro, no que seas una mala persona.",
+      "practice": "Imaginá que alguien que te mira con cariño te está mirando ahora. Quedate un minuto bajo esa mirada: ¿qué ve?",
+      "quote": null
+    },
+    "guilt": {
+      "text": "Cuando los gobiernos piden perdón en público, Sara Ahmed pregunta: ¿a quién vuelve finalmente la atención, a quienes fueron dañados o a quienes se disculpan? Extendiendo su pensamiento, tu culpa es un sentimiento doloroso pero muy humano: te importa cómo tus actos afectaron a otros. Ahmed advierte una trampa: admitir la culpa a veces se vuelve una manera de volver a sentirnos bien con nosotros mismos, y la atención regresa a quien es culpable en lugar de a quien fue dañado. De ahí una conclusión suave: castigarte sin fin no es lo mismo que reparar una relación. La culpa «se pega» y puede extenderse mucho más allá del acto mismo. Se la puede devolver a su tamaño real: qué pasó exactamente, a quién afectó y qué es posible hacer de verdad ahora.",
+      "practice": "Contate en voz alta, en dos frases, qué pasó exactamente, sin juzgar. Después nombrá un paso pequeño dirigido a la otra persona y no a castigarte.",
+      "quote": null
+    },
+    "envy": {
+      "text": "Una casa con galería, una foto de casamiento, la carrera correcta, el cuerpo correcto: en «La promesa de la felicidad» Sara Ahmed llama a esas cosas «objetos felices»: la cultura nos dice de antemano qué debería hacernos felices. Ahmed casi no escribe sobre la envidia directamente, pero extendiendo su pensamiento, este sentimiento desagradable dice mucho de vos. Estos objetos llevan una promesa, y los buscamos sin siquiera elegirlo. Y en las «economías afectivas», para Ahmed, los sentimientos acumulan valor a medida que circulan: cuanto más seguido aparece ante nuestros ojos la imagen de una «vida feliz», más fuerte es su atracción. Tu envidia no es un vicio, sino una huella de esas promesas. Podés examinarla: ¿qué querés en realidad, y qué te prometieron desde afuera?",
+      "practice": "Anotá qué envidiás ahora y, al lado, qué promesa creés que se esconde en ese «objeto». ¿Suena como un deseo tuyo?",
+      "quote": null
+    },
+    "emptiness": {
+      "text": "«El problema que no tiene nombre»: así llamó Betty Friedan en 1963 al vacío que sentían amas de casa perfectamente acomodadas. Sara Ahmed vuelve a esta frase en «La promesa de la felicidad», y quizás le sirva también a tu pesadez, para la que parece no haber «ningún motivo». Las mujeres de mediados del siglo XX vivían la vida que se consideraba feliz —casa, familia, prosperidad— y sentían adentro un vacío extraño. Ahmed no ve en esto un defecto personal, sino una señal de que la promesa de felicidad puesta en la vida «correcta» no había funcionado. Tu vacío puede ser una respuesta honesta a una vida que corre sobre el guion de otro. En el espíritu de Massumi se puede agregar: incluso en una aparente calma, el cuerpo sigue sintiendo; la intensidad no desaparece del todo, solo que todavía no encontró palabras. El vacío no es el fin del sentir, sino una pausa.",
+      "practice": "Notá una sensación mínima en tu cuerpo ahora: el calor de las palmas, el piso bajo los pies. Simplemente registrá que está ahí.",
+      "quote": null
+    },
+    "confusion": {
+      "text": "La mano busca una llave de luz que ya no está: una falla conocida después de cualquier mudanza. En «Fenomenología queer» Sara Ahmed llama a esos momentos desorientación, y tu confusión es su versión grande: el piso se corre y no está claro adónde ir. Cuando las líneas conocidas por las que se mueve la vida de pronto dejan de sostener, el cuerpo pierde pie, y por un tiempo el mundo parece «torcido». Ahmed no se apura a ver en esto solo una desgracia: la desorientación muestra que nuestras direcciones no eran naturales, sino que se formaron por repetición, hábitos, expectativas ajenas. En esos momentos se hace visible que podrías girar hacia otro lado. Eso no vuelve agradable la confusión. Pero se la puede vivir como un estado de transición en el que se abren nuevas direcciones, y no como prueba de que «te perdiste».",
+      "practice": "Parate y girá despacio una vuelta completa en el lugar, nombrándote lo que ves de cada lado. La desorientación también es una oportunidad de ver la habitación desde un ángulo desconocido.",
+      "quote": null
+    },
+    "fatigue": {
+      "text": "Una ramita que se estuvo doblando mucho tiempo un día se quiebra con un crujido seco: Sara Ahmed llama a ese momento snap, el chasquido, y recuerda que todos oyen el crujido, pero nadie ve la larga presión previa. El burnout no es vagancia ni falta de carácter. En «Vivir una vida feminista» escribe sobre lo desgastante que es chocar una y otra vez contra «paredes de ladrillo»: obstáculos que solo ven quienes se los llevan por delante. La presión se acumula sin que se note, y un quiebre que parece repentino es en realidad el resultado de una tensión larga. Ahmed también repiensa el cuidado de sí, apoyándose en la poeta Audre Lorde: para quienes el mundo agota, cuidarse no es un capricho, sino una manera de sobrevivir y seguir. Tu cansancio es una respuesta con sentido a la carga. El descanso acá no es un premio por los resultados, sino una condición para seguir siendo vos.",
+      "practice": "Acostate o sentate de manera que tu cuerpo no tenga que sostener nada, y no hagas nada durante cinco minutos. No es un premio por los resultados, sino una condición para seguir siendo vos.",
+      "quote": {
+        "text": "Cuidar de mí misma no es autoindulgencia, es autopreservación, y eso es un acto de guerra política.",
+        "author": "Audre Lorde",
+        "source": "Una explosión de luz (1988)"
+      }
+    },
+    "boredom": {
+      "text": "Microshock es el nombre que Massumi le da a un desplazamiento mínimo de la atención: la luz parpadea, una puerta cruje, cambia el ritmo de tu respiración. Cada minuto contiene decenas de ellos, pero el aburrimiento, que puede ser realmente opresivo, parece amortiguarlos todos: el tiempo se arrastra, todo se ve chato. El afecto, siguiendo a Spinoza y Deleuze, es la capacidad de afectar y de ser afectado. El aburrimiento se parece a un estado en el que esa capacidad se estrechó por un tiempo: el mundo sigue tocándonos, pero los toques no llegan. Los microshocks componen cada instante de la percepción. También están ahora: un cambio de luz, un sonido, tu propia respiración. El aburrimiento, visto así, no es el vacío del mundo, sino un amortiguamiento del contacto con él. No hace falta taparlo con estímulos nuevos; a veces alcanza con notar, un poco más despacio, lo que ya está pasando.",
+      "practice": "Durante un minuto, volvete «coleccionista de microshocks»: registrá los tres cambios más chiquitos a tu alrededor: un sonido, un movimiento, una variación de la luz.",
+      "quote": null
+    },
+    "joy": {
+      "text": "«El paso a una mayor perfección»: así definía Spinoza la alegría, y su heredero Brian Massumi la entiende como el momento en que la capacidad de actuar y de sentir se amplía y el cuerpo parece agrandarse. Una alegría así no necesita ganarse ni justificarse: sucede. Sara Ahmed, aunque critica el «deber de ser feliz», no está para nada en contra de la alegría. Recuerda que la palabra inglesa happiness viene de hap, «azar», «suerte»: la felicidad estaba ligada originalmente a lo que simplemente nos toca, no a vivir correctamente según un plan. Ahmed propone devolverle a la felicidad ese elemento de azar. Así que tu alegría no tiene que encajar en un gran relato de éxito. Podés simplemente dejarla ser, como un regalo inesperado del momento.",
+      "practice": "Contale a alguien en una frase qué te «pasó» hoy que te trajo alegría, como un pequeño acontecimiento del día.",
+      "quote": null
+    },
+    "love": {
+      "text": "Afectar y ser afectado: así define Massumi el afecto, siguiendo a Spinoza, y en el amor la fórmula se vuelve casi palpable. La ternura que sentís te hace a la vez más fuerte y más vulnerable. El amor es una de las formas en que florece esa capacidad: otra persona empieza a cambiar tu ritmo, tu respiración, tus pensamientos. En «La política cultural de las emociones», Sara Ahmed subraya que el amor no es solo un sentimiento privado: nos orienta, nos vuelve hacia alguien, y de él se forma un «nosotros». Ahmed señala con sobriedad que ese «nosotros» a veces se construye excluyendo a otros. Pero la capacidad misma de amar es la manera en que el mundo se vuelve compartido. Podés aceptar tu ternura no como debilidad, sino como señal de apertura: tus límites son móviles y están vivos.",
+      "practice": "Pensá en la persona que querés y notá qué cambia en tu cuerpo: la postura, la voz, el ritmo de la respiración. Nombralo para vos en una sola palabra.",
+      "quote": null
+    },
+    "gratitude": {
+      "text": "«¡Decí gracias!»: muchos aprendimos de chicos la gratitud por orden con esta frase. Tu gratitud de ahora parece distinta: un sentimiento cálido en el que notás que alguien o algo te sostuvo. La gratitud, para Ahmed, como otras emociones, circula: pasa de persona a persona, une, hace visibles los lazos. Pero Ahmed también enseña a prestar atención: en «La promesa de la felicidad» muestra cómo de ciertas personas —migrantes, por ejemplo— se espera que tengan los sentimientos «correctos»: estar felices y conformes con lo que se les dio. La gratitud exigida deja de ser gratitud y se vuelve deuda. Por eso vale la pena distinguir: ¿tu gratitud es viva y libre, o sentís la obligación de sentirla? La gratitud real no anula el derecho a ver también lo que estuvo mal. Puede convivir con otros sentimientos sin desplazarlos.",
+      "practice": "Nombrá una cosa que agradecés sin ningún esfuerzo, y una que más o menos se espera que agradezcas.",
+      "quote": null
+    },
+    "hope": {
+      "text": "«Margen de maniobra» es como Brian Massumi llama al espacio mínimo que existe incluso en la situación más apretada: un lugar donde el próximo paso se puede dar de manera un poco distinta. Tu esperanza es una fuerza silenciosa, y Massumi propone separarla de la expectativa de éxito. Si esperás solo una gran meta o un resultado garantizado, la esperanza se vuelve frágil: cualquier fracaso la derrumba. Massumi busca la esperanza en el presente, en ese mismo margen. La esperanza en este sentido no es ni un pronóstico ni optimismo, sino una sensación de apertura, la sensación de que la situación todavía no está cerrada. Esto alivia: no tenés que creer que todo va a salir bien sí o sí para sentir que algo es posible ahora mismo.",
+      "practice": "Hacé hoy una cosa habitual de manera un poco distinta: por otro camino, en otro orden, con otras palabras. Eso es un «margen de maniobra» en miniatura.",
+      "quote": null
+    },
+    "nostalgia": {
+      "text": "«Pegajosidad» es una de las palabras clave de Sara Ahmed: los sentimientos, según ella, se pegan a las cosas y se quedan en ellas durante años. La nostalgia es dulce y dolorosa a la vez, y no tiene nada de ingenua. Un olor, una melodía, una foto vieja se vuelven «pegajosos» con los sentimientos asociados a ellos y, años después, los devuelven enteros. En el espíritu de Massumi se puede agregar que esta memoria vive en el cuerpo antes que en las palabras: el cuerpo reconoce una entonación conocida más rápido de lo que recordamos de dónde viene. Ahmed también señala que la nostalgia puede ser colectiva: por los «buenos viejos tiempos», que no fueron buenos para todos. Pero la nostalgia personal muestra sobre todo qué se te pegó y qué te formó. Podés recibirla como un roce suave del pasado, sin exigir que el pasado vuelva.",
+      "practice": "¿Qué olor, sonido u objeto se «pega» con más fuerza a tu pasado? Quedate un minuto con esa imagen y notá qué despierta en vos.",
+      "quote": {
+        "text": "El afecto es lo que se pega, o lo que sostiene o preserva la conexión entre ideas, valores y objetos.",
+        "author": "Sara Ahmed",
+        "source": "«Objetos felices» (2010)"
+      }
+    },
+    "craving": {
+      "text": "En los experimentos que cita Massumi, el cerebro iniciaba un movimiento alrededor de medio segundo antes de que la persona lo «decidiera». Cuando llegan unas ganas fuertes —de un cigarrillo, de un trago, del celular— se siente como si la decisión ya la hubieran tomado por vos: difícil, pero nada de qué avergonzarse. Massumi llama a esto el «medio segundo perdido». El afecto siempre va un poco adelante del pensamiento. Sara Ahmed agrega en «Fenomenología queer» que nuestras acciones están moldeadas en gran medida por lo que está «al alcance»: lo que el cuerpo está acostumbrado a agarrar. Las ganas no son un veredicto sobre tu carácter, sino un impulso corporal trazado por la repetición. Pero un impulso todavía no es un acto. Entre la ola y la acción podés crear un hueco mínimo, y cambiando lo que está al alcance podés cambiar la dirección misma del movimiento. La ola sube y baja.",
+      "practice": "Alejá el objeto de las ganas al menos un par de metros: a otra habitación, a un cajón. Notá cómo cambia la ola cuando no está al alcance.",
+      "quote": null
+    },
+    "addiction": {
+      "text": "Un camino que se recorre todos los días se vuelve cada vez más visible, mientras que el que nadie pisa se cubre de pasto: Sara Ahmed desarrolla esta imagen en «¿Para qué sirve?» (2019). Cuando la vida estuvo organizada durante años alrededor de una sola cosa, salir del círculo es muy difícil, y no es una debilidad moral. Ahmed aplica esta idea a los hábitos y a las instituciones: el uso marca la dirección. La adicción es un camino muy transitado por el que el cuerpo y los sentimientos van casi solos. Esto explica por qué cuesta tanto dejarlo, y saca parte de la vergüenza. Pero Ahmed también habla de las «líneas de deseo»: senderos que la gente abre por su cuenta, esquivando los caminos oficiales. Un camino nuevo se traza de a poco, paso a paso, y muchas veces junto con otros.",
+      "practice": "Nombrá un «camino nuevo» pequeño —una caminata, una llamada, una tarea corta— que podrías recorrer hoy. Si querés, podés recorrerlo con alguien que entienda, por ejemplo en un grupo de ayuda mutua (como AA o NA).",
+      "quote": null
+    },
+    "hangover": {
+      "text": "Una vergüenza difusa busca algo a qué pegarse, y a la mañana, extendiendo el pensamiento de Sara Ahmed, encuentra cualquier retazo de recuerdo. Pesadez en el cuerpo, ansiedad, lagunas en la memoria: un estado incómodo, pero que no te convierte en mala persona. Massumi subraya que el cuerpo registra más de lo que la mente alcanza a captar: las intensidades dejan huella incluso cuando no tienen palabras. Por eso a la mañana la ansiedad puede ser más fuerte de lo que justifican los «hechos»: el cuerpo todavía no se recuperó. Ahmed llamaría «pegajosos» a estos sentimientos: inflan todo aquello a lo que se adhieren. Parte del pavor matinal no es un saber sobre anoche, sino un afecto buscando dónde pegarse. Podés notarlo sin creerle a ciegas. Primero, cuidá tu cuerpo. Más tarde, con más calma, tu mirada sobre anoche también va a ser más calma.",
+      "practice": "Notá dónde están ahora la ansiedad y la vergüenza en tu cuerpo y decite: «Esto es un estado del cuerpo, no un veredicto final». Después mojate la cara con agua fresca y exhalá despacio.",
+      "quote": null
+    },
+    "euphoria": {
+      "text": "Lo «virtual», para Massumi, no es lo irreal, sino un campo de lo posible que a veces se vuelve palpable por un instante. Cuando de pronto todo parece posible, parece que estás tocando justamente eso, y podés disfrutar esta experiencia intensa. Massumi, siguiendo a Spinoza, describe el afecto como un aumento o una disminución de la capacidad de actuar. La euforia es un momento de aumento brusco: el cuerpo parece agrandarse, y el mundo se abre lleno de posibilidades. No todas se van a realizar, pero eso no vuelve falso el sentimiento: de verdad sentiste cuánto más amplia podría ser tu vida. No hace falta retener la euforia ni convertirla enseguida en decisiones. Podés simplemente vivirla y recordarla como un saber de que la apertura es posible. Cuando el subidón baje, ese saber se va a quedar con vos.",
+      "practice": "Quedate un minuto de pie con los hombros abiertos y las palmas extendidas, y sentí cuánto más «grande» se volvió tu cuerpo. Recordá esta sensación: te va a servir cuando la ola baje.",
+      "quote": null
+    },
+    "crash": {
+      "text": "La intensidad no puede durar mucho, recuerda Massumi: se enciende y se disipa, y el cuerpo vuelve a su ritmo habitual. Después de un festejo, un éxito o una noche intensa, esa caída puede ser amarga, como si todo se hubiera desteñido. En «La promesa de la felicidad», Sara Ahmed escribe sobre los «objetos felices»: fiestas, logros, acontecimientos que prometen alegría de antemano. Cuando el acontecimiento termina, no queda solo cansancio, sino también la brecha entre la promesa y lo que queda después. El «bajón» no es prueba de que la alegría fuera falsa ni señal de que algo en vos se haya roto. Es el movimiento natural de un afecto que se retiró. No hace falta llenar la caída con urgencia con un nuevo subidón. Podés dejar que tu cuerpo descanse de la intensidad.",
+      "practice": "Nombrá una cosa pequeña y tranquila que hoy va a sostener tu cuerpo: dormir, comer, una ducha caliente. Hacela sin culpa.",
+      "quote": null
+    },
+    "panic": {
+      "text": "El cuerpo llega antes que las palabras: esta es quizás la idea central de Brian Massumi, y en un ataque de pánico lo sentís literalmente. El corazón late fuerte, se te corta la respiración, parece que algo irreversible está por pasar: da miedo de verdad. En el cuerpo todo ocurre antes que el pensamiento: el corazón, la respiración y los músculos reaccionan una fracción de segundo antes de que aparezca la palabra «miedo». Massumi también escribe sobre cómo una amenaza que todavía no ocurrió puede sentirse completamente real en el cuerpo. El pánico es una ola de intensidad que toma el cuerpo más rápido de lo que la mente puede nombrarla. Por eso lo que ayuda no es discutir con tus pensamientos, sino dirigirte al cuerpo, en su propio idioma. Una ola de pánico suele llegar a su pico y bajar en pocos minutos. Mientras dura, se puede sostener al cuerpo con la respiración y el contacto con el piso, como sostendrías a un amigo.",
+      "practice": "Apretá los pies contra el piso y hacé la exhalación más larga que la inhalación. Nombrá en voz alta tres cosas que ves, dos que oís y una que sentís en la piel.",
+      "quote": null
+    },
+    "dread": {
+      "text": "El miedo conoce su objeto, mientras que la ansiedad se desliza: Sara Ahmed describe cómo salta del futuro a la muerte, de la muerte al sinsentido. La angustia existencial —«¿para qué todo esto?», la sensación de finitud y de abismo— es una experiencia pesada, y no sos la única persona que la atraviesa. La angustia quizás sea la ansiedad en su forma más amplia, pegada a todo a la vez. Massumi, por su parte, dice que cada instante contiene un exceso: la vida es más de lo que logramos vivir y nombrar en ella. El abismo que sentís es justamente ese exceso, que no entra en una respuesta. Puede asustar, pero también significa que la vida no se agota y que algo en ella siempre queda abierto.",
+      "practice": "Notá a qué se «pegó» tu angustia ahora. Después buscá una sensación que esté ocurriendo en este momento —calor, un sonido, tu respiración— y quedate con ella un minuto.",
+      "quote": null
+    },
+    "fomo": {
+      "text": "El feed parece un mapa con los puntos de felicidad marcados: acá la fiesta correcta, allá las vacaciones correctas. La sensación de que todos los demás viven vidas más interesantes y de que no estás donde deberías crece de mapas así, y duele. Sara Ahmed recuerda que la palabra inglesa happiness viene de hap, «azar», «lo que pasa». Pero la cultura convirtió la felicidad en un itinerario: los lugares correctos, las fiestas correctas, la vida correcta. Ahmed los llama «guiones de felicidad»: hacen que quienes no los siguen se sientan «fuera de lugar». El miedo a perderse algo no es un fracaso tuyo, sino un efecto de un guion que promete que la felicidad ocurre en algún lugar de allá afuera. Pero si le devolvés a la felicidad su «hap», resulta que puede ocurrir en cualquier lado, también donde estás ahora.",
+      "practice": "Registrá algo chiquito que hoy te «pasó»: un encuentro, un sabor, la luz. No era parte de ningún guion.",
+      "quote": null
+    },
+    "sleepless": {
+      "text": "Las tres de la mañana: la ansiedad recién estaba pegada al trabajo, ahora pasa a la salud, después a las relaciones. Sara Ahmed la llama «pegajosa»: salta de objeto en objeto, y sin las tareas del día ese dar vueltas se nota especialmente. Cuando no podés dormir, en la oscuridad todo parece más sin salida. Massumi subraya que el afecto vive en el cuerpo: aunque los pensamientos parezcan infinitos, esto es ante todo el estado de un organismo activado. Los pensamientos nocturnos no son una revelación sobre la vida, sino ansiedad buscando algo a qué pegarse. No hace falta resolverla con lógica a las tres de la mañana. Podés volverte hacia el cuerpo —la respiración, el calor, el peso— y dejar que se calme de a poco.",
+      "practice": "Notá a qué se está pegando ahora la ansiedad y decite por dentro: «Ahí está otra vez». Después sentí despacio el peso de tus brazos y tus piernas sobre la cama.",
+      "quote": null
+    },
+    "betrayal": {
+      "text": "«Te apoyamos», «podés contar con nosotros»: Sara Ahmed estudió cómo esas frases se pronuncian en las organizaciones sin hacer nada, y las llamó «no performativas» («On Being Included», 2012). Cuando te traicionan, no se derrumba solo la confianza en una persona, sino la sensación de que el mundo es algo en lo que te podés apoyar. Ahmed escribía sobre organizaciones, pero si extendemos su pensamiento, la traición en una relación personal es una promesa dicha y no cumplida. Su dolor es especialmente agudo porque te orientaste por esas palabras y construiste tu vida sobre ellas. Tu dolor no es ingenuidad, sino la prueba de que confiaste. Y esa confianza no fue un error, sino una capacidad que vale la pena conservar para quienes la merezcan.",
+      "practice": "Pensá en una persona de tu vida cuyas palabras y actos coinciden, y decile hoy algo cálido, aunque sea en un solo mensaje.",
+      "quote": null
+    },
+    "jealousy": {
+      "text": "Una notificación en la pantalla de otro, y en una fracción de segundo te arde el pecho: Massumi mostró que el afecto llega al cuerpo antes de que podamos pensarlo. Los celos son un sentimiento muy humano, el miedo a perder a alguien querido. En «La política cultural de las emociones», Sara Ahmed muestra cómo el amor puede volverse miedo y hostilidad cuando parece que un objeto amado está amenazado por un tercero. El sentimiento empieza a «pegarse» a esa figura. Los celos no son prueba de infidelidad ni señal de que algo en vos esté podrido, sino amor mezclado con miedo a la pérdida. Si notás lo rápido y lo corporal que surgen, podés darte una pausa antes de actuar: la ola no tiene por qué convertirse en acto.",
+      "practice": "Cuando llegue una punzada de celos, apoyá la mano donde la sentís y hacé tres respiraciones lentas antes de hacer cualquier cosa.",
+      "quote": null
+    },
+    "resentment": {
+      "text": "Expedientes de quejas que nunca llegaron a nadie duermen años en los archivos: Sara Ahmed reunió historias así para su libro «¡Denuncia!» (2021). Un rencor sostenido mucho tiempo pesa, y no se lo puede soltar por orden. Ahmed estudió qué pasa con las quejas que no se escuchan. Muestra que no desaparecen, sino que quedan «atascadas»: en los cuerpos, en los expedientes, en los pasillos de las instituciones. La gente las sigue cargando durante años porque no había adónde llevarlas. El rencor muchas veces es una queja que no encontró quien la escuchara. Su vida larga no es mezquindad tuya, sino una señal de que nunca se la tomó en serio. Ahmed también habla de un «oído feminista»: la capacidad de oír lo que suele no oírse. A veces el rencor afloja cuando alguien por fin lo escucha, aunque ese alguien seas vos.",
+      "practice": "Escribí tu rencor como una queja formal: qué pasó, qué se vulneró, qué no pudiste decir en su momento. Leételo en voz alta, como una amiga que te cree.",
+      "quote": null
+    },
+    "heartbreak": {
+      "text": "El amor, para Sara Ahmed, es una orientación: nos volvemos hacia una persona y organizamos a su alrededor nuestros días, recorridos y hábitos. Por eso, cuando tenés el corazón roto, te duele literalmente todo el cuerpo, y lleva tiempo. Cuando una relación termina, desaparece la dirección hacia la que te orientabas, y por un tiempo el mundo pierde su forma. Además, los sentimientos se «pegan» a las cosas: una canción, un café, una calle quedan empapados de un pasado compartido y te lastiman sin aviso. Tu dolor no es debilidad, sino el reflejo de cuán fuerte era tu orientación hacia esa persona. Ahmed también escribe sobre la «reorientación»: de a poco el cuerpo aprende a volverse hacia cosas nuevas. No pasa rápido, y no hace falta que te apures.",
+      "practice": "Notá una cosa que ahora se está «pegando» al pasado y duele. No necesitás deshacerte de ella: solo nombrala y dejala estar, por ahora.",
+      "quote": null
+    },
+    "impostor": {
+      "text": "Space invaders, invasores del espacio: así llaman la socióloga Nirmal Puwar y, después de ella, Sara Ahmed a quienes terminan en lugares que en su origen no fueron pensados para ellos. El miedo a que en cualquier momento te descubran es tortuoso, y lo conoce mucha gente muy capaz, sobre todo esa gente. La diferencia puede ser de género, de origen, de clase, de edad. Esas personas muchas veces sienten que su presencia está en duda, incluso cuando hacen todo bien. Sentirse impostor muchas veces no es un saber sobre tu incompetencia, sino la sensación de no coincidir con la «norma» de un espacio que se fijó antes de que llegaras. No es culpa tuya. Ahmed muestra que tu sola presencia en esos lugares ya los cambia, y los vuelve un poco más abiertos para otros.",
+      "practice": "Decite en voz alta una cosa que ves o sabés hacer de otra manera justamente porque «no te parecés» a la persona típica de tu entorno.",
+      "quote": null
+    },
+    "self_hatred": {
+      "text": "Las palabras con las que te reta tu crítico interior rara vez las inventaste vos: Sara Ahmed muestra que el odio circula en la sociedad, pasa de unos a otros y se «pega» a ciertos cuerpos. Cuando esa voz dice que sos una mala persona y que no valés nada, duele muchísimo, pero su veredicto no es la verdad sobre vos. El odio a uno mismo muchas veces no es un descubrimiento propio sobre vos, sino un desprecio internalizado que alguna vez se dirigió a vos, o a personas como vos, y después se pegó desde adentro. Ahmed subraya que lo que se pegó se puede notar y separar de a poco. La voz del crítico suena como la tuya, pero sus palabras muchas veces vienen de otro lado. No tenés por qué seguir pasándolas adelante.",
+      "practice": "Anotá una de las frases del crítico interior y preguntate: ¿dónde escuché algo así por primera vez? ¿Esta voz es realmente mía?",
+      "quote": null
+    },
+    "helplessness": {
+      "text": "Libros, cosas que te sostienen, tiempo, humor, tu cuerpo, gente que entiende: así arma Sara Ahmed, en «Vivir una vida feminista», un «kit de supervivencia» para quienes chocaron contra paredes infranqueables. La impotencia es difícil de soportar, sobre todo cuando te estás esforzando mucho. Massumi, apoyándose en Spinoza, define el afecto como la capacidad de afectar y de ser afectado. Esto importa: incluso cuando no podés hacer casi nada, tu capacidad de ser afectado no es una debilidad; también es una forma de participar en el mundo. Cuando no podés cambiarlo todo, podés reunir lo que te ayuda a aguantar. No es rendirse, sino una manera de conservarte para el momento en que el cambio sea posible.",
+      "practice": "Armá de verdad tu «kit de supervivencia»: poné a tu lado un libro y un objeto que te reconforte, y tené a mano el número de una persona que entiende.",
+      "quote": null
+    },
+    "procrastination": {
+      "text": "En «Fenomenología queer» Sara Ahmed se detiene largamente en la mesa de escribir de Husserl: para escribir, la mesa tiene que estar cerca y todo lo demás a tus espaldas. Cuando no podés arrancar aunque de verdad lo necesitás, es fácil empezar a retarte. Massumi escribe que toda acción empieza no con una decisión, sino con un movimiento corporal apenas perceptible, una «tendencia incipiente» que todavía no tomó forma de acto. Ahmed agrega que hacemos más fácilmente lo que está al alcance y aquello hacia lo que ya estamos vueltos. Postergar no es vagancia, sino una situación en la que la tarea está «fuera de alcance»: demasiado grande, aterradora o desconectada de hacia dónde está vuelto tu cuerpo. En lugar de presionarte, podés acercar la tarea —desplegar los materiales, abrir el archivo— y dejar que un movimiento mínimo se vuelva un comienzo.",
+      "practice": "Poné la tarea «al alcance»: dejá delante tuyo lo que necesitás o abrí el archivo. No hace falta nada más: solo quedate cerca un minuto.",
+      "quote": null
+    },
+    "uprooted": {
+      "text": "El olor de la comida ajena, las llaves de luz a la altura equivocada, un idioma en el que no podés hacer chistes: para Sara Ahmed, un hogar está hecho de esas cosas pequeñas tanto como de paredes. Después de emigrar o mudarte, el mundo alrededor puede parecer no reconocerte, y el mundo de antes ya no está. Ahmed y otras colegas editaron el volumen «Uprootings/Regroundings» (2003) sobre migración y hogar, y en «Encuentros extraños» (2000) escribió sobre cómo llegamos a ser percibidos como «extraños». El hogar, para Ahmed, es aquello hacia lo que te orientabas. En un lugar nuevo esa orientación se pierde, y el cuerpo literalmente no sabe hacia dónde girar. Tu desorientación es una respuesta normal a perder una orientación conocida. El hogar no solo se pierde: también se crea de nuevo, con hábitos nuevos, vínculos y personas que también saben lo que es «no ser de acá».",
+      "practice": "Elegí un hábito chiquito de tu vida anterior —un plato, una canción, una caminata a cierta hora— y repetilo esta semana en tu lugar nuevo.",
+      "quote": null
+    },
+    "overload": {
+      "text": "En «La autonomía del afecto» Massumi cuenta un experimento: a unos chicos les mostraron un cortometraje sobre un muñeco de nieve que se derrite, y calificaron las escenas más tristes como las más agradables. La intensidad, explicaba, vive aparte del significado, y el feed, las notificaciones y las noticias te agotan justamente así, no porque no «puedas con todo». Los medios, para Massumi, actúan sobre nosotros sobre todo por la intensidad y no por el contenido: el tono, el ritmo y la imagen tocan el cuerpo antes de que captemos el sentido. Por eso el feed actúa sobre el sistema nervioso como un flujo de golpecitos, incluso cuando no comunica nada importante. El cansancio del feed no es un capricho, sino la reacción de un cuerpo que recibe demasiada intensidad a la vez. No está obligado a resistir un flujo infinito. A veces lo más sabio es sacar la fuente por un rato y dejar que el sistema nervioso vuelva a su propio ritmo.",
+      "practice": "Poné el celular boca abajo cinco minutos y simplemente no hagas nada. Registrá el momento en que tus hombros y tu respiración se aquietaron aunque sea un poco.",
+      "quote": null
+    },
+    "unreality": {
+      "text": "Medio segundo: eso es, para Massumi, más o menos lo que la conciencia va atrasada respecto del cuerpo. Normalmente la brecha pasa inadvertida, pero a veces parece estirarse, y entonces el mundo, o vos, no se sienten del todo reales; esto puede asustar y desorientar. En «Fenomenología queer», Sara Ahmed describe momentos de desorientación en los que el mundo parece «resbalar» y aparece en un ángulo extraño: lo conocido de pronto deja de serlo. La vida se siente entonces como si pasara detrás de un vidrio. La sensación de irrealidad es la experiencia de una posición particular entre el cuerpo y el mundo, no la prueba de que el mundo haya desaparecido. El cuerpo sigue viviendo y sintiendo. El camino suave de regreso pasa por las sensaciones más simples a las que responde.",
+      "practice": "Tomá entre las palmas algo tibio o frío —una taza, una piedra, una toalla húmeda— y nombrate despacio cinco cualidades de lo que sienten tus dedos.",
+      "quote": null
+    },
+    "awe": {
+      "text": "El asombro, para Sara Ahmed en «La política cultural de las emociones», es una emoción especial: el mundo aparece de pronto como si lo vieras por primera vez. La admiración reverente ante algo inmenso o bello es su forma rara y preciosa. Para ella, el asombro es también una manera de ver que el mundo podría haber sido de otro modo y que en algún momento llegó a ser lo que es. Massumi describiría esa admiración como una intensidad que excede toda capacidad de nombrarla: el cuerpo queda tomado antes de que aparezcan las palabras. No es algo para explicar ni para fotografiar enseguida. Es un momento en que la capacidad de ser afectado se amplía hasta su límite. Podés simplemente vivirlo y dejar que te cambie.",
+      "practice": "Quedate un minuto más, sin palabras, con lo que te llenó de asombro. Después preguntate: ¿qué estoy viendo ahora como si fuera la primera vez?",
+      "quote": null
+    },
+    "relief": {
+      "text": "Hundirse en un sillón viejo hasta no saber dónde termina el cuerpo y empieza el mueble: así describe Sara Ahmed la comodidad. Cuando la tensión por fin afloja, vale la pena saborearlo. Aguantaste mucho tiempo; ahora podés exhalar con todo el cuerpo. El alivio es el momento en que el cuerpo puede volver a hundirse así después de un largo período de sostenerse. Massumi subrayaría que es ante todo un acontecimiento corporal: los músculos, la respiración y el corazón cambian de ritmo antes de que digamos «gracias a Dios». Vale la pena no solo darse cuenta del alivio, sino vivirlo con el cuerpo, dejando que se afloje del todo. Muestra cuánta fuerza se iba en la tensión, y te recuerda que el cuerpo sabe soltar.",
+      "practice": "Dejá que tu cuerpo se «hunda» en lo que lo sostiene: una silla, la cama, el piso. Notá qué músculos se soltaron y quedate así un minuto.",
+      "quote": null
+    },
+    "calm": {
+      "text": "La mesa, la silla, la habitación conocida: en «Fenomenología queer» Sara Ahmed llama a esas cosas el «fondo»: se retiran para que podamos atender a otras. La calma es una visita poco frecuente, y está bien cuidarla. Normalmente el fondo pasa inadvertido hasta que algo lo perturba. La calma es un estado en el que el fondo puede seguir siendo fondo, nada exige atención urgente y el mundo se siente confiable. Massumi lo llamaría un tiempo en que la intensidad está quieta y pareja y el cuerpo no está movilizado. La calma no tiene que convertirse en productividad. Podés simplemente estar en ella y notar lo que suele escaparse: el silencio de la habitación, la luz, tu propia respiración.",
+      "practice": "Notá una cosa del «fondo» que te rodea —una pared, la luz, un sonido del otro lado de la ventana— y quedate con ella un minuto, sin hacer nada más.",
+      "quote": null
+    },
+    "inspiration": {
+      "text": "El pensamiento y la sensación todavía no se separaron, y algo apenas empieza a tomar forma: Massumi llama a esto «pensar-sentir». Algo nuevo parece pedir salir por su cuenta, y es un estado alegre. Escribe sobre esto en «Semblanza y acontecimiento» (2011). No es un plan, sino una tendencia incipiente llena de posibilidad. Sara Ahmed habla de «líneas de deseo»: senderos que la gente abre por su cuenta, esquivando los caminos pavimentados. La inspiración es el momento en que intuís un sendero nuevo así sin saber todavía adónde lleva. No hace falta convertirla enseguida en resultado. Permitite dar unos pasos por él, solo para sentir cómo cambia el mundo cuando caminás distinto.",
+      "practice": "Anotá la idea tal como vino, sin ordenarla ni juzgarla. Notá en qué parte del cuerpo sentís esta inspiración.",
+      "quote": null
+    },
+    "schadenfreude": {
+      "text": "Envidia, irritación, ansiedad: Sianne Ngai reunió sentimientos así en su libro «Sentimientos feos» (2005) y los estudió sin moralizar. Un pinchazo de placer ante el fracaso ajeno, escondido incluso de uno mismo, podría pertenecer tranquilamente a su colección. Para Ngai, esos sentimientos no ofrecen catarsis ni la sensación de tener razón, y suelen surgir donde una persona tiene pocas posibilidades de actuar: el movimiento parece bloqueado. Alegrarse del mal ajeno también se parece a un «sentimiento feo»: una compensación mínima por la sensación de no avanzar mientras el éxito de otro te pesa. Este sentimiento no te define. Más bien señala un lugar donde te falta movimiento. Si lo notás sin vergüenza, podés preguntarte: ¿qué quiero para mí?",
+      "practice": "Recordá un momento en que te alegró el mal ajeno y preguntate en voz baja: ¿dónde está bloqueado ahora el movimiento en mi vida? Alcanza con una respuesta.",
+      "quote": null
+    },
+    "contempt": {
+      "text": "La nariz fruncida, la cabeza que se aparta: el psicólogo Silvan Tomkins, en cuyas ideas se apoya la teoría de los afectos, distinguió esta reacción ante los malos olores como un afecto propio y la llamó dissmell, el «desolor»: retrocedemos y no dejamos que algo se acerque. El desprecio es difícil de admitir, con su frialdad y su superioridad, pero su naturaleza es la misma: corporal. El desprecio, para Tomkins, está emparentado con ese gesto: es una manera de mantener al otro a distancia. Sara Ahmed agrega que esos sentimientos trazan límites entre «nosotros» y «ellos». Tu desprecio es ante todo una señal: algo en esa persona se siente como una amenaza a tu orden, a tus valores o a tu paz. No hace falta reprochártelo. Podés preguntarte: ¿de qué me protejo al apartarme, y necesito esa distancia?",
+      "practice": "Notá cómo se ve el desprecio en tu cuerpo: ¿labios apretados, el mentón en alto, la mirada desviada? Aflojá con suavidad la cara y fijate qué queda del sentimiento.",
+      "quote": null
+    },
+    "disgust": {
+      "text": "Para que algo nos dé asco, primero tiene que acercarse demasiado: Sara Ahmed construye sobre esta paradoja su capítulo sobre el asco en «La política cultural de las emociones». Querés retroceder ante una persona, una situación, a veces ante vos: es un sentimiento muy corporal. Al rechazarlo, también trazamos un límite: «esto no soy yo». Ahmed subraya que esos límites no son naturales: la cultura nos enseña qué considerar asqueroso, y esos juicios muchas veces se «pegan» a grupos enteros de personas. El asco es el trabajo de un límite, no una verdad objetiva sobre lo que lo provoca. Esto importa especialmente cuando el asco se dirige a vos: puede ser un eco de juicios ajenos. Podés interrogarlo en lugar de creerle a ciegas.",
+      "practice": "Nombrá lo que te da asco y preguntate: ¿cómo aprendí que esto es «asqueroso»? Pensá de quién podría haber sido esa voz.",
+      "quote": null
+    },
+    "revenge": {
+      "text": "Una oleada y una trama: así se puede resumir, a grandes rasgos, la distinción que Brian Massumi traza entre afecto y emoción. Después de una ofensa sube una ola, y en ella ya suena una trama de venganza: te hicieron daño. El afecto es intensidad corporal, una oleada que surge antes del pensamiento; la emoción es la forma que toma cuando recibe un nombre y una trama. La intensidad, para Massumi, siempre es más rica que cualquier forma: contiene muchas continuaciones posibles, y solo una se vuelve acción. La sed de venganza es una de las tramas en las que podría volcarse tu fuerza, pero lejos está de ser la única. La misma energía puede volverse decisión de protegerte, de nombrar una injusticia, de poner un límite. No hace falta negar la rabia. Podés darle tiempo y notar qué otros caminos abre, sin dañar a nadie.",
+      "practice": "Sentí en qué parte del cuerpo vive esta rabia y hacé unas cuantas exhalaciones lentas. Después imaginá tres acciones distintas en las que podría convertirse esta energía, ninguna de las cuales dañe a nadie.",
+      "quote": null
+    },
+    "anger_at_loved": {
+      "text": "Una foto familiar en la que todos sonríen es, para Sara Ahmed, el «objeto feliz» modelo: de una familia se esperan de antemano calidez, armonía y alegría. Por eso el enojo con tu pareja, tus padres o tus hijos se siente como uno de los sentimientos más vergonzosos, aunque sea de los más comunes. El enojo dentro de una familia se vive como romper las reglas, y quien lo siente parece el que destruye la armonía compartida. Ahmed señala que detrás de esa imagen muchas veces hay una carga desigual: alguien cede, cuida y se calla todo el tiempo para que todos puedan sentirse «bien». Tu enojo quizás esté informando un problema real: agotamiento, un reparto injusto del cuidado, heridas no dichas. No es motivo para descargarte con los tuyos. Pero tampoco para considerarte un monstruo: el enojo es una señal que vale la pena escuchar.",
+      "practice": "Anotá una cosa que hacés en tu familia «para que todos estén bien» y que te desgasta. No hace falta cambiar nada ya: solo nombrala.",
+      "quote": null
+    },
+    "ambivalence": {
+      "text": "Un bebé primero divide el mundo en «bueno» y «malo», y solo después se da cuenta de que la madre que calma y la madre que niega son una misma persona: así describía Melanie Klein cómo maduran los sentimientos. Querer a alguien y al mismo tiempo no soportarlo es una combinación muy común, aunque rara vez se diga en voz alta. Eve Kosofsky Sedgwick, una de las fundadoras de la teoría de los afectos, se apoyó acá en la psicoanalista Melanie Klein. Klein llamó a este giro la «posición depresiva». Sedgwick vinculó esa posición con lo «reparador», la capacidad de reparar: armar un todo a partir de partes contradictorias. Tu ambivalencia no es una falla del amor, sino señal de una mirada madura. No tenés que elegir un solo sentimiento. Podés sostener los dos, y ese sostener ya es en sí el trabajo de reparación.",
+      "practice": "Dibujá un círculo y poné adentro dos puntos: uno para lo que querés de esa persona, el otro para lo que te cuesta soportar. Mirá: los dos están dentro de un mismo círculo.",
+      "quote": null
+    },
+    "guilty_relief": {
+      "text": "Estar triste en un casamiento, no llorar en un velorio: Sara Ahmed llama «extranjera afectiva» a la persona que siente «lo que no corresponde». El alivio después de una separación, una partida o incluso la muerte de alguien querido que estaba muy enfermo muchas veces también te convierte en esa extranjera: ¿cómo puedo sentir liviandad si quiero? La cultura reparte guiones de sentimientos correctos, y apartarse de ellos se siente como culpa. Pero, para Ahmed, esos desajustes son comunes y dicen con honestidad mucho sobre nuestra vida. Tu alivio no es una traición al amor, sino la respuesta del cuerpo al fin de una tensión larga. El amor y el alivio no se anulan. Podés hacer el duelo y al mismo tiempo sentir que se respira mejor.",
+      "practice": "Hacé unas cuantas respiraciones tranquilas y decite: «Siento más liviandad, y sigo queriendo». Notá cómo responde tu cuerpo a estas palabras.",
+      "quote": null
+    },
+    "indifference": {
+      "text": "Stuplimity: Sianne Ngai tejió esta palabra con «estupor» y «lo sublime» para describir cómo el shock y el aburrimiento se mezclan y la sensibilidad se embota cuando las impresiones son demasiadas y se repiten sin parar. A veces, donde algo «debería» conmoverte, hay vacío, y eso asusta: ¿de verdad no me importa? Ngai subraya que no es ausencia de sentimiento, sino una forma particular de él: una respuesta al exceso. Tu indiferencia quizás no sea frialdad, sino protección: la psique amortigua la señal porque hay demasiada. Massumi agregaría que el afecto sigue actuando en el cuerpo incluso cuando no tomó forma de emoción. El sentimiento puede volver más tarde, en silencio. No hace falta exprimirlo.",
+      "practice": "Dejá de lado todas las noticias y los feeds durante cinco minutos y escuchá tu cuerpo: ¿cambió algo, aunque sea cansancio, aunque sea calor?",
+      "quote": null
+    },
+    "escape": {
+      "text": "Tarde o temprano en cualquier pasto de una plaza se marca un sendero en diagonal, por donde a la gente de verdad le resulta más fácil caminar. Sara Ahmed llama a esos senderos «líneas de deseo», y las ganas de dejarlo todo —un laburo, una ciudad, un papel de siempre— pueden parecerse a ellos: repentinas y fuertes. Se trata del deseo de cambiar tus circunstancias, no de dejar la vida. En «Fenomenología queer» escribe sobre las líneas por las que nos movemos: la vida suele seguir caminos muy transitados, y cuanta más gente los recorrió, más naturales parecen. Las ganas de escapar son una señal de que tu camino quizás no pasa por donde se trazó la ruta. No es un capricho ni una debilidad. No tenés que salir disparado ya. Pero vale la pena notar hacia dónde tira tu propio sendero, y dar aunque sea un paso chico por él.",
+      "practice": "En tu próxima caminata, doblá hacia donde sientas ganas y no hacia donde lleva el camino, aunque sea por una sola cuadra. Notá qué siente tu cuerpo en esta «línea de deseo».",
+      "quote": null
+    },
+    "forbidden_attraction": {
+      "text": "Una línea recta, para Sara Ahmed, no es naturaleza, sino hábito, gastado por muchos que pasaron antes que nosotros. La atracción por la persona «equivocada» o inalcanzable da vergüenza y confunde, pero la teoría de los afectos no dicta sobre ella ningún veredicto moral. En «Fenomenología queer» Ahmed escribe que el deseo es una orientación: nos volvemos hacia algunos objetos y nos apartamos de otros. Pero lo que termina quedando «al alcance» está en gran parte fijado de antemano: por hábitos, normas, los caminos que recorrimos. Por eso un deseo dirigido «para el lado equivocado» se siente como una falla. Ahmed, sin embargo, muestra que desviarse de las líneas rectas es parte de cómo los cuerpos vivos se mueven por el mundo. Una atracción así habla de un giro vivo en vos, hacia algo que ahora te falta. No hace falta decidir ya qué hacer con ella. Podés preguntarte hacia qué exactamente te volviste.",
+      "practice": "Nombrate en una palabra la cualidad que te atrae de esa persona. Después mirá alrededor: ¿dónde más en tu vida hay al menos un rastro de ella?",
+      "quote": null
+    },
+    "social_anxiety": {
+      "text": "«No te preocupes» es un consejo que nunca funciona, y Brian Massumi explica por qué: en el ensayo «La autonomía del afecto» muestra que el cuerpo reacciona antes que la conciencia. Te arden las mejillas, se te seca la garganta, el corazón late fuerte antes de que hayas pensado nada sobre que te juzguen. Massumi llama «autónomo» al afecto: no obedece directamente a la voluntad. Tu reacción no es tontería ni falta de carácter, sino el trabajo veloz de un cuerpo que responde a la presencia de otros. No hace falta avergonzarse. Podés dejar pasar la ola y notar: los nervios están, pero no son todo lo que hay en mí. Lo más probable es que los demás los vean mucho menos de lo que creés.",
+      "practice": "En un momento de nervios, sentí los pies sobre el piso y hacé la exhalación más larga que la inhalación. Decite: «Mi cuerpo llegó antes que yo, y está permitido».",
+      "quote": null
+    },
+    "uncertainty": {
+      "text": "Alguien se ríe en una fila, cambia el viento, se enciende la ventana de un vecino: la antropóloga Kathleen Stewart arma su libro «Afectos ordinarios» (2007) con cosas pequeñas así. No sabés qué va a pasar; agota, y extrañás un poco de claridad. Stewart, cercana a la teoría de los afectos, describe la vida cotidiana como un flujo en el que siempre algo está surgiendo, desplazándose, empezando. Según ella, la vida común no está hecha de planes claros, sino de muchos acontecimientos pequeños que el cuerpo siente antes de que se junten en un relato. Stewart invita a notar esos pequeños desplazamientos y no solo esperar una gran respuesta. La incertidumbre no es solo un vacío ansioso, sino también un «algo está pasando» vivo, en el que también son posibles cosas buenas. Esto no te exige «resignificar positivamente tu ansiedad». Pero podés mover la atención de lo inmenso desconocido a lo pequeño que ya está pasando ahora.",
+      "practice": "Mirá por la ventana o salí un par de minutos y registrá tres acontecimientos pequeños: un sonido, un movimiento, un cambio en el tiempo. Esto también es el futuro, que ya está ocurriendo.",
+      "quote": null
+    },
+    "waiting": {
+      "text": "La esperanza, para Brian Massumi, no es la confianza en un buen resultado, sino una sensación de apertura presente en cualquier «ahora»; así lo dice en las entrevistas reunidas en «Política del afecto» (2015). Esperar una respuesta, unos resultados, una noticia duele: toda tu atención está vuelta hacia un momento que todavía no llegó. Massumi no promete que la respuesta vaya a ser buena; te invita a notar que la vida no se pone en pausa mientras esperás. Cuando estamos enteramente dirigidos a una respuesta futura, el presente se achica hasta ser un hueco vacío. Esperar es más fácil si traés la atención de vuelta al presente, no para distraerte, sino para ver que la vida también está pasando ahora. El resultado va a llegar cuando llegue. Y este momento ya está acá.",
+      "practice": "Poné un temporizador de dos minutos y simplemente notá lo que pasa a tu alrededor: sonidos, luz, sensaciones en el cuerpo. Todavía no hay respuesta, pero estos dos minutos sí los tenés.",
+      "quote": null
+    },
+    "regret": {
+      "text": "La lectura paranoica busca la trampa escondida; la reparadora busca lo que todavía se puede arreglar. Eve Kosofsky Sedgwick distinguió estas dos posiciones: ante los textos y, en el fondo, ante la vida. El arrepentimiento que da vueltas —«si tan solo hubiera…»— lee el pasado de la primera manera. La posición «paranoica» se esfuerza por preverlo todo y protegerse de antemano de las malas sorpresas; revisa sin fin qué salió mal. La «reparadora» se permite tener esperanza: reconoce que el futuro puede ser distinto del presente, y por lo tanto que el pasado también podría haber sido distinto. Suena paradójico, pero libera: en aquel momento actuaste en circunstancias concretas, no según una ley inevitable. El arrepentimiento no tiene que volverse un juicio contra vos. Se lo puede convertir en cuidado: de lo que todavía se puede reparar, y de la versión de vos que atravesó todo esto.",
+      "practice": "Anotá lo que lamentás y, después, una acción «reparadora» pequeña que sea posible ahora: una palabra, una carta, un cuidado para vos o para otra persona.",
+      "quote": {
+        "text": "…también le es posible abrirse a posibilidades tan profundamente dolorosas, tan profundamente aliviadoras y éticamente cruciales como la de que el pasado, a su vez, podría haber ocurrido de otra manera que como efectivamente ocurrió.",
+        "author": "Eve Kosofsky Sedgwick",
+        "source": "«Lectura paranoica y lectura reparadora», en «Tocar la fibra» (2003)"
+      }
+    },
+    "longing": {
+      "text": "Impression: a la vez una sensación y una impresión, una huella sobre una superficie; en «La política cultural de las emociones» Sara Ahmed usa los dos sentidos. Extrañar así es un sentimiento con cara, con voz, con olor. Las otras personas, para Ahmed, literalmente nos dejan impresiones: su presencia moldea nuestros hábitos, gestos, nuestra manera de movernos por el mundo. Cuando la persona no está cerca, la impresión queda, y duele, como un lugar donde falta algo. Lo que extrañás no habla de debilidad ni de dependencia, sino de cuán hondo te tocaron. No hace falta borrar la impresión. Con el tiempo puede volverse no una herida, sino una parte de vos que llevás con cuidado.",
+      "practice": "Notá un hábito, un gesto o una forma de decir tuya que vino de esa persona. Permitite sonreírle a esa huella, aunque sea triste.",
+      "quote": null
+    },
+    "world_pain": {
+      "text": "Nadie puede sentir el dolor de otro exactamente como esa persona lo siente: Sara Ahmed abre su capítulo sobre el dolor en «La política cultural de las emociones» con esta admisión. Y sin embargo, el dolor por quienes sufren guerras, violencia e injusticia puede ser casi físico, sobre todo cuando las noticias no paran de llegar. Para Ahmed, no poder conocer del todo el dolor ajeno no justifica la indiferencia: la ética consiste en dejarnos afectar por lo que no podemos conocer del todo. Ahmed también advierte otra cosa: la compasión no debería convertir el dolor ajeno en una historia sobre nosotros. Tu dolor es señal de apertura al mundo, y es valioso. Pero no tenés que cargarlo en soledad y sin descanso. Podés permitirte sentir, y buscar maneras concretas, a tu alcance, de acompañar a quienes la están pasando mal.",
+      "practice": "Apoyá la mano en el pecho y decí: «No puedo conocer este dolor del todo, pero no le doy la espalda». Después elegí un acto de apoyo pequeño y concreto.",
+      "quote": null
+    },
+    "rejection": {
+      "text": "Un extraño, para Sara Ahmed, no es alguien a quien no conocemos, sino alguien a quien reconocemos como «fuera de lugar»: de eso trata su libro «Encuentros extraños» (2000). Cuando no te aceptaron en un círculo, no te eligieron, te dieron la espalda, hiere hondo. El límite entre «nosotros» y los «extraños» lo crea el grupo mismo, con sus hábitos y expectativas, no las cualidades de la persona rechazada. El rechazo dice más sobre cómo está organizado ese círculo que sobre tu valor. El dolor no desaparece por eso, y no hay que minimizarlo: todos necesitamos pertenecer. Pero no tenés que aceptar el límite de otros como un veredicto sobre vos, y podés buscar lugares donde no seas «extraño», sino parte.",
+      "practice": "Llamá o pasá por donde te sentís «en tu lugar»: una persona, un grupo, un café conocido. Aunque sea por unos minutos.",
+      "quote": null
+    },
+    "abandonment": {
+      "text": "Un nudo en una red: así propone Brian Massumi imaginar a una persona, no como una unidad cerrada, sino como un cruce de muchos vínculos. De ahí el miedo a que te abandonen, uno de los más antiguos: sin otros, nadie sobrevive. Massumi subraya que el afecto siempre tiene que ver con relaciones. En una entrevista de «Política del afecto», describe el afecto como nuestra participación en procesos más grandes que nosotros, y dice que los sentimientos fuertes agudizan la sensación de estar tejidos en la vida, de pertenecer a otras personas y lugares. Por eso la amenaza de perder a alguien cercano el cuerpo la percibe como una amenaza a nuestro propio piso, aunque la mente entienda que vas a poder. Tu miedo no es una exageración, sino una sensibilidad a lo mucho que significan para vos los vínculos. Pero el campo de relaciones siempre es más amplio que una sola persona. Podés notar también los otros hilos que te sostienen, aunque sean finos.",
+      "practice": "Recorré mentalmente tus hilos —personas, lugares, actividades, animales, hábitos— y doblá un dedo por cada uno. Mirá tu mano: te sostiene más de un hilo.",
+      "quote": null
+    },
+    "unrequited": {
+      "text": "Al amar a otro, muchas veces también amamos una imagen de nosotros mismos a su lado: Sara Ahmed retoma esta idea de Freud en «La política cultural de las emociones». Eso es lo que hace que un amor no correspondido duela de una manera particular: el sentimiento es real, pero no recibe respuesta. Así que la falta de correspondencia hiere dos veces: no hay respuesta de la persona, y esa imagen ideal de nosotros parece derrumbarse. Parte de tu dolor tiene que ver con un futuro perdido que ya habías imaginado. No es ingenuidad: así funciona el amor. Esa imagen quizás también diga algo sobre lo que querés para vos. Podés conservarla y buscar otros caminos hacia ella, no solo a través de esta persona.",
+      "practice": "Escribí cómo te veías al lado de esta persona. Elegí un rasgo de esa imagen que puedas desarrollar sin ella.",
+      "quote": null
+    },
+    "humiliation": {
+      "text": "La cara que arde, los ojos en el piso: Silvan Tomkins veía en esto no una señal de poca valía, sino la huella de un interés por las personas que fue interrumpido. Después de una humillación querés esconderte, bajar la vista, salir de la habitación. Tomkins, cuyas ideas Eve Kosofsky Sedgwick redescubrió para las humanidades, unió la vergüenza y la humillación en un solo afecto: «vergüenza-humillación». Para Tomkins, no surge cuando algo no nos importa, sino cuando el interés o la alegría se interrumpen sin apagarse: nos estábamos acercando a las personas, al reconocimiento, y el vínculo se cortó de golpe. Tu humillación no habla de que no valgas, sino de lo mucho que te importa el vínculo con la gente. Sedgwick subrayaba que la vergüenza es profundamente social y contagiosa: muchas veces le pertenece más a la situación que a vos. Podés recordarte: necesitaba contacto, y no hay nada vergonzoso en eso.",
+      "practice": "Apoyá la palma en el pecho, como si consolaras a alguien querido, y decite: «Necesitaba contacto. No hay nada vergonzoso en eso».",
+      "quote": null
+    },
+    "body_shame": {
+      "text": "Marcos de puertas, asientos de avión, talles en los negocios: los espacios, para Sara Ahmed, «toman la forma» de algunos cuerpos de antemano y no de otros. Si no estás conforme con tu cuerpo, no es culpa personal tuya. Ahmed escribe sobre la «comodidad»: estar cómodo es sentirse tan a gusto en el entorno que el límite entre cuerpo y mundo casi desaparece. Pero no es así para todos los cuerpos. Si tu cuerpo no coincide con esa forma, te queda la sensación de que está «mal», aunque el problema sea lo estrecho del marco. Tu disconformidad es en gran parte una huella de esas normas, no la verdad sobre vos. Ahmed no te llama a quererte con urgencia. Pero podés notar dónde tu cuerpo se siente más libre, y de a poco elegir más lugares, personas y actividades así.",
+      "practice": "Recordá un lugar o una situación en la que tu cuerpo se siente libre y no evaluado. ¿Qué es distinto ahí? ¿Podrías pasar aunque sea un rato ahí hoy?",
+      "quote": null
+    },
+    "illness": {
+      "text": "«Nadie, hasta ahora, ha determinado lo que puede un cuerpo», escribió Spinoza, y a Deleuze y a Massumi les gusta repetir la frase. Cuando el cuerpo te falla y se derrumba tu confianza de siempre en él, el miedo, el enojo y el agotamiento son legítimos. Para ellos, el cuerpo no es una máquina que funciona o está rota, sino un proceso, una capacidad de afectar y de ser afectado. Esa capacidad cambia: la enfermedad estrecha algunas posibilidades, pero el cuerpo sigue buscando otras: otro ritmo, otros apoyos, otras alegrías. La enfermedad no te anula: seguís siendo un campo vivo de relaciones en el que es posible algo más que el sufrimiento. No es motivo para exigirte fortaleza. Más bien es una invitación a notar cambios pequeños —momentos en que las cosas se vuelven un poco más fáciles— y apoyarte en ellos.",
+      "practice": "Registrá hoy un momento en que tu cuerpo se sintió aunque sea un poco más liviano o a gusto: un té caliente, la luz, una posición cómoda. Quedate ahí unas cuantas respiraciones.",
+      "quote": null
+    },
+    "pride": {
+      "text": "La vergüenza te hace esconder la cara; el orgullo te deja mostrarla: Eve Kosofsky Sedgwick, siguiendo a Silvan Tomkins, escribió sobre lo estrechamente ligados que están estos dos afectos. El orgullo por lo que hiciste es un buen sentimiento, y no hace falta esconderlo por modestia. Tomkins consideraba los afectos positivos —el interés y la alegría— no un agregado agradable a la vida, sino algo que vale la pena sostener conscientemente: nutren la curiosidad y la capacidad de actuar. Spinoza, de cuya filosofía nació la teoría de los afectos, llamaba «contento de sí» a la alegría que surge cuando una persona se contempla a sí misma y a su propia potencia de obrar. Tu orgullo no es vanidad, sino una oportunidad de ver tu fuerza y no pedir perdón por ella. Podés saborear esta alegría sin apuro.",
+      "practice": "Contale a alguien lo que lograste, sin aclaraciones del tipo «no es nada especial». Notá cómo se siente eso en tu cuerpo.",
+      "quote": null
+    },
+    "melancholy": {
+      "text": "El «migrante melancólico», al que se le reprocha aferrarse a lo perdido, es una de las figuras que Sara Ahmed defiende en «La promesa de la felicidad». Tu tristeza luminosa, donde la pena convive con la ternura, merece la misma defensa: no hace falta ahuyentarla ni tratarla. Ahmed critica una cultura que exige que «seamos felices» sí o sí y nos apura a «soltar» el pasado. Defiende el derecho a no apurarse. Ahmed también habla de «la libertad de ser infeliz»: el derecho a sentimientos que no entran en el optimismo obligatorio. Tu melancolía no es un error del ánimo, sino una manera de sostener con suavidad lo que importó. No necesita arreglo. Podés simplemente escuchar qué es exactamente lo que recuerda.",
+      "practice": "Quedate un par de minutos con este estado de ánimo sin cambiar nada. Si querés, nombrá en voz baja una cosa que parece estar guardando a salvo en la memoria.",
+      "quote": null
+    }
+  }
+}

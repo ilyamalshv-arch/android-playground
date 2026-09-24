@@ -1,0 +1,391 @@
+{
+  "id": "phenomenology",
+  "title": "Heidegger y Merleau-Ponty",
+  "tradition": "Fenomenología",
+  "family": "phenomenology_existential",
+  "period": "siglo XX",
+  "sortYear": 1927,
+  "thinkers": [
+    "Martin Heidegger",
+    "Maurice Merleau-Ponty"
+  ],
+  "keyWorks": [
+    "Ser y tiempo (1927)",
+    "¿Qué es metafísica? (1929)",
+    "Fenomenología de la percepción (1945)"
+  ],
+  "summary": "La fenomenología es una filosofía que intenta describir la experiencia tal como se vive desde adentro, en lugar de explicarla «desde afuera». Heidegger exploró cómo una persona siempre vive ya en el mundo, se preocupa por él y está templada hacia él; Merleau-Ponty mostró que esa experiencia es corporal desde el principio: no «tenemos» un cuerpo, somos el cuerpo a través del cual tenemos un mundo.",
+  "onEmotions": "Para Heidegger, los sentimientos no son «estados interiores» encerrados en la cabeza, sino «disposición afectiva» (Befindlichkeit): la manera en que el mundo siempre se nos abre ya, antes de cualquier reflexión. Nunca estamos «sin estado de ánimo»: incluso la indiferencia chata es un estado de ánimo. Así que un sentimiento no distorsiona la realidad; nos muestra algo de ella. Merleau-Ponty agrega que el sentimiento vive en el cuerpo —en la respiración, la postura, el gesto— y que eso no es un obstáculo para comprender, sino su primera forma, la corporal.",
+  "entries": {
+    "anxiety": {
+      "text": "En una conferencia de 1929 Heidegger dijo que la angustia «nos deja en suspenso»: todo se escurre, sin nada de dónde agarrarse. Si así es como te estás tambaleando ahora, no es una falla. Heidegger distinguía el miedo de la angustia (Angst): el miedo siempre apunta a algo determinado, mientras que la angustia no apunta a nada en particular. En ella, el mundo conocido parece perder su peso, y la persona queda sola ante el hecho de que su vida es solo suya y nadie más la va a vivir por ella. Por eso a la angustia no solo se la puede acallar: también se la puede escuchar. Muchas veces te dice que las respuestas «generalmente aceptadas» de los demás ya no te quedan bien. Merleau-Ponty agregaría que la angustia vive en el cuerpo —en tu respiración, en tus hombros— y que eso también es una manera de estar en el mundo, no un error.",
+      "practice": "Durante un minuto, «poné entre paréntesis» la pregunta «¿cómo me saco esto de encima?» y describí la angustia en voz alta, como un fenomenólogo describe una cosa: dónde está en tu cuerpo, cómo es, hacia dónde tira. Después preguntate: ¿qué dejó de ser evidente para mí?",
+      "quote": {
+        "text": "La angustia hace patente la nada.",
+        "author": "Martin Heidegger",
+        "source": "¿Qué es metafísica? (1929)"
+      }
+    },
+    "fear": {
+      "text": "¿Ante qué, por qué, y qué es el temer mismo? Heidegger desarmó el miedo en estas tres preguntas. Si estás asustado, no hay vergüenza en eso: hacételas. Para Heidegger, el miedo es una forma de disposición afectiva: siempre es miedo «ante» algo que se acerca y amenaza, y miedo «por» algo. Esa es su honestidad: solo podés tener miedo por lo que te importa. Heidegger llamó a este rasgo básico del ser humano «cuidado» (Sorge): algo siempre nos importa; no podemos ser realmente indiferentes a nuestra propia vida. Merleau-Ponty nos recordaría que el miedo es primero corporal: el cuerpo «sabe» del peligro antes que el pensamiento, y se tensa para protegerte. Aceptar el miedo es ver en él no cobardía sino una forma de cuidado, y preguntarse qué es exactamente lo que está cuidando ahora.",
+      "practice": "Decí en voz alta: «Tengo miedo por…», y escuchá qué viene después de los puntos suspensivos. Para Heidegger, va a ser algo que te importa.",
+      "quote": null
+    },
+    "sadness": {
+      "text": "Heidegger podría haber comparado un estado de ánimo con el clima: no lo elegimos, nos encontramos ya adentro. Si estás triste aunque no haya una razón clara, no hay nada malo en eso. Para Heidegger nunca estamos «sin estado de ánimo»: hasta la indiferencia gris es un estado de ánimo. Un temple, escribió, no viene ni de afuera ni de adentro, sino que surge de nuestro propio «ser-en-el-mundo»; no lo elegimos, nos encontramos en él. Así que la tristeza no es un vidrio oscuro entre vos y la realidad, sino una de las maneras en que la realidad se abre en absoluto: en la tristeza se vuelven más visibles la fragilidad, el silencio y lo que pasa. Merleau-Ponty mostraría cómo la tristeza cambia la percepción misma: los colores se apagan, los pasos pesan, el mundo parece alejarse. La tristeza no tiene que arreglarse de urgencia: podés dejar que te muestre lo que ve.",
+      "practice": "Mirá a tu alrededor durante un minuto con los ojos de tu tristeza, sin arreglar nada: ¿qué notás ahora —fragilidad, silencio, lo que pasa— que por lo general no ves?",
+      "quote": null
+    },
+    "grief": {
+      "text": "Tras la muerte de alguien cercano, para Heidegger, no nos separamos de esa persona sino que nos quedamos cerca: «demorándonos junto a ella en el duelo y el recuerdo», como dice Ser y tiempo. Tu duelo es una de las disposiciones afectivas más hondas del ser humano, y no necesita justificación. Quien se fue no simplemente desapareció: sigue siendo parte de tu mundo, ese mundo compartido que, para Heidegger, siempre habitamos con otros (lo llamó «ser-con», Mitsein). De ahí el dolor: el mundo se está reacomodando, y los caminos de siempre llevan a un lugar vacío. Merleau-Ponty agregaría que el cuerpo recuerda: las manos, las costumbres, los recorridos cotidianos guardan la presencia de quien se fue. El duelo no es una enfermedad sino una forma de fidelidad a un vínculo. No hace falta «atravesarlo más rápido»; el mundo puede reacomodarse despacio, guardando un lugar para lo que se perdió.",
+      "practice": "Recorré despacio uno de los caminos que solían compartir —hasta el almacén, por el patio, por un pasillo— y dejá que tu cuerpo recuerde. Merleau-Ponty diría que el cuerpo guarda la presencia de quien se fue.",
+      "quote": null
+    },
+    "loneliness": {
+      "text": "Desde su cabaña en la Selva Negra, Heidegger escribió que la soledad no nos aísla, sino que arroja toda nuestra existencia a la vasta cercanía de todas las cosas. La soledad igual duele, pero no tiene nada de vergonzoso. Heidegger sostenía que el ser humano es esencialmente «ser-con» (Mitsein): siempre vivimos ya en un mundo compartido con otros. Así que, según él, incluso la soledad es una manera particular de estar con otros: solo se puede extrañar a alguien que en principio podría estar. Tu soledad no es la prueba de que estés hecho «mal», sino la evidencia de que estás hecho para el vínculo. Merleau-Ponty hablaba de «intercorporeidad»: la manera en que los cuerpos se entienden incluso antes de las palabras, con una mirada, un gesto, una entonación. Quizá la soledad sea el anhelo del cuerpo de esa clase de respuesta viva. Aceptarla es escuchar en ella no un veredicto sino una dirección.",
+      "practice": "Hoy sostené la mirada de alguien un poco más de lo habitual —quien te atiende en un negocio, un vecino, alguien que pasa— y sonreí. Merleau-Ponty lo llamaría intercorporeidad: los cuerpos se entienden antes de las palabras.",
+      "quote": null
+    },
+    "anger": {
+      "text": "Un fenomenólogo no preguntaría «¿por qué estoy enojado?» sino «¿cómo se me aparece el mundo ahora?». El enojo es un sentimiento vivo, y muchas veces habla de algo importante. Heidegger casi no escribió sobre el enojo directamente, pero si extendemos su análisis de la disposición afectiva, en el enojo el mundo aparece como algo que nos afecta, que nos «concierne». Lo que nos es indiferente no nos enoja; así que el enojo también es una forma de «cuidado». Merleau-Ponty llamaría la atención sobre el cuerpo: el enojo no es un pensamiento al que después se le sumaron sensaciones, sino toda una manera de estar en una situación: tensión, calor, disposición a actuar. El cuerpo «entendió» lo que pasaba como una transgresión antes de que alcanzaras a ponerlo en palabras. Aceptar el enojo no es avergonzarte de él, sino preguntar: ¿qué límite, qué valor está protegiendo ahora?",
+      "practice": "Poné la palma donde sentís el enojo con más fuerza en tu cuerpo y preguntate: «¿Qué me importa acá?».",
+      "quote": null
+    },
+    "shame": {
+      "text": "El cuerpo, notó Merleau-Ponty, ve y a la vez es visto: en cualquier momento podemos encontrarnos bajo la mirada de otro. Todos conocen el instante en que esa mirada de repente quema. La vergüenza es el momento en que el cuerpo de golpe se siente expuesto, convertido en objeto, y querés desaparecer. Heidegger agregaría el concepto de «el uno» (das Man) —el «se» impersonal, «lo que se hace»—: muchas veces no nos avergonzamos ante una persona concreta sino ante un anónimo «eso no se hace». Vale preguntarte: ¿de quién es esta vara, tuya o de «la gente» en general? La vergüenza no te hace peor; muestra lo mucho que te importa estar entre otros. Y a veces alcanza con notar que esa mirada todavía no es el mundo entero.",
+      "practice": "Imaginá concretamente a la persona ante la que sentís vergüenza: una cara, un nombre. Ahora intentá imaginar «qué va a decir la gente»: esa voz no tiene cara. Heidegger la llamó «el uno»: nadie y todos a la vez.",
+      "quote": null
+    },
+    "guilt": {
+      "text": "La «llamada de la conciencia», para Heidegger, llama en silencio: no enumera nada, no acusa a nadie, y simplemente devuelve a la persona a su propia vida. La culpa pesa, pero no te hace una mala persona. Heidegger distinguía la culpa cotidiana —una deuda, una falta— de un «ser-culpable» (Schuldigsein) más hondo que, según él, le pertenece al ser humano como tal. Al elegir una cosa, inevitablemente no elegimos otra; no podemos hacerlo todo, y nunca empezamos de cero. Ser humano es ser finito y quedarse siempre corto en algún lado. No es un veredicto sino una liberación de la ilusión de no tener fallas. Podés escuchar la culpa, reparar lo que de verdad se puede reparar, y soltar la exigencia de ser infinito.",
+      "practice": "Quedate un minuto en silencio y escuchá la «llamada» sin palabras: no «¿qué hice mal?» sino «¿a qué vida mía me está llamando de vuelta esta culpa?». Después repará una cosa que de verdad se pueda reparar.",
+      "quote": null
+    },
+    "envy": {
+      "text": "«Cada cual es el otro y ninguno él mismo»: así describió Heidegger la vida en el «uno» impersonal. Cuando la envidia pica, nos estamos mirando con ojos ajenos. Heidegger describió la vida cotidiana como un estar absorbido en el «uno» (das Man), el «se» impersonal: nos comparamos todo el tiempo, averiguamos cómo vive «todo el mundo» y nos medimos con varas ajenas. Llamó a esto «distancialidad» (Abständigkeit): una preocupación callada, casi imperceptible, por la distancia entre nosotros y los demás. La envidia es señal de que por un rato estás viendo tu propia vida con los ojos de otros. Pero también guarda una pista: la envidia señala lo que querés. Heidegger hablaba de «autenticidad» (Eigentlichkeit): una vida que entendés como propia, no como copia de un molde común. Entonces la envidia deja de ser un reproche y se vuelve una pregunta: ¿qué quiero yo, y no «se»?",
+      "practice": "Nombrá en voz alta qué envidiás, y reformulalo: «Me gustaría…». ¿Ese deseo es tuyo, o de «el uno»?",
+      "quote": null
+    },
+    "emptiness": {
+      "text": "Heidegger una vez miró largo rato una jarra común y concluyó que no contiene por sus paredes ni por su base, sino por su vacío: el vacío es lo que recibe y guarda. Si ahora te sentís vacío y sin fuerzas, ese pensamiento puede ser inesperadamente amable. Heidegger describió momentos en que las cosas dejan de llamarnos y de significar algo, y todo «se vuelve indiferente». Para él esos estados no son solo una falla: en ellos se asoma algo que por lo general está oculto: que el mundo como un todo descansa en nuestro involucramiento. Merleau-Ponty nos recordaría que el sentido nace en el cuerpo y en el movimiento, en los gestos más simples. A veces la salida del vacío no empieza con una gran idea, sino con un pequeño contacto corporal con el mundo: una taza caliente, unos pasos, un sonido. El vacío no es una respuesta final sino un mundo que se quedó callado por un tiempo.",
+      "practice": "Serví agua o té en una taza y sostenela entre las palmas, mirando el vacío que contiene. Quedate medio minuto con ese calor, sin exigirte nada.",
+      "quote": null
+    },
+    "confusion": {
+      "text": "Holzwege, «Caminos de bosque»: Heidegger tituló así un libro por las sendas de los leñadores que se cortan en la espesura; quien las conoce sabe lo que significa estar en uno de esos caminos. Si estás confundido, estás en uno: una reacción honesta ante un mundo que dejó de tener sentido. Heidegger describió cómo solemos vivir «absorbidos en nuestros quehaceres»: las cosas están «a la mano» (zuhanden), las usamos sin pensar, como un martillo en la mano. Solo cuando algo se rompe la cosa de repente se vuelve notoria y extraña. La confusión es como esa rotura de lo conocido: lo que antes funcionaba «solo» dejó de funcionar. Es incómodo, pero es justamente entonces cuando se deja ver la estructura misma de tu vida, que por lo general es invisible. La confusión no es un fracaso sino un momento en que podés mirar con ojos nuevos lo que te importa.",
+      "practice": "Salí a caminar un rato sin meta ni recorrido: que sea tu propio «camino de bosque». En el camino, nombrate una cosa que dejó de funcionar «sola», sin buscar todavía una solución.",
+      "quote": null
+    },
+    "fatigue": {
+      "text": "Heidegger contempló los zapatos pintados por Van Gogh: desde su interior oscuro y gastado, escribió, mira fijamente la fatiga de los pasos del trabajo. Si estás agotado, tu cuerpo habla ese mismo idioma. Merleau-Ponty mostró que el cuerpo no es una herramienta manejada por la mente, sino nuestra manera de estar en el mundo: es a través del cuerpo que tenemos un mundo en absoluto. En la raíz de nuestra experiencia veía un «yo puedo» corporal: la capacidad de alcanzar, de caminar, de encarar algo. Cuando el cuerpo está cansado, el mundo literalmente cambia: las distancias se alargan, las tareas pesan más, el «yo puedo» se vuelve «no puedo». El cansancio no es un enemigo a vencer sino una señal de tu existencia encarnada: no sos una máquina, y tu mundo puede achicarse por un tiempo para que te recuperes.",
+      "practice": "Preguntale a tu cuerpo, no a tu mente: «¿Qué querés ahora?», y registrá la primera respuesta, aunque sea muy simple.",
+      "quote": {
+        "text": "No estoy delante de mi cuerpo, estoy en mi cuerpo, o mejor, soy mi cuerpo.",
+        "author": "Maurice Merleau-Ponty",
+        "source": "Fenomenología de la percepción (1945)"
+      }
+    },
+    "boredom": {
+      "text": "Una estación de un ramal adormecido, cuatro horas hasta el tren, y vos contando los árboles a lo largo del camino y mirando el reloj una y otra vez: Heidegger empezó su famoso análisis del aburrimiento con esta escena. Le dedicó buena parte de su curso Los conceptos fundamentales de la metafísica (1929–1930) a este tema en apariencia trivial. Distinguía el aburrimiento superficial —como en aquella estación— del «aburrimiento profundo», cuando todo a la vez se vuelve indiferente, incluidos nosotros mismos. En el aburrimiento profundo el tiempo parece detenerse, y nos encontramos frente a lo que por lo general tapamos con una ocupación constante. Para Heidegger no es una pérdida de vida sino uno de los «temples fundamentales», que puede despertar una pregunta: ¿para qué quiero vivir, en realidad? El aburrimiento no tiene que llenarse enseguida con algo. Podés darle un poco de espacio, y ver qué abre.",
+      "practice": "La próxima vez que te aburras, esperá dos minutos antes de agarrar el celular. ¿Qué aparece en esa pausa?",
+      "quote": {
+        "text": "El aburrimiento profundo, que va de acá para allá en los abismos de la existencia como una silenciosa niebla, confunde a todas las cosas, a los hombres y a uno mismo en una extraña indiferencia.",
+        "author": "Martin Heidegger",
+        "source": "¿Qué es metafísica? (1929)"
+      }
+    },
+    "joy": {
+      "text": "En Friburgo, en 1929, en una conferencia sobre la nada y la angustia, Heidegger de pronto habló de la alegría: la alegría ante la presencia de alguien a quien amamos; en ella, dijo, se revela «el ente en su totalidad». Tu alegría es un conocimiento del mundo tan real como la angustia. Dicho de otro modo, la alegría no es una emoción superficial sino una manera en que el mundo de golpe aparece entero, cercano y abierto. Merleau-Ponty mostraría cómo la alegría cambia el cuerpo: se vuelve liviano, los movimientos se sueltan, todo parece al alcance de la mano. Es el «yo puedo» corporal en su plenitud. Aceptar la alegría no es desvalorizarla con pensamientos como «esto no va a durar» o «no me lo merezco», sino dejar que sea una experiencia plena del mundo. La alegría no necesita justificación ni tiene que «pagarse sola».",
+      "practice": "¿En qué parte del cuerpo sentís la alegría? Dejá la atención ahí durante tres respiraciones tranquilas, solo para que la alegría quede registrada.",
+      "quote": null
+    },
+    "love": {
+      "text": "Un puente, escribió Heidegger, no solo conecta orillas que ya estaban ahí: las orillas recién surgen como orillas cuando el puente cruza la corriente. La ternura es un puente así, una de las maneras más hondas de estar con otro. Hablando de la «solicitud» (Fürsorge), el cuidado por el otro, Heidegger distinguía dos formas extremas. Una, por así decir, salta en su lugar y le quita sus preocupaciones, volviéndolo dependiente sin que se note. La otra se le «anticipa» y le devuelve su propio cuidado, ayudándolo a llegar a ser sí mismo. La ternura madura está más cerca de la segunda, la que libera. Merleau-Ponty mostraría que el amor empieza en el cuerpo: en una caricia, el que «toca» y el que «es tocado» se entrelazan, y el límite entre «yo» y «vos» se vuelve permeable. Amar es ser vulnerable, y no hay debilidad en eso.",
+      "practice": "Cuando hoy toques a alguien cercano —una mano en el hombro, un abrazo—, quedate un segundo más y fijate cómo se entrelazan el que «toca» y el que «es tocado». Preguntate: ¿mi cuidado lo ayuda a ser quien es?",
+      "quote": null
+    },
+    "gratitude": {
+      "text": "Denken ist Danken, «pensar es agradecer»: el Heidegger tardío hizo de este juego de palabras alemán una clave de sus lecciones ¿Qué significa pensar? (1951–1952). La gratitud que sentís ahora es, según él, un recibir atento de lo que nos es dado. No es una fórmula de cortesía sino una manera de ver: las cosas no se dan por sentadas; nos son dadas. Merleau-Ponty agregaría que recibimos el mundo desde el principio —a través del cuerpo, la percepción, el lenguaje, otras personas— antes de hacer nada por nuestra cuenta. La gratitud, entonces, es un reconocimiento de nuestro arraigo en el mundo. No hace falta ganársela ni convertirla en una deuda; podés simplemente dejarla ser.",
+      "practice": "Nombrá una cosa de hoy que por lo general das por sentada, y decite: «Esto me fue dado».",
+      "quote": null
+    },
+    "hope": {
+      "text": "«Poder-ser» (Seinkönnen): así entendía Heidegger a la persona: no un conjunto de propiedades fijas sino un espacio abierto de lo que todavía puede llegar a ser. Si tenés esperanza aunque mucho no esté claro, estás viviendo justamente en ese espacio. Heidegger creía que el ser humano está por naturaleza orientado hacia adelante: lo llamó «anticiparse-a-sí». Siempre vivimos ya en nuestras posibilidades, no solo en lo que está acá ahora. También escribió sobre la finitud de la vida, pero para él entender que el tiempo no es infinito no hace a la vida menos valiosa sino más: nos devuelve a lo que de verdad importa. La esperanza es la expresión de que sos un ser de posibilidades. Podés atesorarla sin exigirle garantías.",
+      "practice": "Tres veces, decí en voz alta: «Soy alguien para quien todavía es posible…», y terminalo de manera distinta cada vez, aunque sea con lo más pequeño.",
+      "quote": null
+    },
+    "nostalgia": {
+      "text": "Un olor, una melodía o un sabor de repente te devuelven un mundo entero: Merleau-Ponty veía en esto una memoria corporal, no solo pensamiento. Un dolor tierno por el pasado dice mucho de vos, y no hay por qué avergonzarse. Heidegger subrayaba que para el ser humano el pasado no es simplemente lo que se fue y terminó. Lo llamó «haber-sido» (Gewesenheit): nuestro pasado sigue viviendo en nosotros y da forma a cómo vemos el presente y qué esperamos del futuro. Estamos «arrojados» a una historia, una lengua, una familia, unas tradiciones, y las llevamos con nosotros. La nostalgia no es una huida de la vida sino un encuentro con lo que te hizo. Podés recibirla como una mirada agradecida hacia atrás de la que sacar fuerzas.",
+      "practice": "Buscá hoy un olor, un sabor o un sonido de aquella época —un té, una canción, un jabón— y dejá que tu cuerpo recuerde. ¿Qué de aquel mundo te gustaría traer al hoy?",
+      "quote": null
+    },
+    "craving": {
+      "text": "En Ser y tiempo Heidegger examinó brevemente el «impulso» y la «propensión» (Drang, Hang) como modificaciones del cuidado, y notó que en ellos el mundo se estrecha: de todas las posibilidades queda una sola, y parece tirar de vos hacia ella. Un «lo quiero ya mismo» intenso no es motivo de vergüenza: así es como el cuerpo y el hábito nos tiran hacia un alivio conocido. Merleau-Ponty agregaría que las ganas viven en el cuerpo antes que en el pensamiento: la mano, la respiración, la mirada ya están vueltas hacia el objeto. Así que las ganas no son tu «verdadero deseo» ni un veredicto, sino una ola de disposición corporal. Como toda disposición afectiva, sube, llega a su pico y cambia. Podés notarla sin discutir con ella ni ceder enseguida, y mirar cómo el mundo de a poco vuelve a ensancharse.",
+      "practice": "Describí las ganas como una sensación corporal: ¿dónde están en tu cuerpo, cómo son: calientes, apretadas, pulsantes? Observá durante un par de minutos cómo cambia su fuerza y cómo el mundo vuelve despacio a ensancharse.",
+      "quote": null
+    },
+    "addiction": {
+      "text": "Una mecanógrafa no recuerda dónde están las letras en el teclado: lo saben sus dedos. Para Merleau-Ponty, el hábito es un saber que vive en el cuerpo. Por eso la adicción no es un fracaso moral ni una «debilidad de carácter». De la misma manera, un ciclo de adicción de larga data queda escrito en el cuerpo, en la rutina diaria, en los recorridos, en cómo es una noche o un viernes. Heidegger probablemente agregaría que todo el mundo queda «templado» alrededor de una sola cosa: los objetos y las horas cobran sentido en relación con ella. Eso explica por qué salir es tan difícil: no cambia un hábito sino un mundo entero. Pero de la misma idea se desprende la esperanza: si el cuerpo una vez aprendió, también puede volver a aprender: despacio, repitiendo, con el sostén de otros. Es un camino, no una sola decisión.",
+      "practice": "Registrá un lugar o un momento del día especialmente «templado» para el ciclo conocido, y cambiá de lugar la cosa más chiquita que haya ahí. Si querés, contáselo a alguien: una persona cercana, o un grupo de ayuda mutua (como AA o NA).",
+      "quote": null
+    },
+    "hangover": {
+      "text": "Un fenomenólogo preguntaría: ¿cómo se te aparece el mundo ahora, y cuánto de ese color viene de tu cuerpo y no de la verdad sobre vos? Te duele el cuerpo, suben la ansiedad, la vergüenza y fragmentos de la noche, y todo eso merece suavidad, no un veredicto. Merleau-Ponty mostró que en la vida común el cuerpo es «transparente»: vivimos a través de él sin notarlo; miramos con los ojos, no los ojos. En la resaca el cuerpo de repente pasa al primer plano —pesado, ajeno, exigiendo atención—, y el mundo alrededor también parece opaco y áspero. Heidegger nos recordaría que el estado de ánimo tiñe todo a la vez: la noche anterior, a uno mismo y el futuro. El bajón de la mañana no es la verdad final sobre vos, sino un estado de ánimo que va a pasar. Mientras tanto, podés simplemente cuidar el cuerpo que ahora se hace notar tanto.",
+      "practice": "Salí un par de minutos al aire libre y sentí cómo tu cuerpo vuelve a ser «transparente», aunque sea por unos pasos: el piso bajo los pies, el aire en la cara.",
+      "quote": null
+    },
+    "euphoria": {
+      "text": "Heidegger escribió que un «temple elevado» nos quita de encima la carga del ser: el peso que por lo general llevamos sin notarlo. Un estallido en el que todo parece alcanzable ya mismo es una experiencia real, y no hace falta sospechar de ella enseguida. En esos momentos el mundo se abre de otra manera: las distancias se acortan, todo parece alcanzable, el futuro abierto de par en par. Para un fenomenólogo no es una ilusión sino una de las maneras en que el mundo puede sernos dado. Merleau-Ponty agregaría que el subidón se siente en el cuerpo: liviandad en los movimientos, habla rápida, ganas de abarcarlo todo a la vez. Entender esto sirve no para arruinar el momento sino para vivirlo con atención: recordar cómo se ve el mundo bajo esta luz, y notar cuáles de las posibilidades que se abrieron vas a querer poner a prueba una mañana tranquila.",
+      "practice": "Escribí en una línea cómo se ve el mundo bajo esta luz y qué parece posible. Releelo más tarde, con un ánimo común, como un fenomenólogo que compara dos maneras en que el mundo puede ser dado.",
+      "quote": null
+    },
+    "crash": {
+      "text": "Un estado de ánimo, decía Heidegger, no se apaga con un acto de voluntad: solo puede ser reemplazado por otro, un contratemple. Cuando el subidón se fue, la caída puede ser muy dura, y no es culpa tuya. Heidegger escribió que en nuestros estados de ánimo se nos abre, de una manera u otra, el carácter de «carga» de la existencia: la vida tiene que ser llevada. Un temple elevado quita esa carga por un tiempo, pero no la anula; cuando el subidón se va, el peso se siente con más fuerza, por contraste. Lo importante es que la bajada también es una disposición afectiva, no la verdad final sobre el mundo. Y el cambio no llega por la fuerza, sino por el cuerpo y las tareas simples. Merleau-Ponty nos recordaría: el mundo vuelve a nosotros a través del movimiento: un paso, una respiración, una mirada por la ventana.",
+      "practice": "Sin exigirte levantar el ánimo, hacé un movimiento simple —estirarte, dar una vuelta por la habitación, abrir una ventana— y fijate qué cambió, aunque sea un uno por ciento.",
+      "quote": null
+    },
+    "panic": {
+      "text": "Merleau-Ponty mostró que nos encontramos a nosotros mismos ante todo a través del cuerpo: el apoyo de los pies, la posición de las manos, los límites de la piel. Cuando el corazón golpea y la respiración se corta, ese apoyo parece escurrirse. Este miedo es real, y no estás exagerando nada. Heidegger describió cómo en el miedo intenso una persona «pierde la cabeza»: la atención salta de una cosa a otra sin agarrarse de nada, y el mundo conocido parece desarmarse. Por eso la respuesta fenomenológica es simple y corporal: no discutas con tus pensamientos, sino traé el mundo de vuelta hacia vos a través del cuerpo, a través de lo que podés sentir y nombrar. Una ola de pánico suele llegar a su pico y bajar en pocos minutos; un cuerpo que siente el piso bajo los pies te ayuda a esperar a que pase.",
+      "practice": "Apoyá los dos pies en el piso y presioná las palmas contra las rodillas: devolvete los límites de tu cuerpo. Hacé algunas respiraciones con la exhalación más larga que la inhalación, y nombrá en voz alta cinco objetos que puedas ver.",
+      "quote": null
+    },
+    "dread": {
+      "text": "«¿Por qué es en general el ente y no más bien la nada?»: Heidegger cerró su conferencia «¿Qué es metafísica?» con esta pregunta, diciendo que surge justamente cuando, en la angustia, todo se escurre. Si te golpeó la pregunta «¿para qué todo esto?» y tenés a la vista el abismo de la finitud, es una de las experiencias más duras que existen. Heidegger no la consideraba una enfermedad de la mente. También subrayaba que saber de nuestra finitud hace que la vida sea verdaderamente nuestra. Como el tiempo no es infinito, cada «ahora» tiene peso y no va a volver. El vértigo es el reverso del asombro de que el mundo y vos existan en absoluto. Esta pregunta no hace falta resolverla esta noche. Podés dejarla ser, y notar que la hacés como alguien vivo, en un mundo vivo.",
+      "practice": "Encontrá una cosa cerca tuyo que sea asombrosa simplemente porque existe: la luz, un sonido, tu propia respiración. Mirala durante un minuto, como si le hicieras la pregunta de Heidegger.",
+      "quote": null
+    },
+    "fomo": {
+      "text": "Mucho antes de las redes, Heidegger describió la «curiosidad» (Neugier): un afán de ver lo nuevo por la novedad misma, que salta de una cosa a otra y nunca se demora: estar en todas partes y en ninguna a la vez. Cuando el feed muestra a otros viviendo con más intensidad y parece que vos estás en el lugar equivocado, desgasta. Y la «habladuría» (Gerede) crea la sensación de que todos ya saben dónde está la vida real, y que está en algún lugar allá afuera. Es la voz anónima de «el uno» (das Man): no la opinión concreta de alguien, sino un impersonal «así se vive». El miedo a perderte algo no es señal de que tu vida sea peor, sino la huella de una mirada dispersa. Su contrario es demorarse: la vida pasa donde de verdad estás.",
+      "practice": "Elegí una cosa cerca tuyo y demorate en ella dos minutos: mirala como si fuera la primera vez. ¿Qué notaste que antes no habías visto?",
+      "quote": null
+    },
+    "sleepless": {
+      "text": "Me acuesto, cierro los ojos, respiro despacio, imitando a alguien que duerme, y en algún momento el sueño «llega», como el dios se les aparecía a quienes representaban sus misterios: así describió Merleau-Ponty, en la Fenomenología de la percepción, el quedarse dormido. El insomnio y los pensamientos de las tres de la mañana agotan, y enojarte con vos mismo solo suma peso. El sueño no se atrapa con la voluntad; solo el cuerpo puede invitarlo. Y los pensamientos nocturnos, desde el punto de vista de Heidegger, pueden entenderse como una disposición afectiva particular: en la oscuridad, cuando no se puede hacer nada, el mundo se reduce a preocupaciones, y cada una parece enorme. A la mañana, el mismo pensamiento muchas veces pesa distinto. Así que no hace falta discutir con las conclusiones nocturnas: alcanza con no tomarlas como definitivas y dejar que el cuerpo haga el papel del que duerme.",
+      "practice": "Acostate cómodo y «hacé de cuenta» que dormís: aflojá la cara, hacé más lenta la respiración, alargá la exhalación. No esperes el sueño: solo interpretá el papel.",
+      "quote": null
+    },
+    "betrayal": {
+      "text": "Un martillo que funciona pasa desapercibido, observó Heidegger: «desaparece» en el trabajo y solo se hace notar cuando se rompe. La confianza funciona igual, y por eso la traición hiere tan hondo, y por eso el dolor tiene sentido. Heidegger escribió que siempre vivimos ya en un mundo compartido con otros (Mitsein), y que buena parte de ese mundo descansa en lo «dado por sentado»: en una confianza que no notamos, como no notamos el piso bajo los pies. La traición hiere más que los sentimientos: rompe ese fondo inadvertido, y de repente todo lo conocido queda en duda: conversaciones pasadas, recuerdos compartidos, tu propia capacidad de confiar. Merleau-Ponty agregaría que la confianza es corporal: vive en los hombros relajados al lado de una persona, en la costumbre de girarse hacia ella. Tu desconcierto no es ingenuidad, sino la prueba de lo genuina que era tu apertura.",
+      "practice": "Nombrá una persona o un lugar donde tu confianza sigue intacta. Quedate un minuto con esa sensación de sostén.",
+      "quote": null
+    },
+    "jealousy": {
+      "text": "Incluso la persona más cercana, para Merleau-Ponty, se nos da solo desde un lado, como una casa que nunca podés ver desde todos lados a la vez. Los celos son un tormento, y muchísima gente los conoce. Veo su cara y sus gestos, escucho sus palabras, pero su mundo, su percepción, su vida desde adentro nunca puedo vivirlos por ella. Esto no es una falla de la relación sino la condición misma del encuentro: el otro no es un objeto sino otro punto de vista sobre el mundo. Los celos pueden entenderse como un encuentro doloroso con esa separación que no se puede quitar: querés que la persona que amás no tenga ningún lado oculto para vos. No hace falta avergonzarse de los celos: llevan un anhelo de cercanía, y el dolor de saber que la cercanía no anula la libertad del otro.",
+      "practice": "Recordá un momento en que alguien cercano te mostró un lado inesperado de sí, y fue algo bueno. Permitite notar que su separación también puede traer alegría.",
+      "quote": null
+    },
+    "resentment": {
+      "text": "Merleau-Ponty notó que el pasado se asienta en el cuerpo: en una mandíbula que se aprieta al oír un nombre, en la desconfianza, en gestos habituales de defensa. Una ofensa vieja pesa, la cargás durante años, y eso significa que algo de verdad te importaba. Heidegger creía que el pasado no queda atrás como una estación por la que ya pasamos: somos nuestro «haber-sido» (Gewesenheit); sigue sonando en el presente y en cómo esperamos el futuro. El resentimiento es el pasado que se quedó presente porque la herida nunca fue reconocida. Así que no tenés que obligarte a «soltarlo». Para empezar, podés reconocerlo y notar dónde vive en tu cuerpo. Un dolor que fue reconocido deja de a poco de ser la única manera de recordar.",
+      "practice": "Recordá la ofensa y preguntate: ¿dónde está ahora en mi cuerpo? Apoyá ahí la palma y hacé algunas exhalaciones tranquilas.",
+      "quote": null
+    },
+    "heartbreak": {
+      "text": "Una persona que perdió un brazo lo sigue sintiendo durante mucho tiempo: Merleau-Ponty explicaba el «miembro fantasma» porque el cuerpo sigue orientado hacia un mundo en el que ese brazo hacía falta. Un corazón roto es un dolor igual de real, y no hace falta avergonzarse de su fuerza. Una ruptura se puede entender de la misma manera. Tu cuerpo y tus costumbres todavía viven en el mundo compartido: la mano busca el celular, los ojos buscan una silueta conocida, la noche sigue organizada para dos por costumbre. Por eso una ruptura duele tanto tiempo: el mundo no se reacomoda en un día. No es «aferrarse al pasado» sino el trabajo lento de un cuerpo y un mundo que aprenden a vivir de nuevo.",
+      "practice": "Fijate en una costumbre que todavía «espera» a la otra persona. No te retes por eso: solo nombrala con suavidad: «mi cuerpo todavía recuerda».",
+      "quote": null
+    },
+    "impostor": {
+      "text": "Cézanne dudó de cada tela hasta el final de su vida: Merleau-Ponty escribió todo un ensayo, «La duda de Cézanne», sobre eso. Si sentís que están por descubrirte, estás en buena compañía: este miedo visita sobre todo a la gente concienzuda. Heidegger describió la autoridad anónima de «el uno» (das Man): «así se hace», «esto es lo que se espera», «los verdaderos profesionales no cometen esos errores». Detrás de esa voz no hay nadie en particular, pero nos medimos con ella sin querer. El síndrome del impostor puede entenderse como compararte desde adentro —con todas tus dudas— con un «ellos» sin rostro, afuera, que en apariencia no tiene dudas. Merleau-Ponty agregaría que la destreza vive en el cuerpo y en la práctica, no en una sensación de seguridad: tus manos muchas veces saben más de lo que tu cabeza está dispuesta a admitir.",
+      "practice": "Ahora mismo hacé algo chiquito que sepas hacer, con las manos y no en la cabeza: tipear un párrafo, arreglar algo, cocinar. Fijate cómo tus manos saben más de lo que tu cabeza está dispuesta a admitir.",
+      "quote": null
+    },
+    "self_hatred": {
+      "text": "Un fenomenólogo preguntaría sobre el crítico interior: ¿con la voz de quién habla? Cuando esa voz es despiadada, merecés suavidad, no otro veredicto más. Heidegger tiene el concepto de «la llamada de la conciencia», y ayuda a distinguir algo importante. La llamada genuina, para Heidegger, no enumera nada ni marca a nadie: llama en silencio a la persona hacia sus propias posibilidades, a ser ella misma. Consideraba una deformación la comprensión cotidiana de la conciencia como un registro de faltas. Y la voz que insiste en que «no valés nada» más bien habla el idioma de «el uno» (das Man): varas, juicios y comparaciones ajenos, absorbidos en algún momento. Es fuerte, pero no es tu voz más honda. Su veredicto no es la verdad sobre vos. Debajo hay otra llamada, callada: no al castigo, sino a la vida.",
+      "practice": "Decí en voz alta una de las frases de tu crítico interior y preguntate: «¿Con la voz de quién dice esto? ¿Dónde lo escuché antes?». Después quedate en silencio un minuto y escuchá la otra llamada, la callada.",
+      "quote": null
+    },
+    "helplessness": {
+      "text": "«Yo puedo»: así llamaba Merleau-Ponty al fundamento mismo de la conciencia, más hondo que cualquier «yo pienso». Cuando parece que nada depende de vos, ese «puedo» se reduce a un punto, y es muy duro. Heidegger hablaba de la «condición de arrojado» (Geworfenheit): siempre nos encontramos ya en una situación que no elegimos: en un cuerpo, en una historia, en unas circunstancias. No es culpa tuya sino una condición humana compartida. Merleau-Ponty describía el cuerpo como un «yo puedo» primario: el mundo es para nosotros un campo de lo que podemos alcanzar, lo que podemos agarrar, adónde podemos ir. Pero ese campo no desaparece del todo: incluso en la situación más estrecha algo queda al alcance: acomodar una almohada, abrir una ventana, escribir una palabra. No tenés que cambiarlo todo a la vez. Podés empezar por devolverle a tu cuerpo aunque sea un pequeño «yo puedo».",
+      "practice": "Buscá una acción muy chiquita al alcance de tu brazo y hacela despacio, registrando: «Esto lo logré».",
+      "quote": null
+    },
+    "procrastination": {
+      "text": "Schneider, el paciente de Merleau-Ponty, no podía señalarse la nariz cuando se lo pedían, pero se la rascaba sin problema cuando lo picaba un mosquito. Si no podés arrancar, pasa algo parecido: la cabeza da una orden y el cuerpo no responde, y casi nunca se trata de vagancia. Heidegger observó que entendemos el mundo ante todo no con los ojos de un observador sino al tratar con las cosas: una herramienta se entiende de verdad cuando trabajás con ella, no cuando pensás en ella. Merleau-Ponty agregaría que el cuerpo entiende una tarea en cuanto empieza a moverse: los dedos en el teclado, un cuaderno abierto, una herramienta en la mano ya sugieren el paso siguiente. Podés empezar no con determinación sino con el contacto: no «hacerlo todo», sino simplemente agarrar la cosa. La comprensión muchas veces llega en el camino.",
+      "practice": "Sin empezar el trabajo, solo preparalo con el cuerpo: abrí el archivo, apoyá la lapicera en la hoja, agarrá la herramienta. Quedate así un minuto, sin obligación de seguir.",
+      "quote": null
+    },
+    "uprooted": {
+      "text": "A un organista, escribió Merleau-Ponty, le alcanza una hora para acostumbrarse a un órgano desconocido: las manos y los pies aprenden de nuevo dónde está cada cosa. Después de una mudanza tenés que aprender todo a la vez, y el suelo parece irse de abajo de los pies: no es un capricho. Merleau-Ponty mostró que el espacio no es para nosotros un mapa sino un mundo habitado: el cuerpo sabe dónde está la llave de la luz, cómo llegar al almacén, cómo suena tu lengua materna. Heidegger pensó mucho sobre el «habitar» (Wohnen): para él, vivir no es solo estar en algún lugar, sino habitar un lugar con cuidado. Tu sensación de estar perdido no es un fracaso sino una respuesta honesta a la pérdida de un mundo habitado. El hogar no es solo una dirección: vuelve a crecer a partir de costumbres, recorridos y personas.",
+      "practice": "Elegí un rincón chiquito en el lugar nuevo —un banco, un café, un recorrido— y empezá a volver a él. Sentirse en casa empieza por la repetición.",
+      "quote": {
+        "text": "La falta de patria se está convirtiendo en un destino mundial.",
+        "author": "Martin Heidegger",
+        "source": "Carta sobre el humanismo (1947)"
+      }
+    },
+    "overload": {
+      "text": "El Rin, escribió Heidegger, para la técnica ya no es el río de los poemas de Hölderlin, sino un proveedor de energía hidroeléctrica. Cuando el feed interminable te agota, no es que «no des abasto». El Heidegger tardío escribió sobre la «estructura de emplazamiento» (Gestell): una organización del mundo técnico en la que todo, incluidos los seres humanos y su atención, se vuelve un recurso para usar. Un torrente de notificaciones es una buena ilustración: exige reacción todo el tiempo. Sin embargo, en su discurso «Serenidad» (Gelassenheit) propuso decirles a la vez «sí» y «no» a las cosas técnicas: usarlas, pero no dejar que nos atrapen por completo. Estar cansado del ruido es una respuesta sana: algo en vos se resiste a ser convertido en recurso. Podés permitirte pequeñas islas de serenidad, donde las cosas vuelvan a significar algo en sí mismas.",
+      "practice": "Dejá el celular boca abajo durante dos minutos y mirá una cosa de la habitación como si no hiciera falta sacarle una foto ni calificarla.",
+      "quote": null
+    },
+    "unreality": {
+      "text": "«El mundo no es lo que pienso, sino lo que vivo», escribió Merleau-Ponty en el prólogo de la Fenomenología de la percepción. Cuando todo a tu alrededor, o vos mismo, parece irreal, es extraño y da miedo, y cuesta ponerlo en palabras. Merleau-Ponty llamaba «fe perceptiva» a nuestra certeza habitual sobre el mundo: antes de cualquier prueba, vivimos con la sensación de que las cosas existen, de que son sólidas y reales. Esa fe no descansa en la lógica sino en el cuerpo, y por eso a veces puede debilitarse, como si apareciera un vidrio entre vos y el mundo. La fenomenología empieza justamente donde lo que por lo general pasa desapercibido se vuelve notorio: una experiencia así, por dura que sea, muestra qué fina es la trama de nuestro vínculo con el mundo. Merleau-Ponty subrayaba que ese vínculo vive en la sensación: en el tacto, el peso, la temperatura, el sonido. El mundo le responde al cuerpo antes que a la mente.",
+      "practice": "Agarrá un objeto con una textura marcada —una taza fresca, una tela áspera— y describite en voz alta su peso, su temperatura y su superficie.",
+      "quote": null
+    },
+    "awe": {
+      "text": "Un templo griego, escribió Heidegger, se alza sobre la roca y resiste la tormenta, y justamente así hace visible por primera vez la tormenta en toda su violencia. El asombro ante las montañas, el mar, el cielo nocturno o la música es esa misma clase de mostrarse del mundo, y una de las experiencias más valiosas. Heidegger consideraba el asombro uno de los temples originarios de los que nace el pensamiento mismo: ya los griegos decían que la filosofía empieza con el asombro. En el asombro el mundo no solo se percibe, sino que aparece en todo su inesperado estar dado, como si se mostrara por primera vez. Merleau-Ponty veía la tarea de la filosofía en devolvernos esa mirada fresca, escondida detrás de la costumbre. El asombro no es un sentimentalismo pasajero sino un momento en que la mirada se aclara. Podés simplemente permitírtelo.",
+      "practice": "Quedate un minuto más con lo que te llenó de asombro, sin sacarle una foto ni describirlo. Solo dejá que sea más grande que vos.",
+      "quote": {
+        "text": "La verdadera filosofía consiste en volver a aprender a ver el mundo.",
+        "author": "Maurice Merleau-Ponty",
+        "source": "Fenomenología de la percepción (1945)"
+      }
+    },
+    "relief": {
+      "text": "Recién cuando te sacan el peso de encima podés ver cuánto venías cargando: así describiría un fenomenólogo este momento. Es una de las sensaciones más benditas, y vale la pena vivirla sin apuro. Cada estado de ánimo, para Heidegger, abre el mundo a su manera, y el alivio lo hace de un modo especialmente elocuente. El mundo vuelve a ser espacioso, el futuro abierto. Merleau-Ponty llamaría la atención sobre el cuerpo: el alivio casi siempre es corporal: los hombros bajan, la respiración se hace más honda, la cara se alisa. Es el cuerpo volviendo a un mundo del que la tensión lo había expulsado. Así que el alivio no es una pavada después de la cual hay que salir corriendo, sino un momento en que el cuerpo y el mundo se vuelven a encontrar. Dejalo durar: notalo mientras está.",
+      "practice": "Fijate en qué parte del cuerpo sentís el alivio: en los hombros, en la respiración, en la panza. Hacé una exhalación lenta, como confirmando: «sí, ahora es más fácil».",
+      "quote": null
+    },
+    "calm": {
+      "text": "Un roble viejo, un banco de madera, el paso de las estaciones y un sendero entre los campos que Heidegger recorría desde chico: de eso trata su breve texto «El camino de campo» (1949). La calma que sentís ahora no necesita ganarse ni justificarse. Un camino así, escribió, enseña algo simple: lo que queda cuando se apaga el ajetreo. Para Heidegger, la calma no es vacío ni inacción sino una apertura especial: las cosas dejan de ser tareas y vuelven a ser simplemente cosas. Merleau-Ponty agregaría que la calma se siente en el cuerpo como un acuerdo con el ritmo del mundo: la respiración acompasa el paso, la mirada no tiene apuro. La calma no es ausencia de vida, sino vida que no necesita demostrar su valor. Podés simplemente permitírtela.",
+      "practice": "Caminá despacio unos minutos por un recorrido conocido —un patio, una calle, un pasillo— como por el camino de campo de Heidegger, dejando que la respiración acompase el paso. No pienses en tareas; solo caminá.",
+      "quote": null
+    },
+    "inspiration": {
+      "text": "En el bosque, el pintor André Marchand sintió más de una vez que no era él quien miraba los árboles, sino los árboles los que lo miraban a él: Merleau-Ponty lo cita en «El ojo y el espíritu». La inspiración es un estado alegre y misterioso, y vale la pena cuidarlo. En ese ensayo, Merleau-Ponty escribió que el pintor transforma el mundo en pintura «prestando su cuerpo al mundo»: la inspiración no es un pensamiento que baja de arriba, sino un intercambio entre el cuerpo y el mundo. No es un mérito ni un accidente, sino un momento en que estás especialmente abierto a lo que te rodea. No hace falta retenerla a la fuerza: podés simplemente seguirla y prestar atención a lo que te muestra.",
+      "practice": "No anotes la idea entera: solo la primera imagen o frase que vino. Que sea un comienzo, no un resultado terminado.",
+      "quote": null
+    },
+    "schadenfreude": {
+      "text": "¿Nos estamos quedando atrás, alcanzando, adelantando? Heidegger notó que, viviendo entre otros, casi sin saberlo estamos siempre controlando esa distancia. Esa pequeña alegría por el fracaso ajeno es incómoda de notar en uno mismo, pero es muy humana y no dice nada definitivo sobre vos. Llamó a este rasgo del «ser-con-otros» cotidiano distancialidad. Alegrarse del mal ajeno es un destello de alivio dentro de esa comparación sin fin: la caída del otro achica por un momento la distancia que nos atormentaba. Es menos maldad que cansancio de una comparación a la que todos nos vemos arrastrados. Una vez que lo notás, podés aflojar un poco: tu vida no tiene por qué medirse por su distancia de los demás.",
+      "practice": "Preguntate: «¿Contra quién estoy midiendo siempre mi distancia?». Imaginá durante un minuto que esa regla no existe.",
+      "quote": null
+    },
+    "contempt": {
+      "text": "Pasamos uno al lado del otro, y el otro «no nos concierne»: así describió Heidegger los modos «deficientes» de la solicitud, los más comunes en la vida cotidiana. El desprecio es un sentimiento frío, no es fácil admitirlo en uno mismo, y no hace falta apurarse a juzgarte por él. Merleau-Ponty agregaría que percibimos a otra persona ante todo con el cuerpo —por sus gestos, su andar, su entonación— y la entendemos mucho antes de alcanzar a pensar. Quizá el desprecio sea una manera de alejar a alguien, de volverlo «algo que no me concierne», casi siempre porque algo en esa persona sí nos tocó. Preguntate no «¿quién es esta persona?» sino «¿qué respondió en mí a su gesto?».",
+      "practice": "Recordá exactamente qué gesto, tono o acto te hizo sentir desprecio. Nombrá qué tocó en vos.",
+      "quote": null
+    },
+    "disgust": {
+      "text": "El cuerpo, para Merleau-Ponty, «entiende» el mundo antes de cualquier razonamiento: sabe al instante hacia qué estirarse y ante qué retroceder. Es un sentimiento muy corporal, y no hay por qué avergonzarse de él. El asco es uno de esos sentidos corporales instantáneos. Cuando apunta a una situación o a personas, es el cuerpo diciendo «no puedo estar acá». Cuando apunta a vos mismo, quizá estás mirando tu cuerpo desde afuera, como un objeto, en lugar de vivir en él. Merleau-Ponty distinguía el «cuerpo-objeto», que se mira, del «cuerpo vivido», a través del cual vivimos. Podés volver a tu cuerpo desde adentro, en lugar de solo juzgarlo desde afuera.",
+      "practice": "Cerrá los ojos y sentí tus pies, tus palmas, tu respiración desde adentro: no cómo te ves, sino cómo estás. Durante un minuto.",
+      "quote": null
+    },
+    "revenge": {
+      "text": "«Fue»: leyendo a Nietzsche, Heidegger vio en la venganza la aversión de la voluntad justamente hacia esa palabra. Si te lastimaron y crece adentro tuyo una fuerza que reclama justicia, el deseo de venganza es comprensible. En su conferencia «¿Quién es el Zaratustra de Nietzsche?», Heidegger examina la idea nietzscheana del «espíritu de venganza». Según su lectura, la venganza es en el fondo la aversión de la voluntad contra el tiempo y su «fue»: no podemos cambiar el pasado, y esa impotencia busca una salida descargándose en alguien. El deseo de venganza no es crueldad, sino el tormento por un pasado que no se puede deshacer. Esto ayuda a ver que ninguna venganza va a deshacer lo que pasó. Pero podés buscar maneras de vivir con ese «fue»: protegiéndote, buscando justicia, dándole tiempo al dolor.",
+      "practice": "Decite en voz baja: «Pasó», y exhalá despacio, sin agregar juicios ni planes. Después decidí qué es lo más necesario ahora: protegerte, buscar justicia o darle tiempo al dolor.",
+      "quote": null
+    },
+    "anger_at_loved": {
+      "text": "Un estado de ánimo, escribió Heidegger, nos «asalta»: no lo elegimos, nos encontramos ya adentro, y tiñe el mundo entero. Cuando el enojo con los seres queridos se enciende y después llega la vergüenza, acordate: no sos una mala persona. Muchas veces traemos a casa un ánimo que se formó en otro lado, y entonces cualquier cosita que hace alguien querido se enciende bajo esa luz. Merleau-Ponty agregaría que con la familia vivimos en un espacio corporal compartido: sus movimientos, sus voces y sus costumbres nos rozan todo el tiempo, y un cuerpo cansado reacciona antes de que alcancemos a pensar. Un estallido no es la verdad sobre tu amor, sino sobre tu estado de ánimo y tu cansancio.",
+      "practice": "Después de un estallido, preguntate: «¿En qué estado de ánimo estaba antes de que esto pasara?». Nombralo con una palabra.",
+      "quote": null
+    },
+    "ambivalence": {
+      "text": "Merleau-Ponty se tocó la mano izquierda con la derecha y notó que no se puede ser a la vez el que toca y el tocado: la sensación va alternando. Querer a alguien y no soportarlo es así: difícil, pero muy humano. A la filosofía de Merleau-Ponty a veces se la llama «filosofía de la ambigüedad». Mostró que la ambigüedad no es un error del pensamiento sino la tela misma de la experiencia: nuestro cuerpo ve y es visto, estamos dentro del mundo y a la vez lo miramos, el sentido nunca es del todo claro. Heidegger, por su parte, creía que el cuidado por el otro puede tomar formas distintas, y que muchas veces se entrelazan. Los sentimientos mezclados hacia alguien cercano no son señal de un amor falso, sino la multiplicidad natural de las relaciones vivas. No tenés que desatar el nudo enseguida. Podés simplemente reconocer que está.",
+      "practice": "Juntá las palmas de manera que una toque a la otra, y sentí cómo alterna la sensación. Decí en voz baja: «Te quiero, y me cuesta estar con vos», y fijate que las dos partes son ciertas.",
+      "quote": null
+    },
+    "guilty_relief": {
+      "text": "La vida, para Heidegger, no simplemente sigue: tiene que ser llevada; los estados de ánimo nos abren nuestra existencia como una «carga». Si después de una separación, una partida o la larga enfermedad de un ser querido sentís alivio y culpa por eso, sabé esto: el alivio no anula el amor. Cuando cargaste durante mucho tiempo la enfermedad de otro, una relación difícil, noches sin dormir, esa carga no era una metáfora sino tu ser de todos los días. El alivio no es una traición, sino simplemente un cambio en el estado de ánimo a través del cual se abre el mundo: el peso se alivianó, y el cuerpo lo sintió. Merleau-Ponty nos recordaría que el cuerpo sabe de su cansancio antes que nuestros pensamientos. Podés permitirte a la vez respirar y hacer el duelo: una cosa no anula la otra.",
+      "practice": "Sentate cómodo y sentí en qué parte del cuerpo las cosas se volvieron más livianas. Decite: «Cargué mucho. Tengo permitido exhalar».",
+      "quote": null
+    },
+    "indifference": {
+      "text": "En Ser y tiempo Heidegger notó algo notable: incluso una falta de ánimo chata y sin color, cuando nada te toca, también es un estado de ánimo, no una ausencia de sentimiento. Si donde algo «debería» conmoverte hay silencio adentro, asusta, pero no te convierte en alguien sin corazón. Siempre estamos templados de algún modo; solo que a veces el temple es gris y callado. Y también abre algo: el cansancio, por ejemplo, o que el mundo se corrió un poco hacia atrás por un tiempo. La indiferencia no es un agujero en vos, sino la manera en que el mundo se te da ahora. No tenés que obligarte a sentir «como corresponde». Podés describir este silencio con atención, y describirlo a veces lo cambia por sí solo.",
+      "practice": "Describí tu indiferencia en voz alta con tres palabras, como si fuera el clima: ¿de qué color es, cuánto pesa, qué temperatura tiene?",
+      "quote": null
+    },
+    "escape": {
+      "text": "«Lo que se hace»: en Heidegger, el impersonal «uno» (das Man) decide por nosotros en silencio cómo vivir y tapa nuestras propias posibilidades. Las ganas de dejar todo e irte —tu trabajo, tu ciudad, tu papel— ya dicen mucho por sí mismas. Heidegger las tomaría en serio. A veces, escribió, suena una «llamada de la conciencia»: no la voz de la moral, sino un llamado callado de vuelta a vos mismo, a lo que de verdad podrías ser. Las ganas de huir no son necesariamente una fuga de vos mismo; a veces son exactamente una llamada así. Pero rara vez exigen que destruyas todo de una vez. Heidegger hablaba de «proyectar» posibilidades: primero podés simplemente verlas y mirarlas de cerca.",
+      "practice": "Escribí: «¿Qué parte mía no se ve en mi papel actual?». No decidas nada: solo mirala de cerca.",
+      "quote": null
+    },
+    "forbidden_attraction": {
+      "text": "El deseo, para Merleau-Ponty, no es ni un pensamiento ni un instinto, sino una manera en que el cuerpo se orienta hacia otro: crea alrededor de una persona una atmósfera particular, difícil de poner en palabras. La atracción por alguien que está «fuera de los límites» puede inquietar y asustar, pero el sentimiento en sí todavía no decide nada ni te hace malo. Ese sentido surge antes del razonamiento, así que no podemos simplemente «anularlo» por decisión. Podés acercarte a la atracción con curiosidad: ¿qué te abre exactamente esta persona: vitalidad, reconocimiento, otra versión de vos? Entender el sentido de un sentimiento no significa actuar en consecuencia. Significa conocer mejor tu propia vida.",
+      "practice": "Imaginá a esta persona y preguntate en qué se convierte el mundo cerca de ella: ¿más luminoso, más inquieto, más libre? Decite una palabra y pensá en qué otro lugar de tu vida hay espacio para ella.",
+      "quote": null
+    },
+    "social_anxiety": {
+      "text": "Bajo la mirada de otro, notó Merleau-Ponty, el cuerpo se pone rígido: movimientos que por lo general fluyen solos de repente hay que pensarlos. El miedo a la gente y a su juicio agota, y no estás solo en eso. Heidegger explicaría a quién le tenemos miedo en realidad. Describió el impersonal «uno» (das Man), el «se», «lo que se hace»: una autoridad anónima que te dice cómo verte, cómo hablar y cómo comportarte. Muchas veces no le tenemos miedo a una persona concreta sino a ese «todos» invisible. Tu timidez es la respuesta natural del cuerpo a un juicio anónimo. Pero Heidegger señaló que ese «todos» no es nadie en particular. A veces ayuda volver del «qué va a pensar la gente» a la persona concreta que tenés enfrente, que muy probablemente también está un poco nerviosa.",
+      "practice": "Antes de un encuentro, cambiá el pensamiento «qué van a pensar todos» por la pregunta: «¿Quiénes exactamente van a estar, y qué sé de ellos?».",
+      "quote": {
+        "text": "Cada cual es el otro y ninguno él mismo.",
+        "author": "Martin Heidegger",
+        "source": "Ser y tiempo, § 27 (1927)"
+      }
+    },
+    "uncertainty": {
+      "text": "«Estamos condenados al sentido», escribió Merleau-Ponty: por poco claro que sea el mundo, no podemos quedarnos del todo sin sentido. La incertidumbre desgasta: querés algo de dónde agarrarte, y no hay nada. Heidegger describió la situación humana con dos conceptos. La «condición de arrojado»: siempre caímos ya en una situación que no elegimos y que no podemos abarcar del todo. El «proyecto»: igual seguimos viviendo, estirándonos hacia posibilidades sin saber con seguridad cuál se va a cumplir. La incertidumbre no es una falla sino la estructura básica de la vida, que por lo general tapan los planes de siempre. El sentido sigue tomando forma en nuestra experiencia. No tenés que esperar una claridad completa; podés buscar sentido en el próximo paso chiquito.",
+      "practice": "Nombrá una cosa de la que estés seguro ahora mismo, aunque sea la más simple: la taza en tu mano, el piso bajo tus pies.",
+      "quote": {
+        "text": "Porque estamos en el mundo, estamos condenados al sentido.",
+        "author": "Maurice Merleau-Ponty",
+        "source": "Fenomenología de la percepción, prólogo (1945)"
+      }
+    },
+    "waiting": {
+      "text": "El Heidegger tardío escribió una conversación en un camino de campo en la que un científico, un erudito y un maestro llegan a un pensamiento extraño: se puede esperar sin saber qué. Cuando la espera de resultados, una respuesta o noticias se estira de manera angustiante, ese pensamiento trae alivio. En esa conversación, recogida en «Serenidad», distinguió dos clases de espera. Una es un aguardar tenso de algo determinado: nos aferramos al futuro, y el presente se vuelve un pasillo vacío. La otra es una espera abierta, que no se agarra de un resultado en particular y deja que las cosas vengan como vengan. Vinculó esta actitud con la «serenidad» (Gelassenheit): un dejar ser tranquilo de lo que no está en nuestro poder. Lo que hace angustiante la espera muchas veces es que agarramos el futuro con demasiada fuerza. Sin dejar de tener esperanza, podés aflojar un poco la mano y notar lo que está pasando ahora.",
+      "practice": "Aflojá los puños, bajá los hombros, y durante tres minutos simplemente escuchá los sonidos a tu alrededor, sin esperar nada de ellos.",
+      "quote": null
+    },
+    "regret": {
+      "text": "Al elegir una posibilidad, inevitablemente dejamos otras atrás: para Heidegger esto no es un error personal sino la estructura misma de la vida humana: nadie puede vivir todas sus posibilidades. Si el arrepentimiento por algo que hiciste o que no hiciste no te suelta, muestra lo que te importa. Duele, y es un dolor honesto. Además, para Heidegger el pasado no está ni cerrado ni muerto: lo seguimos llevando, y su sentido cambia según cómo sigamos viviendo. Tu arrepentimiento no es un veredicto sino una señal de que el pasado todavía participa de tu vida. Vos decidís en qué se va a convertir a medida que todo sigue.",
+      "practice": "Completá: «En ese momento no elegí…, pero lo que eso me importaba lo puedo conservar así: …».",
+      "quote": null
+    },
+    "longing": {
+      "text": "El mundo, para Heidegger, siempre está organizado junto con otros, y cuando una persona desaparece de él, queda vacío todo un lugar del mundo. Si extrañás a una persona en particular, no tiene nada de vergonzoso. Merleau-Ponty describió en detalle el «miembro fantasma»: después de una pérdida, el cuerpo sigue sintiendo un brazo o una pierna y sigue estirándose hacia el mundo a través de ellos. En el extrañar hay algo parecido: durante años tu mundo estuvo organizado con esta persona adentro: su voz a la noche, su lugar en la mesa, un ritmo compartido. Tu cuerpo y tus costumbres siguen buscándola. Es la memoria de toda tu vida. Extrañar va cambiando de forma de a poco, a medida que el mundo se reacomoda despacio, y no hace falta apurarlo.",
+      "practice": "Fijate en un lugar o un momento del día donde la ausencia de esta persona se siente con más fuerza. Pasá un rato ahí, con suavidad.",
+      "quote": null
+    },
+    "world_pain": {
+      "text": "«Pero donde está el peligro, crece también lo que salva»: el Heidegger tardío citó estos versos de Hölderlin en «La pregunta por la técnica». Si las noticias duras, la violencia y la injusticia te duelen, eso habla de tu capacidad de compasión. Heidegger creía que el ser humano es siempre «ser-con-otros»: incluso las personas lejanas son parte de nuestro mundo, y su sufrimiento nos concierne. El Heidegger tardío reflexionó mucho sobre los peligros de la época. Podés no darle la espalda al dolor sin ahogarte en él. Merleau-Ponty nos recordaría que aquello en lo que nos apoyamos siempre es corporal y concreto: las personas cercanas, el suelo bajo los pies, las pequeñas buenas acciones. El dolor del mundo se lleva mejor cuando te agarrás de algo cercano.",
+      "practice": "Dejá las noticias a un lado y leé en voz alta el verso de Hölderlin: «Pero donde está el peligro, crece también lo que salva». Después nombrá cinco cosas a tu alrededor y decidí una cosa buena que puedas hacer cerca.",
+      "quote": {
+        "text": "Pero donde está el peligro, crece también lo que salva.",
+        "author": "Friedrich Hölderlin",
+        "source": "himno «Patmos»; citado por Heidegger en «La pregunta por la técnica» (1953)"
+      }
+    },
+    "rejection": {
+      "text": "Una mirada, un tono, un gesto que se retira nos entran antes de que podamos entenderlos: así describió Merleau-Ponty nuestra apertura corporal a los demás. Por eso, cuando te rechazan —para un trabajo, una amistad, un amor—, la negativa hiere hondo y puede sentirse como un golpe, una opresión en el pecho, ganas de esconderte. Es natural: el cuerpo responde con honestidad. Heidegger agregaría que el «ser-con-otros» es parte de nuestra estructura misma: estamos abiertos a los demás, y por eso somos vulnerables. Tu dolor es el precio de esa apertura. Un rechazo no anula el hecho de que existís entre muchas personas. Podés dejar que tu cuerpo sienta el golpe, y después ir recuperando despacio tu espacio.",
+      "practice": "Llamá hoy a alguien con quien te sientas aceptado, solo para charlar. Un rechazo no anula el hecho de que existís entre muchas personas.",
+      "quote": null
+    },
+    "abandonment": {
+      "text": "Heidegger notó una paradoja: incluso la soledad es una manera de estar con otros, porque solo se puede extrañar a alguien que podría estar. Si tenés miedo de que te dejen, es un sentimiento hondo, y merece ternura. Heidegger escribió que el ser humano es por su propia naturaleza «ser-con»: siempre vivimos en un mundo compartido con otros. Este miedo es una sensación aguda de cuánto estamos tejidos de vínculos. Merleau-Ponty hablaba de «intercorporeidad»: el entrelazamiento corporal de las personas entre sí. El miedo muestra cuánto significan para vos las personas cercanas. Y también te recuerda que el vínculo no descansa en una sola persona: estás tejido en toda una red.",
+      "practice": "Nombrá cinco personas o lugares con los que estés conectado, aunque sea de manera floja. Imaginá esos hilos durante un minuto.",
+      "quote": null
+    },
+    "unrequited": {
+      "text": "«Sustituir» al otro o «anticipársele»: Heidegger distinguía dos formas de solicitud: una se hace cargo en lugar del otro y lo maneja, la otra lo ayuda a ser libre en sus propias posibilidades. Si amás sin ser correspondido, tu dolor es real. Heidegger te ayuda a ver en él algo más que una herida. El amor más cuidadoso reconoce la libertad del otro, incluida su libertad de no corresponder. Esto no achica el dolor, pero le da dignidad a tu amor: amaste a una persona en lugar de intentar poseerla. Merleau-Ponty nos recordaría que el amor vive en el cuerpo, y que necesita tiempo para cambiar de forma.",
+      "practice": "Leé despacio en voz alta: «Te dejo ser libre. Y me permito hacer el duelo».",
+      "quote": null
+    },
+    "humiliation": {
+      "text": "¿Quién mira acá, y a quién están mirando? Un fenomenólogo empezaría con esta pregunta una conversación sobre la humillación. Es una de las experiencias más dolorosas, y no es tu culpa haberla atravesado. Merleau-Ponty describió el cuerpo como algo que ve y a la vez es visto. En la humillación ese equilibrio se rompe: es como si te hubieran convertido en un objeto expuesto bajo la mirada ajena, despojado del papel de quien mira. Heidegger lo llamaría el poder del impersonal «uno» (das Man), que parece dictar un veredicto en nombre de «todos». La humillación no es la verdad sobre vos, sino una situación en la que te privaron del lugar de sujeto. Podés recuperarlo de a poco: volver a ver, a actuar, a hablar en primera persona.",
+      "practice": "Mirá a tu alrededor y nombrá en voz alta tres cosas que ves. Otra vez sos vos quien mira.",
+      "quote": null
+    },
+    "body_shame": {
+      "text": "«No tenemos un cuerpo; somos un cuerpo»: este pensamiento de Merleau-Ponty es fácil de decir y difícil de vivir. Si no estás conforme con tu cuerpo, es un sentimiento muy común y doloroso. Merleau-Ponty distinguía el cuerpo mirado como objeto —algo que se puede medir y juzgar— del «cuerpo vivido» a través del cual vivimos: con el que vemos, tocamos, nos movemos, abrazamos. La vergüenza del cuerpo es cuando empezamos a vivir solo el primero, mirándonos todo el tiempo desde afuera, como en un espejo. Podés ir volviendo de a poco a tu cuerpo desde adentro: no a cómo se ve, sino a lo que te permite sentir y hacer. No es un proyecto para corregir, sino tu manera de estar en el mundo.",
+      "practice": "Hacé un movimiento simple —estirarte, caminar un poco— y prestá atención solo a cómo se siente desde adentro, no a cómo se ve.",
+      "quote": null
+    },
+    "illness": {
+      "text": "Para un ciego, escribió Merleau-Ponty, el bastón deja de ser un objeto: siente el mundo en su punta, como una prolongación de la mano. Cuando tu cuerpo está enfermo y te falla, cambia el mundo entero, y eso es duro. Merleau-Ponty escribió que la conciencia originalmente no es un «yo pienso» sino un «yo puedo»: vivimos el mundo a través de las posibilidades del cuerpo: alcanzar, ir a algún lado, levantar. Cuando el cuerpo está enfermo, el mundo cambia: las escaleras se vuelven un obstáculo, la calle queda lejos. Tu angustia es comprensible: no perdés solo fuerza, sino también tu mundo conocido. Pero Merleau-Ponty también mostró que el cuerpo es capaz de reconstruir su «yo puedo», de encontrar nuevas maneras de estar en el mundo. Podés buscar con suavidad esas nuevas posibilidades, por chiquitas que sean.",
+      "practice": "Nombrá un «yo puedo» que tengas hoy, aunque sea el más pequeño. Quedate un rato con él.",
+      "quote": {
+        "text": "El cuerpo es nuestro medio general de poseer un mundo.",
+        "author": "Maurice Merleau-Ponty",
+        "source": "Fenomenología de la percepción (1945)"
+      }
+    },
+    "pride": {
+      "text": "Un aprendiz de ebanista, decía Heidegger, no aprende trucos sino a responder a la madera: a las formas que dormitan en ella. Cuando una destreza así se vuelve tuya, el orgullo por lo que hiciste es un sentimiento sano y merecido. Merleau-Ponty mostró que la conciencia es originalmente un «yo puedo», y que cada destreza aprendida pasa a ser parte del cuerpo. El orgullo es el momento en que tu «yo puedo» tomó forma y se volvió visible: esto está hecho, y lo hice yo. No es jactancia ni comparación con otros, sino alegría por un mundo que se volvió más amplio. Permitite quedarte con este sentimiento. Quizá notes que ahora te estás sosteniendo distinto: más derecho, más suelto.",
+      "practice": "Mirá lo que hiciste y fijate cómo estás parado o sentado. Permitite quedarte un minuto en esa postura.",
+      "quote": null
+    },
+    "melancholy": {
+      "text": "«La filosofía es propiamente nostalgia, un impulso de estar en todas partes en casa»: Heidegger abrió su curso Los conceptos fundamentales de la metafísica con estas palabras de Novalis. Una tristeza serena, una pena mezclada con ternura, se parece a esa nostalgia, y no hace falta «arreglarla». Heidegger no veía los estados de ánimo como emociones al azar, sino como maneras en que se abre el mundo. La melancolía es un temple en el que el mundo se abre en su fragilidad y su profundidad: sentimos cómo todo pasa, y justamente por eso vemos lo valioso que es. La melancolía no debilita sino que ahonda: en ella parecés estar más cerca de algo esencial. Permitite quedarte en ella, sin apurarte a espantarla.",
+      "practice": "Leé en voz alta la frase de Novalis: «La filosofía es propiamente nostalgia». Después pasá cinco minutos junto a una ventana o con música y simplemente dejá que este estado de ánimo sea.",
+      "quote": {
+        "text": "La filosofía es propiamente nostalgia, un impulso de estar en todas partes en casa.",
+        "author": "Novalis",
+        "source": "citado por Heidegger en Los conceptos fundamentales de la metafísica (1929–1930)"
+      }
+    }
+  }
+}

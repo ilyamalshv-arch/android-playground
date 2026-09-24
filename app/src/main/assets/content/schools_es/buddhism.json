@@ -1,0 +1,390 @@
+{
+  "id": "buddhism",
+  "title": "Budismo",
+  "tradition": "Budismo temprano",
+  "family": "classic",
+  "period": "siglo V a. C.",
+  "sortYear": -450,
+  "thinkers": [
+    "Buda Shakyamuni (Siddhartha Gautama)"
+  ],
+  "keyWorks": [
+    "«Dhammapada»",
+    "«Sutta Nipata»",
+    "El Canon Pali («Tipitaka»)"
+  ],
+  "summary": "El budismo surgió en la India alrededor del siglo V a. C. a partir de la enseñanza de Siddhartha Gautama, a quien se llama el Buda, «el despierto». Su núcleo son las Cuatro Nobles Verdades: en la vida hay sufrimiento; el sufrimiento tiene una causa, el ansia y el apego; la liberación es posible; y hay un camino hacia ella. Ese camino reúne la ética, la atención plena y la sabiduría.",
+  "onEmotions": "El budismo temprano ve los sentimientos como procesos que surgen bajo ciertas condiciones, duran un tiempo y pasan: ninguno de ellos es «vos» para siempre. Es importante distinguir el tono afectivo en sí —agradable, desagradable o neutro (en pali, vedanā)— de la reacción ante él: aferrarse o rechazar. El sufrimiento no crece tanto por el sentimiento como por pelearse con él o fundirse por completo con él. La práctica de la atención plena (sati) ofrece un tercer camino: notar el sentimiento con amabilidad e interés, y hacerle lugar.",
+  "entries": {
+    "anxiety": {
+      "text": "Una mente inquieta, decía el Buda, es como el agua que el viento agita y revuelve: ya no podés ver en ella tu propio reflejo (SN 46.55). Una mente ansiosa intenta predecir el futuro y protegerte, y es justamente ese trabajo el que la revuelve. La psicología budista describe un estado parecido como uno de los «cinco obstáculos»: uddhacca-kukkucca, inquietud y preocupación. El Buda no condenaba a la gente por estos estados; proponía notarlos y nombrarlos. Cuando te decís «esto es ansiedad», ya das un pasito atrás: ahora hay alguien que ve, no solo alguien atrapado. Otra observación que ayuda es la impermanencia (anicca): la ansiedad también surge, cambia y pasa, como cualquier otro estado. No tenés que echarla. Podés hacerle lugar y volver a un ancla simple: tu respiración, tu cuerpo, los sonidos alrededor.",
+      "practice": "Anotá mentalmente cada movimiento de la ansiedad con una palabra corta, como se hace en meditación: «pensar», «apretar», «imagen». Una palabra, una exhalación, cinco veces.",
+      "quote": null
+    },
+    "fear": {
+      "text": "De noche en el bosque, un crujido —una rama que cae, un pavo real que pasa— y el joven ermitaño que llegaría a ser el Buda queda atrapado por el terror (Bhayabherava Sutta, MN 4). El miedo lo conoce todo ser vivo, y el budismo ve en él una vulnerabilidad que compartimos todos, no un defecto personal. El ermitaño decidió no huir sino quedarse en la postura en que el miedo lo encontrara —caminando, de pie, sentado o acostado— hasta que el miedo se calmara. No es heroísmo sino atención plena: mirar el miedo en lugar de esconderse de él. El budismo también dice que muchos miedos están ligados al apego a lo que por naturaleza es impermanente: nosotros mismos, nuestros seres queridos, nuestro lugar. No es un motivo para dejar de querer las cosas; es una invitación a sostener lo que te importa con un poco más de suavidad. El miedo mirado con calma pierde parte de su poder.",
+      "practice": "Si el miedo te encuentra de pie, quedate de pie; si sentado, quedate sentado, como el ermitaño del sutta. Sin cambiar de postura, respirá cinco veces y mirá el miedo: ¿cómo es, dónde está en tu cuerpo?",
+      "quote": null
+    },
+    "sadness": {
+      "text": "El maestro tailandés Ajahn Chah decía de su vaso favorito: «Para mí, ya está roto», y justamente por eso cada día con él es valioso. La tristeza es tan parte de la vida como la lluvia, y en el budismo no hace falta resistirse a ella. La Primera Noble Verdad habla de dukkha, una palabra que suele traducirse como «sufrimiento», aunque más precisamente significa insatisfacción, la inestabilidad de todo lo que pasa. Reconocerlo no es pesimismo sino honestidad: toda vida tiene sus momentos tristes. El Buda enseñaba que la dificultad suele ser doble: primero viene la sensación desagradable en sí, y después le sumamos resistencia, reproches, pensamientos de «no debería ser así», como si a una persona alcanzada por una flecha le clavaran enseguida una segunda. La tristeza sola puede ser callada y soportable si no te peleás con ella. La atención plena budista propone simplemente estar con tu tristeza, sentir dónde vive en el cuerpo, sin intentar arreglarla. Es impermanente, y una vez que recibe atención va a empezar a cambiar.",
+      "practice": "Buscá en qué parte del cuerpo vive la tristeza y apoyá ahí la palma. Quedate así un minuto sin arreglar nada: solo la primera flecha, y tu calor al lado.",
+      "quote": null
+    },
+    "grief": {
+      "text": "La joven madre Kisa Gotami llevaba a su hijo muerto por todo el pueblo, rogándole a cada uno un remedio, hasta que la mandaron al Buda. El duelo es una herida profunda, y el budismo lo recibe con gran compasión. El Buda le pidió que le trajera un grano de mostaza de una casa donde nunca hubiera muerto nadie. Ella recorrió todo el pueblo y no encontró una casa así, pero en cada una se encontró con gente que entendía su dolor. El Buda no le dijo «no llores»; la ayudó a ver que no estaba sola y que la pérdida es parte de nuestro destino humano compartido. Para un budista, todo lo que amamos es impermanente, y justamente por eso es tan valioso. El duelo se puede atravesar sin apuro, junto a otros que también conocen el dolor.",
+      "practice": "Como Kisa Gotami, golpeá hoy una puerta: llamá o encontrate con alguien que conoció a la persona que perdiste, o que conoce la pérdida en carne propia, y compartí un recuerdo cálido.",
+      "quote": null
+    },
+    "loneliness": {
+      "text": "Una vez Ananda le dijo al Buda: los buenos amigos son quizás la mitad de la vida santa. «No digas eso», respondió el Buda, «son la vida santa entera». La soledad duele porque una persona necesita vínculos, y el budismo lo reconoce. La amistad con gente buena (kalyāṇa-mittatā) se consideraba un pilar del camino. Al mismo tiempo, el budismo ofrece una mirada particular sobre los vínculos: la enseñanza del origen dependiente dice que nada existe por sí mismo, todo surge de condiciones mutuas. Vos también estás tejido de vínculos: con quienes te criaron, con quienes cultivaron tu comida, con quienes escribieron los libros que leíste. La práctica de mettā, la bondad amorosa, empieza deseándote el bien a vos y después se amplía a los demás, incluso a desconocidos. La soledad puede ablandarse cuando notás esos hilos invisibles.",
+      "practice": "Salí a caminar un rato y deseale el bien en silencio a cada persona con la que te cruces: «Que estés bien». Después fijate cuánta gente estuvo cerca tuyo en esos diez minutos.",
+      "quote": null
+    },
+    "anger": {
+      "text": "A quien frena un enojo que sube como un carro desbocado, el Buda lo llamaba un verdadero auriga; los demás, decía, solo sostienen las riendas (Dhammapada, 222). El enojo es un sentimiento fuerte y caliente, y que aparezca no te hace mala persona. El budismo llama a su raíz dosa, aversión, rechazo, y la cuenta entre las tres «raíces nocivas», junto con la codicia y el engaño. Pero no lo dice para avergonzarte, sino porque el enojo quema primero a quien lo sostiene. El comentarista budista posterior Buddhaghosa comparaba a una persona enojada con alguien que agarra una brasa con la mano desnuda para tirársela a otro. El Buda no proponía ni reprimir el enojo ni descargarlo, sino mirarlo con atención: dónde está en el cuerpo, qué pensamientos lo alimentan. Y cultivar el antídoto, mettā, la bondad amorosa, empezando aunque sea por vos. Con el tiempo, el enojo puede transformarse en claridad: qué te importa y cómo protegerlo sin enemistad.",
+      "practice": "Cuando el enojo se desboque como un carro, tomá las riendas con la respiración: diez exhalaciones contadas en silencio, y recién entonces una palabra o una acción.",
+      "quote": {
+        "text": "En este mundo, el odio nunca se apacigua con odio; solo con el no-odio se apacigua.",
+        "author": "El Buda",
+        "source": "Dhammapada, 5"
+      }
+    },
+    "shame": {
+      "text": "Dos guardianes protegen el mundo, decía el Buda, y los dos son parientes de la vergüenza. La vergüenza duele mucho, pero en el budismo temprano tiene un lugar sorprendentemente respetado. El Buda hablaba de dos cualidades luminosas que cuidan el mundo: hiri, la vergüenza interior, no querer obrar mal por respeto a uno mismo, y ottappa, la escrupulosidad, la atención a las consecuencias de nuestras acciones para los demás. Sin ellas, decía, la gente dejaría de respetarse. Así que la capacidad de sentir vergüenza es señal de que la sensibilidad ética está viva en vos. Pero el budismo distingue esa vergüenza sana del autocastigo, que no arregla nada y solo refuerza una preocupación dolorosa por uno mismo. La enseñanza del no-yo (anattā) recuerda: no sos una esencia fija sino un flujo que cambia. Un acto que lamentás no te define para siempre; podés crecer más allá de él.",
+      "practice": "Decite: «Esto es hiri: mi conciencia está viva». Después nombrá en voz alta una intención que nace de esta vergüenza.",
+      "quote": null
+    },
+    "guilt": {
+      "text": "Angulimala era un bandido temido en toda la región, y sin embargo, cuando se encontró con el Buda, tiró la espada y se hizo monje. Si sentís culpa, quiere decir que te importa cómo tus acciones afectan la vida de los demás. El budismo mira las acciones a través de la noción de karma, literalmente «acción»: todo lo que hacemos con intención deja una huella y moldea el futuro. Pero no es un sistema de castigos; es más bien una ley de causas y efectos, y en ella siempre hay lugar para causas nuevas y mejores. El budismo no te propone castigarte sin fin: el remordimiento es valioso cuando se vuelve la decisión de actuar distinto. La autoacusación que da vueltas en círculo se vuelve ella misma una forma de apego. Podés reconocer el error, reparar donde se pueda, desearte el bien a vos y a los demás, y soltar.",
+      "practice": "Da un pasito para reparar: pedí perdón, devolvé, ayudá. Si no es posible, hacé algo amable por otra persona y dedicáselo en silencio a quien lastimaste.",
+      "quote": {
+        "text": "Quien con buenas acciones cubre el mal que hizo ilumina este mundo como la luna libre de nubes.",
+        "author": "El Buda",
+        "source": "Dhammapada, 173"
+      }
+    },
+    "envy": {
+      "text": "Cuando alguien hace una buena acción en un templo theravada, los demás dicen tres veces «sādhu, sādhu, sādhu», «bien hecho», alegrándose del mérito ajeno como si fuera propio. La envidia no es un secreto vergonzoso para el budismo: la nombra con claridad, issā, y ofrece un antídoto muy hermoso. Es muditā, la alegría compartida, la capacidad de alegrarse por la felicidad ajena casi como si fuera propia. Muditā es uno de los cuatro «inconmensurables», junto con la bondad amorosa, la compasión y la ecuanimidad. La idea no es obligarte a alegrarte, sino entrenar el corazón de a poco. El budismo también explica de dónde viene el dolor de la envidia: de taṇhā, el ansia, la sensación de que lo que me falta para ser feliz es justamente lo que tiene otro. Podés recibir la envidia sin juzgarla, notar su ansia y preguntarte: ¿qué hay en mí que quiere ser visto y alimentado?",
+      "practice": "Pensá en la persona que envidiás y decí en voz baja: «Sādhu, sādhu, sādhu». Si no sale sincero, simplemente notá la resistencia: eso también es honesto.",
+      "quote": null
+    },
+    "emptiness": {
+      "text": "Una mente adormecida, en la imagen del Buda, es un estanque cubierto de musgo y maleza: el agua está, pero no se ve nada en ella (SN 46.55). El vacío y la apatía son estados pesados, y no hace falta que te culpes por ellos. El budismo temprano describe un estado parecido como uno de los «cinco obstáculos»: thīna-middha, pereza y sopor de la mente. No es un vicio sino un estado que le pasa a todo el mundo, y los textos proponen remedios suaves: ir hacia la luz, salir al aire libre, cambiar de postura, caminar, mirar con atención algo alrededor. Es importante no confundir la apatía con la noción filosófica de «vacuidad» (śūnyatā): significa que las cosas no tienen una esencia separada e inmutable. Esa idea puede ser inesperadamente reconfortante: tu sensación actual de vacío tampoco es sólida ni definitiva. Está hecha de condiciones —cansancio, circunstancias, pensamientos— y cambia cuando cambian ellas.",
+      "practice": "Hacé lo que aconsejan los suttas contra el sopor: andá hacia la luz, abrí una ventana y da diez pasos lentos, sintiendo cada pie.",
+      "quote": null
+    },
+    "confusion": {
+      "text": "La gente de la aldea de los Kalamas se quejaba ante el Buda: llegan distintos maestros, cada uno alaba su doctrina y desprecia las otras; ¿a quién creerle? La confusión es un estado honesto: las respuestas viejas dejaron de funcionar y las nuevas todavía no aparecieron. El Buda no les exigió que le creyeran a él. Les aconsejó no aceptar nada solo porque lo dicen la tradición, la autoridad o un buen argumento, sino ponerlo a prueba con su propia experiencia: qué lleva al bienestar y a la paz, y qué lleva al sufrimiento. Esa conversación se conoce como el Kalama Sutta. En términos budistas, la confusión se puede aceptar como una pausa de apertura. No hace falta apurarte a agarrar la primera certeza que pase. Podés apoyarte en lo que sabés por experiencia ahora mismo y dar el paso que lleve a menos daño.",
+      "practice": "Caminá unos minutos y poné a prueba cada opción como el Buda les aconsejó a los Kalamas, con tu propia experiencia: ¿al pensar en cuál se calma tu cuerpo, con menos daño para vos y para los demás?",
+      "quote": null
+    },
+    "fatigue": {
+      "text": "El monje Sona practicaba la meditación caminando con tanto celo que le sangraban los pies, y el Buda le preguntó a él, que había sido músico: ¿suena bien un laúd cuando las cuerdas están demasiado tensas? El cansancio y el agotamiento son una señal de que tu energía se gastó durante más tiempo del que se repuso, y esa señal merece tomarse en serio. El mismo Buda, según la tradición, pasó años de ascetismo extenuante, casi muriéndose de hambre, y se dio cuenta de que ese camino no lleva a la liberación. De ahí la enseñanza del «camino del medio», entre la complacencia y la mortificación dura. Las cuerdas suenan bien solo cuando no están ni muy tensas ni muy flojas. Un budista diría que el agotamiento es como una cuerda demasiado tensa. No hay nada de qué avergonzarse; solo hace falta aflojar un poco la tensión. Descansar acá no es pereza sino parte de la sabiduría: sin descanso no hay atención clara ni amabilidad con vos y con los demás.",
+      "practice": "Sentate y buscá la «cuerda demasiado tensa» en tu cuerpo: los hombros, la mandíbula, la frente. Con cada exhalación, aflojala medio tono, hasta que se te escape algo parecido a un suspiro.",
+      "quote": null
+    },
+    "boredom": {
+      "text": "A un maestro zen le preguntaron cuál era su práctica. «Cuando tengo hambre, como; cuando estoy cansado, duermo». «¿Pero no hace eso todo el mundo?». «No: cuando comen, piensan en mil cosas». El aburrimiento parece trivial, pero puede ser desagradable: todo es conocido, nada te atrapa. En términos budistas, el aburrimiento es un «tono afectivo desagradable» (vedanā) al que la mente responde con ansia: querés algo nuevo, brillante, distinto. El Buda describió en detalle cómo esa ansia (taṇhā) nos mantiene en una búsqueda inquieta. Pero la atención plena budista propone un movimiento inesperado: mirar más de cerca el aburrimiento mismo. ¿Cómo se siente en el cuerpo? ¿De qué pensamientos está hecho? Cuando mirás con cuidado, resulta que en cualquier momento pasan un montón de cosas: la respiración, los sonidos, los matices de la luz. El aburrimiento muchas veces no señala un vacío del mundo sino una atención dispersa. Podés tomarlo como una invitación a volver al momento presente.",
+      "practice": "Tomá una taza de té o de agua como aconsejaba el maestro zen: solo tomá. El calor, el sabor, el peso de la taza: una taza, entera.",
+      "quote": null
+    },
+    "joy": {
+      "text": "El joven Siddhartha estaba sentado a la sombra de un pomarrosa mientras su padre araba en una fiesta, y de repente sintió una alegría serena sin ninguna causa; años después, agotado por el ascetismo, se acordó de eso y se preguntó: «¿Por qué le tengo miedo a esta felicidad?». La alegría es un sentimiento luminoso, y el budismo no te pide para nada que renuncies a ella. Al contrario, entre los «siete factores del despertar» están pīti, el gozo, y passaddhi, la tranquilidad. A una felicidad que no está atada al ansia no hay que temerle. El budismo solo propone no aferrarse a la alegría, recordando su impermanencia. Eso no la apaga sino que la vuelve más plena: cuando no intentás retener el momento, podés vivirlo por completo. Otra faceta budista de la alegría es muditā, la alegría por los demás: muestra que la felicidad se multiplica cuando se comparte.",
+      "practice": "Cuando sientas alegría, anotala en silencio, como en meditación: «alegría, alegría», y fijate dónde vive en tu cuerpo. No la retengas: dejá que elija sola cuánto quedarse.",
+      "quote": null
+    },
+    "love": {
+      "text": "En Birmania y Tailandia, la práctica de mettā empieza por uno mismo, después pasa a un benefactor, un amigo, un desconocido, una persona difícil, círculo tras círculo, hasta abrazar a todos los seres. El amor y la ternura son experiencias valiosas, y el budismo distingue en ellos distintos matices. Mettā es la bondad amorosa, el deseo de que el otro sea feliz; karuṇā es la compasión, el deseo de que el otro no sufra. Estos estados se consideran inconmensurables: se pueden extender a todos los seres, sin condiciones. El budismo también habla del apego, el amor que quiere poseer y teme perder. No se lo condena, pero el budismo muestra que muchas veces es lo que trae dolor. Para un budista, la ternura se vuelve más libre cuando tiene más de desear el bien que de exigir. Tu amor no es un problema a resolver; es una semilla de mettā que podés hacer crecer y extender cada vez más lejos.",
+      "practice": "Decí en silencio las palabras de mettā para la persona que amás: «Que seas feliz, que estés a salvo». Después lo mismo para vos, en el mismo tono.",
+      "quote": {
+        "text": "Así como una madre protege con su vida a su hijo, a su único hijo, así, con un corazón sin límites, uno debería querer a todos los seres vivos.",
+        "author": "El Buda",
+        "source": "Metta Sutta (Sutta Nipata 1.8)"
+      }
+    },
+    "gratitude": {
+      "text": "Antes de comer, los monjes de los monasterios zen recitan palabras de agradecimiento a todos aquellos cuyo trabajo llevó la comida a la mesa: los campesinos, el cocinero, la lluvia. En el budismo, la gratitud se considera una cualidad rara y valiosa. El Buda decía que hay dos tipos de personas difíciles de encontrar en el mundo: la que hace primero un favor, y la que recuerda el favor que le hicieron y lo agradece. Gratitud en pali es kataññutā, literalmente «saber lo que se hizo»: la capacidad de ver lo que recibimos de los demás. Está muy ligada a la enseñanza de la interdependencia: nada en tu vida surgió por sí solo, ni tu comida, ni el idioma en el que pensás, ni tus habilidades. Detrás de cada cosa hay personas y condiciones. El Buda hablaba especialmente de la gratitud hacia los padres, los maestros y los amigos. La gratitud acá no es una formalidad educada sino una mirada sobria y cálida sobre cómo estás conectado con el mundo.",
+      "practice": "Antes de una comida o de una taza de té, hacé una pausa de una respiración e imaginá al menos a tres personas cuyo trabajo te lo trajo. Agradeceles en silencio.",
+      "quote": null
+    },
+    "hope": {
+      "text": "Una balsa hecha de ramas: así describía el Buda su enseñanza; la usás para cruzar el río y la dejás en la otra orilla (MN 22). La esperanza nos ayuda a aguantar en tiempos difíciles: es la confianza en que la otra orilla existe. Por un lado, la enseñanza misma del Buda respira esperanza: la Tercera Noble Verdad dice que el fin del sufrimiento es posible, es decir que el cambio está abierto para todos. Por otro lado, el budismo advierte sobre la esperanza que se vuelve ansia: cuando vivimos solo para un futuro «algún día va a estar bien», el presente pierde valor. El budismo propone apoyarse en saddhā, una confianza serena en el camino, en que las buenas acciones dan buenos frutos. Esa esperanza no necesita garantías. Se muestra en lo que hacés ahora: en pasos chiquitos que crean las condiciones para algo mejor.",
+      "practice": "Hacé hoy una cosa chiquita que sea una rama para tu balsa: una condición para lo que esperás. No le exijas garantías.",
+      "quote": null
+    },
+    "nostalgia": {
+      "text": "Dōgen escribió: la leña se vuelve ceniza, y la ceniza no vuelve a ser leña; pero la leña tiene su propio tiempo, y la ceniza el suyo (Genjōkōan). Una añoranza cálida del pasado muchas veces guarda un amor escondido por lo que fue. El budismo la mira a través de anicca, la impermanencia: todo lo que surgió cambia y pasa. Eso vale también para los tiempos lindos que extrañás. El pensamiento budista no dice que no valiera la pena amarlos. Solo señala que el dolor de la nostalgia es el deseo de que lo impermanente se vuelva permanente. Si soltás esa exigencia, queda la gratitud pura: esto pasó, y fue bueno. Otro acento budista es el momento presente como el único lugar donde se despliega la vida. El pasado vive en vos ahora: en quien llegaste a ser, en lo que te importa. Podés tomar la nostalgia como un recordatorio de tus valores.",
+      "practice": "Quedate un minuto con los ojos cerrados y dejá que el recuerdo llegue entero. Después abrí los ojos y encontrá a tu alrededor una cosa en la que ese tiempo continúa ahora.",
+      "quote": {
+        "text": "Todas las cosas condicionadas son impermanentes.",
+        "author": "El Buda",
+        "source": "Dhammapada, 277"
+      }
+    },
+    "craving": {
+      "text": "En el Sermón del Fuego, el Buda les dice a sus discípulos: todo arde; arde el ojo, arde lo que se ve, arde con el fuego del ansia (SN 35.28). Unas ganas intensas —ese «lo quiero ya» punzante— son como ese fuego, y no hay nada vergonzoso en su fuerza. El budismo les da un lugar central: el ansia, en pali taṇhā, es según la Segunda Noble Verdad la raíz del sufrimiento. Pero más importante es cómo propone el budismo manejarla: no peleándola, sino examinándola. El ansia es un proceso. Surge un tono afectivo agradable o desagradable (vedanā), después lo sigue el deseo, y al deseo lo sigue el apego. Si notás esta cadena con atención, se abre un espacio en ella. Y otra observación del Buda: todo lo condicionado es impermanente. El ansia también llega como una ola: crece, llega a su pico y baja si no le echás leña. Podés mirarla como se mira la marea desde la orilla, sin tirarte al agua.",
+      "practice": "Cuando suban las ganas, nombralas en cada exhalación con una palabra: «ansia… ansia…», y no hagas nada más. Fijate en el momento en que la ola empieza a bajar.",
+      "quote": {
+        "text": "Del deseo nace el dolor, del deseo nace el miedo. Para quien está libre del deseo no hay dolor; ¿de dónde, entonces, el miedo?",
+        "author": "El Buda",
+        "source": "Dhammapada, 216"
+      }
+    },
+    "addiction": {
+      "text": "En las pinturas tibetanas de la «rueda de la vida», los doce eslabones de la causalidad se dibujan como un círculo sostenido entre las garras de un monstruo, pero en un rincón siempre hay una figura que señala la salida. La adicción no es un vicio ni una debilidad de carácter; también es un círculo que se agarra fuerte. El budismo describe un mecanismo en el que es fácil reconocer su ciclo, paṭicca-samuppāda, el origen dependiente: de la sensación surge el ansia, del ansia el apego, del apego el «devenir», un nuevo surco de costumbre. El ciclo persiste no porque una persona sea «mala» sino porque las condiciones se reproducen una y otra vez. La buena noticia de esa misma enseñanza: cuando cambian las condiciones, cambia también el ciclo. El budismo tiene un quinto precepto para los laicos: abstenerse de los intoxicantes que llevan a la negligencia. Pero es un sikkhāpada, una regla de entrenamiento: se asume de manera voluntaria y se retoma después de un tropiezo, sin estigma. Y algo más: el Buda llamaba a la buena amistad, kalyāṇa-mittatā, no la mitad sino la vida santa entera. Este camino no se recorre solo.",
+      "practice": "El Buda llamaba a la buena amistad la vida santa entera: llamá hoy a una persona con la que las cosas se sienten más livianas, o acercate a un grupo de ayuda mutua (como AA o NA). Decí al menos una frase honesta sobre cómo estás.",
+      "quote": null
+    },
+    "hangover": {
+      "text": "«Cuando a una persona la alcanza una flecha, y después otra, sufre por dos», dice el Buda en el Sallatha Sutta, explicando cómo nuestra reacción se suma al dolor. La mañana después muchas veces es exactamente eso, dos dolores a la vez: pesadez en el cuerpo y una vergüenza ansiosa, pedazos de recuerdos. La primera flecha es la sensación desagradable en sí: debilidad, dolor de cabeza, incomodidad. La segunda es lo que agregamos nosotros: «soy una persona horrible», «todos me juzgan», repasar todo sin fin. La primera flecha a veces no se puede sacar enseguida; la segunda, al menos, podés no clavarla más hondo. La atención plena acá no es un juicio sino una atención suave: acá hay pesadez, acá hay vergüenza, acá hay un pensamiento sobre ayer. Entender la impermanencia también ayuda: este estado va a pasar, como pasan todos. Y si algo de ayer necesita arreglarse, podés hacerlo después, con calma y sin castigarte.",
+      "practice": "Apoyá la palma donde más pesa —la frente o la panza— y decí: «Esta es la primera flecha». Después, bajito: «La segunda no la dejo entrar». Respirá lento cinco veces.",
+      "quote": null
+    },
+    "euphoria": {
+      "text": "Al describir la meditación, Buddhaghosa distingue cinco grados de gozo, pīti: desde una piel de gallina leve hasta uno que parece levantarte del suelo. Tu estallido es luminoso y alegre, y no hace falta arruinarlo. Pīti se cuenta entre los factores del despertar, así que una alegría fuerte en sí misma no se considera nada malo. El budismo solo propone mirarla con ojos claros. Cualquier tono afectivo agradable, vedanā, despierta naturalmente el deseo de que dure y se repita. Si vivís la euforia sabiendo que es impermanente, anicca, no se convierte en una persecución. Las descripciones clásicas de la meditación cuentan cómo el gozo de a poco da paso a una felicidad más serena, sukha, y después a la calma. Podés dejar que la euforia sea y mirar cómo pasa, sola, a algo más parejo.",
+      "practice": "Salí a caminar y dejá que la euforia se mueva con tus pasos, sin acelerarla. Después de unos minutos, fijate cómo pīti se va transformando en un sukha más sereno.",
+      "quote": null
+    },
+    "crash": {
+      "text": "«Los ocho vientos mundanos», los llamaba el Buda —ganancia y pérdida, fama y anonimato, elogio y reproche, placer y dolor—, y soplan por turno a través de cada vida. La caída después de un pico puede ser muy desagradable, el mundo parece desteñirse, y el budismo mira estos vaivenes sin sorpresa. Los vientos se suceden en la vida de todos, y no es un fracaso personal. La caída duele especialmente cuando se mete la comparación: «ayer estuvo tan bien, y ahora…»; eso es apego a un sentimiento que ya se fue. La atención plena propone mirar el estado de hoy tal como es: una vedanā desagradable, pesadez, cansancio, sin el agregado de «va a ser siempre así». La impermanencia que se llevó el pico se va a llevar también el bajón.",
+      "practice": "Parate junto a una ventana y encontrá tres cosas que no dependen de tu ánimo: un árbol, el cielo, una luz en la ventana de alguien. Decí en silencio: «Sopla el viento. Y esto está acá».",
+      "quote": null
+    },
+    "panic": {
+      "text": "Thich Nhat Hanh comparaba a una persona en medio de una emoción fuerte con un árbol en una tormenta: la copa se sacude, pero el tronco, cerca de las raíces, se queda quieto; y en una tormenta hay que bajar al tronco, a la respiración en la panza. Una ola de pánico da miedo de verdad: el corazón golpea, la respiración se traba, y no es culpa tuya que haya llegado. La práctica budista de la atención plena empieza por la respiración y el cuerpo: ānāpānasati, la atención a la inhalación y la exhalación, y kāyagatāsati, la atención al cuerpo. En el pánico, esto no es una manera de «echar» el terror, sino de encontrar un punto de apoyo en medio de la tormenta: acá están mis pies, acá la exhalación, acá un sonido del otro lado de la ventana. El Buda enseñaba a ver las sensaciones como olas que surgen y pasan. Una ola de pánico suele subir hasta un pico y bajar en pocos minutos. No tenés que pelearla; podés agarrarte de algo firme mientras pasa.",
+      "practice": "Bajá «al tronco»: apoyá la palma sobre la panza, un poco debajo del ombligo, y seguí cómo sube y baja. Hacé la exhalación un poco más larga que la inhalación y nombrá cinco cosas que puedas ver.",
+      "quote": null
+    },
+    "dread": {
+      "text": "El joven príncipe Siddhartha, criado detrás de los muros del palacio, salió una vez a la ciudad y vio por primera vez a un anciano, a un enfermo y un cortejo fúnebre. La pregunta «¿para qué todo esto?» y el pensamiento de la finitud son muy antiguos, y que te hayan alcanzado habla de profundidad, no de debilidad. Siddhartha entendió que eso también lo tocaba a él, y así, según la tradición, empezó el camino del Buda. No le dio la espalda a ese saber, pero tampoco se quedó en el terror: se volvió el comienzo de su búsqueda y de su compasión. El budismo propone mirar la finitud no como un abismo sino como una razón para valorar lo que está acá ahora y para ser más bondadoso. La práctica de la atención plena enseña a volver del «todo» vasto y abstracto al «acá» concreto: esta respiración, este sonido, esta persona. Ahí el sentido no se siente como una respuesta sino como presencia.",
+      "practice": "Salí afuera, como el príncipe por las puertas, y buscá con la mirada un ser vivo: un pájaro, un árbol, alguien que pasa. Deseale en silencio: «Que estés bien hoy».",
+      "quote": null
+    },
+    "fomo": {
+      "text": "El maestro vietnamita Thich Nhat Hanh tiene una frase simple para la meditación caminando: «Llegué. Estoy en casa». Cuando parece que la vida está pasando en otro lado, a otra gente —sobre todo en la época del feed—, estas palabras suenan casi desafiantes. El budismo ve este sentimiento como una forma de ansia, taṇhā: la mente se estira hacia lo que no está y deja de ver lo que sí está. Entre los «ocho vientos mundanos» de los que hablaba el Buda están la fama y el anonimato: oscilan inevitablemente, y ninguna vida está hecha solo de momentos brillantes, por más que se vea así desde afuera. El buen antídoto que nombra el budismo es muditā, la alegría por los demás: podés intentar alegrarte por la fiesta de otro sin quitarte nada a vos. Y algo más: la atención plena le devuelve el valor a un momento común. La vida no pasa «en otro lado»; siempre pasa acá.",
+      "practice": "Da veinte pasos lentos y, con cada uno, decí en silencio: «Llegué. Estoy en casa». Después fijate qué hay a tu alrededor, justo acá.",
+      "quote": null
+    },
+    "sleepless": {
+      "text": "Entre los beneficios de mettā que enumera el Buda, los dos primeros son dormirse con facilidad y dormir en paz (AN 11.15). Los pensamientos a las tres de la mañana pueden ser especialmente pesados: todo parece más ruidoso y más sin salida que de día. El Buda describió cinco «obstáculos» de la mente, nīvaraṇa, y uno de ellos es uddhacca-kukkucca, la inquietud y el remordimiento: la mente salta de un lado a otro, repasando lo que se hizo y lo que no. Es un retrato notablemente preciso del torbellino nocturno. El consejo budista no es discutir con cada pensamiento sino notar el proceso mismo: «acá hay inquietud», «acá hay arrepentimiento». Nombrar algo es dar un pasito atrás. Después podés volver a tu respiración o a tu cuerpo acostado en la cama: su peso, su calor, el roce de la frazada. Mettā también se puede dirigir hacia vos.",
+      "practice": "Acostado, repetite con suavidad: «Que esté tranquilo. Que esté a salvo». Cuando los pensamientos te lleven, simplemente volvé a estas palabras.",
+      "quote": null
+    },
+    "betrayal": {
+      "text": "Se cuenta que Devadatta, primo y discípulo del Buda, le hizo rodar una roca desde un acantilado y le soltó encima un elefante enloquecido. La traición hiere donde había confianza, y ese dolor merece atención y comprensión. El Buda mismo conocía ese dolor. La tradición no finge que no haya sido terrible, pero muestra otro camino: no responder al odio con odio. El budismo hace una distinción: podés ver con claridad que un acto estuvo mal y tomar distancia de la persona, y al mismo tiempo no dejar que la amargura se instale en vos. No es aprobar la traición sino cuidar tu propio corazón. La compasión, karuṇā, puede empezar por vos: ahora mismo te duele, y ese dolor se puede abrazar con atención antes de decidir nada.",
+      "practice": "Decí en voz alta, para vos o a alguien de confianza: «Esto duele, y no voy a responder con odio». No hace falta decidir nada más por ahora.",
+      "quote": null
+    },
+    "jealousy": {
+      "text": "A los maestros budistas les gusta una parábola antigua: a un mono lo atrapan con una nuez dentro de un frasco de cuello angosto; aprieta la nuez en el puño y no puede sacar la mano, aunque le bastaría con abrir los dedos. Los celos son una maraña de miedo a perder, inseguridad y amor, y detrás hay un apego que te importa. El budismo diría que los celos son una forma de aferramiento, upādāna: el deseo de retener lo que por naturaleza cambia, otra persona, sus sentimientos, sus elecciones. Suena severo, pero es una mirada sin reproche, de comprensión: aferrarse es natural, y lastima sobre todo al que se aferra. La atención plena propone no reprimir los celos sino examinarlos: ¿qué miedo hay ahí, qué necesidad: de seguridad, de cercanía, de reconocimiento? Y mettā, la bondad amorosa, puede ir aflojando el puño de a poco: desearte felicidad a vos y también al otro, aunque no sea fácil.",
+      "practice": "Cerrá el puño imaginando que sostenés a la persona que tenés miedo de perder. Sentí la tensión y después abrí la palma despacio, dejando la mano cerca. ¿Qué necesidad tuya podrías nombrar con honestidad en voz alta?",
+      "quote": null
+    },
+    "resentment": {
+      "text": "Dos monjes se encontraron con una joven a la orilla de un río, y el mayor la cruzó en brazos; horas más tarde el menor explotó: «¿Cómo pudiste?». «Yo la dejé en el río», respondió el mayor, «y vos todavía la estás cargando». Un rencor viejo pesa, y detrás suele haber una injusticia real. El budismo no te exige declararla una pavada, pero señala: al repetirnos el agravio una y otra vez, somos nosotros quienes mantenemos ese fuego encendido. Soltar el rencor no quiere decir justificar a quien te lastimó. Quiere decir dejar de cargar lo que te sigue hiriendo justamente a vos. La práctica budista propone empezar no por el perdón sino por la atención: notar cómo se siente el resentimiento en el cuerpo, qué pensamientos lo alimentan. Cuando ves el mecanismo, su agarre se afloja de a poco. A veces el primer paso es mettā hacia vos, hacia la parte tuya que salió herida en aquel momento.",
+      "practice": "En tu mente, cambiá la frase de siempre, «me ofendió», por otra: «En ese momento me dolía». Repetila tres veces al exhalar y fijate qué cambia en tu pecho.",
+      "quote": {
+        "text": "«Me insultó, me golpeó, me venció, me robó»: en quienes albergan tales pensamientos el odio no se apacigua.",
+        "author": "El Buda",
+        "source": "Dhammapada, 3"
+      }
+    },
+    "heartbreak": {
+      "text": "En el Parque de los Ciervos, cerca de Benarés, en su primer sermón, el Buda enumera las formas del sufrimiento y nombra entre ellas, con sencillez, la separación de lo que amás. Una ruptura es una pérdida enorme, y un corazón roto duele casi físicamente. Así que no te duele porque estés haciendo algo mal: es parte de la vida humana. La enseñanza de la impermanencia no suena acá como un frío «todo pasa» sino como una explicación: el amor fue real justamente porque estaba vivo y cambiaba. No hace falta echar el dolor. La atención plena enseña a quedarte a su lado como al lado de un amigo que llora: sin apurarlo, sin avergonzarlo. Con el tiempo, el apego a lo que fue puede ablandarse, mientras que la gratitud por lo vivido puede quedar.",
+      "practice": "Cuando venga una ola, decite con las palabras del primer sermón: «Separarse de lo que amamos es sufrimiento, y todas las personas lo sienten». Respirá lento unas cuantas veces, como si le sostuvieras la mano a un amigo que llora.",
+      "quote": null
+    },
+    "impostor": {
+      "text": "«En la mente del principiante hay muchas posibilidades; en la del experto, pocas», decía el maestro zen Shunryu Suzuki. Si sentís que en cualquier momento te van a «descubrir», el budismo te propondría mirar qué es exactamente lo que estás defendiendo. La enseñanza de anattā, el no-yo, dice que no hay un «yo» inmutable que pueda ser definitivamente «auténtico» o «falso». Hay un flujo de acciones, esfuerzos y habilidades que crecen. Así que es imposible ser un impostor en tu propia vida: no te estás haciendo pasar por una esencia terminada; estás en proceso, como todos. Suzuki llamaba a esto «mente de principiante», una apertura que no pretende saberlo todo ya. Y la duda sobre vos mismo se puede notar como un pensamiento que surgió y va a pasar, no como un veredicto.",
+      "practice": "Hacele hoy a alguien una pregunta de principiante, simple, casi «tonta». Fijate que no hay nada de qué avergonzarse en mostrar una mente de principiante.",
+      "quote": null
+    },
+    "self_hatred": {
+      "text": "El rey Pasenadi le confesó a su esposa que no quería a nadie más que a sí mismo, y el Buda, al enterarse, no se lo reprochó: recorré con el pensamiento todas las direcciones, dijo, y no vas a encontrar a nadie más querido que uno mismo (Udana 5.1). Si tu crítico interior suena despiadado ahora, merecés suavidad, no darle la razón. En la descripción clásica de la práctica de mettā, la bondad amorosa, se empieza por uno mismo: primero te deseás felicidad a vos, y recién después a los demás. Y del mismo modo, cada otra persona es querida para sí misma. La voz que dice «soy un desastre» no es la verdad sobre vos sino un evento mental, un pensamiento que surge y pasa. Podés notarlo sin creerle. El budismo ni siquiera te culpa por tener un crítico: es un hábito viejo de la mente, y los hábitos, como todo lo condicionado, cambian.",
+      "practice": "Susurrate, como se hace en mettā: «Que pueda tratarme con amabilidad. Que esté tranquilo». Si las palabras suenan falsas, quedate solo con la intención.",
+      "quote": null
+    },
+    "helplessness": {
+      "text": "«Gota a gota se llena el cántaro», dice el Dhammapada: así también una persona se llena de bien, de a poco (122). Sentirte impotente para cambiar algo es uno de los sentimientos más pesados, y es importante no agravarlo con reproches. El budismo reconoce con honestidad que mucho en la vida no depende de nosotros: todo surge de una multitud de condiciones, y nadie las controla todas. Pero la misma enseñanza implica otra cosa: nosotros también somos una de las condiciones. Una acción chiquita, una palabra amable, una respiración atenta cambian la trama de lo que pasa, aunque sea imperceptiblemente. El Buda enseñaba upekkhā, la ecuanimidad: no indiferencia, sino la capacidad de estar con lo que no se puede cambiar sin desarmarse. Y a su lado, karuṇā, la compasión, también hacia vos cuando las cosas están difíciles. La impotencia ante lo grande no anula el sentido de lo chico.",
+      "practice": "Agregale una gota a este día: un llamado, una caminata corta, una taza de té para alguien. Hacelo sin esperar que lo resuelva todo.",
+      "quote": null
+    },
+    "procrastination": {
+      "text": "Cuando Moggallana se dormía una y otra vez en la meditación, el Buda le dio una lista entera de remedios: recordar la enseñanza, tirarse de las orejas, frotarse los miembros, lavarse la cara, mirar las estrellas, caminar (AN 7.61). «No puedo arrancar» no es un vicio sino un estado de la mente que tiene sus causas. Entre los cinco «obstáculos», el Buda nombró thīna-middha, la pereza y el sopor, y por separado la duda, vicikicchā, que paraliza la elección. El solo hecho de que estos estados tengan nombre y antídotos saca la vergüenza: es un estado común, no un veredicto sobre tu carácter. Contra el letargo, los textos no aconsejan forzarse sino un pequeño impulso de energía, viriya. También ayuda la atención a lo que pasa justo antes de empezar: ¿qué sentimiento aparece, de qué querés escaparte? A veces detrás del «no puedo arrancar» hay miedo, y alcanza con notarlo.",
+      "practice": "Tomá un remedio de la lista del Buda —echate agua fresca en la cara o frotate las orejas— y después hacé solo la primera acción, la más chiquita, de la tarea.",
+      "quote": null
+    },
+    "uprooted": {
+      "text": "Los monjes del budismo temprano andaban de un lado a otro la mayor parte del año y se quedaban en un solo lugar solo durante la temporada de lluvias, la vassa. Perder tu casa te mueve el piso, y extrañar lo conocido es completamente natural. El Buda mismo dejó su casa y vivió en el camino. Pero para ellos irse fue una elección, mientras que para vos pudo haber sido algo forzado, y ese es un dolor muy distinto. Aun así, la experiencia budista puede ofrecer algo. Tu sostén puede ser no solo un lugar sino también la atención: tu respiración, tu cuerpo y el momento presente están siempre con vos, estés donde estés. Y la sangha, la comunidad, es en el budismo uno de los tres refugios, junto con el Buda y su enseñanza: una persona necesita gente con quien compartir el camino. Las raíces nuevas crecen despacio, y acá la enseñanza de la impermanencia es un consuelo: tu desorientación de ahora también va a cambiar.",
+      "practice": "Charlá hoy con una persona cercana —el del almacén, una vecina, un compañero de trabajo— un poco más que de costumbre. Así empieza una sangha nueva: con una conversación.",
+      "quote": null
+    },
+    "overload": {
+      "text": "«Custodiá las puertas de los sentidos», aconsejaba el Buda, como un guardián en las puertas de la ciudad: sin trabarlas, pero sabiendo a quién dejás entrar. Cuando las notificaciones y las opiniones ajenas llegan en un chorro constante, la mente se cansa, y la irritación o el entumecimiento son naturales. El budismo describe seis «puertas de los sentidos»: ojo, oído, nariz, lengua, cuerpo y mente. Por cada puerta entran impresiones sin parar, y cada una trae una pequeña sensación de agradable o desagradable, un pequeño «quiero más» o «no quiero esto». En el feed, el ansia de novedad, taṇhā, se nota especialmente: por eso cuesta tanto parar. Lo que ayuda no es la fuerza de voluntad sino un solo momento de atención: notar que tu mano otra vez está yendo hacia la pantalla.",
+      "practice": "Sé guardián durante dos minutos: dejá el celular, cerrá los ojos y dejá entrar solo los sonidos. A todo lo demás, un amable «ahora no».",
+      "quote": null
+    },
+    "unreality": {
+      "text": "El Buda comparaba el cuerpo con un copo de espuma en un río, las sensaciones con las burbujas que levanta la lluvia en el agua, la percepción con un espejismo al mediodía (SN 22.95). Cuando el mundo o vos mismo parecen irreales, como detrás de un vidrio, es una experiencia rara y muchas veces asustadora, y se puede hablar de ella con calma. Puede parecer que estas imágenes resuenan con lo que sentís. Pero, y esto es importante, él no quería decir que el mundo no existe, sino que todo es cambiante y no tiene un núcleo inmutable. Y el camino que ofrece el budismo no lleva al desapego sino a un contacto más vivo, a través del cuerpo y la respiración. Cuando la realidad parece desteñida, ayudan cosas simples: sentir el suelo bajo los pies, el calor de las manos, un sonido. Esto es sati: presencia acá y ahora.",
+      "practice": "Frotate las palmas y sentí el calor. Nombrá en silencio cinco sonidos u objetos a tu alrededor, despacio, de a uno.",
+      "quote": null
+    },
+    "awe": {
+      "text": "La red de Indra es una imagen del Avatamsaka Sutra: una red infinita con una joya colgando en cada nudo, y cada joya refleja a todas las demás. El asombro ante las estrellas, las montañas o la bondad de alguien es una de las experiencias más profundas: por un rato afloja el «yo» de siempre, que mide todo según sus propias preocupaciones. En esos momentos la interconexión de todo, que el budismo llama origen dependiente, se vuelve especialmente palpable: sos parte de una trama inmensa de condiciones, no una isla separada. Las cuatro prácticas budistas del corazón —mettā, karuṇā, muditā y upekkhā— se llaman «inconmensurables» porque el sentimiento en ellas se expande en todas las direcciones sin límite. En el asombro hay algo parecido: por un momento el corazón se vuelve más ancho. El budismo no te pide que expliques este sentimiento ni que lo retengas. Alcanza con estar en él por completo.",
+      "practice": "Mirá el cielo de noche o la luz en unas gotas de agua, e imaginá que cada punto refleja a todos los demás, como las joyas de la red de Indra. Quedate así un minuto, sin explicar nada.",
+      "quote": null
+    },
+    "relief": {
+      "text": "Saldar una deuda, curarse de una enfermedad, salir de la cárcel, cruzar un desierto sano y salvo: esas son las imágenes que usaba el Buda para el alivio (DN 2). Una exhalación tan esperada se puede simplemente vivir. El budismo tiene la palabra passaddhi, tranquilidad, el aflojarse del cuerpo y la mente, y es uno de los siete factores del despertar. El alivio muestra cuánta energía se estaba yendo en la tensión. Podés notarlo sin reproche: esto es lo que venía sosteniendo. La práctica budista propone quedarse con atención en el alivio: dónde está en el cuerpo, cómo bajan los hombros, cómo cambia la respiración. Esa atención lo vuelve más hondo y más pleno. Y el alivio muestra la impermanencia, anicca, desde su lado luminoso: lo que era difícil también pasó. Podés guardar este saber para más adelante, cuando las cosas se pongan difíciles de nuevo: entonces vas a poder recordar que el alivio ya llegó antes.",
+      "practice": "Soltá el aire largo, como un viajero que sale del desierto, y fijate qué parte de tu cuerpo aflojó primero. Quedate con ella unas cuantas respiraciones.",
+      "quote": null
+    },
+    "calm": {
+      "text": "Cuando el agua de un lago está quieta y clara, alguien en la orilla puede ver en el fondo caracoles, piedritas y peces: así describía el Buda una mente calmada (DN 2). La calma es un estado valioso, y el budismo la aprecia mucho. Calmar la mente se llama samatha, uno de los dos pilares de la práctica, junto con vipassanā, la visión clara. La calma budista no es vacío ni indiferencia sino una claridad en la que todo se ve con más nitidez. Una calma así no necesita condiciones especiales: por un momento podés encontrarla en cualquier lado volviendo a la respiración. Ahora, que llegó sola, podés simplemente quedarte en ella y recordar su sabor. El budismo enseña a no aferrarse ni siquiera a lo bueno, así que no hace falta preocuparse porque la calma se vaya: el camino de vuelta hacia ella va a seguir ahí.",
+      "practice": "Quedate quieto un minuto, como el agua de ese lago, sin hacer nada y sin cambiar la respiración. Fijate qué se volvió visible en el fondo: sonidos, pensamientos, sensaciones.",
+      "quote": null
+    },
+    "inspiration": {
+      "text": "«¿Qué es la diligencia? El deleite en lo bueno», escribe Shantideva en el Bodhicharyavatara. La inspiración es un impulso vivo de energía, cuando tenés ganas de crear, y en el budismo tiene parientes cercanos. Viriya —la energía, el esfuerzo alegre en lo sano— es una de las pāramīs, las perfecciones. Y chanda es el deseo de actuar que, a diferencia del ansia, no está atado al apego. El budismo los distingue: el ansia agarra y nunca se satisface, mientras que chanda es un claro «quiero hacer esto bien». La inspiración que apunta a crear y a beneficiar a otros es justamente de ese tipo. El consejo es simple: dejá que el impulso se vuelva acción, pero no te ates fuerte al resultado. Así la inspiración va a seguir volviendo en lugar de quemarse. Y si con el tiempo el impulso se apaga, no quiere decir que no haya sido real: como todo lo condicionado, simplemente le dejó lugar a otro estado, y desde ese estado también podés seguir por el camino.",
+      "practice": "Da el primer pasito ahora mismo —un boceto, un llamado, una sola línea— y dedicáselo en silencio a quienes podría beneficiar.",
+      "quote": null
+    },
+    "schadenfreude": {
+      "text": "En la práctica tibetana de tonglen, inhalás el dolor del otro y exhalás tu propia felicidad: exactamente lo contrario de lo que hace la alegría por el mal ajeno. Esa alegría da vergüenza admitirla, aunque casi todo el mundo la sintió alguna vez. El budismo la trataría sin condena, como un clima de la mente que surge bajo ciertas condiciones. Entre los «cuatro inconmensurables», los principales estados luminosos, está muditā, la alegría compartida: alegrarse por la felicidad del otro. La alegría por el mal ajeno es su sombra en espejo, y la tradición budista admite con honestidad que muditā es especialmente difícil de cultivar: la mente está acostumbrada a comparar y competir. Las condiciones de esa alegría suelen ser comprensibles: envidia, resentimiento, la sensación de que te quedaste con menos. Si notás esas raíces, pierde su dulzura y se vuelve una pista: acá es donde a mí me duele. En términos budistas, no hace falta echar el sentimiento; alcanza con verlo con claridad y después, si podés, desearte el bien al menos a vos.",
+      "practice": "Anotá en silencio: «Acá hay alegría por el mal ajeno». Después preguntate: ¿qué dolor mío se esconde acá? Deseate: «Que tenga lo que me falta».",
+      "quote": null
+    },
+    "contempt": {
+      "text": "Los textos budistas cuentan como presunción, māna, no solo el pensamiento «soy mejor» sino también «soy peor», y hasta «soy igual»: cualquier vara con la que se ubica a las personas en escalones. El desprecio nos pone por encima del otro y nos separa de él con una barrera fría. Por debajo trabaja el mismo hábito de compararse con los demás. El desprecio muchas veces protege de la vulnerabilidad: si una persona está «más abajo», sus acciones hieren menos. Un budista diría que ayuda notar este mecanismo sin juzgarte, y recordar que el otro también es un flujo de causas y condiciones, que también busca la felicidad y también sufre. Eso no exige aprobar sus acciones. Pero el muro puede volverse más fino, y te va a costar menos sostenerlo.",
+      "practice": "Decí en silencio sobre la persona que despreciás: «También quiere ser feliz y no quiere sufrir». Fijate qué pasa adentro, sin intentar cambiar nada.",
+      "quote": {
+        "text": "Que nadie busque las faltas de los demás, ni lo que otros hicieron o dejaron de hacer; que cada uno mire sus propios actos, los hechos y los no hechos.",
+        "author": "El Buda",
+        "source": "Dhammapada, 50"
+      }
+    },
+    "disgust": {
+      "text": "En un sutta, el Buda propone repasar las partes del cuerpo —pelo, uñas, dientes, piel— con serenidad, como quien separa un costal de granos: «esto es arroz, esto son porotos, esto son arvejas» (MN 10). El asco es una respuesta corporal fuerte, y puede dirigirse a personas, a situaciones, incluso a vos mismo. La práctica budista conoce también una manera atenta de trabajar con este sentimiento: el cuerpo se repasa así para debilitar el apego. Pero el objetivo no era llegar a odiar el cuerpo, sino ver las cosas sin adornos y sin retroceder, con una mirada pareja. Esa mirada pareja se llama upekkhā, ecuanimidad: una mente que ni se aferra a lo agradable ni huye de lo desagradable. Para un budista, el asco se puede explorar: qué sensación hay en el cuerpo, qué pensamiento lo dispara, cómo cambia con el tiempo. Con el asco hacia vos mismo vale la pena ser especialmente suave: sos un flujo que cambia, no aquello que ahora mismo provoca rechazo.",
+      "practice": "Con voz pareja, como quien separa granos, nombrá lo que te da asco y lo que pasa en tu cuerpo: «un nudo en la garganta», «me echo para atrás». Respirá con eso unas cuantas veces, mirando cómo cambia.",
+      "quote": null
+    },
+    "revenge": {
+      "text": "Cuenta la leyenda que una vez el Buda se paró entre dos ejércitos —los sakyas y los koliyas, listos para pelear por el agua del río Rohini— y les preguntó qué era más valioso: el agua o la sangre humana. Te lastimaron, y querés que quien te lastimó sienta lo mismo: es la respuesta natural de alguien herido. El budismo no te condena por ese deseo, pero lo mira a través de la enseñanza del kamma, la idea de que las acciones intencionales moldean a quien las hace. La venganza continúa la cadena del sufrimiento y te ata a la persona que te lastimó: repasás la escena de la herida una y otra vez, y esa persona vive en tu cabeza. El camino budista no te exige perdonar enseguida ni justificar lo que pasó. Propone primero cuidar tu propia herida —reconocer el dolor, hacerle lugar— y recién después, tal vez, aflojar el puño. En términos budistas, renunciar a la venganza no es una concesión al agresor ni admitir que tenía razón, sino liberarte del ciclo en el que te metieron.",
+      "practice": "Acordate de la pregunta del Buda junto al río y preguntate en voz alta: «¿Qué es más valioso para mí: devolver el golpe o dejar de sangrar por este dolor?». Después nombrá una cosa que te protegería sin dañar al otro.",
+      "quote": {
+        "text": "Vence al iracundo con la calma; vence al malvado con la bondad; vence al avaro con la generosidad; vence al mentiroso con la verdad.",
+        "author": "El Buda",
+        "source": "Dhammapada, 223"
+      }
+    },
+    "anger_at_loved": {
+      "text": "Cuenta la leyenda que el maestro indio Atisha, al partir hacia el Tíbet, se llevó a un cocinero bengalí de muy mal carácter, para tener con quién practicar la paciencia. El enojo con los más cercanos —la pareja, los padres, los hijos— da especial vergüenza: parece que una persona que ama no debería hervir así. El budismo lo mira con sobriedad: donde el apego es fuerte, las expectativas también lo son, y también el dolor cuando no se cumplen. El enojo con un ser querido muchas veces crece del amor, el cansancio y el miedo a la vez. Ayuda la imagen de las «dos flechas» del Sallatha Sutta. La primera flecha es el dolor inevitable: en este caso, el chispazo de irritación mismo. La segunda es lo que agregamos nosotros: «soy una madre horrible», «soy un mal hijo». La segunda hiere más hondo. Un budista diría que podés reconocer el estallido sin hacerte un juicio y volver a mettā, la bondad amorosa, primero hacia vos y después hacia aquel con quien te enojaste. Las relaciones aguantan los estallidos si después viene la calidez.",
+      "practice": "Cuando el estallido haya pasado, preguntate: ¿qué quería en realidad: descanso, atención, ayuda? Si tenés la oportunidad, contáselo a esa persona querida en una frase tranquila.",
+      "quote": null
+    },
+    "ambivalence": {
+      "text": "En la psicología budista, cada momento de la experiencia tiene su «sabor», vedanā: agradable, desagradable o neutro, y una misma persona puede servirte los tres en una sola noche. Querer y no soportar a la misma persona es un estado muy común pero pocas veces nombrado, y el budismo ayuda a entenderlo sin condenarte. La mente quiere simpleza: o «bueno» o «malo». Pero la enseñanza de anattā, el no-yo, recuerda que tu ser querido tampoco es una esencia fija sino un flujo de estados cambiantes, igual que vos. Para un budista, los sentimientos mezclados no son un error del amor sino un reflejo honesto de la realidad. Podés sostenerlos en la conciencia al mismo tiempo sin elegir uno: acá hay ternura, acá hay irritación, acá hay cansancio; todo eso está acá ahora mismo.",
+      "practice": "Pensá en esta persona y anotá mentalmente, de a uno, todos los sentimientos que aparecen: «ternura… irritación… culpa…». No elijas el principal: solo enumeralos.",
+      "quote": null
+    },
+    "guilty_relief": {
+      "text": "En un mismo minuto de la mente, enseña la psicología budista, pueden correr distintas corrientes —duelo, amor, cansancio, alivio— y ninguna anula a las otras. El alivio después de perder a alguien cercano, sobre todo después de una enfermedad larga, suele llegar junto con la vergüenza: «¿cómo puedo sentir alivio?». El budismo lo trataría con mucha suavidad. El alivio es el resultado natural de que termine una tensión larga: cuidar, el miedo, ver sufrir a otro. Además, si tu ser querido sufrió mucho tiempo, el alivio puede estar ligado a karuṇā, la compasión: te alegra que su dolor haya terminado. En términos budistas, no hace falta elegir cuál sentimiento es el «correcto». Todo lo que surge surge por algo, y cada sentimiento se puede recibir con amabilidad.",
+      "practice": "Decite en voz baja: «Amo, y siento alivio. Las dos cosas son verdad». Repetilo en tres exhalaciones lentas.",
+      "quote": null
+    },
+    "indifference": {
+      "text": "Todo estado luminoso, escribió Buddhaghosa, tiene un «enemigo cercano»: un doble que se le parece solo desde afuera. A veces algo debería conmoverte, y sin embargo por dentro está vacío, quieto, chato, y eso asusta. El budismo distingue dos estados que desde afuera se parecen. Upekkhā, la ecuanimidad, es una mente serena y abierta que ve todo con claridad y no pierde su calidez. Y está su «enemigo cercano»: la indiferencia apagada. Pero el entumecimiento tampoco es motivo para culparte: muchas veces es una reacción protectora de una psique cansada y sobrecargada. El budismo también habla de la vedanā neutra: no toda experiencia tiene que ser intensa. Un budista diría que ese «nada» se puede explorar con curiosidad: ¿dónde está en el cuerpo, cómo es? La atención dirigida al vacío sin exigirle nada muchas veces va devolviendo las sensaciones de a poco.",
+      "practice": "Tomate un minuto para encontrar al menos una sensación en tu cuerpo: el calor de las manos, el apoyo de la silla. Si no hay sentimientos, nombralo simplemente: «neutro por ahora».",
+      "quote": null
+    },
+    "escape": {
+      "text": "De noche, mientras el palacio dormía, el príncipe Siddhartha miró por última vez a su esposa y a su hijo dormidos, montó su caballo Kanthaka y salió por las puertas. Las ganas de dejar todo y escaparse —de un trabajo, de una ciudad, de un rol— pueden ser muy fuertes, y la historia misma del Buda empieza con una partida. Pero el budismo distingue con finura dos maneras de irse. Una es la huida que nace de la aversión: simplemente querés que lo desagradable no esté. Ese irse muchas veces no ayuda: la inquietud viaja con nosotros. La otra es nekkhamma, la renuncia: dejar atrás de manera consciente lo que hace daño por algo que importa más. El budismo diría que podés explorar tus ganas de escaparte: ¿de qué exactamente, y hacia qué? Las ganas en sí no son malas: dicen que tu situación actual te está haciendo sufrir. Lo importante es verlo con claridad antes de decidir.",
+      "practice": "Escribí dos listas: «lo que quiero dejar» y «adonde quiero llegar». Fijate cuál es más larga.",
+      "quote": null
+    },
+    "forbidden_attraction": {
+      "text": "Nanda, el hermano del Buda, extrañaba tanto a la novia que había dejado que quería colgar los hábitos, y el Buda no lo avergonzó (Udana 3.2). La atracción hacia alguien que no está disponible o que es «la persona equivocada» puede llegar de golpe e inquietar. El budismo no ve nada criminal en el mero surgir del deseo: aparece por condiciones, como todo en la mente. La enseñanza del origen dependiente describe una cadena: el contacto da lugar a la sensación, la sensación al ansia (taṇhā), el ansia al apego. Entre la sensación y el apego hay un espacio donde es posible la atención. Un budista diría que podés explorar la atracción como un fenómeno: qué es exactamente lo que te atrae, qué sensaciones, imágenes y esperanzas trae. Muchas veces lo que nos llama en lo inalcanzable no es tanto la persona como una promesa: de novedad, de reconocimiento, de otra vida. El budismo no dicta veredictos ni decide por vos; propone mirar sin rechazar y sin agarrar.",
+      "practice": "Cuando aparezca la imagen de esta persona, anotá: «deseo». Preguntate: ¿qué promesa trae? Esperá tres respiraciones, mirando cómo cambia la sensación.",
+      "quote": null
+    },
+    "social_anxiety": {
+      "text": "Más de una vez calumniaron al Buda en público: un día una mujer llamada Cinca, con un cuenco de madera atado debajo de la ropa, anunció delante de todos que estaba embarazada de él. La timidez y el miedo al juicio hacen que encontrarse con gente se sienta como un examen. El budismo habla de los «ocho vientos mundanos»: elogio y reproche, fama y anonimato, ganancia y pérdida, placer y dolor. Soplan sobre todos, y ni siquiera el Buda se salvó del reproche. La ansiedad social gira en buena parte alrededor del «yo»: cómo me veo, qué piensa la gente de mí. La enseñanza de anattā, el no-yo, afloja con suavidad ese puño: el «yo» que se cuida con tanto esmero no es un monolito sino un proceso, y las opiniones ajenas sobre él también son pasajeras. Para un budista, ayuda llevar la atención de vos mismo a la otra persona o a sensaciones simples: el sonido de una voz, tu respiración, tus pies en el piso. La ansiedad no desaparece de una, pero tiene menos combustible.",
+      "practice": "Durante una conversación, bajá la atención a tus pies o a la voz de la otra persona. Cuando notes el pensamiento «cómo me veo», volvé abajo con suavidad.",
+      "quote": {
+        "text": "Culpan al que calla, culpan al que habla mucho, culpan al que habla con mesura. No hay nadie en el mundo a quien no se culpe.",
+        "author": "El Buda",
+        "source": "Dhammapada, 227"
+      }
+    },
+    "uncertainty": {
+      "text": "«Todas las cosas condicionadas son impermanentes; esfuércense con diligencia»: esas fueron las últimas palabras del Buda a sus discípulos (DN 16). No saber es difícil: querés saber qué va a pasar, y no hay respuesta. El budismo parte de que siempre vivimos con eso: anicca, la impermanencia, es una de las tres características principales de la existencia. Nada se queda igual, y el futuro nunca está garantizado; solo que en tiempos tranquilos no lo notamos. El sufrimiento, según el análisis budista, no crece tanto por lo desconocido en sí como por el ansia de un suelo firme que no existe. Suena severo, pero hay alivio en eso: no te rompiste; te encontraste con la manera en que funciona el mundo. En términos budistas, el sostén no está en conocer el futuro sino en el momento presente, que podés sentir: tu respiración, tu cuerpo, esta inhalación. La incertidumbre se puede sostener con la palma abierta en lugar del puño cerrado.",
+      "practice": "Apoyá las manos sobre las rodillas, con las palmas hacia arriba como cuencos, y respirá tres veces repitiendo en silencio: «No sé, y estoy acá».",
+      "quote": null
+    },
+    "waiting": {
+      "text": "En Plum Village, Thich Nhat Hanh les enseñaba a los monjes a detenerse con cada toque de campana: escucharla, hacer una pausa, tres respiraciones, y seguir. Esperar —una respuesta, resultados, noticias— estira el tiempo y achica la vida a un solo punto. La práctica budista de la atención plena propone un movimiento interesante: notar que «esperar» no es un gran acontecimiento sino un proceso de la mente hecho de momentos concretos. Acá está el pensamiento «¿y si es algo malo?», acá un apretón en la panza, acá tu mano yendo hacia el celular. Cada uno surge y desaparece. Sati, la atención plena, recuerda: la vida pasa solo ahora, aunque la mente esté entera en el futuro. Un budista diría que la espera se puede convertir en práctica: no intentar acelerarla, sino notar exactamente cómo esperás. Entonces la pausa deja de ser tiempo vacío: también es vida, por ansiosa que sea, y hay lugar en ella para un té, para respirar, para una charla.",
+      "practice": "Hacé de las ganas de mirar el celular tu «campana»: cada vez que la mano vaya hacia él, pará tres respiraciones. Después decidí si mirarlo.",
+      "quote": null
+    },
+    "regret": {
+      "text": "«¿Para qué sirve un espejo?», le preguntó el Buda a su hijo Rahula, de siete años. «Para mirarse», respondió el chico (MN 61). Del mismo modo, enseñaba el Buda, deberíamos mirar nuestras acciones; y arrepentirte de lo que hiciste o no hiciste muestra que te importa cómo vivís. El budismo distingue acá dos estados. El primero es el remordimiento sano que ayuda a aprender: mirar las acciones como en un espejo —antes, durante y después— y, si se ve un daño, reconocerlo y actuar distinto desde entonces. El segundo es kukkucca, un rumiar inquieto del pasado, que el budismo cuenta entre los «obstáculos» de la mente: no arregla nada y solo atormenta. Para un budista, el pasado ya pasó a ser parte de las causas y condiciones; no se puede cambiar; pero cada acción nueva también se vuelve una causa. El arrepentimiento se puede transformar de un circuito cerrado en una flecha que apunta hacia adelante.",
+      "practice": "Parate frente a un espejo, mirate a los ojos y hacete las tres preguntas de Rahula: ¿qué hice? ¿a qué llevó? ¿qué voy a hacer distinto? Respondé en voz alta, breve y sin juzgarte.",
+      "quote": null
+    },
+    "longing": {
+      "text": "Mettā se puede enviar a cualquier distancia: en la práctica clásica se dirige primero a un cuarto del mundo, después a otro, hasta llenar el mundo entero. Cuando extrañás a una persona en particular, ese sentimiento que duele guarda a la vez amor y dolor. El budismo reconoce con honestidad que separarse de quienes amamos es una de las formas de dukkha, el sufrimiento, nombrada ya en el primer sermón del Buda. No es un reproche sino un reconocimiento: así funciona una vida en la que hay apego. El budismo distingue el amor que quiere retener de mettā, la bondad amorosa, que puede fluir hacia una persona a cualquier distancia. Extrañar se aferra a la imagen de la persona y se contrae alrededor de ella; mettā la suelta al mundo con un deseo de bien. En términos budistas, no hace falta echar la añoranza ni avergonzarse de ella. Podés hacerle lugar y, cuando tengas fuerzas, convertirla en un deseo: que estés bien, estés donde estés.",
+      "practice": "Acercate a una ventana y girá hacia donde está ahora esa persona. Mandale tu deseo en esa dirección: «Que estés bien, estés donde estés».",
+      "quote": null
+    },
+    "world_pain": {
+      "text": "Cuenta la leyenda que el bodhisattva Avalokiteshvara escuchó el llanto del mundo y vio tanto dolor que su cabeza se partió en pedazos; entonces le crecieron once cabezas y mil brazos para poder ayudar. El dolor por el mundo —las noticias duras, las guerras, la injusticia— es señal de un corazón vivo. En el budismo, este sentimiento está cerca de karuṇā, la compasión: responder al dolor ajeno y desear que el sufrimiento termine. Pero la tradición budista también advierte sobre una trampa: la compasión que desborda se vuelve duelo e impotencia propios. Buddhaghosa llamaba a la pena el «enemigo cercano» de karuṇā: solo se parece a la compasión, pero te vacía. El contrapeso es upekkhā, la ecuanimidad: no indiferencia sino una estabilidad que te permite seguir cuidando sin quemarte. Un budista diría que podés ayudar donde puedas y, al mismo tiempo, cuidarte. El mundo necesita tu corazón vivo, no tu agotamiento.",
+      "practice": "Elegí una mano de las mil: una buena acción a tu alcance hoy, ayudar, acompañar, donar. Hacela, y después date un descanso de las noticias.",
+      "quote": null
+    },
+    "rejection": {
+      "text": "Una vez el Buda fue a pedir limosna a una aldea de brahmanes y se fue con el cuenco vacío: nadie le dio nada (SN 4.18). Un rechazo se siente como un golpe al centro mismo de lo que sos, y duele. El budismo ayuda a separar esta experiencia en partes. Está el hecho: alguien dijo que no. Está el dolor: una vedanā desagradable, y es real. Y está la historia que la mente agrega rápido: «algo anda mal conmigo», «va a ser siempre así». Esa es justamente la «segunda flecha» del Sallatha Sutta, la que nos disparamos nosotros. Para un budista, la primera flecha se puede recibir con autocompasión, y la segunda se puede mirar con cuidado: ¿es realmente verdad? La enseñanza del no-yo agrega: el «no» de otro tiene que ver con una situación particular, no con un «yo» inmutable. Seguís cambiando, y los encuentros de mañana todavía no están escritos.",
+      "practice": "Dividí una hoja en dos columnas: «lo que pasó» y «lo que me dije sobre eso». De la segunda columna, preguntate: ¿es la primera flecha o la segunda?",
+      "quote": null
+    },
+    "abandonment": {
+      "text": "«Sean una isla para ustedes mismos, sean un refugio para ustedes mismos», les dijo el Buda a sus discípulos cuando supo que pronto los iba a dejar (DN 16). El miedo a que te abandonen puede vivir muy adentro del cuerpo: tensión, espera ansiosa, chequear todo el tiempo. El budismo no te avergonzaría por este sentimiento: reconoce que separarse de quienes amamos está entre las formas básicas del sufrimiento. Pero también busca la raíz del miedo: el ansia de que lo que amamos sea inmutable y esté garantizado, en un mundo donde todo es impermanente. Suena frío, pero la conclusión es cálida: si nada se puede retener para siempre, el valor de un vínculo está en su presente vivo, no en las garantías. El budismo también habla de «refugio», un sostén; en la tradición son el Buda, la enseñanza y la comunidad, la sangha. En un sentido amplio, es la atención, la bondad amorosa y la gente que camina a tu lado. En términos budistas, podés amar sin aferrarte hasta que duela, y apoyarte en más de una persona.",
+      "practice": "Sentate firme y sentí el apoyo debajo tuyo: tu propia «isla». Decí: «Estoy acá, estoy conmigo». Después nombrá a una o dos personas que también están en tu vida.",
+      "quote": null
+    },
+    "unrequited": {
+      "text": "En el budismo, el regalo más alto es aquel por el que no se espera nada a cambio: dāna, la generosidad sin cálculo. El amor no correspondido es un sentimiento lleno de ternura y lleno de dolor. El budismo no lo llamaría un error, pero propondría distinguir en él dos capas. La primera es taṇhā, el ansia: el deseo de que el otro responda, de que el vínculo se vuelva mutuo. Es lo que causa la mayor parte del tormento, porque choca con lo que no depende de vos. La segunda capa es mettā, la bondad amorosa: el deseo de que la persona amada esté bien. Esa no necesita respuesta. Un budista diría que tu amor no se desperdicia: su mejor parte, la capacidad de desearle el bien a alguien, sigue siendo tuya y puede extenderse más lejos, a otros y a vos mismo. Y el ansia, si la mirás con atención, se comporta como una ola: sube, llega a su pico y baja.",
+      "practice": "Hacé hoy un pequeño regalo sin retorno, a otra persona, no a esta: invitale algo a alguien, cedé tu asiento, decí una palabra amable. Fijate que la capacidad de dar sigue siendo tuya.",
+      "quote": null
+    },
+    "humiliation": {
+      "text": "El brahmán Bharadvaja fue a ver al Buda y lo cubrió de insultos, y el Buda le preguntó: si los invitados no toman la comida que se les ofrece, ¿para quién queda? «Para el anfitrión», respondió el brahmán (Akkosa Sutta). La humillación quema: parece que te achicaron delante de todos. El budismo tomaría en serio ese dolor, y te ayudaría a ver qué es exactamente lo que duele. Los insultos que no se aceptan también se quedan con quien los dijo. No es una invitación a hacer de cuenta que no te duele. Es un recordatorio de que la humillación es una acción de otra persona, y no estás obligado a estar de acuerdo con su evaluación. Para un budista, tu dignidad no depende de las palabras ajenas, y el dolor que causan, como todo, surge y pasa.",
+      "practice": "Imaginá que las palabras hirientes son una comida que no aceptaste. Decite: «Eso se quedó con ellos». Respirá con calma unas cuantas veces.",
+      "quote": {
+        "text": "Así como una roca sólida no se sacude con la tormenta, así los sabios no se inmutan ante el elogio o el reproche.",
+        "author": "El Buda",
+        "source": "Dhammapada, 81"
+      }
+    },
+    "body_shame": {
+      "text": "«Esto no es mío, esto no soy yo, esto no es mi ser»: así proponía el Buda mirar cada uno de los cinco componentes de la experiencia, empezando por el cuerpo (SN 22.59). No estar conforme con tu cuerpo es un dolor silencioso pero agotador. El budismo mira el cuerpo con sobriedad: es impermanente, cambia, envejece, y nada de eso es culpa tuya. El cuerpo es solo uno de los cinco khandhas, los agregados que componen la experiencia. Suena extraño, pero puede ser liberador: si tu cuerpo no es lo mismo que vos, entonces que no cumpla con los cánones ajenos no es un veredicto sobre vos. La práctica budista de la atención al cuerpo enseña a sentirlo desde adentro —respiración, calor, movimiento— en lugar de juzgarlo desde afuera, como lo haría una mirada ajena. En términos budistas, podés tratar a tu cuerpo con mettā, la bondad amorosa, como a un compañero que te lleva por la vida.",
+      "practice": "Cerrá los ojos y sentí tu cuerpo desde adentro: tu respiración, tu peso, el calor de tus manos. Durante un minuto no lo juzgues: solo sentilo.",
+      "quote": null
+    },
+    "illness": {
+      "text": "Una vez el Buda encontró a un monje al que todos habían abandonado en su enfermedad, lo lavó con sus propias manos y les dijo a sus discípulos: «Quien quiera cuidarme a mí, que cuide a los enfermos». Cuando el cuerpo te falla, da miedo y agota, y el budismo habla de la enfermedad sin vueltas: en el primer sermón se la nombra entre las formas básicas del sufrimiento. El Buda mismo se enfermó, y en la vejez comparaba su cuerpo con un carro viejo sostenido con correas. Es importante que discutía con quienes consideraban todo dolor resultado de acciones pasadas (el Sivaka Sutta): la enfermedad tiene muchas causas, y no es un castigo. El budismo propone distinguir «dos flechas»: la primera es el dolor corporal en sí, que no se puede deshacer; la segunda son el miedo, la protesta y los pensamientos de «¿por qué a mí?», que agregan sufrimiento encima. La segunda a veces se puede ablandar con atención y amabilidad hacia vos. Podés cuidarte, aceptar ayuda y notar lo que todavía te da paz.",
+      "practice": "Anotá el dolor o la molestia como la «primera flecha». Después notá un pensamiento que agrega peso, la «segunda». Decile con suavidad: «Te veo».",
+      "quote": null
+    },
+    "pride": {
+      "text": "La tradición budista tiene una práctica de «recordar la propia generosidad»: traer a la memoria las cosas buenas que hiciste y alegrarte por ellas (AN 6.10). El orgullo por lo que hiciste es un sentimiento bueno y cálido, y el budismo distingue en él cosas distintas. Māna, la presunción —compararte con otros, querer estar por encima—, se considera una atadura de la mente. Pero la alegría por una acción sana no solo está permitida en el budismo sino que se recomienda de manera explícita. Esa alegría, según la psicología budista, calma la mente y ayuda a la concentración. Un budista diría que el orgullo sano se reconoce porque no necesita que nadie esté más abajo. Podés alegrarte por tu propio trabajo igual que te alegrás por el de otro: con muditā, la alegría compartida, dirigida hacia vos.",
+      "practice": "Quedate un minuto en silencio y recordá lo que hiciste como esta práctica recuerda la propia generosidad: sin comparar, simplemente con alegría. Podés decirte: «Me alegra haber hecho esto».",
+      "quote": null
+    },
+    "melancholy": {
+      "text": "«Un viejo estanque. Salta una rana. El ruido del agua», escribió Bashō, el poeta caminante formado en la cultura budista de Japón. La tristeza suave, en la que la pena se entrelaza con delicadeza con la belleza, vive en momentos así, y el budismo la entiende bien: está cerca de ver con claridad anicca, la impermanencia. Cuando vemos que todo pasa —una tarde, un verano, la juventud, esta conversación— surge una ternura particular. La cultura japonesa, que creció bajo la fuerte influencia del budismo, tiene una expresión para esto: mono no aware, el encanto conmovedor de las cosas que pasan. Para un budista, esta tristeza no necesita arreglo: ni se aferra ni rechaza, simplemente ve. Hay poca ansia en ella y mucha presencia. Podés vivirla como una forma callada de atención plena —con una taza de té, junto a la ventana, en la luz de otoño—, dejando que dure lo que quiera.",
+      "practice": "Buscá algo fugaz cerca tuyo: la luz en la pared, un sonido, una nube. Miralo un minuto, sabiendo que está cambiando, y permitite sentir lo que sientas.",
+      "quote": null
+    }
+  }
+}
