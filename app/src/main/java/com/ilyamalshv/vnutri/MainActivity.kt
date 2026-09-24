@@ -15,6 +15,7 @@ import androidx.compose.material3.Surface
 import androidx.compose.material3.Text
 import androidx.compose.material3.TextButton
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.CompositionLocalProvider
 import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateListOf
@@ -25,11 +26,18 @@ import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalContext
+import androidx.compose.ui.platform.LocalView
 import com.ilyamalshv.vnutri.data.EmotionMark
 import com.ilyamalshv.vnutri.data.JournalEntry
 import com.ilyamalshv.vnutri.data.JournalStore
 import com.ilyamalshv.vnutri.data.Library
 import com.ilyamalshv.vnutri.data.Safety
+import com.ilyamalshv.vnutri.data.Settings
+import com.ilyamalshv.vnutri.sound.Ambient
+import com.ilyamalshv.vnutri.sound.Feedback
+import com.ilyamalshv.vnutri.sound.LocalFeedback
+import com.ilyamalshv.vnutri.ui.IntroScreen
+import com.ilyamalshv.vnutri.ui.SettingsScreen
 import com.ilyamalshv.vnutri.ui.CrisisScreen
 import com.ilyamalshv.vnutri.ui.HomeScreen
 import com.ilyamalshv.vnutri.ui.JournalDetailScreen
@@ -42,20 +50,49 @@ import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
 
 class MainActivity : ComponentActivity() {
+    private lateinit var settings: Settings
+    private lateinit var ambient: Ambient
+    private lateinit var feedback: Feedback
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
+        settings = Settings(this)
+        ambient = Ambient(this)
+        feedback = Feedback(this, settings)
+        ambient.setEnabled(settings.music)
         setContent {
+            feedback.view = LocalView.current
             VnutriTheme {
-                Surface(Modifier.fillMaxSize(), color = MaterialTheme.colorScheme.background) {
-                    App()
+                CompositionLocalProvider(LocalFeedback provides feedback) {
+                    Surface(Modifier.fillMaxSize(), color = MaterialTheme.colorScheme.background) {
+                        App(settings, ambient, feedback)
+                    }
                 }
             }
         }
     }
+
+    override fun onStart() {
+        super.onStart()
+        ambient.onForeground(true)
+    }
+
+    override fun onStop() {
+        ambient.onForeground(false)
+        super.onStop()
+    }
+
+    override fun onDestroy() {
+        ambient.release()
+        feedback.release()
+        super.onDestroy()
+    }
 }
 
 private sealed interface Screen {
+    data object Intro : Screen
+    data object Settings : Screen
     data object Home : Screen
     data class Result(val entryId: Long) : Screen
     data class Crisis(val fromText: Boolean, val continueTo: Long?) : Screen
@@ -66,14 +103,14 @@ private sealed interface Screen {
 }
 
 @Composable
-private fun App() {
+private fun App(settings: Settings, ambient: Ambient, feedback: Feedback) {
     val context = LocalContext.current
     val library by produceState<Library?>(null) {
         value = withContext(Dispatchers.IO) { Library.load(context) }
     }
     val store = remember { JournalStore(context) }
     val journal = remember { mutableStateListOf<JournalEntry>().apply { addAll(store.load()) } }
-    val stack = remember { mutableStateListOf<Screen>(Screen.Home) }
+    val stack = remember { mutableStateListOf<Screen>(if (settings.intro) Screen.Intro else Screen.Home) }
     val marks = remember { mutableStateListOf<EmotionMark>() }
     var note by remember { mutableStateOf("") }
 
@@ -88,22 +125,43 @@ private fun App() {
 
     BackHandler(enabled = stack.size > 1) { pop() }
 
+    val current = stack.last()
+    LaunchedEffect(current is Screen.Intro) {
+        ambient.setLevel(if (current is Screen.Intro) 0.7f else 0.22f)
+    }
+
     val lib = library
     if (lib == null) {
         Box(Modifier.fillMaxSize(), contentAlignment = Alignment.Center) { CircularProgressIndicator() }
         return
     }
 
-    when (val screen = stack.last()) {
+    when (val screen = current) {
+        Screen.Intro -> IntroScreen(onEnter = {
+            feedback.confirm()
+            replaceTop(Screen.Home)
+        })
+
+        Screen.Settings -> SettingsScreen(
+            settings = settings,
+            onMusic = {
+                settings.music = it
+                ambient.setEnabled(it)
+            },
+            onBack = ::pop,
+        )
+
         Screen.Home -> HomeScreen(
             marks = marks,
             onToggle = { id ->
                 val i = marks.indexOfFirst { it.emotionId == id }
                 if (i >= 0) marks.removeAt(i) else marks.add(EmotionMark(id, 2))
+                feedback.select()
             },
             onIntensity = { id, level ->
                 val i = marks.indexOfFirst { it.emotionId == id }
                 if (i >= 0) marks[i] = EmotionMark(id, level)
+                feedback.tap()
             },
             note = note,
             onNote = { note = it },
@@ -111,6 +169,7 @@ private fun App() {
                 val entry = JournalEntry(id = System.currentTimeMillis(), emotions = marks.toList(), note = note.trim())
                 upsert(entry)
                 val crisis = Safety.isCrisis(note)
+                feedback.confirm()
                 marks.clear()
                 note = ""
                 push(if (crisis) Screen.Crisis(fromText = true, continueTo = entry.id) else Screen.Result(entry.id))
@@ -118,6 +177,7 @@ private fun App() {
             onJournal = { push(Screen.Journal) },
             onLibrary = { push(Screen.Library) },
             onHelp = { push(Screen.Crisis(fromText = false, continueTo = null)) },
+            onSettings = { push(Screen.Settings) },
         )
 
         is Screen.Result -> {
@@ -166,7 +226,7 @@ private fun App() {
         }
     }
 
-    WelcomeDialog()
+    if (current !is Screen.Intro) WelcomeDialog()
 }
 
 @Composable

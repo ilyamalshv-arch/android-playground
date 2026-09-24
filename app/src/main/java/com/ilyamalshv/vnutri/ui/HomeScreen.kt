@@ -14,7 +14,10 @@ import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.verticalScroll
 import androidx.compose.material3.Button
 import androidx.compose.material3.ExperimentalMaterial3Api
-import androidx.compose.material3.FilterChip
+import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.filled.Settings
+import androidx.compose.material3.Icon
+import androidx.compose.material3.IconButton
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.OutlinedButton
 import androidx.compose.material3.OutlinedTextField
@@ -42,6 +45,7 @@ fun HomeScreen(
     onJournal: () -> Unit,
     onLibrary: () -> Unit,
     onHelp: () -> Unit,
+    onSettings: () -> Unit,
 ) {
     Scaffold(
         topBar = {
@@ -50,6 +54,7 @@ fun HomeScreen(
                 actions = {
                     TextButton(onClick = onJournal) { Text("Дневник") }
                     TextButton(onClick = onLibrary) { Text("Школы") }
+                    IconButton(onClick = onSettings) { Icon(Icons.Default.Settings, contentDescription = "Настройки") }
                 },
             )
         },
@@ -74,11 +79,7 @@ fun HomeScreen(
                 Text(label, style = MaterialTheme.typography.titleSmall, modifier = Modifier.padding(top = 8.dp))
                 FlowRow(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
                     Emotions.all.filter { it.light == light }.forEach { e ->
-                        FilterChip(
-                            selected = e.id in selectedIds,
-                            onClick = { onToggle(e.id) },
-                            label = { Text(e.name) },
-                        )
+                        SoftChip(selected = e.id in selectedIds, label = e.name, onClick = { onToggle(e.id) })
                     }
                 }
             }
@@ -93,10 +94,10 @@ fun HomeScreen(
                     ) {
                         Text(Emotions.name(m.emotionId), modifier = Modifier.weight(1f), style = MaterialTheme.typography.bodyMedium)
                         (1..3).forEach { level ->
-                            FilterChip(
+                            SoftChip(
                                 selected = m.intensity == level,
+                                label = intensityLabel(level),
                                 onClick = { onIntensity(m.emotionId, level) },
-                                label = { Text(intensityLabel(level)) },
                             )
                         }
                     }
@@ -113,7 +114,13 @@ fun HomeScreen(
             )
 
             Spacer(Modifier.height(16.dp))
-            Button(onClick = onSubmit, enabled = marks.isNotEmpty(), modifier = Modifier.fillMaxWidth()) {
+            val (submitInteraction, submitPress) = rememberSoftPress(0.96f)
+            Button(
+                onClick = onSubmit,
+                enabled = marks.isNotEmpty(),
+                interactionSource = submitInteraction,
+                modifier = Modifier.fillMaxWidth().then(submitPress),
+            ) {
                 Text("Осмыслить")
             }
             if (marks.isEmpty() && note.isNotBlank()) {

@@ -1,5 +1,9 @@
 package com.ilyamalshv.vnutri.ui
 
+import androidx.compose.animation.core.animateFloatAsState
+import androidx.compose.animation.core.spring
+import androidx.compose.foundation.interaction.MutableInteractionSource
+import androidx.compose.foundation.interaction.collectIsPressedAsState
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.IntrinsicSize
 import androidx.compose.foundation.layout.fillMaxHeight
@@ -22,12 +26,42 @@ import androidx.compose.material3.Surface
 import androidx.compose.material3.Text
 import androidx.compose.material3.TextButton
 import androidx.compose.material3.TopAppBar
+import androidx.compose.material3.FilterChip
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.getValue
+import androidx.compose.runtime.remember
+import androidx.compose.ui.graphics.graphicsLayer
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.text.font.FontStyle
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
 import com.ilyamalshv.vnutri.data.Lens
+import com.ilyamalshv.vnutri.sound.LocalFeedback
+
+/** Scales content down slightly while pressed, with a soft spring back. */
+@Composable
+fun rememberSoftPress(scaleTo: Float = 0.97f): Pair<MutableInteractionSource, Modifier> {
+    val interaction = remember { MutableInteractionSource() }
+    val pressed by interaction.collectIsPressedAsState()
+    val scale by animateFloatAsState(
+        targetValue = if (pressed) scaleTo else 1f,
+        animationSpec = spring(dampingRatio = 0.55f, stiffness = 380f),
+        label = "softPress",
+    )
+    return interaction to Modifier.graphicsLayer { scaleX = scale; scaleY = scale }
+}
+
+@Composable
+fun SoftChip(selected: Boolean, label: String, onClick: () -> Unit) {
+    val (interaction, press) = rememberSoftPress(0.92f)
+    FilterChip(
+        selected = selected,
+        onClick = onClick,
+        label = { Text(label) },
+        interactionSource = interaction,
+        modifier = press,
+    )
+}
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
@@ -54,9 +88,12 @@ fun LensCard(
     saved: Boolean? = null,
     onToggleSave: () -> Unit = {},
 ) {
+    val feedback = LocalFeedback.current
+    val (interaction, press) = rememberSoftPress(0.98f)
     Card(
-        onClick = onToggle,
-        modifier = Modifier.fillMaxWidth(),
+        onClick = { feedback?.tap(); onToggle() },
+        interactionSource = interaction,
+        modifier = Modifier.fillMaxWidth().then(press),
         shape = RoundedCornerShape(16.dp),
         colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.surfaceContainerLow),
     ) {
@@ -115,7 +152,7 @@ fun LensCard(
                     }
                 }
                 if (saved != null) {
-                    TextButton(onClick = onToggleSave, modifier = Modifier.padding(top = 4.dp)) {
+                    TextButton(onClick = { feedback?.select(); onToggleSave() }, modifier = Modifier.padding(top = 4.dp)) {
                         Text(if (saved) "★ Мысль сохранена в дневник" else "☆ Сохранить эту мысль")
                     }
                 }
