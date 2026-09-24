@@ -8,11 +8,24 @@
 //   Binding  "AI"         — Workers AI
 //   Secret   "APP_TOKEN"  — any long random string; the same string goes into the app settings
 // Optional:
-//   Variable "MODEL"      — defaults to @cf/meta/llama-3.3-70b-instruct-fp8-fast
+//   Variable "MODEL"      — overrides the default model id
 
-const DEFAULT_MODEL = "@cf/meta/llama-3.3-70b-instruct-fp8-fast";
+// The app picks one of these by key; anything else falls back to the default.
+const MODELS = {
+  llama33: "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+  llama4: "@cf/meta/llama-4-scout-17b-16e-instruct",
+  mistral: "@cf/mistralai/mistral-small-3.1-24b-instruct",
+  gemma: "@cf/google/gemma-3-12b-it",
+};
+const DEFAULT_MODEL = MODELS.llama33;
 
-const LIMITS = { note: 2000, lenses: 4, lensText: 1600, emotions: 8 };
+const LIMITS = { note: 2000, lenses: 4, lensText: 1600, emotions: 8, turns: 8, turnText: 1500 };
+
+const STYLES = {
+  gentle: "Тон: особенно мягкий и тёплый. Больше признания и поддержки, меньше анализа.",
+  deep: "Тон: глубже и философичнее. Можно смелее разворачивать понятия школ, показывать напряжение между ними и неочевидные связи с ситуацией. Объём до 300 слов.",
+  practical: "Тон: практичнее. После связи со школами предложи 1–2 маленьких конкретных шага на сегодня, вытекающих из этих взглядов (не советы о крупных решениях).",
+};
 
 // Same idea as Safety.kt in the app: when in doubt, point to real help instead of philosophy.
 const CRISIS = [
@@ -26,19 +39,25 @@ const CRISIS = [
   /suicid/, /kill\s+myself/, /want\s+to\s+die/, /self[- ]?harm/, /end\s+my\s+life/,
 ];
 
-const SYSTEM = `Ты — бережный собеседник в приложении «Внутри», которое помогает человеку осмыслить и принять свои чувства через взгляды философских школ.
+const SYSTEM = `Ты — бережный и умный собеседник в приложении «Внутри». Приложение помогает человеку осмыслить и принять свои чувства через взгляды философских школ — не «исправить» их.
 
-Тебе дают: чувства человека (с силой), его собственные слова о ситуации и тексты 2–4 философских школ из библиотеки приложения.
+Тебе дают: чувства человека (с силой), его собственные слова о ситуации и тексты нескольких философских школ из библиотеки приложения.
 
-Как отвечать:
-- Пиши по-русски, обращайся на «вы», тепло и просто, без канцелярита и без жаргона.
-- Начни с короткого признания чувства: оно понятно и имеет право быть. Не спорь с чувством и не пытайся его «исправить».
-- Затем свяжи 2–3 из данных школ с конкретной ситуацией человека. Опирайся ТОЛЬКО на данные тексты школ. Не приписывай философам то, чего нет в текстах, и не выдумывай цитаты — цитат не приводи вовсе.
-- Закончи одним мягким вопросом для размышления.
-- Объём: 150–250 слов. Без заголовков и списков, обычными абзацами.
+Как отвечать на первое сообщение:
+1. Одно-два предложения признания. Назови чувство и то, что за ним, опираясь на конкретные детали из слов человека (не пересказывай всё, выбери главное). Без шаблонов вроде «я понимаю, как вам тяжело».
+2. Затем 2–3 абзаца, каждый — одна школа, названная по имени («Спиноза сказал бы…», «Для Хан это…»). Бери из текста школы одно понятие и покажи, как оно меняет взгляд именно на эту ситуацию. Школы могут спорить друг с другом — это хорошо.
+3. Закончи одним точным вопросом для размышления, который вытекает из сказанного, а не общим «что вы чувствуете?».
+
+Правила:
+- Пиши по-русски, на «вы», живым простым языком, короткими абзацами, без заголовков, списков и markdown.
+- Опирайся ТОЛЬКО на данные тексты школ. Не приписывай философам того, чего в них нет. Цитат не приводи.
+- Если чувство «неудобное» (злорадство, зависть, злость на близких и т. п.) — не стыди: такое чувство человечно; помогай понять, что оно защищает или о чём сигналит. Никогда не одобряй действия во вред кому-либо.
+- Объём: 150–250 слов, если в тоне не сказано иное.
+
+Если это продолжение разговора: отвечай на последнее сообщение человека, 80–180 слов, можно задавать уточняющий вопрос, продолжай опираться на те же школы. Не повторяй уже сказанное.
 
 Чего нельзя:
-- Ставить диагнозы, говорить о лекарствах, давать медицинские или юридические советы.
+- Ставить диагнозы, говорить о лекарствах, давать медицинские, диетические или юридические советы.
 - Давать советы о крупных жизненных решениях (уйти с работы, расстаться и т. п.) — только помогать думать.
 - Морализировать, стыдить, обесценивать («бывает хуже», «просто не думайте об этом»).
 - Представлять смерть, самоповреждение или отказ от жизни как выход — ни в каком виде.
@@ -72,7 +91,7 @@ export default {
       return json({ error: "unauthorized" }, 401);
     }
     if (request.method === "GET" && url.pathname === "/health") {
-      return json({ ok: true, ai: Boolean(env.AI), model: env.MODEL || DEFAULT_MODEL });
+      return json({ ok: true, ai: Boolean(env.AI), models: Object.keys(MODELS) });
     }
     if (request.method !== "POST" || url.pathname !== "/reflect") {
       return json({ error: "not_found" }, 404);
@@ -90,28 +109,37 @@ export default {
       .map((e) => `${clip(e.name, 40)} (${clip(e.intensity, 20)})`);
     const lenses = (Array.isArray(body.lenses) ? body.lenses : []).slice(0, LIMITS.lenses)
       .map((l) => `### ${clip(l.school, 80)} — ${clip(l.tradition, 80)} (о чувстве «${clip(l.emotion, 40)}»)\n${clip(l.text, LIMITS.lensText)}`);
+    // Earlier turns of this conversation, oldest first: [{role: "user"|"assistant", text}]
+    const history = (Array.isArray(body.history) ? body.history : []).slice(-LIMITS.turns)
+      .filter((t) => (t.role === "user" || t.role === "assistant") && String(t.text ?? "").trim())
+      .map((t) => ({ role: t.role, content: clip(t.text, LIMITS.turnText) }));
 
     if (!emotions.length || !lenses.length) return json({ error: "empty" }, 400);
 
-    const normalized = note.toLowerCase().replaceAll("ё", "е");
+    const userTexts = [note, ...history.filter((t) => t.role === "user").map((t) => t.content)];
+    const normalized = userTexts.join("\n").toLowerCase().replaceAll("ё", "е");
     if (CRISIS.some((re) => re.test(normalized))) return json({ crisis: true });
 
-    const user = [
+    const first = [
       `Чувства: ${emotions.join(", ")}.`,
       note ? `Своими словами:\n${note}` : "Человек не описал ситуацию словами — говори о самих чувствах.",
       `Тексты школ из библиотеки приложения:\n\n${lenses.join("\n\n")}`,
     ].join("\n\n");
 
+    const style = STYLES[body.style] || STYLES.gentle;
+    const model = MODELS[body.model] || env.MODEL || DEFAULT_MODEL;
+
     try {
-      const result = await env.AI.run(env.MODEL || DEFAULT_MODEL, {
+      const result = await env.AI.run(model, {
         messages: [
-          { role: "system", content: SYSTEM },
-          { role: "user", content: user },
+          { role: "system", content: `${SYSTEM}\n\n${style}` },
+          { role: "user", content: first },
+          ...history,
         ],
-        max_tokens: 700,
+        max_tokens: body.style === "deep" ? 900 : 700,
         temperature: 0.6,
       });
-      const text = String(result?.response ?? "").trim();
+      const text = String(result?.response ?? result?.choices?.[0]?.message?.content ?? "").trim();
       if (!text) return json({ error: "empty_response" }, 502);
       return json({ text });
     } catch (e) {

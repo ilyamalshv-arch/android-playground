@@ -9,6 +9,9 @@ data class EmotionMark(val emotionId: String, val intensity: Int)
 
 data class SavedLens(val schoolId: String, val emotionId: String)
 
+/** One message of the AI conversation; role is "user" or "assistant". */
+data class AiTurn(val role: String, val text: String)
+
 data class JournalEntry(
     val id: Long,
     val emotions: List<EmotionMark>,
@@ -16,7 +19,12 @@ data class JournalEntry(
     val reflection: String = "",
     val saved: List<SavedLens> = emptyList(),
     val ai: String = "",
-)
+    val aiTurns: List<AiTurn> = emptyList(),
+) {
+    /** The whole AI conversation; older entries stored only the first answer in [ai]. */
+    val conversation: List<AiTurn>
+        get() = aiTurns.ifEmpty { if (ai.isBlank()) emptyList() else listOf(AiTurn("assistant", ai)) }
+}
 
 fun intensityLabel(intensity: Int): String = when (intensity) {
     1 -> "слегка"
@@ -47,6 +55,9 @@ class JournalStore(context: Context) {
         put("note", e.note)
         put("reflection", e.reflection)
         put("ai", e.ai)
+        put("aiTurns", JSONArray().apply {
+            e.aiTurns.forEach { put(JSONObject().put("role", it.role).put("text", it.text)) }
+        })
         put("emotions", JSONArray().apply {
             e.emotions.forEach { put(JSONObject().put("id", it.emotionId).put("intensity", it.intensity)) }
         })
@@ -58,11 +69,16 @@ class JournalStore(context: Context) {
     private fun fromJson(o: JSONObject): JournalEntry {
         val emotions = o.getJSONArray("emotions")
         val saved = o.optJSONArray("saved") ?: JSONArray()
+        val turns = o.optJSONArray("aiTurns") ?: JSONArray()
         return JournalEntry(
             id = o.getLong("id"),
             note = o.optString("note"),
             reflection = o.optString("reflection"),
             ai = o.optString("ai"),
+            aiTurns = List(turns.length()) {
+                val t = turns.getJSONObject(it)
+                AiTurn(t.getString("role"), t.getString("text"))
+            },
             emotions = List(emotions.length()) {
                 val m = emotions.getJSONObject(it)
                 EmotionMark(m.getString("id"), m.optInt("intensity", 2))

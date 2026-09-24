@@ -5,6 +5,9 @@ import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.PaddingValues
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
+import androidx.compose.foundation.layout.ExperimentalLayoutApi
+import androidx.compose.foundation.layout.consumeWindowInsets
+import androidx.compose.foundation.layout.imePadding
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.LazyRow
@@ -40,6 +43,7 @@ import com.ilyamalshv.vnutri.data.Safety
 import com.ilyamalshv.vnutri.data.SavedLens
 import com.ilyamalshv.vnutri.data.Settings
 
+@OptIn(ExperimentalLayoutApi::class)
 @Composable
 fun ResultScreen(
     library: Library,
@@ -62,7 +66,7 @@ fun ResultScreen(
     val presentFamilies = Families.all.filter { f -> library.schools.any { it.family == f.id } }
 
     Scaffold(topBar = { BackTopBar("Взгляды на чувства", onBack) }) { padding ->
-        Column(Modifier.fillMaxSize().padding(padding)) {
+        Column(Modifier.fillMaxSize().padding(padding).consumeWindowInsets(padding).imePadding()) {
             if (entry.emotions.size > 1) {
                 ScrollableTabRow(selectedTabIndex = tab, edgePadding = 16.dp) {
                     entry.emotions.forEachIndexed { i, m ->

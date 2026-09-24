@@ -10,9 +10,12 @@ SCHOOLS = ROOT / "app/src/main/assets/content/schools"
 EMOTIONS = ("anxiety fear sadness grief loneliness anger shame guilt envy emptiness confusion fatigue boredom "
             "joy love gratitude hope nostalgia craving addiction hangover euphoria crash panic dread fomo sleepless "
             "betrayal jealousy resentment heartbreak impostor self_hatred helplessness procrastination uprooted "
-            "overload unreality awe relief calm inspiration").split()
+            "overload unreality awe relief calm inspiration schadenfreude contempt disgust revenge anger_at_loved "
+            "ambivalence guilty_relief indifference escape forbidden_attraction social_anxiety uncertainty waiting "
+            "regret longing world_pain rejection abandonment unrequited humiliation body_shame illness pride "
+            "melancholy").split()
 FAMILIES = {
-    "classic": "Античность и Восток", "early_modern": "XVI–XVIII века", "nineteenth": "XIX век",
+    "classic": "Античность, Средневековье и Восток", "early_modern": "XVI–XVIII века", "nineteenth": "XIX век",
     "phenomenology_existential": "Феноменология и экзистенциализм",
     "psychoanalysis_critical": "Психоанализ и критическая теория",
     "analytic": "Аналитическая философия и прагматизм",

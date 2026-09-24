@@ -21,9 +21,19 @@ class AiClient(private val settings: Settings) {
 
     suspend fun health(): AiReply = request("GET", "/health", null) { AiReply.Text("ok") }
 
-    suspend fun reflect(emotions: List<EmotionMark>, note: String, lenses: List<Triple<School, String, Lens>>): AiReply {
+    suspend fun reflect(
+        emotions: List<EmotionMark>,
+        note: String,
+        lenses: List<Triple<School, String, Lens>>,
+        history: List<AiTurn> = emptyList(),
+    ): AiReply {
         val body = JSONObject()
             .put("note", note)
+            .put("style", settings.aiStyle)
+            .put("model", settings.aiModel)
+            .put("history", JSONArray().apply {
+                history.forEach { put(JSONObject().put("role", it.role).put("text", it.text)) }
+            })
             .put("emotions", JSONArray().apply {
                 emotions.forEach { put(JSONObject().put("name", Emotions.name(it.emotionId)).put("intensity", intensityLabel(it.intensity))) }
             })
@@ -68,6 +78,7 @@ class AiClient(private val settings: Settings) {
                     in 200..299 -> parse(JSONObject(text))
                     401 -> AiReply.Failure("Сервер не принял ключ доступа. Проверьте его в настройках.")
                     429 -> AiReply.Failure("Бесплатный лимит на сегодня исчерпан. Он обновится в 00:00 UTC (3:00 по Москве).")
+                    502 -> AiReply.Failure("Модель не ответила. Попробуйте ещё раз или выберите другую модель в настройках.")
                     else -> AiReply.Failure("Сервер ответил ошибкой ($code). Попробуйте позже.")
                 }
             } catch (e: Exception) {

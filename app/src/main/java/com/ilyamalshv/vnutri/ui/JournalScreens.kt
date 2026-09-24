@@ -109,10 +109,17 @@ fun JournalDetailScreen(
                     Text(entry.note, style = MaterialTheme.typography.bodyLarge)
                 }
             }
-            if (entry.ai.isNotBlank()) {
+            if (entry.conversation.isNotEmpty()) {
                 item {
                     Text("Разбор ИИ", style = MaterialTheme.typography.titleSmall)
-                    Text(entry.ai, style = MaterialTheme.typography.bodyLarge)
+                    entry.conversation.forEach { turn ->
+                        Text(
+                            if (turn.role == "user") "Вы: ${turn.text}" else turn.text,
+                            style = if (turn.role == "user") MaterialTheme.typography.bodyMedium else MaterialTheme.typography.bodyLarge,
+                            color = if (turn.role == "user") MaterialTheme.colorScheme.onSurfaceVariant else MaterialTheme.colorScheme.onSurface,
+                            modifier = Modifier.padding(top = 6.dp),
+                        )
+                    }
                 }
             }
             if (entry.reflection.isNotBlank()) {

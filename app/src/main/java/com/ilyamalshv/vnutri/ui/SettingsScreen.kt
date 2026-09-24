@@ -3,11 +3,15 @@ package com.ilyamalshv.vnutri.ui
 import android.content.ClipData
 import android.content.ClipboardManager
 import android.content.Context
+import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
+import androidx.compose.foundation.layout.ExperimentalLayoutApi
+import androidx.compose.foundation.layout.consumeWindowInsets
+import androidx.compose.foundation.layout.imePadding
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.text.KeyboardOptions
@@ -17,6 +21,7 @@ import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.OutlinedButton
 import androidx.compose.material3.OutlinedTextField
 import androidx.compose.material3.Scaffold
+import androidx.compose.material3.RadioButton
 import androidx.compose.material3.Switch
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
@@ -37,6 +42,14 @@ import com.ilyamalshv.vnutri.data.Settings
 import kotlinx.coroutines.launch
 import java.security.SecureRandom
 
+private val AI_MODELS = listOf(
+    Triple("llama33", "Llama 3.3 70B", "По умолчанию. Крупная и надёжная, ~50 разборов в день"),
+    Triple("llama4", "Llama 4 Scout", "Новее, быстрее, больше разборов в день"),
+    Triple("mistral", "Mistral Small 3.1", "Европейская модель, хорошо держит стиль"),
+    Triple("gemma", "Gemma 3 12B", "Модель Google, небольшая и быстрая"),
+)
+
+@OptIn(ExperimentalLayoutApi::class)
 @Composable
 fun SettingsScreen(settings: Settings, ai: AiClient, onMusic: (Boolean) -> Unit, onBack: () -> Unit) {
     val scope = rememberCoroutineScope()
@@ -48,6 +61,8 @@ fun SettingsScreen(settings: Settings, ai: AiClient, onMusic: (Boolean) -> Unit,
             Modifier
                 .fillMaxSize()
                 .padding(padding)
+                .consumeWindowInsets(padding)
+                .imePadding()
                 .verticalScroll(rememberScrollState())
                 .padding(horizontal = 16.dp),
         ) {
@@ -109,6 +124,25 @@ fun SettingsScreen(settings: Settings, ai: AiClient, onMusic: (Boolean) -> Unit,
                 ) { Text("Проверить соединение") }
             }
             check?.let { Text(it, style = MaterialTheme.typography.bodyMedium) }
+
+            Text("Модель", style = MaterialTheme.typography.titleSmall, modifier = Modifier.padding(top = 12.dp))
+            Text(
+                "Все бесплатные. Если ответы кажутся слабыми или модель не отвечает — попробуйте другую.",
+                style = MaterialTheme.typography.bodySmall,
+                color = MaterialTheme.colorScheme.onSurfaceVariant,
+            )
+            AI_MODELS.forEach { (key, title, hint) ->
+                Row(
+                    verticalAlignment = Alignment.CenterVertically,
+                    modifier = Modifier.fillMaxWidth().clickable { settings.aiModel = key }.padding(vertical = 4.dp),
+                ) {
+                    RadioButton(selected = settings.aiModel == key, onClick = { settings.aiModel = key })
+                    Column {
+                        Text(title, style = MaterialTheme.typography.bodyLarge)
+                        Text(hint, style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.onSurfaceVariant)
+                    }
+                }
+            }
             if (settings.aiUrl.isNotBlank() && !settings.aiUrl.startsWith("https://")) {
                 Text("Адрес должен начинаться с https://", color = MaterialTheme.colorScheme.error, style = MaterialTheme.typography.bodySmall)
             }

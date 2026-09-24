@@ -20,12 +20,14 @@ class Settings(context: Context) {
     var aiUrl by StringPref(prefs, "ai_url")
     var aiToken by StringPref(prefs, "ai_token")
     var aiConsent by BoolPref(prefs, "ai_consent", false)
+    var aiModel by StringPref(prefs, "ai_model", "llama33")
+    var aiStyle by StringPref(prefs, "ai_style", "gentle")
 
     val aiConfigured: Boolean get() = aiUrl.startsWith("https://") && aiToken.length >= 16
 }
 
-private class StringPref(private val prefs: SharedPreferences, private val key: String) {
-    private var state by mutableStateOf(prefs.getString(key, "") ?: "")
+private class StringPref(private val prefs: SharedPreferences, private val key: String, default: String = "") {
+    private var state by mutableStateOf(prefs.getString(key, default) ?: default)
 
     operator fun getValue(thisRef: Any?, property: KProperty<*>): String = state
 
