@@ -1,0 +1,400 @@
+{
+  "id": "epicureanism",
+  "title": "Epicurus",
+  "tradition": "Epicureanism",
+  "family": "classic",
+  "period": "4th–3rd centuries BC (Lucretius: 1st century BC)",
+  "sortYear": -300,
+  "thinkers": [
+    "Epicurus",
+    "Lucretius",
+    "Philodemus of Gadara"
+  ],
+  "keyWorks": [
+    "Epicurus, Letter to Menoeceus (c. 300 BC)",
+    "Epicurus, Principal Doctrines",
+    "Lucretius, On the Nature of Things (1st century BC)"
+  ],
+  "summary": "Epicureanism is the school Epicurus founded in Athens around 306 BC; his community met in a garden, and so it came to be called simply “the Garden.” Epicurus taught that the goal of life is pleasure, but he understood pleasure not as luxury and excess, but as peace of mind and freedom from pain. The main ways to it are a sober understanding of nature, a simple life, and friendship.",
+  "onEmotions": "Epicurus saw philosophy as medicine for the soul: its job is to free us from needless suffering, not to argue for argument's sake. For him, feelings of pleasure and pain are a natural compass given to us by nature, and it is right to listen to them. But many painful experiences, Epicurus believed, grow out of “empty opinions” — false beliefs about the gods, death, wealth, and fame — that inflate our anxieties and desires. The goal is ataraxia: tranquility, a calm clarity of the soul, like a smooth sea without a storm. It is reached not by suppressing feelings, but by understanding which desires are truly our own, and by caring for simple joys.",
+  "entries": {
+    "anxiety": {
+      "text": "Anxiety is the natural unease of a living being that wants to be safe. Epicurus believed that many of our anxieties grow out of “empty opinions” — beliefs that don't survive a calm examination: that we must earn the favor of higher powers, have more and more, avoid every failure. His followers boiled the main conclusions of his teaching down to the “fourfold remedy” — four short consolations. Their gist: most of what we fear is either not so terrible or bearable, and what we truly need for a good life is simple and within reach. Epicurus advised returning to the “natural and necessary” needs: food, shelter, friendship, rest. If your anxiety points to these, they deserve your care. But if it has been inflated by empty opinions, you can calmly ask yourself: what do I actually need?",
+      "practice": "Write down what you are anxious about and ask yourself: which of these could I truly not live well without, and which is just an “empty opinion”?",
+      "quote": {
+        "text": "Don't fear god, don't worry about death; what is good is easy to get, and what is terrible is easy to endure.",
+        "author": "Philodemus of Gadara (summarizing the teaching of Epicurus)",
+        "source": "The “fourfold remedy” (tetrapharmakos)"
+      }
+    },
+    "fear": {
+      "text": "Fear is a normal protective reaction, and Epicurus never reproached anyone for it. But he was convinced that many fears grow out of ignorance — out of the darkness in which ordinary things look like monsters. His Roman follower Lucretius, in his poem On the Nature of Things, compared adults to children trembling in the dark, and said this terror is dispelled not by the rays of the sun but by an understanding of how nature works. The Epicureans studied the world — atoms, the causes of things — not out of curiosity, but to free themselves from fear of the unknown. From this point of view, you can accept fear as an invitation to clarity: what exactly scares me, how likely is it, what do I know and what don't I? Often what is seen clearly becomes smaller and easier to bear.",
+      "practice": "Try to “turn on the light,” as the Epicureans advised: write down what exactly frightens you, how likely it is, and what you could do if it happened.",
+      "quote": null
+    },
+    "sadness": {
+      "text": "Sadness is a natural part of life, and Epicurus never demanded that people be cheerful all the time. His philosophy was conceived as medicine for the soul, and its view of sadness is gentle and practical. First, it's worth noticing whether there is a real lack behind the sadness — of rest, company, simple pleasures — and gently tending to it. Second, remember that pleasure for Epicurus is not a party or merriment, but above all the absence of needless pain: bread and water, he wrote, give the greatest pleasure to someone who needs them. Epicurus also advised recalling the good things that have been, as a counterweight to present heaviness. You can accept sadness as a quiet signal that your soul needs a little simple warmth.",
+      "practice": "Choose one simple pleasure available right now — a warm drink, light, a soft blanket — and let yourself enjoy it without hurrying.",
+      "quote": {
+        "text": "Empty is the argument of the philosopher by which no human suffering is healed.",
+        "author": "Epicurus",
+        "source": "fragment preserved by Porphyry (Letter to Marcella, 31)"
+      }
+    },
+    "grief": {
+      "text": "Loss is an enormous pain, and Epicureanism does not deny it. According to Diogenes Laertius, the Epicureans acknowledged that even the wise person will grieve. But their teaching offers a particular consolation — grateful memory. Epicurus held that the past belongs to us securely: the good we have lived through can never be made not to have been. Loss takes away the future along with the person, but it does not take away what was between you: the conversations, the laughter, the days together. Epicurus wrote that the memory of a friend who has died can be sweet, and advised honoring departed friends not with lamentation but by thinking of them. This doesn't mean you have to hurry. Grief can be lived through at your own pace, alongside the people who are still here — for Epicurus, friendship was life's main support.",
+      "practice": "Recall one specific good day with the person you lost. Write down its details — what you saw, heard, what you talked about.",
+      "quote": {
+        "text": "We should find solace for misfortune in the grateful recollection of what has been lost, and in the knowledge that what has happened cannot be undone.",
+        "author": "Epicurus",
+        "source": "Vatican Sayings, 55"
+      }
+    },
+    "loneliness": {
+      "text": "Loneliness hurts, and Epicureanism understands why perhaps better than most schools. For Epicurus, friendship was not a pleasant extra but one of the chief goods of life. He lived with his friends and students in a community — the Garden — which welcomed women and slaves, a rarity at the time. Seneca relates a thought of Epicurus: before you think about what to eat and drink, think about whom to eat and drink with. From this point of view, your loneliness is not a weakness but the voice of one of the most natural needs there is. Epicureanism suggests that friendship grows from small things — a shared meal, a conversation, mutual support. You don't have to look for deep closeness right away. You can start with one small step toward someone, and remember that needing people is part of what makes you human.",
+      "practice": "Think of one person you would enjoy sharing tea or a walk with. You could send them a short message — or simply imagine that meeting.",
+      "quote": {
+        "text": "Of all the things which wisdom provides for the happiness of the whole of life, by far the greatest is the possession of friendship.",
+        "author": "Epicurus",
+        "source": "Principal Doctrines, XXVII"
+      }
+    },
+    "anger": {
+      "text": "Anger flares up when something important has been touched, and Epicureanism acknowledges that it is natural. The Epicurean Philodemus, in his treatise On Anger, distinguished “natural anger” — an unavoidable, proportionate response to a real wrong, with nothing shameful in it — from “empty anger,” inflated by false opinions, a thirst for revenge, and endlessly chewing over the injury. Empty anger, he thought, torments the angry person most of all, destroying their peace and their friendships. From the Epicurean point of view, it helps to ask yourself: how much of my anger is about real harm, and how much about ideas of how things “should” have been? You can accept anger as a signal about your boundaries and tend to them calmly, without handing over your tranquility to it.",
+      "practice": "Divide your anger into two parts: what actually happened — and what I am adding to it with my own thoughts? Which part can I let go?",
+      "quote": null
+    },
+    "shame": {
+      "text": "Shame is a heavy feeling, often tied to how other people see us. The Epicureans advised living modestly, “unnoticed,” not building one's life around fame and the approval of the crowd: Epicurus considered the chase for recognition one of the “empty,” insatiable desires. If your shame has grown out of a fear of seeming not successful, attractive, or proper enough, an Epicurean would ask: is that really needed for a happy life? At the same time, the Epicurean community valued frankness among friends — parrhesia, open speech: students shared their mistakes in order to receive support and advice, not condemnation. Philodemus wrote about this. From this point of view, shame grows lighter when it can be shared with people who wish you well. A mistake spoken aloud in a circle of friends stops being a secret that gnaws at you.",
+      "practice": "Think: is there someone who treats you warmly and whom you might one day tell about what troubles you? Just note their name.",
+      "quote": null
+    },
+    "guilt": {
+      "text": "Guilt speaks of your capacity to care about others. Epicurus understood justice not as divine law but as an agreement among people neither to harm one another nor to be harmed. From this point of view, guilt shows where, as you feel it, this agreement has been broken. You could say the Epicurean response to guilt is practical: admit the mistake, make up for the harm where possible, talk things through — especially with friends, since friendship rests on trust. Endless self-punishment, in this logic, only adds suffering and helps no one. Epicurus wanted to free people from the fear of eternal punishment; an inner trial that never ends is, in essence, much like that fear. You can do everything in your power — and then allow yourself to return to peace.",
+      "practice": "Ask yourself: what can I do to restore trust or repair the harm? Once that is done, what will allow me to let the guilt go?",
+      "quote": null
+    },
+    "envy": {
+      "text": "Envy is a natural reaction to comparison, and everyone knows it. Epicurus suggested working out what exactly we want. He divided desires into three kinds: natural and necessary (food, shelter, friendship), natural but not necessary (fine food, beautiful things), and “empty” — for example, the desire for boundless wealth or fame. Empty desires have no natural limit, so they can never be satisfied: there will always be someone who has more. Envy often feeds on precisely these. Epicurus reminded us that much of what we already have was once the object of our dreams. From this point of view, you can accept envy as a reason to ask yourself: do I really want this for myself — or have I been hooked by someone else's comparison?",
+      "practice": "Look around and name one thing or one relationship you once dreamed of and now have.",
+      "quote": {
+        "text": "Do not spoil what you have by desiring what you have not; remember that what you now have was once among the things you only hoped for.",
+        "author": "Epicurus",
+        "source": "Vatican Sayings, 35"
+      }
+    },
+    "emptiness": {
+      "text": "Emptiness and apathy are a heavy state in which it is hard to want anything. Epicurus did not describe apathy directly, but from the standpoint of his teaching one could say it is a time to return to the simplest, “natural and necessary” pleasures. Epicurus stressed that joy does not require big events: a sip of water for the thirsty, warmth for the chilled, rest for the tired — these are already real pleasures. He especially valued calm, “stable” pleasure — the state in which simply nothing hurts. In emptiness, you don't need to force yourself to feel delight. You can start with the body: eat, get warm, get some sleep, spend time near a friend. Epicurean wisdom lies in noticing these small goods while desire and interest slowly return.",
+      "practice": "Take care of one simple bodily need right now — water, food, warmth, or rest — and notice even a small sense of relief.",
+      "quote": null
+    },
+    "confusion": {
+      "text": "Feeling lost is natural when life puts a choice in front of you and there is no clear answer. Epicurus offered a method you might call “weighing”: comparing not only the immediate pleasures and discomforts, but also their consequences. Some pleasures later bring a lot of pain, and some difficulties lead to a greater good. Epicurus also trusted direct experience: he considered sensations and feelings “criteria of truth,” the starting point of knowledge. From this point of view, when you feel lost it helps not to rush to grand conclusions, but to return to what you clearly feel and know right now. And one more thing, in the spirit of the Epicurean Garden: don't decide important things alone — talk them over with friends. You can accept confusion as a reason for calm reflection, not as a sign that something is wrong with you.",
+      "practice": "For one of the options you are torn between, ask: what will this bring me now — and what a year from now? If you can, talk it over with someone close.",
+      "quote": null
+    },
+    "fatigue": {
+      "text": "Exhaustion and burnout are a clear signal from body and soul that they need rest. Epicureanism is one of the few philosophies that put rest right at the center of a good life. Epicurus taught that the highest pleasure is not vivid excitement but aponia and ataraxia: the absence of bodily pain and the tranquility of the soul. He advised freeing oneself from “the prison of everyday affairs and politics” — that is, from the endless race for status and influence. From this point of view, burnout often means we have spent too long sacrificing natural needs to empty desires — more success, more approval. Rest, for Epicurus, is not laziness but wisdom. You can accept your tiredness as a sign: it's time to bring simple, quiet pleasures back into your life.",
+      "practice": "Ask yourself: which of my current efforts serves an “empty desire” — other people's approval, status? Could I loosen it, even a little?",
+      "quote": null
+    },
+    "boredom": {
+      "text": "Boredom can be agonizing, and everyone knows it. Lucretius, in his poem On the Nature of Things, left a vivid portrait: a man tired of his home rushes off to his country estate, but there he immediately starts yawning, and then hurries back to the city. So each of us flees from ourselves, Lucretius writes, but there is no running away from yourself. His answer is to understand the nature of things and one's own life. From the Epicurean point of view, boredom is often born of the chase for novelty: empty desires demand ever stronger sensations and are never satisfied. Natural pleasures, on the other hand — food, a walk, a conversation — repeat endlessly and never grow stale for someone who knows how to notice them. You can accept boredom as a signal to turn from hunting for the new to paying attention to the familiar.",
+      "practice": "Choose one everyday pleasure — food, a walk, music — and give it your full attention, as if you were tasting it for the first time.",
+      "quote": null
+    },
+    "joy": {
+      "text": "Joy is, in essence, what Epicureanism was created for. Epicurus called pleasure the beginning and end of the blessed life and saw nothing shameful in rejoicing. But his joy was not a noisy feast. He himself lived very simply, content with bread and water, and jokingly asked a friend to send him a little pot of cheese so that he could treat himself to a lavish dinner whenever he liked. For an Epicurean, the main sources of joy are friendship, conversation, philosophy, a clear mind. Epicureanism also teaches you to savor joy and remember it: the memory of good things is a source of pleasure too. From this point of view, your joy is not frivolity but exactly what life naturally strives for. You can let yourself live it fully.",
+      "practice": "Tell someone what made you happy today, or write it down — so that, as Epicurus advised, your joy also becomes a pleasant memory.",
+      "quote": null
+    },
+    "love": {
+      "text": "Love and tenderness are beautiful, and Epicureanism prizes warm attachment highly — above all in the form of friendship. But in honesty, Epicurus and Lucretius were wary of passionate romantic love. In the fourth book of his poem, Lucretius described erotic passion as a source of restlessness, jealousy, and an insatiable craving that brings no peace. The Epicureans feared not tenderness, but love turning into an “empty” desire to possess and to suffer. Friendship based on trust and mutual care, however, seemed to them one of the highest goods. From this point of view, your tenderness is calmest when there is a lot of friendship in it: goodwill, joy in the other's presence, freedom. Love doesn't have to be a storm — it can be a garden.",
+      "practice": "Think of someone you love: what in your relationship is like friendship — the easy joy of being together? Notice exactly that today.",
+      "quote": null
+    },
+    "gratitude": {
+      "text": "Gratitude holds a special place in Epicureanism. Epicurus considered grateful memory of good things one of the most reliable sources of joy: no one can take the past away. An ungrateful soul, he said, makes a person greedy for endless variety — always seeking new pleasures and never satisfied. A letter survives that Epicurus wrote to a friend during a grave illness: despite severe pain, he wrote that he set against it the joy of his soul in remembering their past conversations. From this point of view, gratitude is not politeness but a practice that makes life fuller: it lets you draw again and again on the good that has already been. You can accept it as a quiet wealth that is always with you.",
+      "practice": "Recall one good conversation or day from the past and relive it in memory, in detail. What do you feel now?",
+      "quote": null
+    },
+    "hope": {
+      "text": "Hope sustains us, and Epicureanism gives it a sober, calm shape. In the Letter to Menoeceus, Epicurus suggests holding a middle course between carefree certainty about the future and despair: the future depends partly on us and partly not. Epicurus also reminded us that what matters most for a good life is simple and accessible: a little food, a roof overhead, friends, peace of mind. So Epicurean hope is modest and dependable: it doesn't make happiness depend on big strokes of luck. Everything necessary is easy to obtain, and one can live without the superfluous. From this point of view, you can hope for the best and at the same time find joy in what you already have now — the one doesn't get in the way of the other.",
+      "practice": "Name what you are hoping for, and one simple good thing you already have right now, whether or not the hope comes true.",
+      "quote": {
+        "text": "We must remember that the future is neither wholly ours nor wholly not ours, so that we neither count on it as certain to come nor despair of it as certain not to come.",
+        "author": "Epicurus",
+        "source": "Letter to Menoeceus"
+      }
+    },
+    "nostalgia": {
+      "text": "Nostalgia is a warm sadness for what has passed, and Epicurus would have understood the feeling. He considered the past a treasury: the good that has been can never be made not to have been, and you can return to it in memory again and again. Epicurus said that someone who has lived well is, in old age, like a ship that has come into harbor: their goods are safely sheltered in grateful memory. The bitterness of nostalgia, from the Epicurean point of view, arises when a memory turns into a wish to get back what cannot be got back. The sweetness comes when we simply rejoice that it happened. You can accept nostalgia as an invitation to grateful remembering: not longing for what is lost, but joy that it belongs to your life forever.",
+      "practice": "Recall a moment you miss and say to yourself: “It happened, and that can never be taken away.” Notice how the feeling changes.",
+      "quote": null
+    },
+    "craving": {
+      "text": "A craving — a sharp “I want it right now” — can be very strong, and there is nothing shameful in it: Epicurus never shamed people for their desires. He suggested telling them apart. Some desires are natural and necessary, like hunger or thirst. Others are natural but not necessary. Still others are “empty”: they are born not of nature but of opinion and habit. Epicurus observed that empty desires have no natural limit, so they can never be fully satisfied. He also taught weighing: not every pleasure is worth choosing if greater suffering follows it. Asking yourself this calm question is not a prohibition but a way of caring for yourself. From the Epicurean point of view, one could say that a craving often speaks not in the voice of your nature, but in the voice of a habit layered on top of it.",
+      "practice": "In the moment of craving, ask yourself: “What are my body or soul really asking for — rest, warmth, company, peace?” Perhaps there is a simpler way to give yourself that.",
+      "quote": {
+        "text": "Of desires, some are natural and others are empty; and of the natural, some are necessary and others natural only.",
+        "author": "Epicurus",
+        "source": "Letter to Menoeceus"
+      }
+    },
+    "addiction": {
+      "text": "Addiction is not a moral failure. Epicurus is often mistaken for a preacher of pleasure without limits, but what he valued most was freedom: he wrote that the greatest fruit of being content with little is freedom. The Epicureans distinguished pleasure as movement — “kinetic” pleasure, a flash, excitement — from pleasure as a state — “katastematic” pleasure: being satisfied, at rest, free of anxiety. From this point of view, addiction can be understood as a life gradually taken over by a single flash, crowding out the calm pleasures of the settled state. Epicurean therapy is not self-flagellation but a gradual return of simple joys. Epicurus considered friendship the main remedy: his Garden was a community where people supported one another. It is easier to break out of the cycle when your people are nearby — and every step toward calm joys brings relief in itself.",
+      "practice": "Name one calm, simple pleasure available to you without hurry — a warm meal, a walk, a conversation. If you'd like, you could look for people walking a similar path — your own small “Garden.”",
+      "quote": null
+    },
+    "hangover": {
+      "text": "The morning after brings both physical heaviness and a “moral” one: anxiety, shame, gaps in memory. Many people know this, and harsh judgment won't help right now. Epicurus taught approaching pleasures with calculation: sometimes we choose a pleasure followed by greater suffering — and that is not a sin but a miscalculation, one you can learn from. In the morning, his thought about pain may also come in handy: the sharpest suffering usually doesn't last long. The Epicureans considered fear and anxious “empty opinions” the chief enemies of tranquility — for example, the certainty that everyone is now judging you. It helps to check them soberly: what actually happened, and what is anxiety filling in? Everything else can wait while you take care of yourself.",
+      "practice": "Write down what you know for certain about yesterday and what is just anxiety's guesswork. Choose one simple way to take care of yourself today.",
+      "quote": null
+    },
+    "euphoria": {
+      "text": "A burst of euphoria is bright, and Epicurus wouldn't want to spoil it: for him, pleasure is a natural good. But he drew a subtle distinction. He separated “kinetic” pleasure — pleasure as movement, a flash, excitement — from “katastematic” pleasure, pleasure as a state: even and calm, when nothing troubles body or soul. He considered the second the deeper one. Euphoria is a classic pleasure of movement: it is wonderful, but short by nature. From the Epicurean point of view, you can live it fully and then gently “land” it — turn it into calm joy and grateful memory. Epicurus believed that the memory of good things itself becomes a source of pleasure. That way the flash leaves behind not emptiness but warmth.",
+      "practice": "Write a couple of lines about what is making you so happy right now. When the high subsides, this will become a “grateful memory,” as Epicurus advised.",
+      "quote": null
+    },
+    "crash": {
+      "text": "A sharp drop after a high — a celebration, a success, a vivid night — can be painful: everything around seems colorless. Epicureanism offers a simple explanation. Pleasure as a flash, the “kinetic” kind, ends by its very nature, and if your whole mood was resting on it, a slump follows. But Epicurus pointed to a steadier foundation — “katastematic” pleasure, the quiet state in which nothing hurts and the soul is untroubled. Against the backdrop of fireworks it can't be seen, but it never goes anywhere. A crash is a good time to return to simple things: food, sleep, quiet, a conversation with a friend. Epicurus considered such joys the most accessible — and they are never followed by a sharp comedown.",
+      "practice": "Make a short list of “quiet pleasures” available to you today: warmth, tea, a walk, a call to a friend. Choose one.",
+      "quote": null
+    },
+    "panic": {
+      "text": "A wave of panic is genuinely frightening: your heart pounds, your breath catches, you are swept by the feeling that something terrible is about to happen. It is not your fault that this is happening. Epicurus thought a great deal about how the soul copes with intense bodily sensations. One of his Principal Doctrines says that the most acute suffering usually lasts only a short time. And indeed, a wave of panic typically peaks and subsides within a few minutes. Epicurus advised leaning on the present and on the memory of good things in hard moments: he wrote to a friend that when he was in great bodily distress, he set against it the joy of remembering their past conversations. Support is close at hand: your body, your breath, a familiar voice.",
+      "practice": "Plant your feet on the floor and take a few breaths with the exhale longer than the inhale. Recall one warm conversation or a friend's face, and hold on to that image while the wave passes.",
+      "quote": null
+    },
+    "dread": {
+      "text": "Existential dread — “what is all this for,” the thought of our finitude — is a heavy feeling people have known since ancient times. Epicurus considered the fear of death one of the main sources of human anxiety and thought about it a great deal. His argument is simple: death is the absence of sensation, so it cannot be experienced as something terrible. Lucretius added that the eternity before our birth doesn't frighten us in the least. But what matters most is the conclusion Epicurus drew from this: the value of life lies not in endless duration but in its quality. Not in chasing an “eternal meaning,” but in friendship, conversation, and simple joys that are available today. The abyss recedes as you move closer to life itself.",
+      "practice": "Write down three simple things that would make today good by Epicurus's measure: food, friendship, a calm thought. Do at least one.",
+      "quote": {
+        "text": "Death is nothing to us: when we are, death has not come, and when death has come, we are not.",
+        "author": "Epicurus",
+        "source": "Letter to Menoeceus"
+      }
+    },
+    "fomo": {
+      "text": "The feeling that everyone else is living more interesting lives while you are in the wrong place is exhausting, especially when your feed shows only other people's peaks. Epicurus gave advice on this that still sounds almost defiant: “live unnoticed.” He didn't mean hiding from people, but not spending your life chasing fame, status, and a part in every loud event. He considered such desires “empty”: they have no natural limit and can never be satisfied. Epicurus himself lived with his friends in a modest Garden outside the walls of Athens, and that is what he considered a full life. From the Epicurean point of view, what matters most happens not where it's loudest, but where you feel at peace and your people are near.",
+      "practice": "Put the feed aside and ask yourself: “Where is my ‘garden’ — the place and the people around whom I feel truly good?” Write down one name or place.",
+      "quote": {
+        "text": "Live unnoticed.",
+        "author": "Epicurus",
+        "source": "a saying known from Plutarch's treatise Is “Live Unnoticed” a Wise Precept?"
+      }
+    },
+    "sleepless": {
+      "text": "Thoughts at three in the morning can be darker and louder than daytime ones — very many people know this. Epicurus would have called many of them products of “empty opinions”: at night the mind is especially eager to paint catastrophes, condemnation, a future that hasn't happened yet. He reminded us that the future is neither wholly ours nor wholly not ours — which means it doesn't need to be settled right now, in the dark. The Epicurean remedy for anxiety is the “fourfold remedy,” the tetrapharmakos: what is terrible can be endured, the good is within reach. At night you can also use another of his remedies — grateful memory: return to a pleasant memory and relive it in detail. This isn't a fight against insomnia, but a way to make the night a little kinder.",
+      "practice": "Lying down, choose one good memory and relive it slowly, in detail: where you were, what you heard, who was with you.",
+      "quote": null
+    },
+    "betrayal": {
+      "text": "Betrayal wounds especially deeply because it comes from someone you trusted. For Epicurus this was a very personal subject: he placed friendship above almost everything in life, which means he understood how painful it is when a friendship collapses. Epicurus believed that friendship begins with mutual benefit but becomes valuable in itself. Betrayal breaks that value, and it is natural to grieve for it. From the Epicurean point of view, one could say that revenge only prolongs anxiety, while the goal is ataraxia, peace of mind. But Epicurus wouldn't demand that you keep trusting either: you can quietly step away, protect yourself, and turn to those who have stayed loyal. One betrayal does not cancel all the friendship there is in your life.",
+      "practice": "Name one person you can lean on. Even if you don't feel like talking about what happened right now, think about how you might simply spend some time with them.",
+      "quote": null
+    },
+    "jealousy": {
+      "text": "Jealousy is a mixture of love, fear, and insecurity, and there is nothing shameful in it. The Epicureans looked closely at the passions of love. In his poem On the Nature of Things, Lucretius described romantic obsession with almost clinical precision: the anxiety, the suspicions, the tormenting desire to possess, the jealous reading of every glance. The Epicureans distinguished this anxious passion from calm attachment and friendship, which they valued greatly. From the Epicurean point of view, one could say that jealousy is fed by “empty opinions” — pictures painted by the imagination — and it helps to check them soberly. And one more thing: safety in a relationship is built through trust and open conversation, not control. Epicurean ataraxia here is not coldness, but the chance to love without tormenting either yourself or the other person.",
+      "practice": "Separate what you know for sure from what your imagination has filled in. Write down one sentence you could honestly use to start a conversation.",
+      "quote": null
+    },
+    "resentment": {
+      "text": "An old grudge is heavy, and most often it grew out of a real injustice. Epicurus looked at such feelings practically: what does this experience bring me — peace, or fresh anxiety? The past cannot be made not to have been, but you can relate to it in different ways: reliving the hurt again and again, or consciously directing your memory toward what was good. The Epicurean goal is ataraxia, tranquility, and constantly returning to a grievance is like a wind that won't let the sea grow calm. Letting go of resentment doesn't mean excusing the person who hurt you. You could say it means no longer paying them with your peace. Sometimes a grievance simply needs to be spoken aloud to a close friend — the Epicureans greatly valued frank conversation.",
+      "practice": "Write down how much room this grievance takes up in your thoughts. Then write one thing you would rather spend that attention on instead.",
+      "quote": null
+    },
+    "heartbreak": {
+      "text": "A breakup turns life upside down, and a broken heart truly hurts. The Epicureans understood this pain, even though they were wary of passionate love: Lucretius advised against making it the sole center of one's life. But Epicurus left a thought that may help right now: misfortunes are healed by grateful remembrance of what has been. What you lived through together doesn't disappear — it has already happened and will always remain part of your life. Another Epicurean remedy is friendship: Epicurus believed that friends make almost anything bearable. Right now you can let them be near without demanding of yourself that you quickly “pull yourself together.” The pain is not a mistake; in time it can become a quiet memory.",
+      "practice": "Write down one good memory of this relationship that you want to keep. And next to it, the name of a friend you could write to today.",
+      "quote": null
+    },
+    "impostor": {
+      "text": "“Any moment now they'll find me out” — a fear especially familiar to conscientious people. Epicurus believed that many torments grow out of “empty opinions” — for example, the conviction that our worth depends on fame, status, and other people's judgment. He advised against building your life around how you look in others' eyes. From this point of view, one could say that impostor syndrome is largely anxiety about reputation rather than about the work itself. The Epicureans also valued parrhesia — frankness among friends: Philodemus wrote about how, in the Garden, people spoke honestly to one another about their mistakes in order to grow. Admitting that you don't know something isn't being exposed — it's an ordinary part of learning.",
+      "practice": "Write down exactly what you are afraid of: “What if they find out that I…” Then ask yourself: is this about the work itself, or about how I look?",
+      "quote": null
+    },
+    "self_hatred": {
+      "text": "If your inner critic is loud and merciless right now, you deserve kindness, not agreement with it. Epicurus saw philosophy as a healing of the soul, not as one more way to judge yourself. From the Epicurean point of view, one could say that cruelty toward yourself brings you no closer to wisdom or happiness; it only adds suffering that could be avoided. The inner critic largely speaks in the voice of “empty opinions” — other people's yardsticks, demands, the fear of condemnation. And Epicurus placed friendship above almost everything. Hence a simple question: would you say this to a close friend? If not, perhaps this voice is wrong. You don't have to argue with it all day — you can simply do one kind, simple thing for yourself.",
+      "practice": "Write down one sentence from your inner critic. Then rewrite it the way a close friend would say it — gently, honestly, with care.",
+      "quote": null
+    },
+    "helplessness": {
+      "text": "Feeling powerless to change anything is very hard, and it's important not to blame yourself for it. The Epicureans honestly admitted that much is beyond our control, but they invited us to look at what remains. In his poem, Lucretius describes the clinamen — a barely perceptible swerve of atoms, thanks to which the world is not fully predetermined and living beings have free will. Even in their strict picture of a world made of atoms and void, the Epicureans left room for a small turn. From the Epicurean point of view, one could say that powerlessness before big things doesn't rule out small swerves — simple actions that bring back a little joy and connection. And there are friends: Epicurus said that what we need is not so much their help itself as the confidence that it will be there.",
+      "practice": "Name one tiny “swerve” available to you today: doing something slightly differently, writing to someone, stepping outside for some air.",
+      "quote": null
+    },
+    "procrastination": {
+      "text": "“I can't get started” is a state everyone knows, and it doesn't make you a lazy person. Surprisingly, Epicurus wrote about putting things off: one of his sayings holds that we are born only once, and life slips away in postponement. But the point of these words is not to drive yourself with a whip. Epicurus was speaking above all of postponed joy: we put off what would make us happier. From the Epicurean point of view, you might ask: has the task become a source of fear — of failure, of judgment, of its sheer size? The “fourfold remedy” reminds us that what is terrible can be endured and the good is within reach. You can start small — and perhaps with something that is pleasant in itself.",
+      "practice": "Find the smallest and most pleasant part of the task and do it in five minutes, with a small pleasure alongside — tea, your favorite music.",
+      "quote": null
+    },
+    "uprooted": {
+      "text": "Losing your home — a move, emigration — knocks the ground out from under you, and longing for what was is natural. Epicurus knew what this was like: he grew up on Samos, from which his family, along with other Athenian settlers, was expelled; he then lived in Colophon, Mytilene, and Lampsacus, and only later founded his Garden in Athens. He gathered around him people from many places, and his students even included women and slaves, which was rare in that era. From the Epicurean point of view, one could say that home is above all not a territory but friendship: a circle of people with whom you share bread and conversation. A new “Garden” can grow in a new place too — gradually, starting with a single meeting.",
+      "practice": "Think about whom in your new place you might share a simple meal or a conversation with. Write down one name, or one idea of where such people might be found.",
+      "quote": null
+    },
+    "overload": {
+      "text": "The endless feed, the notifications, the noise — any mind grows tired of it, and irritation is natural here. Epicurus lived without screens, but he had a precise idea about “empty” desires — those with no natural limit. From this point of view, one could say that the need to know everything and keep up with every event is largely such a desire: it can never be satisfied, and the more you consume, the more you want. The Epicurean goal is ataraxia, tranquility like a smooth sea without waves. Epicurus kept apart from the noise of Athenian politics and gathered his friends in his Garden. Today's equivalent of the Garden is a time and place without the feed, with simple things in it: a quiet conversation, a walk, a thought followed all the way through.",
+      "practice": "Ask yourself: “What of everything I've read in the last hour do I actually need?” Then give yourself ten minutes of “Garden” — without a screen.",
+      "quote": null
+    },
+    "unreality": {
+      "text": "Sometimes the world, or you yourself, seems unreal, as if behind glass. It is a strange and sometimes frightening experience, and it can be talked about calmly. Epicureanism is one of the most “down-to-earth” philosophies: for Epicurus, everything that exists is made of atoms and void, and sensations serve as the “criterion of truth” — our direct contact with the world. From this point of view, one could say that when reality feels faded, it's worth returning to the simplest sensations — warmth, cold, taste, touch. In the essentials they don't deceive: the world is here, and you are in it. Lucretius described the world as an astonishingly vivid, tangible fabric of things. You are part of that fabric, even if right now it feels only dimly so.",
+      "practice": "Hold something warm or cool in your hands and focus on the sensation. Then silently name a taste, a sound, and a smell available to you right now.",
+      "quote": null
+    },
+    "awe": {
+      "text": "Awe before something vast or beautiful is one of the deepest experiences there is. Lucretius, the Roman follower of Epicurus, turned his philosophy into a poem, On the Nature of Things, full of wonder: countless worlds, atoms dancing like dust motes in a sunbeam. The Epicureans wanted to free people from fear of the gods and of menacing celestial phenomena — but not from wonder. On the contrary: understanding nature, for Epicurus, gives pure pleasure, unclouded by superstition. Lucretius confesses that, contemplating the world opened up by Epicurus's reason, he feels at once a divine delight and a sacred shudder. What you feel now is exactly that kind of experience: knowledge and admiration don't compete in it but strengthen each other. You can simply live it, without rushing to explain anything.",
+      "practice": "Look at the dust motes in a beam of light, at the sky, or at something vast near you — and stay in wonder for a minute, like Lucretius.",
+      "quote": null
+    },
+    "relief": {
+      "text": "Relief is a long-awaited exhale, and Epicurus especially valued this state. For him the highest pleasure is not sharp delight but precisely the absence of pain in the body and anxiety in the soul: aponia and ataraxia. Relief is the moment you feel this directly: the tension is gone, and life itself, free of anxiety, turns out to be pleasant. Epicurus held that once pain is removed, pleasure doesn't grow any further — it only varies. So relief is not a pause before something “real,” but a complete good in its own right. You can savor it and remember it: Epicurus believed that the memory of pleasures you have lived through is a reliable store that helps on hard days. The memory of this relief will later become that kind of support.",
+      "practice": "Take a long exhale and notice exactly what has let go. Write down in one sentence how it feels — let it become a “grateful memory.”",
+      "quote": null
+    },
+    "calm": {
+      "text": "Calm is almost the exact name for the goal of the whole Epicurean philosophy. Ataraxia is Greek for “untroubledness”: a soul like a smooth sea without a storm. Epicurus considered this state not a dull pause but the deepest and most stable pleasure — the “katastematic” pleasure of a settled state. It requires no luxury: Epicurus himself was content with bread, water, and the company of friends in his Garden. The calm you feel right now is, by Epicurean measure, a real good and not just an absence of events. It doesn't need anything added to it. You can simply notice what creates it, so that you can find your way back to it more often. The Epicureans believed that such simple conditions for calm are within almost everyone's reach.",
+      "practice": "Note what is helping your calm right now: the place, the people, the time, the activity. Write it down — it will become your recipe for ataraxia.",
+      "quote": null
+    },
+    "inspiration": {
+      "text": "Inspiration is a living surge, a desire to create and to understand. Epicurus seems to have known it well: according to Diogenes Laertius, he wrote about three hundred books, and he believed it is never too early or too late to study philosophy. The Epicurean joy of knowing is one of the purest: in one of his sayings, Epicurus observes that in other pursuits the fruit comes only at the end, but in philosophy pleasure goes hand in hand with knowing itself. You can let inspiration lead you, without the pressure of “I have to make something great.” Epicurus also thought and wrote among friends, in constant conversation: inspiration grows when it is shared, and brings joy not only to you.",
+      "practice": "Write down your idea and tell it to someone who will be glad along with you. Let the pleasure be in the process itself, as in Epicurus's Garden.",
+      "quote": null
+    },
+    "schadenfreude": {
+      "text": "Schadenfreude is a feeling that's awkward to admit, yet almost everyone knows it. Oddly enough, the Epicureans gave one of the most honest descriptions of what lies behind it. Lucretius opens the second book of On the Nature of Things with an image: it is sweet to watch from solid ground as someone else struggles with a storm at sea — not because another's suffering is pleasant, but because it is pleasant to feel yourself safe. From this point of view, schadenfreude often hides relief: “this didn't happen to me.” The Epicureans would add that if your peace feeds on other people's misfortunes, it is fragile, and there is fear or envy hiding in it. True ataraxia, tranquility, needs no comparison. You can accept schadenfreude as a hint: where do I myself feel in danger?",
+      "practice": "When you notice schadenfreude, ask yourself: “What does this feeling seem to protect me from?” Write down the answer in one sentence.",
+      "quote": {
+        "text": "Pleasant it is, when on the great sea the winds trouble the waters, to gaze from the land upon another's great struggle — not because it is a delight that anyone should suffer, but because it is pleasant to see from what troubles you yourself are free.",
+        "author": "Lucretius",
+        "source": "On the Nature of Things, II, 1–4"
+      }
+    },
+    "contempt": {
+      "text": "Contempt separates us from others — it puts us above them and walls us off. The Epicureans built their philosophy on the opposite: on philia, friendship, and on life in the community of the Garden, which welcomed women and slaves, something unusual in antiquity. Epicurus advised keeping away from political struggle and the chase for fame — but that was not contempt for people; it was care for one's own peace. From the Epicurean point of view, contempt is a restless feeling: it makes you constantly compare, watch, and condemn, and so it takes away your tranquility. It helps to ask: what is it protecting? Often there is hurt or fear behind it. You can simply step away from what harms you, without spending your strength on cold arrogance.",
+      "practice": "Ask yourself: how many thoughts and how much energy does this contempt take from me? What would change if I simply stepped aside, without passing a verdict?",
+      "quote": null
+    },
+    "disgust": {
+      "text": "Disgust is a bodily feeling of recoil, and the Epicureans, attentive as they were to the body, would take it seriously. For Epicurus, sensations are a “criterion of truth”: they report something real, and disgust can honestly warn of something harmful. But Epicurus distinguished the sensation itself from the opinion we add to it — and errors, in his view, live in the latter. In his fourth book, Lucretius explained that the same thing seems pleasant to some and repulsive to others because perception depends on the makeup of the body: what is food for one is poison for another. From the Epicurean point of view, you might ask: where is the real warning here, and where is a habitual judgment or someone else's opinion? If the disgust is aimed at yourself, an Epicurean would gently remind you: your body and your mistakes are part of nature, not a verdict.",
+      "practice": "Separate “what exactly I sense” from “what I think about it.” If the disgust is toward yourself, ask whose words the second part is speaking in.",
+      "quote": null
+    },
+    "revenge": {
+      "text": "The wish for revenge is understandable: you've been hurt, and you want justice restored. The Epicureans would approach it practically: will revenge bring peace? Epicurus believed that justice arises from an agreement among people neither to harm one another nor to be harmed — that is, its goal is safety, not retribution. The Epicurean Philodemus, in his treatise On Anger, classed the thirst for revenge as “empty anger,” inflated by false opinions and tormenting above all the angry person themselves. Revenge demands constantly thinking about the offender, replaying scenes, making plans — in other words, handing them your life. From the Epicurean point of view, the best thing you can do with a hurt is to take care of your safety and boundaries, lean on your friends, and take your time back. Your peace is worth more than someone else's punishment.",
+      "practice": "Ask yourself: what do I really need in order to feel safe? Write down one step that protects you and harms no one.",
+      "quote": null
+    },
+    "anger_at_loved": {
+      "text": "Anger at the people closest to you — a partner, parents, children — often comes with shame: “how could I snap like that?” The Epicureans would approach this in a very down-to-earth way. Epicurus divided desires into the natural and necessary — food, sleep, rest, safety — and the empty. When the necessary ones go unmet, irritation builds on its own: a hungry, sleep-deprived, worn-out person flares up easily, most often at whoever is nearby. From the Epicurean point of view, many flare-ups at home speak not of a lack of love but of a lack of the most basic things. Epicurus, judging by his will, took care of the children of his late friends and of the people of his Garden; caring for those close to you, by his logic, includes caring for yourself. A flare-up is a signal, not a verdict on your love.",
+      "practice": "After a flare-up, check the simple things: when did I last eat, sleep, rest? Choose one need you can meet today.",
+      "quote": null
+    },
+    "ambivalence": {
+      "text": "Loving someone close and at the same time not being able to stand them is a bewildering state. The Epicureans, who considered pleasure and pain a natural compass, would point out that one and the same person can bring both, and that this is not a contradiction but life. In the Letter to Menoeceus, Epicurus proposes “measuring against one another” — calmly weighing what brings more good and what brings more suffering, without drawing conclusions in the heat of the moment. Sometimes, he writes, it is worth accepting pain for the sake of a greater good, and sometimes worth turning down a pleasure that is followed by greater pain. From the Epicurean point of view, mixed feelings are not a cause for shame but material for this kind of sober look. It's not about deciding the fate of the relationship; it's enough to see both sides honestly.",
+      "practice": "Write down: what in this relationship brings me joy, and what brings me pain? Don't draw conclusions — just look at both sides side by side.",
+      "quote": null
+    },
+    "guilty_relief": {
+      "text": "Relief after a breakup, a departure, or even the death of a loved one who was ill for a long time often arrives together with shame. The Epicureans would meet it with understanding. For Epicurus, relief is one of the most natural pleasures: the end of pain and a return to peace. He called such pleasures “katastematic” — the calm pleasures of a state in which body and soul are no longer tormented. After long anxiety, caregiving, and sleepless nights, this relief is only to be expected, and it doesn't cancel love. Epicurus advised keeping the memory of those who have gone with gratitude, and considered the memory of past joys a real good. From the Epicurean point of view, relief and love can live side by side: one speaks of how hard it was, the other of how dear it was.",
+      "practice": "Recall one bright moment with this person — from the time before things got heavy. Hold it in your memory for a minute, with gratitude, as Epicurus advised.",
+      "quote": null
+    },
+    "indifference": {
+      "text": "Sometimes something should move you, and inside there is only silence. That can be frightening. The Epicureans strove for ataraxia, untroubledness, but it is not the same as indifference: Epicurus was a warm man, devoted to his friends, who wrote them tender letters. His tranquility was calm, not numbness. From the Epicurean point of view, one could say that numbness often sets in after overload: the soul, like a body after pain, seeks rest and switches off what is too much. This is no reason to blame yourself; it may be a natural breathing space. The Epicureans advised returning to simple pleasures — the taste of bread, a sip of water, a conversation with a friend. It is often with the small, the bodily, the concrete that feeling begins to return. You don't need to demand strong emotions of yourself on schedule.",
+      "practice": "Choose one simple sensation — a taste, a smell, the warmth of a cup in your hands — and give it a whole minute. Don't expect anything special; just notice.",
+      "quote": null
+    },
+    "escape": {
+      "text": "The urge to drop everything and run away — from a job, a city, a role — would have been very understandable to the Epicureans. Epicurus himself founded the Garden, a community on the edge of noisy Athens where friends lived, philosophized, and looked after one another. His advice to “live unnoticed” was a response to the bustle of politics and the race for fame. But the Epicureans were also sober-minded: in his third book Lucretius describes a man who dashes from the city to his country estate and back, trying to escape from himself — and cannot. From the Epicurean point of view, it helps to distinguish: what am I running from — real pain that can be reduced, or “empty opinions” that will come along with me? Sometimes a change is needed. Sometimes what's needed is a small “Garden” right here — a place and people around whom you can breathe.",
+      "practice": "Describe your “Garden”: where, and with whom, is it easy for you to breathe? Find one small chance to spend time there this week.",
+      "quote": {
+        "text": "We must free ourselves from the prison of everyday affairs and politics.",
+        "author": "Epicurus",
+        "source": "Vatican Sayings, 58"
+      }
+    },
+    "forbidden_attraction": {
+      "text": "Attraction to someone unavailable, or to the “wrong” person, comes on its own and can be deeply unsettling. Epicurus would approach it without moralizing: desires are natural, and their mere arising is no vice. But he would suggest a question he recommended asking of any desire: what will happen to me if it is fulfilled, and what if it is not? (Vatican Saying 71.) Epicurus divided desires into natural and empty ones and observed that the empty ones grow from imagination and opinion and know no limit. From the Epicurean point of view, you can explore: how much of this attraction is a living person, and how much is an expectation the mind is filling in — a promise of novelty, attention, a different life? This question passes no verdict and makes no decision for you; it only brings back clarity.",
+      "practice": "Write down the qualities you see in this person, and note: what do you know for certain, and what has your imagination filled in?",
+      "quote": null
+    },
+    "social_anxiety": {
+      "text": "Shyness and fear of being judged make every conversation feel like an exam. Here the Epicureans are perhaps among the most comforting allies. Epicurus never demanded that anyone shine: he advised living unnoticed and not chasing the approval of the crowd, considering that thirst an empty desire that can never be satisfied. His Garden was a place not for public speeches but for friendly conversations in a small circle. From the Epicurean point of view, you don't need everyone to like you: for happiness, a few well-disposed people with whom you feel at ease are enough. The fear of judgment often feeds on the “empty opinion” that everyone is watching and judging. Epicurus would suggest checking it: is that really so? And which of these people do I truly care about impressing?",
+      "practice": "Before a get-together, remind yourself: “I don't need everyone to like me.” Pick one person in the group you feel at ease with, and stay close to them.",
+      "quote": null
+    },
+    "uncertainty": {
+      "text": "Uncertainty is unsettling: no one knows what will happen, and the mind paints the worst. The Epicurean picture of the world turns out to be surprisingly helpful. For Epicurus and Lucretius, the world is made of atoms that move and combine, and there is room for chance in that motion — the famous “swerve” of the atoms, which Lucretius called the clinamen. The world is not written in advance; the future, in Epicurus's words, is neither wholly ours nor wholly not ours. Hence the conclusion: there's no point either in expecting the worst as inevitable or in demanding guarantees from the future. From the Epicurean point of view, the best remedy for the anxiety of the unknown is to lean on what is here now: simple joys, friends, sober reflection. Epicurus was confident that what a good life requires is, as a rule, within reach even in a changing world.",
+      "practice": "Make a short list: what do I definitely have today — people, a place, simple joys? Three items are enough.",
+      "quote": null
+    },
+    "waiting": {
+      "text": "Waiting — for results, an answer, news — seems to put life on pause. The Epicureans valued the present very highly. In one of the Vatican Sayings (14), Epicurus reproaches the person who, though not master of tomorrow, postpones joy — while life meanwhile slips away in delay. Waiting easily turns into that kind of postponement: “once I find out, then I'll breathe.” From the Epicurean point of view, the result is not in your power, but today is. Calm pleasure in simple things — a cup of tea, a walk, a conversation — is, for Epicurus, complete in itself, not something “while we wait.” You can wait and live at the same time. The waiting is the background, not the whole day.",
+      "practice": "Name one simple pleasure you've been putting off “until the news comes” — and allow it to yourself today, without waiting.",
+      "quote": null
+    },
+    "regret": {
+      "text": "Regret over what you did or didn't do is a sign that your life matters to you. The Epicureans had a distinctive view of the past: for them it was not only a source of pain but also a treasure. Epicurus wrote that an old man who has lived a good life rests in old age as in a harbor, having kept his goods safe in grateful memory (Vatican Saying 17): no one can take away the good that has been lived. He also advised healing misfortunes with the knowledge that what has happened cannot be made not to have happened. This is a double lesson: the past can't be changed, so endlessly arguing with it is needless suffering; but the past also holds things worth keeping. From the Epicurean point of view, you can acknowledge a mistake, take a lesson from it — and turn your attention to the good that also happened and remains yours.",
+      "practice": "Next to what you regret, write down one good thing from the same period of your life. Allow both to be true.",
+      "quote": null
+    },
+    "longing": {
+      "text": "Longing for a particular person is a feeling the Epicureans understood well: their philosophy rested on friendship. Epicurus wrote warm letters to his friends and looked forward to seeing them. The Epicurean response to longing is memory. For Epicurus, remembering joyful meetings is not an empty consolation but a real pleasure: according to Diogenes Laertius, during a grave illness he set against his pain the joy of remembering past conversations with a friend. From the Epicurean point of view, longing speaks of the value of a bond, and it can be softened by returning in memory to specific good moments — not to reopen the wound, but to feel their warmth again. A friend remembered with gratitude, in a sense, remains near.",
+      "practice": "Recall one specific happy meeting with this person — where it was, what you talked about, how the laughter sounded. Stay in that memory for a minute.",
+      "quote": null
+    },
+    "world_pain": {
+      "text": "Pain for the world — wars, injustice, hard news — is natural for a sensitive person. The Epicureans lived in a turbulent era: after the death of Alexander the Great, the world was shaken by the wars of his successors. Their answer was not indifference but islands of friendship and care — the Garden, where people supported one another. Epicurus advised keeping away from political struggle for the sake of one's own peace, but not at all away from people: friendship, help, and simple kindness were what mattered most to him. From the Epicurean point of view, it helps to distinguish real help from endless immersion in alarming news, which feeds fear but helps no one. You can carry pain for the world while remaining capable of care — and for that, you need to protect your own tranquility too.",
+      "practice": "Choose one concrete act of care — for someone near you, or for those you are able to help. Then give yourself an evening without news — with loved ones or in quiet.",
+      "quote": null
+    },
+    "rejection": {
+      "text": "Rejection hurts: someone else's “no” feels like a judgment of your whole self. The Epicureans would begin by saying that the pain is real and that, like all pain, it changes and passes. Then they would suggest sorting through the “empty opinions” — the additions the mind makes to the fact: “nobody needs me,” “it will always be like this.” Epicurus believed that a happy life needs little, and the most important part of that little is friendship. But friendship, as he saw it, doesn't require everyone's approval: a few people with whom you can be yourself are enough. From the Epicurean point of view, one rejection does not take away your capacity for friendship or close the door to the future. You can let yourself grieve — and then turn toward those who are near and glad to see you.",
+      "practice": "Name one person who is glad to see you. Write them a couple of lines today — just because, for no particular reason.",
+      "quote": null
+    },
+    "abandonment": {
+      "text": "The fear of being abandoned can live deep inside: you want to hold on to someone and get guarantees. The Epicureans understood that most human torment grows out of fear — and they taught taking fears apart. Epicurus would suggest asking: what here is a real threat, and what is an “empty opinion” painted by the imagination? He also insisted that happiness rests not on one person but on a circle of friendship: it was the gaining of friends that he called the greatest of the things wisdom provides for a happy life. The Epicurean community was a network of mutual support. From the Epicurean point of view, the fear of losing one person grows lighter when you have several supports — not instead of that person, but alongside them. Love doesn't weaken because of this; it becomes freer.",
+      "practice": "Draw a small map of your connections: who else is in your life — friends, family, colleagues, communities? Mark one person you'd like to see more often.",
+      "quote": null
+    },
+    "unrequited": {
+      "text": "Unrequited love is a pain as old as the world. The Epicureans, to be honest, were wary of passionate love: Lucretius described it as a thirst that flares up precisely because it cannot be quenched. But his description also holds a consolation. Lucretius observed that a lover sees the beloved through a golden haze and credits them with perfections they may not have (Book IV). This is not a reproach to you but an explanation of why it hurts so much: you are longing not only for a person but also for an image your heart has created. From the Epicurean point of view, you can respect your feeling and at the same time gradually turn your attention back to bonds where there is reciprocity — to friendship, to people around whom you feel at ease and warm.",
+      "practice": "Ask yourself: where in my life is there mutual warmth — not romantic, perhaps, but friendly? Give that person a little attention today.",
+      "quote": null
+    },
+    "humiliation": {
+      "text": "Humiliation burns: it feels as if you've been stripped of your dignity. The Epicureans would respond with their key question: what in what happened actually harms you, and what is opinion? Epicurus considered the chase for honor and status one of the “empty” desires that are never satisfied. So losing face in others' eyes, painful as it is, does not take away what you need for happiness: friendship, simple joys, a clear mind. From the Epicurean point of view, the less your peace depends on other people's judgment, the less power those who try to humiliate you have. This doesn't mean the pain should be denied: it is real. But you can gather around it the things that hold you up — above all, people who treat you with warmth.",
+      "practice": "Write down three things that you still have after this episode and that no one can humiliate: your friends, your skills, your values.",
+      "quote": null
+    },
+    "body_shame": {
+      "text": "Unhappiness with your body is a common, quiet pain. The Epicureans, for whom the body was an important source of pleasure and peace, would see this in an unusual light. For Epicurus, the body's chief good is freedom from suffering — aponia — and a calm, living sense of well-being, not conformity to some standard. He would probably have counted the pursuit of an ideal appearance among the “empty” desires: they grow out of other people's opinions, know no limit, and bring no peace. From the Epicurean point of view, the body is not a shop window but your home, in which you can experience simple joys: the warmth of the sun, the coolness of the wind, the pleasant tiredness after a walk. The more attention you pay to how your body feels good, the less power the thought of how it “should” look will have.",
+      "practice": "Recall three moments today when your body felt pleasant: warm water, a comfortable position, the taste of food. Write them down.",
+      "quote": {
+        "text": "Everything natural is easy to obtain, and only what is empty is hard to get.",
+        "author": "Epicurus",
+        "source": "Letter to Menoeceus"
+      }
+    },
+    "illness": {
+      "text": "When your body lets you down, it is frightening and hard. Epicurus knew this firsthand: he was often ill, and in the last years of his life he suffered from a severe illness. So his philosophy is not the consolation of a healthy person. He didn't demand that one suffer in silence and didn't shame anyone for weakness; he advised setting against pain what remains good: the joy of friendship, the memory of pleasant conversations, clarity of thought. His friends visited him, and caring for one another was part of Epicurean life. From the Epicurean point of view, illness is not your fault and no reason to give up the joys that are still available. Even on hard days you can find small islands of peace and let others take care of you.",
+      "practice": "Find one small island of peace today — favorite music, a call to a friend, a pleasant memory. Allow it to yourself without guilt.",
+      "quote": null
+    },
+    "pride": {
+      "text": "Pride in what you've done is a good, well-earned feeling. The Epicureans would see nothing wrong in it: joy is a natural compass, and joy in your own work is one of the purest kinds. Epicurus distinguished pleasure that depends on others' recognition — he considered the chase for fame an empty desire — from the calm pleasure of something done well and in keeping with your values. The first is insatiable; the second is complete in itself. He also valued joy shared with friends: it's nice to celebrate a good piece of work among people who will be glad along with you. From the Epicurean point of view, healthy pride doesn't need an audience — you yourself are enough, and perhaps a couple of people close to you.",
+      "practice": "Tell one person who will be sincerely glad for you about your achievement. Or mark it with a small pleasure for yourself.",
+      "quote": null
+    },
+    "melancholy": {
+      "text": "Bright sadness is a quiet feeling in which sorrow is mixed with tenderness. The Epicureans could suggest why there is sweetness in it. Lucretius, for all the rationality of his poem, is one of the most melancholy poets of antiquity: he wrote about how everything is born and falls apart, how atoms come together again in new forms, and there is a remarkable calm in that cycle. Epicurus considered the memory of past joys a real pleasure, and bright sadness often resembles it: it remembers the good while knowing it has passed. From the Epicurean point of view, such sadness doesn't disturb tranquility — it can be a quiet form of it. There's no need to chase it away; you can let it be, like the cool of evening after a hot day.",
+      "practice": "Recall one good event from the past and stay with it for a minute — with tenderness, not with a wish to get it back. Simply be grateful that it happened.",
+      "quote": null
+    }
+  }
+}

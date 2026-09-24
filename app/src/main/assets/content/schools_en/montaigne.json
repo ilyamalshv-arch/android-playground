@@ -1,0 +1,376 @@
+{
+  "id": "montaigne",
+  "title": "Montaigne",
+  "tradition": "Renaissance scepticism and humanism",
+  "family": "early_modern",
+  "period": "16th century",
+  "sortYear": 1580,
+  "thinkers": [
+    "Michel de Montaigne"
+  ],
+  "keyWorks": [
+    "Essays (1580; expanded editions 1588 and 1595)"
+  ],
+  "summary": "Montaigne was a French Renaissance philosopher who invented the essay. His Essays are an honest, lively observation of himself: he examines his thoughts, habits and shifts of mood in order to understand what it means to be human. His motto is a question: “What do I know?”",
+  "onEmotions": "Montaigne looked at feelings as an attentive and kindly observer. He was a sceptic: he held that our judgements change along with the body, our mood and circumstances, and that the human being is a changeable, contradictory creature. Instead of being ashamed of this, Montaigne accepted his own changeability as part of human nature. His method was self-observation: looking at his fears, desires and joys with curiosity, without judgement. He believed that each person bears the entire form of the human condition, and that the highest art is knowing how to live and to enjoy one’s own being.",
+  "entries": {
+    "anxiety": {
+      "text": "Anxiety is when you are already living in a tomorrow that doesn’t exist yet, and it looks dangerous. Montaigne knew this state and described it precisely: we are almost never “at home” in ourselves; our fears and desires keep carrying us forward, beyond the present. He also liked to repeat the thought of the Stoic Epictetus: people are troubled not by things themselves but by their opinions about things. Montaigne did not demand heroic calm of himself. His method was to examine himself closely, like a curious object: what exactly am I imagining right now? How much does it resemble what is actually happening? This kind of self-observation doesn’t cancel anxiety, but it brings you back from an imagined future into the room where you are actually sitting.",
+      "practice": "Write down one anxious thought, and next to it answer: what part of this is happening right now, and what part exists, for now, only in my imagination?",
+      "quote": null
+    },
+    "fear": {
+      "text": "Fear is one of the oldest and strongest feelings, and there is nothing shameful in it. Montaigne devoted a whole essay to it and admitted that what he feared most was fear itself: in his observation, it can bind us more tightly than any real misfortune. He collected stories of how fear sometimes gives people wings and sometimes paralyses them, and concluded that the imagination knows how to inflate danger to monstrous size. But Montaigne did not shame the frightened. His approach was to see fear as part of our shared human nature rather than a personal failure. When you name your fear out loud and see that everyone is subject to it, from soldiers to sages, it becomes a little more ordinary and a little less all-powerful.",
+      "practice": "Say to yourself in a full sentence: “Right now I’m afraid because…”. Notice whether putting it precisely makes things feel even a little roomier.",
+      "quote": null
+    },
+    "sadness": {
+      "text": "Sadness arrives without asking, and it has a right to be here. Montaigne, though, spoke of it without pathos: he admitted that he himself was not very prone to sorrow and saw no reason to honour it as a virtue, even though people often dress it up in wisdom and importance. This is a freeing thought: sadness doesn’t have to be deep, significant or “earned.” It needs neither to be glorified nor defeated — it is enough not to let it become your final face. Montaigne believed we never stay the same for longer than an hour: mood, health and weather change us constantly. So sadness, too, is not a verdict but one of the soul’s weathers, which has come and will go in its own time.",
+      "practice": "Describe your sadness as weather: what is it like — drizzle, fog, a grey sky? Just name it, without judging.",
+      "quote": null
+    },
+    "grief": {
+      "text": "Grief is love that has nowhere left to go. Montaigne knew it from the inside: the death of his friend Étienne de La Boétie was the great loss of his life, and years later he wrote that without him he lived only “by halves.” Montaigne was honest about something else too: in the essay “Of Diversion” he admits that reasoned consolations almost never work on grief head-on. What helps is rather time, a change of scene, a gentle shift of attention — not in order to forget, but to give the heart a breathing space. Many believe the Essays themselves grew out of this loss: having no one left to talk to, Montaigne began to talk to paper. Your grief, too, may one day become a conversation that goes on.",
+      "practice": "If you feel like it, write a line or two to the person you’ve lost — about something you noticed today and would have liked to share with them.",
+      "quote": null
+    },
+    "loneliness": {
+      "text": "Loneliness hurts because we are made for connection with others. Montaigne treasured friendship — he lost the fullest one he ever knew early — and he treasured solitude just as much. He drew a fine distinction between them: in the essay “Of Solitude” he advises keeping for yourself a “back room” of the soul, where you can be yourself and converse with yourself. But this is solitude you choose, not solitude imposed on you. Montaigne named three kinds of company that nourished him: friendship, love and books. Books, he wrote, are always at hand and don’t mind being turned to only when there is no other company. From his point of view you could say this: until real closeness comes, you are not entirely alone — you have a companion within, and the voices of those who wrote before you.",
+      "practice": "Open any book that’s dear to you and read one page as if the author were speaking to you personally.",
+      "quote": null
+    },
+    "anger": {
+      "text": "Anger often signals that something important has been touched. Montaigne wrote an essay “Of Anger” and was candid in it: he himself was quick-tempered, especially over small things. His observations are remarkably practical. He advised not to punish or decide anything until anger has cooled: in anger, he wrote, it is passion that speaks, not we ourselves. At the same time, he didn’t urge driving anger inward — anger held in, he said, eats away at us more than anger expressed briefly and moderately. Montaigne preferred a flare-up that quickly dies down to smouldering resentment. This view lets you acknowledge anger, not be ashamed of it, and still give it a little time before you act.",
+      "practice": "If there’s a decision you want to make on a wave of anger, put it off at least until tomorrow, and write down what you’ll say then.",
+      "quote": null
+    },
+    "shame": {
+      "text": "Shame makes you want to hide, to become invisible. Montaigne did almost the opposite: he wrote an entire book about himself, flaws and all. In his note “To the Reader” he says he would gladly have portrayed himself whole and naked, had custom allowed it. In the later essays he writes calmly about illnesses, a poor memory, bodily habits — things people usually keep quiet about. His main argument: all of this we share with everyone, king or philosopher. From Montaigne’s point of view, shame loses some of its power when we remember that our “shameful” weakness is simply human. There’s no need to put it on display, but you can stop thinking of it as a brand that only you bear.",
+      "practice": "Recall something you feel ashamed of and ask yourself: do I know a single person to whom nothing like this has ever happened? Write down the honest answer.",
+      "quote": null
+    },
+    "guilt": {
+      "text": "Guilt tells you that you care how your actions have affected others. In the essay “Of Repentance” Montaigne thought about it in an unusual way. He distinguished real repentance, which changes what we do, from the habit of endlessly punishing ourselves without changing anything. Montaigne admitted that he rarely repented — and not out of smugness: he felt he had been what he could be in those circumstances, and that a soul turned toward amendment matters more than a soul that only groans. You can take this as a support: guilt is useful when it tells you what to put right or whom to ask for forgiveness. When it turns into a constant trial of yourself, Montaigne would gently remind you that you are not only this one act.",
+      "practice": "Divide a sheet of paper into two columns: “what I can fix or say” and “what is no longer in my power.” Choose one small thing from the first column.",
+      "quote": null
+    },
+    "envy": {
+      "text": "Envy is unpleasant but almost unavoidable: we are always comparing. Montaigne noticed that we rarely see another person’s life whole — only its façade, its best side. In the late essays he wrote that people seek other conditions because they don’t know how to use their own, and go outside themselves because they don’t know what is within. There, too, he offers his famous thought: even on the highest throne in the world, we are still sitting on our own bottom, like everyone else. Montaigne also believed that each person bears the entire form of the human condition. From this point of view, to envy is to forget that your own life, with all its imperfections, is a complete example of a human life.",
+      "practice": "Write down exactly what you envy, and then one thing in your own life that you wouldn’t trade for anything.",
+      "quote": null
+    },
+    "emptiness": {
+      "text": "Emptiness and apathy can be very heavy: you want nothing, and everything seems to have lost its taste. Montaigne knew a similar state. In the essay “Of Idleness” he tells how, having withdrawn from public affairs, he hoped for peace, but his mind, left with nothing to do, became like a runaway horse: it bred vague chimeras one after another. The way out he found was modest — he began writing down what he saw in himself, with no plan or aim. That is how the Essays came about: “essais,” that is, “tries,” “attempts.” From his point of view you could say: emptiness doesn’t have to be filled with some great meaning. Sometimes a small attempt to notice something and write it down is enough — and life slowly begins to regain its taste.",
+      "practice": "Write down the three smallest impressions of today — a sound, a smell, a taste. No more than one sentence for each.",
+      "quote": null
+    },
+    "confusion": {
+      "text": "Confusion is when the familiar answers have stopped working. For Montaigne this was almost the normal state of the mind. His motto was the question “What do I know?”, and in his longest essay, the “Apology for Raymond Sebond,” he shows how little we know for certain: the opinions of nations contradict each other, our senses deceive us, and our judgements shift along with our mood and health. Montaigne’s scepticism is not desperate but calm, even cheerful. If no one knows everything, then you don’t have to have a clear answer right now either. You can allow yourself not to know, to keep asking and trying — after all, Montaigne himself spent his whole life writing “attempts,” not final truths.",
+      "practice": "Write down the question that has you confused right now, and add: “For now I don’t know — and that’s allowed.” Notice whether anything has changed in your body.",
+      "quote": {
+        "text": "What do I know?",
+        "author": "Michel de Montaigne",
+        "source": "Essays, Book II, ch. 12, “Apology for Raymond Sebond”"
+      }
+    },
+    "fatigue": {
+      "text": "Tiredness is the honest voice of the body, and it’s worth listening to. Montaigne wrote a great deal about his body: about illness, about sleep, about how his mind changed when he was tired or unwell. He didn’t consider this lower than “lofty” thought. He was once elected mayor of Bordeaux, and he wrote that he was ready to take the business in hand but would not let it get “into his liver”: the mayor and Montaigne were always two different people. This boundary feels very modern. From Montaigne’s point of view, you can do your work conscientiously without giving all of yourself to it. Tiredness may be a signal that a role has taken up too much room, and the person has been left without rest.",
+      "practice": "Write: “My work (or role) is…, and I am also…”. Add at least one thing that belongs to you alone.",
+      "quote": null
+    },
+    "boredom": {
+      "text": "Boredom seems trivial, but it’s hard to bear: time drags and nothing catches hold. Montaigne offered an unusual answer to it — interest in yourself. He warned the reader that he himself was the matter of his book, and this subject turned out to be inexhaustible: thoughts, habits, contradictions, changes of mood. Montaigne also thought a great deal about what makes time alive. In the late essays he says that when the time is bad he “passes” it, and when it is good he doesn’t want to pass it but savours it. From this point of view, boredom is an invitation not to hurry time along but to look more closely: what is going on in me right now, if the outside world is offering nothing?",
+      "practice": "Observe yourself for a minute as if you were a stranger: what are they doing with their hands, where are they looking, what are they thinking about? Write down one observation.",
+      "quote": null
+    },
+    "joy": {
+      "text": "Joy is something Montaigne valued very highly and defended against gloomy moralists. He held that knowing how to truly enjoy one’s own being is an almost divine perfection. In the essay “Of Experience” he writes that life is a gift to be received with gratitude, rejecting neither the joys of the body nor those of the soul. He did not despise pleasures, but he liked to taste them slowly and attentively. He admitted: the shorter life is, the more deeply and fully he wanted to live it. From Montaigne’s point of view, joy is nothing to be ashamed of, it needs no justification, and it will not be “punished” by troubles to come. It is worth simply noticing it and letting it stay a while.",
+      "practice": "Linger on what makes you glad for three slow breaths. Tell yourself, “Right now it’s good,” — and add nothing more.",
+      "quote": null
+    },
+    "love": {
+      "text": "Love and tenderness are among the deepest human experiences. Montaigne knew them above all as friendship: his friendship with Étienne de La Boétie was so complete that he wrote of two souls blending so thoroughly that the seam joining them could no longer be found. When he tried to explain why he loved his friend, he could find no rational reasons. There is something comforting in this: love needs no justification; you don’t have to earn it with a list of qualities. Montaigne was reserved about passion, calling it a rash and fickle fire, but he placed tenderness grounded in closeness very high. Allow yourself simply to love, without demanding that the feeling explain itself.",
+      "practice": "Think of someone you love and try to name one trait that can’t be explained in words — simply “because it’s them.”",
+      "quote": {
+        "text": "Because it was he, because it was I.",
+        "author": "Michel de Montaigne",
+        "source": "Essays, Book I, ch. 28, “Of Friendship”"
+      }
+    },
+    "gratitude": {
+      "text": "Gratitude makes life warmer and brighter. Montaigne had many reasons for it, and he didn’t forget them. He wrote lovingly of his father, who tried to bring him up gently: as Montaigne tells it, his father had him woken in the mornings by the sound of music so as not to startle him with an abrupt awakening. All his life he returned with gratitude to his four years of friendship with La Boétie. And in the last essay he says that he loves life and accepts it as it has been given. From Montaigne’s point of view, gratitude is the ability to see your ordinary life as a gift, not only as a list of what’s missing.",
+      "practice": "Think of one person who once did something gentle and unnoticed for you, and write down what exactly it was.",
+      "quote": null
+    },
+    "hope": {
+      "text": "Hope helps us keep going when the present is hard. Montaigne was cautious about it: he noticed that hopes, like fears, carry us off into the future, and because of them we miss the life that is happening now. But his scepticism works in the other direction too. If we know the future so poorly, then gloomy predictions can’t be final either. Montaigne saw how quickly people, circumstances, even his own judgements changed. From this point of view you could say: the best hope in Montaigne is not a dream of something far off but trust in the changeability of life. Since everything changes, your present situation isn’t forever either.",
+      "practice": "Remember a time when things unexpectedly turned out well. Write a sentence or two about it.",
+      "quote": null
+    },
+    "nostalgia": {
+      "text": "Nostalgia is tenderness toward the past, sometimes with a bittersweet edge. Montaigne, who began writing the Essays in his mature years, often recalled his youth, his friend, his father, old joys. But he regarded the past calmly: in “Of Repentance” he says that if he had to live his life over again, he would live it just as he had. This is not boasting but acceptance: each age has its own joys, and old age need not envy youth. From Montaigne’s point of view, nostalgia can enrich rather than torment. The past remains yours; it made you who you are now, and you can draw warmth from it without demanding that it come back.",
+      "practice": "Recall one warm moment from the past and describe it in detail. Then add: “What of this do I carry with me today?”",
+      "quote": null
+    },
+    "craving": {
+      "text": "A craving can be very strong — as if your whole body is saying “now, right away.” This is not a weakness of character but a powerful wave that many people know. Montaigne wrote a lot about how our desire grows stronger with obstacles and prohibitions: the more we argue with a desire, the louder it gets. His method was different — observing himself without judgement. He examined his impulses with interest, like weather, and noticed that they don’t stay the same: everything in a human being, he wrote, is in constant motion. From this point of view, a craving also shifts from place to place, rises and subsides. You can choose not to fight it but simply to watch the wave rise and then, like any wave, begin to fall.",
+      "practice": "Set a timer for five minutes and simply watch the craving like a wave: where is it in your body, is it growing, is it changing? Don’t do anything — just notice.",
+      "quote": null
+    },
+    "addiction": {
+      "text": "Addiction is not a moral failure but a cycle that grows very strong over time. Montaigne understood the power of habit well. In his essay on custom he calls it an imperious and treacherous schoolmistress: at first she establishes her authority quietly and unnoticed, and then she shows us a face we can hardly even raise our eyes to. Montaigne spoke of this not with contempt but with wonder at how habit reshapes both body and perception. Hence an important thought: what seems to be “my nature” often turns out to be simply a deeply rooted habit. And a habit took shape gradually — and in the same way, gradually, in small steps, it can be reshaped, especially not alone.",
+      "practice": "Write: “When this habit was just beginning, it gave me…”. If you like, think about whom you could talk to about it calmly — perhaps people who have walked a similar path.",
+      "quote": null
+    },
+    "hangover": {
+      "text": "The morning after is often a body that feels awful, along with anxiety, shame and fragments of memory. All of this is understandable and human. Montaigne wrote about drunkenness plainly and without romance, considering it a coarse vice that weakens judgement, but he didn’t make monsters of those who drink either. He also admitted freely to his own poor memory and wrote about his mistakes calmly, without self-flagellation. From Montaigne’s point of view you could say: don’t fill the gaps with the worst guesses. The imagination, as he knew, inflates fears. It’s better to return to what you can know for certain, take care of your body, and give yourself time before passing sentence on yourself.",
+      "practice": "Drink some water and write down three things you know for certain about last night. Let the rest stay a question for now, not a verdict.",
+      "quote": null
+    },
+    "euphoria": {
+      "text": "Euphoria is a bright flash when everything seems possible. Montaigne wouldn’t spoil it. He relished good moments and advised savouring them rather than rushing past. But he was also an attentive observer of his own changes. In the essay “Of the Inconsistency of Our Actions” he writes that we are all made of motley patches, each of which plays its own game. From this point of view, euphoria is one of those patches: bright, real, but not the only one. You can live it fully and still remember that it is one of your states, not the final one. That makes it easier not to take big decisions only on its crest.",
+      "practice": "Write down what you’re feeling and dreaming of right now — not in order to act immediately, but to reread it in a few days.",
+      "quote": null
+    },
+    "crash": {
+      "text": "The drop after a high can be sharp and unpleasant: what glowed yesterday looks grey today. Montaigne wrote a great deal about how our judgement changes depending on the body and our mood. He noticed that a healthy person and a sick one, a rested person and a tired one, see the very same things quite differently. In the “Apology for Raymond Sebond” he shows how unreliable our view is when we feel bad. From this point of view, the comedown is not the truth about life finally revealed, but just another angle of vision, and a temporary one. Montaigne didn’t demand constancy of himself and didn’t think he was obliged to stay at the peak. You can simply wait it out, take care of yourself, and draw no conclusions about life as a whole.",
+      "practice": "Write: “Today everything seems…, but this is the view from the dip.” Put off serious conclusions until a day when you feel steadier.",
+      "quote": null
+    },
+    "panic": {
+      "text": "A panic attack is a very frightening experience: your heart pounds, your breathing falters, and it feels as if something irreparable is about to happen. In the essay “Of Fear” Montaigne described what was called “panic terror”: a sudden fear that seizes people for no visible reason, when even the brave lose their heads. He saw in it not disgrace but a shared human vulnerability. Montaigne also knew the power of the imagination: in “Of the Power of the Imagination” he writes how strongly it acts on the body. Such waves usually peak and subside within a few minutes. From Montaigne’s point of view, you can return to the simplest things — to your body and what is around you, just as he brought his thoughts back to his walk in the garden.",
+      "practice": "Put your feet flat on the floor and take a long exhale, longer than the inhale. Name out loud five objects around you and their colour.",
+      "quote": null
+    },
+    "dread": {
+      "text": "Existential dread is when the question “what is it all for?” suddenly rises up and an abyss opens behind it. Montaigne thought about this seriously. In the early essays, following Cicero, he wrote that to philosophize is to learn to die. But for him the point of this thought was not gloom but liberation: whoever calmly accepts their finitude stops being afraid and can live more freely. And in the late essays Montaigne softened even further. He wrote that we spoil life by worrying about death, and that life should be its own aim. From this point of view, finitude does not cancel meaning — it makes each ordinary day precious and real.",
+      "practice": "Write down one simple thing you did or saw today that is good in itself, without any “what for.”",
+      "quote": null
+    },
+    "fomo": {
+      "text": "The fear of missing out is the feeling that life is happening somewhere else, to other people. Montaigne described it long before social media: we are almost never at home in ourselves, he wrote — our thoughts are always somewhere further on. We chase after fame and other people’s opinion, forgetting about life here. In “Of Experience” he says that our great and glorious masterpiece is to live fittingly. Neither conquests nor glory matter more than that. From Montaigne’s point of view, the most interesting place is where you are, if you are truly present there. Someone else’s party looks brighter because you see only its façade, while your own life reveals itself only from the inside.",
+      "practice": "Put your phone down and look around: name three things happening right here that no one but you is seeing right now.",
+      "quote": null
+    },
+    "sleepless": {
+      "text": "Sleepless nights can be hard: thoughts go round and round, and at three in the morning everything seems scarier than by day. Montaigne knew how the mind, left idle, starts to live a life of its own. In the essay “Of Idleness” he compares it to a runaway horse that produces one absurd chimera after another. Montaigne decided to write these offspring of his mind down so that in time, as he joked, he might make it ashamed of them. There is a gentle wisdom here: night thoughts shouldn’t be taken for truth. They are the chimeras of an idle mind, not prophecies. From Montaigne’s point of view, you can put them down on paper and leave them until morning, when you can look at them more calmly.",
+      "practice": "Keep paper by your bed. Write the circling thoughts down in a single line and tell yourself: “I’ll look at this in the morning.”",
+      "quote": null
+    },
+    "betrayal": {
+      "text": "Betrayal wounds deeply — because it comes from those we trusted. Montaigne lived in the age of the Wars of Religion, when neighbours and even relatives became enemies, and he knew the price of trust well. In “Of Friendship” he distinguishes perfect friendship, like his with La Boétie, from ordinary friendship, in which it is wise to keep a certain caution. This is not cynicism but sobriety: most bonds between people are imperfect, and not everyone is capable of what we invest in them. From this point of view, betrayal says more about the other person’s limits than about your worth. Your capacity to trust is not a mistake but a virtue.",
+      "practice": "Write down what this betrayal says about the other person — and what it does not say about you. Separate these two things on paper.",
+      "quote": null
+    },
+    "jealousy": {
+      "text": "Jealousy is an agonizing feeling in which love, fear of loss and imagined pictures are all mixed together. Montaigne wrote about it in the essay “On Some Verses of Virgil” and called it one of the most barren and restless maladies of the soul. He noticed that jealousy feeds not so much on facts as on the imagination, which paints things that may never have happened. Montaigne didn’t condemn the jealous, but he saw how the feeling torments, above all, the person who feels it. From his point of view you could say: jealousy is a sign that the person is dear to you. But the pictures it paints are worth distinguishing from what you actually know. That boundary brings a little peace.",
+      "practice": "Write two columns: “what I know for certain” and “what I imagine.” Just look at which one is longer.",
+      "quote": null
+    },
+    "resentment": {
+      "text": "An old grievance is heavy to carry — as if it has moved in and settled inside you. Montaigne wrote in “Of Anger” that irritation held in eats away at us more than what is expressed and let go. He admitted that he preferred a brief flare-up to hidden rancour. Montaigne also valued freedom of judgement highly: in “Of Solitude” he advises freeing ourselves from whatever keeps us on a leash, so that the soul belongs to itself. From this point of view you could say: resentment is what keeps binding you to the person who hurt you, giving them a place in your “back room.” Acknowledging that it hurt, and gradually taking that space back for yourself, does not mean excusing the other person.",
+      "practice": "Write one sentence: “It hurt when…”. Then another: “What I want to take back for myself is…”.",
+      "quote": null
+    },
+    "heartbreak": {
+      "text": "A broken heart is one of the sharpest pains a human being knows. Montaigne was honest about how little the right words help at such a moment. In “Of Diversion” he tells how he himself once coped with a heavy sorrow: not by reasoning, but by change — new impressions, occupations, people. He believed that the soul, like the body, is sometimes healed by time and a change of scene. This doesn’t mean feelings should be suppressed or that you should hurry to forget. Rather, it means giving yourself the right to a breathing space, to small joys alongside the grief. From Montaigne’s point of view, the heart, like everything in a person, is in motion — and that motion goes on.",
+      "practice": "Pick one small change for today: a different route, a new song, a call to an old acquaintance. Not as a cure — just as a change of air.",
+      "quote": null
+    },
+    "impostor": {
+      "text": "Impostor syndrome is the constant feeling that “any moment now they’ll find me out.” Montaigne could be a good antidote. He wrote openly about his weaknesses: a poor memory, a lack of learning, uncertainty in his judgements — and yet his book has been read for four centuries. In “Of Experience” he reminds us that even on the highest throne in the world we are still sitting on our own bottom, like everyone else. No one is the majestic image they present on the outside. From Montaigne’s point of view, being “exposed” would reveal nothing terrible: behind every façade there is an ordinary person with their own doubts. You are not a fraud — you simply see yourself from the inside and others from the outside.",
+      "practice": "Write: “If I were ‘found out,’ it would turn out that I…”. See whether this doesn’t describe just about anyone.",
+      "quote": null
+    },
+    "self_hatred": {
+      "text": "The inner critic can be merciless, and it is hard to listen to. Montaigne, for all his strictness about his own flaws, considered self-hatred unnatural. He wrote that the highest, almost divine perfection is knowing how to enjoy one’s own being rightly. He devoted his whole book to observing himself without a verdict: with curiosity, irony, and acceptance that he was as he was. Montaigne kept saying that each person bears the entire form of the human condition. From this point of view, the voice that says you are worse than others is simply mistaken: you are as much an example of human life as anyone else. This is something you can come to accept gradually, without hurrying.",
+      "practice": "Write down one phrase your inner critic uses, and then answer it the way a kind but honest friend would.",
+      "quote": null
+    },
+    "helplessness": {
+      "text": "Helplessness arises when circumstances are stronger than you, and that is genuinely hard. Montaigne lived in such a time: the Wars of Religion, a plague epidemic that forced him and his family to leave home, a serious illness. He didn’t pretend that everything depended on him. But he made a distinction: what can I influence — and what lies beyond my will? Even as mayor of Bordeaux he tried to do his job honestly without taking on the whole weight of the world. From Montaigne’s point of view you could say: even when we can’t change the course of events, we still have how we meet them, and the small things that are still in our hands.",
+      "practice": "Write down one very small thing you can do today, even if it changes nothing in the big picture. Then do it.",
+      "quote": null
+    },
+    "procrastination": {
+      "text": "When you can’t get started, it seems the task is too big or has to come out perfectly. Montaigne gave the world an entire genre that answers this: the essay — in French, “essai,” an “attempt,” a “try.” He wrote without a plan, in fragments, returning to thoughts, contradicting himself, and he kept adding to his book for years, layer upon layer. He didn’t wait until everything was clear — he tried. From this point of view you could say: you don’t need to create a finished thing straight away. First you just need an attempt, a draft, an awkward first line. Montaigne might say that the most interesting part begins exactly where you allow yourself to try imperfectly.",
+      "practice": "Call the task you’re putting off an “attempt” and do the smallest version of it — for example, one line or five minutes of work.",
+      "quote": null
+    },
+    "uprooted": {
+      "text": "Losing the ground under your feet — moving, emigrating — is a deep experience. Montaigne travelled a great deal, through Germany, Switzerland and Italy, and later, because of a plague epidemic, he was forced to leave his home. In the essay “Of Vanity” he wrote that he regarded all people as his compatriots. In “Of Cannibals” he observed that everyone calls barbarism whatever is not their own custom. From this point of view you could say: being torn from home is painful, but it is also a chance to see that many familiar things were only custom. Montaigne’s home was also within — in that “back room” of the soul that you can carry with you anywhere.",
+      "practice": "Write down one habit from your old home that you can keep here, and one local one that you already like in some way.",
+      "quote": null
+    },
+    "overload": {
+      "text": "When there is too much information, too many people and demands around you, the mind gets overloaded. Montaigne, who lived in an age of wars and pamphlets, left advice that sounds surprisingly modern. In “Of Solitude” he proposes keeping for ourselves a “back room,” entirely our own, where we can be free and converse with ourselves. This corner doesn’t require giving up the world; it only shields the mind from the noise. In the late essays Montaigne describes how, walking in his garden, he brings his wandering thoughts back to the walk itself, to the garden, to himself. From his point of view you could say: overload is a sign that your “back room” is short of quiet.",
+      "practice": "Set aside five minutes without screens. Sit by a window or take a short walk, and keep bringing your thoughts back to what you see and feel right now.",
+      "quote": null
+    },
+    "unreality": {
+      "text": "The feeling that everything is somehow not real can be strange and unsettling. Montaigne reflected on this in the “Apology for Raymond Sebond.” He cited the ancients’ thought that life is like a dream, and remarked that perhaps we sleep while waking and wake while sleeping. He admitted that our senses often deceive us and that we have no direct communication with being — we see the world through our own shifting perceptions. But for Montaigne this was no cause for panic: every human being is made this way. From this point of view you could say: your experience doesn’t make you strange; it is one facet of the shared fragility of perception. You can gently keep returning to simple sensations — your body, a sound, something solid to lean on.",
+      "practice": "Touch something with a noticeable texture — fabric, wood, stone. Describe it out loud: is it warm or cold, smooth or rough?",
+      "quote": null
+    },
+    "awe": {
+      "text": "Awe before something vast and beautiful is a rare and precious feeling. Montaigne felt it before the diversity of the world. In his essay on the education of children he wrote that this great world is the mirror in which we must look at ourselves to know ourselves rightly. In the “Apology for Raymond Sebond” he speaks with wonder of the sky and the stars, of animals and the customs of distant peoples, of how little a human being understands of the universe. For Montaigne this sense of smallness doesn’t crush — it frees: it teaches modesty and curiosity. From this point of view, awe is a moment when you see the world at its true scale, and you can simply let yourself marvel at it.",
+      "practice": "Let your gaze rest on whatever filled you with awe for one more minute. Don’t take a photo — just look.",
+      "quote": null
+    },
+    "relief": {
+      "text": "Relief is a warm wave when the weight lifts. Montaigne knew it very well: for many years he suffered from kidney stones, and in the late essays he describes the pleasure that comes when an attack passes. He noticed that health after pain feels especially bright and delicious. Montaigne advised not to rush past such moments: he wrote that good time is not something you want to “pass” but something you want to savour. From his point of view, relief is not just the absence of something bad but a joy in its own right, worth noticing and living fully. There’s no need to move straight on to the next worry — you can give yourself time to enjoy the fact that things have become lighter.",
+      "practice": "Take a deep breath in and a slow breath out. Tell yourself, “It’s easier now,” — and stay with that feeling for another minute.",
+      "quote": null
+    },
+    "calm": {
+      "text": "Calm is a precious state, and you want to hold on to it. Montaigne knew how to value it and described exactly how. In “Of Experience” he writes of simple presence: when he walks in his garden and his thoughts run off to other matters, he brings them back to the walk, to the garden, to the sweetness of solitude, to himself. He believed that the chief art is to live: not in a hurry, not for the sake of the future, but now. From this point of view, calm is neither emptiness nor inaction but full presence in what you are doing. You needn’t rush to analyse this state — you can simply go on being in it.",
+      "practice": "Choose one simple action — drinking tea, walking, looking out of the window — and do only that, gently returning to it whenever you drift.",
+      "quote": {
+        "text": "When I dance, I dance; when I sleep, I sleep.",
+        "author": "Michel de Montaigne",
+        "source": "Essays, Book III, ch. 13, “Of Experience”"
+      }
+    },
+    "inspiration": {
+      "text": "Inspiration is the moment when thoughts and ideas come freely and you want to act. Montaigne knew how it arrives. He admitted that his thoughts fall asleep when he sits and come alive in motion: on horseback or on a walk. He wrote his book not to a plan but by following his thought, letting it branch, return, contradict itself. He kept adding to the Essays for years, right in the margins. From this point of view, inspiration doesn’t need to be forced into a strict scheme. You can simply catch it — write it down as it is and put it in order later. Montaigne showed that a living thought, honestly written down, is worth more than a polished but lifeless one.",
+      "practice": "Write down what has just come to mind, as it is, without editing. If you like, take a walk and see what comes while you’re moving.",
+      "quote": null
+    },
+    "schadenfreude": {
+      "text": "Schadenfreude is an awkward feeling, but Montaigne wouldn’t judge you: he was sure that each of us has things inside we don’t like to admit. In one of his short essays, “One Man’s Profit Is Another Man’s Harm,” he tells how in ancient Athens a seller of funeral goods was condemned for profiting from deaths. And then he draws an honest conclusion: if each of us looks within, we will find that most of our secret wishes are born and nourished at someone else’s expense. Montaigne pronounces no verdict on this — he simply describes human nature as it is. From this point of view, schadenfreude doesn’t make you a monster; it makes you human. What matters is only what you do next: to notice the feeling and not turn it into words or actions that hurt someone.",
+      "practice": "Note to yourself: “There it is — the very feeling Montaigne wrote about.” Ask: what am I missing right now, if someone else’s failure is so comforting?",
+      "quote": null
+    },
+    "contempt": {
+      "text": "Contempt gives a sense of being right and superior, but Montaigne spent his whole life testing such feelings. In “Of Cannibals” he writes that everyone calls barbarism whatever is not their own custom. Our standards, Montaigne believed, are largely a product of habit, place and upbringing, and so to despise others on their basis is to judge another life by your own rulebook. He could be mocking too — he admitted that Democritus laughing at human folly was closer to him than Heraclitus weeping over it — but he most readily turned that mocking gaze on himself. This is not a call to crush your feeling. Contempt often protects us from something unpleasant or frightening. Montaigne would suggest asking, with curiosity: what yardstick am I measuring by right now, and where did I get it?",
+      "practice": "Write down what you despise this person for, and ask: in what place or setting would this be the norm? You don’t have to agree — just look.",
+      "quote": null
+    },
+    "disgust": {
+      "text": "Disgust is a strong, almost instantaneous feeling. Montaigne thought a lot about how far our reactions are shaped by habit. In the essay “Of Custom” he gathers many examples of things that are revolting to one people and perfectly natural to another, and concludes: custom dulls our senses and quietly shapes our judgements, passing them off as laws of nature. This doesn’t mean your disgust is false — the body knows what it needs to pull away from. But it helps to remember that part of disgust is learned. This applies to disgust with yourself as well: Montaigne wrote without embarrassment about his body, its illnesses and habits, believing all of it to be the common human lot. Look at your disgust as a researcher would: how much of it comes from the body, and how much from habit?",
+      "practice": "Write down what disgusts you, and ask: when did I first learn that this was “disgusting”? From whom?",
+      "quote": null
+    },
+    "revenge": {
+      "text": "The wish for revenge is understandable: pain seeks an outlet and seeks justice. Montaigne didn’t lecture, but he watched this feeling closely. In the essay “Cowardice, the Mother of Cruelty” he observes that cruelty is often born not of strength but of weakness and fear. And in another essay he retells the story of the emperor Augustus: on learning of Cinna’s conspiracy, he agonized for a long time over whether to take revenge, and in the end, on his wife’s advice, he pardoned the conspirator — and, as Montaigne writes, no one ever plotted against him again. Montaigne offers this not as a lesson in piety but as an example of how unpredictable the outcomes of our decisions are. There may be a hint here for you: the wish for revenge is a signal of a deep wound, and it matters to acknowledge it. And the decision about what to do with it is better made once the storm has settled.",
+      "practice": "Postpone any decision connected with the hurt for at least a day. Write down what you really want from the situation: acknowledgement, an apology, safety?",
+      "quote": null
+    },
+    "anger_at_loved": {
+      "text": "Anger at the people closest to you is especially tormenting, because shame follows close behind. Montaigne knew this from his own household: he admitted that what vexed him most was not great misfortunes but the small everyday frictions of domestic life — exactly where people live side by side. We have the most of these small things with those close to us, and they pile up. Montaigne firmly opposed strictness and violence in raising children and wanted to be loved rather than feared. But he didn’t demand angelic patience of himself: a human being, he was convinced, is changeable, and tenderness and irritation live perfectly well together in one heart. From this point of view, anger at someone close doesn’t disprove love. It says that you are tired, that something keeps repeating — and that this is worth talking about in a calm moment.",
+      "practice": "Recall the last time you got angry at someone close and find the “splinter”: what recurring small thing was behind the flare-up? Write it down so you can talk about it in a calm moment.",
+      "quote": null
+    },
+    "ambivalence": {
+      "text": "Loving someone and at the same time not being able to stand them is not a sign of falseness but, according to Montaigne, an ordinary feature of our nature. In “Of the Inconsistency of Our Actions” he writes that we are all made of patches, and each patch plays its own part at every moment. And in another essay, with the telling title “We Taste Nothing Pure,” he shows that none of our pleasures is ever unmixed: there is always a drop of bitterness in it. Mixed feelings toward someone close are, from this point of view, not a mistake to be fixed by choosing the “right” feeling. They are an honest picture of your bond. Montaigne didn’t aim for neatness; he aimed for truthfulness. Allow yourself, too, to be inconsistent in your feelings — and to look at this with interest rather than fear.",
+      "practice": "Write one sentence beginning “What I love in you is…” and one beginning “What drives me up the wall is…”. Don’t choose between them.",
+      "quote": {
+        "text": "There is as much difference between us and ourselves as between us and others.",
+        "author": "Michel de Montaigne",
+        "source": "Essays, Book II, ch. 1, “Of the Inconsistency of Our Actions”"
+      }
+    },
+    "guilty_relief": {
+      "text": "Relief that you feel ashamed of is one of the most hidden feelings. Montaigne devoted a whole essay to a similar phenomenon: “How We Cry and Laugh for the Same Thing.” He gives examples from history and from his own life and explains: many different feelings move in the soul at once, and now one, now another comes to the fore. We are not being hypocrites when we weep and at the same time feel relief; the soul looks at one event with different eyes. From this point of view, relief after a loved one’s departure, a breakup, or a long illness does not cancel your love and grief. It speaks of the weight you were carrying. Montaigne, who always preferred the truth about himself to a fine pose, would say: both feelings are true, and neither needs to be hidden from yourself.",
+      "practice": "Tell yourself: “Different feelings are moving in me right now, and all of them are real.” Write down one word for each.",
+      "quote": null
+    },
+    "indifference": {
+      "text": "Sometimes an event “ought” to move you, yet inside there is silence — and that is unsettling. Montaigne was candid: in the essay “Of Sadness” he admits that he himself is little subject to this passion. And he tells the ancient story of the Egyptian king Psammenitus: taken captive, he watched in silence, without moving, as his daughter and son were led past him — but he wept on seeing one of his companions among the prisoners. Montaigne explains: the soul was filled to the brim, and the last drop broke the dam. Outward calm, from this point of view, is not the same as unfeeling. Sometimes feelings are too big, or we are too tired, and they come later, at an unexpected moment. Don’t force yourself to act out what isn’t there right now. Montaigne trusted his changeable nature — you can trust yours too.",
+      "practice": "Instead of checking yourself for the “right” feelings, write down what you notice in your body right now: heaviness, lightness, tiredness. That is enough.",
+      "quote": null
+    },
+    "escape": {
+      "text": "Montaigne, too, knew the dream of dropping everything and going away. At thirty-eight he left his post in the Parlement of Bordeaux and withdrew to his tower with its library to read and think. Later he travelled for a long time and admitted that he loved the road. But in the essay “Of Solitude” he also passes on a warning from Socrates: to a man who complained that travel hadn’t helped him, Socrates replied — no wonder, you took yourself along. Montaigne concludes: it is not enough to get away from people and places; you have to free yourself from the cares and habits that sit inside. The wish to escape is, from this point of view, a legitimate signal that you need space. The only question is what exactly you want to leave behind, and what to take with you.",
+      "practice": "Write: if I left tomorrow, which of my inner habits would I most likely take with me? Which of them could I loosen right here?",
+      "quote": null
+    },
+    "forbidden_attraction": {
+      "text": "Attraction to someone who is “off limits” can be confusing and frightening. Montaigne wrote an essay with a blunt title: “That Our Desire Is Increased by Difficulty.” He gathered many examples of how prohibition, obstacles and unavailability inflame desire, while ease and permission cool it down. Montaigne looked at this without moralizing, with a researcher’s curiosity about human nature. From his point of view you could say: part of the strength of your attraction may be born of the unavailability itself, not only of the person. This is neither a verdict on the feeling nor advice on what to do. It is a chance to see how desire works — and to understand what in it is truly yours: what thirst for life, attention or freedom is looking for an outlet here. Such understanding gives more freedom than either prohibition or blindly following the feeling.",
+      "practice": "Ask yourself honestly: if this person were available and everything were simple, what would be left of the feeling? Write down the answer without judging it.",
+      "quote": null
+    },
+    "social_anxiety": {
+      "text": "Fear of people and their judgement can turn any conversation into an ordeal. Montaigne helps lower the stakes. He liked to remind us that all people, however important they look, are made of the same stuff as you: each has a body, tiredness, weaknesses and funny habits. And in the essay “Of Presumption” he notes that the world usually looks ahead, at its own affairs — while he himself decided to turn his gaze inward. There is comfort in this thought: the people around you are far more occupied with themselves than it seems, and watch you less than your anxiety suggests. Montaigne didn’t demand courage. He suggested being as natural as you can manage, and accepting your awkwardness as part of the same human face that everyone has.",
+      "practice": "At your next meeting, silently note one ordinary human detail in each person you talk to: tiredness, a little laugh, nervousness. You are among people just like you.",
+      "quote": {
+        "text": "And on the loftiest throne in the world we are still sitting only on our own rump.",
+        "author": "Michel de Montaigne",
+        "source": "Essays, Book III, ch. 13, “Of Experience”"
+      }
+    },
+    "uncertainty": {
+      "text": "When it’s unclear what will happen, you long for at least some certainty. Montaigne, a sceptic by conviction, lived with uncertainty as a constant companion — and learned to find peace in it. He took as his emblem a pair of scales with the pans in balance, and the words “What do I know?”. It is an image of what the ancient sceptics called suspension of judgement: not rushing to a verdict where there is no knowledge. In the essay “Of the Uncertainty of Our Judgement” he shows how often events turn out quite differently from what the wisest people predicted. From this point of view, uncertainty is not a malfunction but the ordinary condition of human life. You don’t need to know the future to live today. You can hold the question open, like the scales, and get on with what is in front of you.",
+      "practice": "Draw a pair of scales and on each pan write one possible outcome. Leave them in balance and choose one thing to do today that makes sense whichever way it goes.",
+      "quote": null
+    },
+    "waiting": {
+      "text": "Waiting robs the present: it feels as if life will begin only once the answer comes. Montaigne described this in one of his early essays, “Our Feelings Reach Out Beyond Us.” He writes that we are never at home, we are always somewhere outside ourselves: fear, desire and hope push us toward the future and take away our ability to feel and consider what is here now. Montaigne doesn’t reproach us for it — such is our nature. But all his life he practised bringing his attention back to the present hour, to the simple pleasure of being. The waiting won’t disappear because of this, and the answer will come when it comes. But between “now” and “later” there is still living time, and it is yours too.",
+      "practice": "Set a timer for two minutes and simply name to yourself what you see, hear and feel in your body right now. This time is your life too.",
+      "quote": null
+    },
+    "regret": {
+      "text": "Regret over what you did or didn’t do can hold on for a long time. Montaigne wrote the essay “Of Repentance” and took an unusual position in it. He distinguished errors of the will from unlucky outcomes. If a decision was made honestly, in the light of what he knew and could do at the time, and it turned out badly, that, for Montaigne, was a matter of fortune, not a cause for repentance: a decision should be judged by the circumstances of its time, not by its result. He also distrusted the belated repentance that age brings, passing off weariness as wisdom. Montaigne didn’t call for complacency and was strict about genuinely bad deeds. But he suggested telling real guilt apart from regret that life didn’t turn out as you wished. The latter is not a crime but part of the human lot.",
+      "practice": "Take one regret and ask: was this an error of my will, or the unlucky outcome of an honest decision? Write the answer in one line.",
+      "quote": null
+    },
+    "longing": {
+      "text": "Longing for a particular person is a heavy and yet living feeling: it tells you how much this bond means to you. Montaigne knew it well. When he travelled for long stretches, people reproached him for leaving his loved ones for so long, and in “Of Vanity” he answers: friendship has arms long enough to hold on to each other and to join from one end of the world to the other. Separation, from this point of view, doesn’t break the bond. It makes it different — more inward and more conscious. Montaigne, who kept up an inner conversation with his closest friend for years, knew that the people we love remain part of our inner world. Longing is also a form of presence. You don’t have to drive it away; you can turn it into conversation.",
+      "practice": "Recall what you value most in this person, and today do one small thing in that spirit — the way they would have done it.",
+      "quote": null
+    },
+    "world_pain": {
+      "text": "Pain for the world is natural: hard news wounds those who are capable of compassion. Montaigne lived in a very hard time — for decades France was torn apart by civil wars, and in 1585 a plague epidemic forced him and his family to leave home. He wrote that what he hated most was cruelty, and that he couldn’t calmly watch even the suffering of animals. Yet Montaigne didn’t let the pain swallow him whole. In the essay “Of Physiognomy” he tells of the courage and calm with which the ordinary people around him bore the common misfortunes, and he learned from them. He went on reading, writing, keeping up friendships and doing his duties — not out of indifference, but because life goes on even amid calamity. Compassion and ordinary life don’t contradict each other. Taking care of yourself is not a betrayal of those who are suffering.",
+      "practice": "Today, give the news a set amount of time and close it afterwards. Then do one ordinary thing — a walk, a meal, a phone call — fully, with attention.",
+      "quote": null
+    },
+    "rejection": {
+      "text": "Rejection hurts: it feels as if you have been assessed and found wanting. Montaigne looked for a support that doesn’t depend on someone else’s “yes” or “no.” In the essay “Of Solitude” he advises keeping a “back room” for yourself — an inner space that belongs wholly to you, where you can talk with yourself and be with yourself. And in “Of Three Kinds of Association” he admits that books consoled him in every misfortune: they always greet him with the same face. Montaigne didn’t urge shutting yourself off from people — he valued friendship very highly. But he reminds us that your worth is not issued by others and cannot be revoked by them. Another person’s refusal speaks of their choice. Your inner dwelling stays with you.",
+      "practice": "Name your “inner dwelling”: an activity, place or thought where you feel like yourself. Spend at least ten minutes there today.",
+      "quote": {
+        "text": "The greatest thing in the world is to know how to belong to oneself.",
+        "author": "Michel de Montaigne",
+        "source": "Essays, Book I, ch. 39, “Of Solitude”"
+      }
+    },
+    "abandonment": {
+      "text": "The fear of being abandoned keeps you in constant tension, and it is a very human feeling. Montaigne, who lost his closest friend, knew the price of attachment. In the essay “Of Solitude” he gives advice that sounds not cold but caring: we should have loved ones, a home, occupations, but not be so bound to them that all our happiness depends on them alone. This is not about loving less. It is about your life having several supports and a centre of its own — then love for a person doesn’t turn into a constant fear of losing the ground beneath your feet. From this point of view, the fear of abandonment can be met not only with checking and worry but also with care for yourself: for your interests, friends, pursuits. The sturdier your inner home, the more calmly you can love.",
+      "practice": "List five things that support you apart from this person: people, activities, places, habits. Choose one and give it some time today.",
+      "quote": null
+    },
+    "unrequited": {
+      "text": "Unrequited love is a sharp pain: the heart gives and nothing comes back. Montaigne wrote about love with striking precision. In “Of Friendship” he compares passionate love to a fire — rash and fickle, like a feverish heat, with fits and lulls. This is not a reproach to love but a portrait of it: such passion lives in waves. From his point of view you could say that the pain of unrequited love won’t always be the same either — it too will have its fits and its respites. Montaigne, sceptic and observer, would suggest watching these waves without hurry and without judgement. Your feeling speaks of your capacity to love warmly. There’s no need to be ashamed of it — and it does not oblige you to wait for an answer forever.",
+      "practice": "For several days in a row, rate on a scale of 1 to 10 how strong the pain is today. Watch how it changes — it has its own ebbs and flows.",
+      "quote": null
+    },
+    "humiliation": {
+      "text": "Humiliation burns: it feels as if you have been made smaller in front of everyone. Montaigne, who held public offices — he was, for instance, mayor of Bordeaux — understood well the difference between the role and the person. He wrote that the mayor and Montaigne had always been two, very clearly separated: you can play a role without merging with it. This thought helps with humiliation. What was struck was your image, your position, your role in someone’s eyes — and that is painful and unfair. But beneath the role there remains a person who cannot be demoted. Montaigne also believed that other people’s opinion depends largely on chance and mood, and advised against building the edifice of your worth on it. Let yourself feel the hurt — and remember that it touches the mask, not the face.",
+      "practice": "Divide a sheet into two parts: “what was hurt” (role, reputation, image) and “what remained untouched” (your values, your loved ones, your skills). Fill in the second part.",
+      "quote": null
+    },
+    "body_shame": {
+      "text": "Dissatisfaction with your body can be agonizing, and Montaigne understood that. In the essay “Of Presumption” he describes himself honestly: he is below average height and considers this an inconvenience — especially for a man who has to give orders to others. He didn’t embellish his appearance, nor did he make a tragedy of it. And in “Of Physiognomy” he reflects on Socrates, whose outward appearance was said to be ugly — and whose soul was beautiful. Montaigne doesn’t deny that beauty is a power and a joy. But he shows that a person’s appearance and their worth are different things, and that you can live with the body you have without being at war with it. For Montaigne the body was not an adversary but a companion with whom he shared pleasures and ailments. You can come to terms with it.",
+      "practice": "Describe yourself in two or three sentences the way Montaigne might: honestly, calmly, with a touch of humour — without praise and without reproach.",
+      "quote": null
+    },
+    "illness": {
+      "text": "When your body lets you down, the world narrows to pain and limitations. Montaigne knew this first-hand: in the second half of his life he suffered from kidney stones — an illness he said he had inherited from his father — and he wrote many honest pages about it. He didn’t hide how painful it was. But he learned to hold something like a conversation with the illness: to notice the respites between attacks, to take pleasure in ordinary things when it let up, and not to hand his whole life over to the ailment in advance. In “Of Experience” he writes that we must learn to bear what we cannot avoid. For Montaigne this was not resignation but rather an art of living in the body you have. Your irritation, fear and tiredness in illness are legitimate. And alongside them there can still be room for you yourself.",
+      "practice": "Today, notice a moment when the pain or weakness recedes even a little. Stay with it and let yourself notice the relief.",
+      "quote": null
+    },
+    "pride": {
+      "text": "Pride in what you’ve done is a good and honest feeling, and Montaigne wouldn’t shame you for it. He disliked both boasting and false modesty. In the essay “Of Practice” he writes, citing Aristotle, that to say less of yourself than is true is stupidity, not modesty. Montaigne believed a person should know themselves accurately — neither exaggerating nor belittling. Healthy pride, from this point of view, is simply accuracy: you did something, and that is true. At the same time Montaigne relied not on others’ praise but on his own testimony — on what he himself knew about his work and what it had cost. Let yourself be glad — calmly, without comparing yourself to others and without apologizing.",
+      "practice": "Describe what you did in one precise sentence — without “just,” “only” or “I got lucky.” Read it out loud.",
+      "quote": {
+        "text": "To say less of yourself than the truth is stupidity, not modesty.",
+        "author": "Michel de Montaigne",
+        "source": "Essays, Book II, ch. 6, “Of Practice”"
+      }
+    },
+    "melancholy": {
+      "text": "Gentle melancholy is a state in which sadness is joined with reflection and tenderness. Curiously, the Essays themselves, by Montaigne’s own account, were born of a similar mood. In “Of the Affection of Fathers for Their Children” he writes that the idea of taking up the pen came to him from a melancholy humour brought on by solitude. Yet Montaigne didn’t like heavy, oppressive sadness and didn’t consider it a virtue. But he knew well that our feelings are never pure: there is sadness in joy, and a sweetness of its own in sadness. Gentle melancholy, from this point of view, is not a breakdown but a particular way of being attentive to life. A letter, a thought, a memory can be born of it. Montaigne turned it into a book. You can simply stay with it for a while.",
+      "practice": "Write a few lines about what this melancholy is filled with right now — like Montaigne, starting from the mood rather than a topic.",
+      "quote": null
+    }
+  }
+}

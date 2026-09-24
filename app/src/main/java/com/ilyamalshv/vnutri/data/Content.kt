@@ -149,7 +149,9 @@ class Library(val schools: List<School>) {
         fun load(context: Context, lang: String): Library {
             val files = context.assets.list(DIR).orEmpty().filter { it.endsWith(".json") }
             val translated = if (lang == "en") context.assets.list(DIR_EN).orEmpty().toSet() else emptySet()
-            val schools = files.mapNotNull { name ->
+            // In English, show only translated schools rather than mixing languages.
+            val shown = if (translated.isNotEmpty()) files.filter { it in translated } else files
+            val schools = shown.mapNotNull { name ->
                 runCatching {
                     val dir = if (name in translated) DIR_EN else DIR
                     val raw = context.assets.open("$dir/$name").bufferedReader().use { it.readText() }

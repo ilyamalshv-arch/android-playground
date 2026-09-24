@@ -1,0 +1,367 @@
+{
+  "id": "kyoto_school",
+  "title": "Kyoto School",
+  "tradition": "Japanese philosophy of nothingness",
+  "family": "phenomenology_existential",
+  "period": "20th century",
+  "sortYear": 1930,
+  "thinkers": [
+    "Nishida Kitarō",
+    "Tanabe Hajime",
+    "Nishitani Keiji",
+    "Kuki Shūzō"
+  ],
+  "keyWorks": [
+    "Nishida Kitarō, An Inquiry into the Good (1911)",
+    "Nishida Kitarō, From the Acting to the Seeing (1927)",
+    "Kuki Shūzō, The Structure of Iki (1930)",
+    "Tanabe Hajime, Philosophy as Metanoetics (1946)",
+    "Nishitani Keiji, Religion and Nothingness (1961)"
+  ],
+  "summary": "The Kyoto School is a circle of twentieth-century Japanese philosophers that formed around Kyoto University. Nishida Kitarō, Tanabe Hajime, Nishitani Keiji and Kuki Shūzō brought European philosophy together with the experience of Zen Buddhism and Japanese culture. Their central theme is \"nothingness,\" understood not as an empty absence or a cause for despair, but as an open space in which everything can be itself.",
+  "onEmotions": "For Nishida Kitarō, the starting point is not the thought \"I feel\" but \"pure experience,\" experience before it splits into subject and object: first there is the feeling itself, and only afterwards an \"I\" to whom it belongs. Every experience takes place in some \"place\" (basho in Japanese), and the deepest place is \"absolute nothingness\": not a void, but an openness that holds everything and stands against nothing. Nishitani Keiji showed that the experience of meaninglessness, nihilism, is not a dead end but a crack you can pass through, further on, to śūnyatā (Buddhist emptiness), where every thing and every feeling regains its own place and freedom. In The Structure of Iki, Kuki Shūzō described an aesthetic dignity: feeling deeply yet lightly, with pride and the ability to let go.",
+  "entries": {
+    "anxiety": {
+      "text": "Anxiety is a natural response when the future feels shaky. Nishida Kitarō would point out that in anxiety we usually stand \"outside\": I'm here, and the threat is over there, ahead. But in what he called \"pure experience,\" experience before the split into \"I\" and \"world,\" anxiety is simply what is happening now: a tightness in the chest, racing thoughts. The future we fear exists only as an image in the present. Nishida spoke of the \"eternal now\": every moment holds both past and future. From this point of view, you might say: you don't have to settle tomorrow today. It's enough to stay where the anxiety actually lives, in this moment, and see that the moment is wider than the anxiety.",
+      "practice": "For one minute, stop calling the anxiety \"mine.\" Just note: \"here is tightness,\" \"here is a thought about tomorrow,\" \"here is a sound outside the window,\" as events happening in one spacious place.",
+      "quote": null
+    },
+    "fear": {
+      "text": "Fear is an ancient and honest response to threat. Nishitani Keiji observed that at the level of ordinary consciousness the whole world is structured as opposition: I am the subject, and everything else is objects that stand over against me and may threaten me. This is not a mistake but one level of experience, which he called the \"field of consciousness.\" But beneath it, for Nishitani, lies a deeper field, śūnyatā, Buddhist emptiness, where things do not stand against us but share one open space with us. This doesn't cancel danger or demand fearlessness from you. Rather, one might say: fear is not the whole world but one event within it. When you manage to notice the spaciousness in which the fear arose, you also find something to stand on: you are more than the point the fear is aimed at.",
+      "practice": "Name in one sentence exactly what you are afraid of. Then name three things around you that are not threatening you right now: the table, the light, the sound of your breathing.",
+      "quote": null
+    },
+    "sadness": {
+      "text": "There's no need to hurry sadness away. Nishida Kitarō, who lived through the deaths of several of his children, wrote that philosophy begins not with wonder, as the ancient Greeks believed, but with \"the deep sorrow of life.\" For him sorrow is not a malfunction but one of the most genuine ways in which life becomes aware of itself. In sadness we feel the fragility and preciousness of what we have, and that knowledge is not false. The Japanese culture from which the Kyoto School grew has the expression mono no aware, a poignant feeling for things and their touching transience. From this point of view, you don't have to fix sadness; you can let it be depth: it sharpens your sight and makes your heart more attentive to the world.",
+      "practice": "Allow yourself a minute just to be with your sadness. Ask: what precious and fragile thing is it reminding me of?",
+      "quote": {
+        "text": "The motive of philosophy must be not \"wonder\" but the deep sorrow of life.",
+        "author": "Nishida Kitarō",
+        "source": "The Self-Aware Determination of Nothingness (1932)"
+      }
+    },
+    "grief": {
+      "text": "Grief is the price and the shape of love, and it needs time. Tanabe Hajime, one of the Kyoto School's leading philosophers, came after his wife's death to the idea of an \"existential communion\" between the living and the dead: the one we love goes on acting in us, in our decisions, in the way we now love others. This is not a consolation of the \"it's all in the past\" kind but a description of a real bond. Nishida Kitarō, who himself lost several children, believed such pain shouldn't be overcome by reasoning: in it life becomes aware of itself most deeply. From this point of view, you can give grief its place without demanding that you \"let go\" soon. The bond with the one who is gone doesn't break; it changes form.",
+      "practice": "Write down one thing you'll do today the way the person you lost would have done it: in their manner, with their kind of care.",
+      "quote": null
+    },
+    "loneliness": {
+      "text": "Loneliness is hard: it feels as if you are cut off from everyone. In the essay \"I and Thou,\" Nishida Kitarō wrote that the \"I\" becomes itself only through meeting a \"Thou,\" an absolutely other who cannot be dissolved into oneself. What's more, in the very depth of one's own \"I\" we find not a locked room but an openness toward the other. Nishitani Keiji developed the same idea: in the field of emptiness nothing exists separately; each thing is held up by all the others. From this point of view, loneliness is the pain of a connection that for now can't find its way out, not proof that you are alone in the universe. Even now you are held by the people who grew the bread, built the house, wrote the words you are reading.",
+      "practice": "List five strangers whose work is in your room right now. Dwell on the thought that you are connected to them.",
+      "quote": null
+    },
+    "anger": {
+      "text": "Anger is a powerful energy, and it often guards something valuable: a boundary, dignity, justice. In The Structure of Iki, Kuki Shūzō described ikiji, an inner resilience, a pride of spirit that refuses to bend. This is close to the healthy core of anger. But true iki, for Kuki, always joins resilience with akirame, detachment, the ability not to cling. Pride without clinging becomes free: you keep your back straight, but you don't have to carry the anger all your life. From Nishida's point of view one might add: in its first instant, anger is simply the heat of immediate experience, before the story of \"it's his fault.\" In that instant you have a choice about how to hold that heat.",
+      "practice": "Ask yourself: what value is my anger protecting? Write it down in one word, and separately, what I could stop holding on to.",
+      "quote": null
+    },
+    "shame": {
+      "text": "Shame is one of the most painful feelings: you want to hide from every pair of eyes. Nishitani Keiji described the ordinary \"I\" as a consciousness that constantly turns itself into an object: looking at itself from outside, judging, comparing. In shame this gaze becomes unbearably sharp: you see yourself only as a \"bad thing\" in others' eyes. But for Nishitani a person runs deeper than any picture of themselves. In the field of emptiness a person is not an object but an openness in which actions, judgments and shame itself arise. This doesn't mean shame can't point to something important. But it speaks about an action or an image, not about your essence, which no judgment can capture.",
+      "practice": "Write down the sentence your shame is saying. Then rewrite it like this: \"Right now there is a thought in me that…\" Notice the difference.",
+      "quote": null
+    },
+    "guilt": {
+      "text": "Guilt says that you care: you feel you have caused harm or failed to do what you should. At the end of the Second World War, Tanabe Hajime wrote Philosophy as Metanoetics, from the Greek metanoia, repentance, a change of mind. He admitted that his own thinking had proven powerless in the face of catastrophe, and he saw in that admission not an end but a beginning: when we stop justifying ourselves and defending our image, a possibility of renewal opens up that a person cannot produce by their own strength alone. For Tanabe, repentance is not self-flagellation but a turning: strength comes when we acknowledge the limit of our strength. From this point of view, guilt can become not a verdict but a door.",
+      "practice": "Write one honest sentence about what happened, with no excuses and no self-flagellation. Then one small action that could set something right.",
+      "quote": null
+    },
+    "envy": {
+      "text": "Envy stings: it seems someone else has what you are incomplete without. It lives in a world of comparisons, where everything is measured on a single scale: more or less, better or worse. Nishitani Keiji called this way of seeing the \"field of consciousness,\" where things are merely objects to be set side by side. In the deeper \"field of emptiness,\" each thing, as he put it, is \"at home\" in its own, incomparable way of being. The pine is not inferior to the bamboo; it is simply a pine. From this point of view, one might say envy points to a desire worth hearing, but it is mistaken in one thing: the idea that your life is a failed copy of someone else's. It is not a copy; it is one of a kind.",
+      "practice": "Ask: what exactly do I want when I look at this person? Put it into words as your own desire, not as someone else's property.",
+      "quote": null
+    },
+    "emptiness": {
+      "text": "Apathy and inner emptiness are heavy: as if everything had lost its color. Nishitani Keiji distinguished two kinds of \"emptiness.\" The first is nihility: the sense that meaninglessness gapes beneath everything we do. He didn't brush this experience aside; he considered it important, because it honestly destroys false supports. But for Nishitani you don't need to flee this emptiness or get stuck in it: you can pass through it to something deeper, śūnyatā, Buddhist emptiness. There \"empty\" means not \"there is nothing\" but \"nothing is frozen\": everything is open, connected, able to fill again. From this point of view, your emptiness is not a verdict but perhaps a cleared patch of ground where nothing has sprouted yet.",
+      "practice": "Find one very small thing you can feel right now, even a little: the warmth of a cup, the light on the wall. Stay with it for half a minute, demanding nothing of yourself.",
+      "quote": null
+    },
+    "confusion": {
+      "text": "Confusion is unpleasant: the familiar landmarks don't work, and it's unclear where to go. In Zen Buddhism, which Nishitani Keiji drew on, there is the notion of the \"Great Doubt,\" a state in which all ready-made answers collapse and a person is left face to face with the question. Nishitani saw such doubt not as a breakdown but as a turning point: only when the old schemes stop holding can a more direct view of things open up. Nishida Kitarō would add that \"pure experience\" comes before all concepts: before we know what something means, we are already living inside what is happening. From this point of view, confusion is an honest encounter with a reality wider than your maps. You can let it stay a little while.",
+      "practice": "Write down the question in front of you right now, and don't write an answer. Just look at it as a sign that you are on the way.",
+      "quote": null
+    },
+    "fatigue": {
+      "text": "Tiredness and burnout are a sign that you have carried more than you can for a long time. Nishitani Keiji saw one of the ills of modernity in the \"mechanization\" of the human being: we start to see ourselves as a tool that is valuable as long as it produces, achieves, copes. Such an \"I\" is always stretched forward toward the next task and has nowhere to return to. Nishida Kitarō called the deepest level of being a \"place,\" that which holds all actions but is not itself an action. From this point of view, one might say: you are not only what you do but also the place where doing begins and where it can stop. Rest is not lost time but a return to that place.",
+      "practice": "Sit for two minutes doing nothing and without trying to \"rest properly.\" Just note: \"I'm here,\" \"there is tiredness here,\" \"there is breathing here.\"",
+      "quote": null
+    },
+    "boredom": {
+      "text": "Boredom can be agonizing: time drags and everything seems long familiar. Explaining \"pure experience,\" Nishida Kitarō gave the example of a musician playing a piece they know well: they are wholly absorbed in the sound, and there is no gap between them and the music. Boredom is often built the opposite way: a ready-made label comes between us and the world, \"I've seen this already,\" \"this won't give me anything.\" We experience not the thing itself but our judgment about it. From Nishida's point of view, one might say that in boredom it isn't the world that has gone empty; experience has been screened off by concepts. That's no reproach: it's how a tired mind works. But sometimes it's enough to take the label off for a minute for the most ordinary thing, the taste of water, the texture of fabric, to become an event again.",
+      "practice": "Pick an object near you and look at it for a minute as if you didn't know its name. What do you see when there's no word?",
+      "quote": null
+    },
+    "joy": {
+      "text": "Joy is something you want simply to live, and that's right. Nishida Kitarō might say that joy is close to what he called \"pure experience\": in moments of real joy the gap between \"me\" and what I rejoice in disappears, and there is simply a shining event. In The Problem of Contingency, Kuki Shūzō reflected that much in life comes not out of necessity but as an encounter, as something that might not have happened. Joy is often just that: the gift of a coincidence. From this point of view, it doesn't need to be held onto or justified. It's enough to notice that it's here and let it be fully present for as long as it lasts.",
+      "practice": "Tell yourself in one precise sentence exactly what is making you glad right now. Notice how much of this joy is a happy chance, an encounter that might never have been.",
+      "quote": null
+    },
+    "love": {
+      "text": "Love and tenderness are among the most living forces in us. In the essay \"I and Thou,\" Nishida Kitarō wrote that a genuine relationship with another arises when I recognize in them an absolute other who cannot be appropriated, and that this is exactly how I myself become who I am. In The Structure of Iki, Kuki Shūzō described bitai, a sensual allure that stays alive as long as some distance remains between two people, as long as the other isn't swallowed up. For Kuki, graceful love combines attraction with pride and a lightness in letting go. From this point of view, tenderness requires neither merging nor possession: it breathes in the space between you and the other. That space is not coldness but the place where love stays free.",
+      "practice": "Recall one trait of someone you love that you will never fully understand. Spend a minute feeling tenderness toward exactly that otherness of theirs.",
+      "quote": {
+        "text": "Iki is a sensual allure (coquetry) that is refined (resignation) and full of tension (pride of spirit).",
+        "author": "Kuki Shūzō",
+        "source": "The Structure of Iki (1930)"
+      }
+    },
+    "gratitude": {
+      "text": "Gratitude is a feeling in which the world seems generous. Nishitani Keiji described the field of emptiness as one in which each thing is held up by all the others: nothing exists on its own; everything is a knot of countless connections. Japanese has the expression okagesama de, literally \"thanks to your shade,\" a quiet acknowledgment that we are alive thanks to unseen support. From this point of view, gratitude is not politeness or duty but an accurate perception of reality: you really are held by many hands. And that knowledge can be calming: you don't have to hold everything up alone. Gratitude simply lets you see the web you are already in.",
+      "practice": "Pick up any object and trace in your mind at least five steps: who did what, and what happened, so that it could end up with you.",
+      "quote": null
+    },
+    "hope": {
+      "text": "Hope is a quiet strength that keeps us on the road. The Kyoto School offers a particular way of seeing it. For Nishida Kitarō, the future does not lie somewhere far ahead: it is born inside the \"eternal now,\" in every moment where past and future meet. And the emptiness Nishitani Keiji wrote about means that nothing is frozen forever, neither circumstances nor you yourself. If the world were a set of unchanging things, there would be nothing to hope for. But it is open. From this point of view, hope is not a fantasy but a sensitivity to that openness. It doesn't need to know how everything will end; it's enough to see that nothing has ended yet.",
+      "practice": "Write down one thing in your life that once seemed frozen and then changed. Let it be your proof of openness.",
+      "quote": null
+    },
+    "nostalgia": {
+      "text": "Nostalgia is bittersweet: the past glows, and it can't be brought back. Kuki Shūzō lived in Europe for many years, spent time with Bergson and studied with Heidegger, and perhaps that is why he felt the longing for home so finely. In The Structure of Iki he described akirame, detachment, a knowledge of the impermanence of things that makes feeling not heavier but more graceful. Detachment here is not cold: it is the ability to love without demanding that the beloved stay forever. Nishida Kitarō would add that the past has not simply vanished: it goes on living in the \"eternal now,\" in who you have become. From this point of view, nostalgia is the past breathing in you, not a lost paradise.",
+      "practice": "Choose one memory and ask: what from that time still lives in me, a trait, a habit, a skill?",
+      "quote": null
+    },
+    "craving": {
+      "text": "An acute craving, \"I want it right now,\" can be very strong, and there's nothing shameful in it. Drawing on Buddhism, Nishitani Keiji described the ordinary \"I\" as a center that keeps reaching for things, trying to fill a sense of lack beneath itself. Craving is one of the most vivid forms of this movement. Nishida Kitarō would suggest looking at it as \"pure experience\": before the story \"I need this\" there are just sensations, heat, tension, an image, an impulse. If you watch them without merging with them, you can see that the craving is a wave: it rises, peaks and falls. From this point of view, you are not the wave but the place it passes through. The place holds the wave and stays whole.",
+      "practice": "When the craving rolls in, set a timer for ten minutes and simply describe it, aloud or on paper: where it is in your body, how strong, how it's changing.",
+      "quote": null
+    },
+    "addiction": {
+      "text": "Addiction is not a moral failure but a loop that over time pulls life tighter and tighter around a single point. In Philosophy as Metanoetics, Tanabe Hajime described an experience familiar to many who have made their way out of such a loop: the moment a person honestly admits they can't manage on their own strength alone, by willpower alone. For Tanabe this admission is not defeat but a turning: where the proud \"I'll do it myself\" ends, something opens up that Buddhists call \"other power,\" support that comes from outside, from other people and from life itself. This resonates with the experience of people in mutual-help groups. From this point of view, admitting your powerlessness doesn't mean giving up. It means no longer fighting alone.",
+      "practice": "Think about whether there's a person or a community, a mutual-help group, for example, with whom you could talk honestly about your loop. You don't have to call now: it's enough to write down who it might be.",
+      "quote": null
+    },
+    "hangover": {
+      "text": "The morning after can be hard: your body aches, and on top of that come anxiety, shame, scraps of last night. All of this is understandable, and scolding yourself on top of it only adds pain to pain. Nishida Kitarō spoke of the \"eternal now\": every moment is a new beginning in which the past is present but doesn't determine everything. Yesterday has already happened; today is a different place. Tanabe Hajime distinguished self-flagellation from repentance: the first keeps us circling in guilt, the second turns us toward renewal. From this point of view, you don't have to reconstruct last night minute by minute or pass sentence on yourself. It's enough to look after your body and notice that this morning, too, can be lived gently.",
+      "practice": "Do one simple, kind thing for your body: fresh air, a shower, rest. And tell yourself: \"I'll sort out yesterday later; right now I'm taking care of myself.\"",
+      "quote": null
+    },
+    "euphoria": {
+      "text": "A flash of euphoria is a bright, almost radiant feeling that anything is possible. Nishida Kitarō would probably recognize in it features of \"pure experience\": the gap between \"I\" and the world disappears and everything flows as one stream. It's a valuable experience, and there's no need to be suspicious of it. Kuki Shūzō would add only one thing: the lightness he called akirame, detachment, the ability to enjoy without grasping. Euphoria is by nature fleeting, like fireworks on a summer night, and part of its beauty lies in that fleetingness. From this point of view, you can live the high fully and still not demand that it last forever; then its ending will be not a fall but the natural ebb of a wave.",
+      "practice": "Notice which sensation in your body goes with this high right now, and write down one thought that came on this wave, so you can come back to it calmly later.",
+      "quote": null
+    },
+    "crash": {
+      "text": "The drop after a high can be sudden and bitter: a moment ago everything was bright, and now it's grey and empty. Nishida Kitarō described reality as an \"absolutely contradictory self-identity\": opposites don't cancel each other out but make up one movement. The rise and the fall are not enemies but two phases of one wave, like breathing in and breathing out. From this point of view, the current low doesn't disprove your recent joy, nor does it prove that \"it'll be like this forever now.\" It is simply the other side of the same movement. Nishitani Keiji would remind you that in the field of emptiness nothing freezes for good, including this greyness. You can wait it out the way you wait out low tide, knowing the sea hasn't gone anywhere.",
+      "practice": "Allow yourself the bare minimum of demands today. Write down one thing you need to take care of yourself over the next few hours.",
+      "quote": null
+    },
+    "panic": {
+      "text": "A panic attack is one of the most frightening experiences there is: your heart pounds, your breathing falters, it feels as if something irreversible is about to happen. It really is terrifying, and you don't need to \"understand\" anything right now. You can simply remind yourself that a wave like this usually peaks and subsides within a few minutes. Nishida Kitarō stressed that \"pure experience\" is first of all what is felt right now, before any interpretation. In panic the mind races toward frightening stories about the future; what steadies you is the immediate: your feet, the surface under your palms, the objects around you. From the Kyoto School's point of view, one might say the place the wave passes through is bigger than the wave. The task is not to stop it but to wait it out, holding on to the present.",
+      "practice": "Press your feet into the floor. Slowly name aloud five things you can see, and take a few breaths with the out-breath longer than the in-breath.",
+      "quote": null
+    },
+    "dread": {
+      "text": "Existential dread, \"what's the point of it all?\", comes when familiar meanings suddenly give way and an abyss opens underfoot. Nishitani Keiji devoted a book to this experience, Religion and Nothingness. He called it \"nihility,\" a nothingness that gapes beneath everything that exists, and he didn't consider it a weakness. On the contrary: for Nishitani this question is the beginning of real depth, because in it a person stops living on autopilot. But the abyss is not the last word. If you pass through it, śūnyatā, emptiness, opens up: the same \"nothing,\" now seen not as a void but as a spaciousness in which everything exists freely and regains its meaning. From this point of view, your dread is not an answer but a question, and that question goes on.",
+      "practice": "Write down as precisely as you can the question sounding in you. And below it, one thing that, despite everything, was alive for you today.",
+      "quote": null
+    },
+    "fomo": {
+      "text": "Many people know the fear of missing out: it seems real life is happening somewhere out there, to other people, and you are in the wrong place. Nishida Kitarō built a whole philosophy of \"place,\" basho. For him every experience and every \"I\" is always already in some place, and that place is no worse and no better than another: it is simply where reality unfolds for you. Nishitani Keiji added that in the field of emptiness every thing is \"at home,\" in its own unique way of being. From this point of view, you can't be in \"the wrong place\": where you are, a full piece of the world is happening, and the feed of other people's events is only images within your own place. The only thing you can truly miss is what is happening here.",
+      "practice": "Put your phone away for five minutes and describe three things happening exactly where you are right now: a sound, the light, a sensation.",
+      "quote": null
+    },
+    "sleepless": {
+      "text": "Insomnia and three-in-the-morning thoughts are exhausting: in the dark everything seems bigger and more hopeless. Nishida Kitarō called the deepest level of reality \"absolute nothingness,\" and that is not a frightening void but a boundless place that holds everything and stands against nothing. Night is a little like it: the forms of the day dissolve, and a dark open space remains. Thoughts sound loud in it because they have nothing to compete with. From the Kyoto School's point of view, you don't have to fight them or try to solve them: they are only waves in a dark expanse, not a verdict. Conclusions reached at night are rarely accurate; they can wait until morning, and meanwhile you can simply lie in a silence that asks nothing of you.",
+      "practice": "Say to each intrusive thought: \"In the morning.\" Then notice the heaviness of the blanket, your body's weight on the bed, the sound of your breathing.",
+      "quote": null
+    },
+    "betrayal": {
+      "text": "Betrayal wounds deeply: trust collapses, and with it the picture of a world in which this person was a support. Nishida Kitarō wrote that the other person, the \"Thou,\" is absolutely other: they can never be fully understood from the inside or guaranteed. So trust is always both a gift and a risk. Betrayal doesn't mean you were naive to trust: without that risk there's no closeness at all. Kuki Shūzō would suggest a combination of ikiji, a pride of spirit that won't let itself be trampled, and akirame, a detachment that over time helps you stop carrying the person who hurt you. From this point of view, you can acknowledge the wound and keep your dignity, without letting the pain become your new essence.",
+      "practice": "Write: \"I was hurt. That's true. And I remain someone capable of trust.\" See which part of the sentence resonates more strongly.",
+      "quote": null
+    },
+    "jealousy": {
+      "text": "Jealousy is agonizing: the fear of losing the one you love mixes with pain and anger. In The Structure of Iki, Kuki Shūzō described bitai, an allure that stays alive only as long as the other remains other: free, not appropriated. For Kuki, genuine sensuality rests on the tension of distance, and trying to take complete possession of a person kills it. This isn't a reproach: jealousy is natural, and it shows how precious the person is to you. But Kuki's idea suggests that love is by its nature not property and can't be secured by control. From this point of view, you can acknowledge your fear and at the same time see that the other's freedom is not a threat to love but the condition that makes love possible at all.",
+      "practice": "Divide a page into two columns: \"what I'm afraid of\" and \"what I know for sure.\" Don't argue with the first column; just look at the difference.",
+      "quote": null
+    },
+    "resentment": {
+      "text": "An old grievance is like a stone you carry with you: it reminds you of an injustice, and throwing it away feels like betraying yourself. That's understandable. Kuki Shūzō valued ikiji, pride of spirit, the refusal to let oneself be humiliated. But he also showed that in a graceful character it is joined with akirame, a detachment grounded in the Buddhist knowledge that all things are impermanent. Akirame is not forgiveness out of obligation, nor agreement with what happened. It is a loosening of the grip: the grievance stops being the place where you live. Nishida Kitarō would add: you are a \"place\" that holds many experiences, not one of them. From this point of view, the grievance can remain a memory without defining the whole of you.",
+      "practice": "Ask yourself: how many years have I been carrying this stone? And what would my hands do if for one day I set it down on the ground?",
+      "quote": null
+    },
+    "heartbreak": {
+      "text": "A broken heart hurts almost physically: a life that was shared has suddenly come apart. There's no need to hurry to \"go through it properly.\" In The Structure of Iki, Kuki Shūzō described akirame, a detachment that, in his words, grows out of experience, including the experience of disappointment in love: a person learns that everything is impermanent, and that makes their feelings not cold but refined. Nishida Kitarō would remind you that what you have lived through does not vanish; it becomes part of the \"place\" that you are. The love that was there was real, even if it ended. From this point of view, the pain of parting is not proof that it was all a mistake but the trace of a depth that will stay with you.",
+      "practice": "Write down three things this relationship gave you that will stay with you, even though the person is gone.",
+      "quote": null
+    },
+    "impostor": {
+      "text": "Impostor syndrome is exhausting: it feels as if you're playing a part and soon everyone will see there's no one behind it. Nishitani Keiji would show that this fear rests on a particular picture of the \"I,\" as an object that can be inspected, assessed and declared fake or genuine. But for Nishitani the true \"I\" is not a thing with a label at all. It is closer to an openness in which actions, learning and mistakes take place. Nishida Kitarō called this \"self-awareness\": not a look at oneself from outside but a living activity. From this point of view, there is no \"real you\" waiting to be exposed: there is you, doing the work right now. Doubt is just one of the thoughts in that process, not an expert appraisal of your essence.",
+      "practice": "List three things you actually did over the past month, simply as facts, without judging them \"good\" or \"enough.\"",
+      "quote": null
+    },
+    "self_hatred": {
+      "text": "Self-hatred is one of the heaviest forms of pain: as if a harsh judge lived inside you, one you can't get away from. Its verdict is not the truth about you. Nishitani Keiji described how the ordinary \"I\" closes in on itself: it looks at itself, judges, condemns, and this circle can grow tighter and tighter. But he also showed that beneath this circle lies the field of \"emptiness,\" where a person can't be reduced to any judgment. There you are not a \"bad object\" but a living, open place in which pain, hope and the capacity for change all arise. Tanabe Hajime believed that even an honest admission of one's mistakes leads not to eternal condemnation but to renewal. From this point of view, the inner critic speaks loudly but sees very little.",
+      "practice": "Write down one sentence from your inner critic. Below it, write what you would say to a close friend if they said this about themselves.",
+      "quote": null
+    },
+    "helplessness": {
+      "text": "Helplessness is heavy: you see what is happening and cannot change it. Tanabe Hajime knew this feeling firsthand: during the war he came to the conclusion that his philosophy was powerless to stop anything. Out of that experience came Philosophy as Metanoetics. Tanabe didn't pretend the powerlessness wasn't there. He showed that acknowledging your limits can be freeing: we stop demanding the impossible of ourselves, and then \"other power\" opens up, the support of other people, of life itself, of what is greater than us. From this point of view, helplessness is not proof of your worthlessness but an honest encounter with a boundary. And you don't have to stand at that boundary alone.",
+      "practice": "Divide a sheet into two parts: \"what doesn't depend on me\" and \"one tiny thing that does.\" Do that thing, even if it seems very small.",
+      "quote": null
+    },
+    "procrastination": {
+      "text": "Procrastination is not laziness: often there's fear, tiredness or too big a picture of the task behind it. Nishida Kitarō described \"acting intuition\": we understand the world not before acting but in the acting itself; by doing we see, and by seeing we go on doing. So you can't first get fully \"pulled together\" and then begin: the pulling together happens inside the doing. His example of \"pure experience\" is a musician wholly absorbed in playing: there is no separate \"I\" painfully forcing itself. From this point of view, one might say a task is frightening as long as you look at it from outside, as one huge object. From inside it consists of one small movement, and then the next.",
+      "practice": "Choose the tiniest first step, open the file, write one sentence, and do only that. The rest can wait.",
+      "quote": null
+    },
+    "uprooted": {
+      "text": "Being torn from home, through emigration, a move, losing your ground, is not just a change of address but the loss of a familiar world. The Kyoto School thinkers understood this well: Kuki Shūzō lived in Europe for about eight years, and it was largely there, from a distance, that he began to reflect on his own culture in The Structure of Iki. Nishida Kitarō showed that \"place,\" basho, is not only a point on a map. Every experience always happens somewhere, and the deepest place, \"absolute nothingness,\" cannot be lost, because it holds all places. From this point of view, you haven't fallen out of the world: you are still in a place, even if it is new and unfamiliar. Roots grow slowly, but they can take hold in new soil too.",
+      "practice": "Find one thing or habit from your old home that you can bring here, and one small new one that has already become yours.",
+      "quote": null
+    },
+    "overload": {
+      "text": "Overload, the feed, the notifications, the endless stream, leaves you feeling that your head is overfull and yet empty inside. Nishida Kitarō would set against it \"pure experience\": a whole experience with no fragmentation. A musician absorbed in playing doesn't switch every ten seconds; their attention is unified. In the information stream, on the contrary, we keep splintering into pieces and are never fully present anywhere. Nishitani Keiji saw the mechanization of life as one of the sources of the modern feeling of emptiness. From this point of view, the weariness of overload is not your weakness but a natural reaction of living attention to a stream it wasn't made for. It needs a place where it can be whole again.",
+      "practice": "For three minutes, give yourself wholly to one thing: drink your tea looking only at the cup. Notice what attention feels like when it isn't being pulled anywhere.",
+      "quote": null
+    },
+    "unreality": {
+      "text": "A sense of unreality, as if the world were behind glass or you were in a dream, can be very unsettling. It's worth describing gently, without hasty labels. Nishitani Keiji wrote a great deal about how reality can slip away: when we perceive things only as objects \"over there\" and ourselves as an observer \"here,\" the world can go flat, like a stage set. For him the way to what is genuine is not more analysis but a more immediate encounter, in which a thing appears as it is. Nishida Kitarō would call such an encounter \"pure experience.\" From this point of view, unreality is not proof that the world isn't there but a sign that your connection with it is muffled right now. It can be gently restored through the simplest thing of all: sensation.",
+      "practice": "Touch something with a distinct texture, fabric, wood, cool water, and for a minute describe the sensation in words: rough, cool, heavy.",
+      "quote": null
+    },
+    "awe": {
+      "text": "Awe before something vast or beautiful, mountains, a starry sky, music, is one of those rare experiences in which we become smaller and larger at once. Nishida Kitarō would see in it \"pure experience\" in almost pure form: the usual division into me and the world disappears, and only the radiance of what is happening remains. For him this is not an illusion but a more primary reality: first there is experience, and only then an \"I\" who has it. Nishitani Keiji would call it drawing near to the field of emptiness, an open expanse in which each thing appears in all its uniqueness. From this point of view, awe doesn't need to be explained or held onto. It reminds you: you are part of something infinitely spacious.",
+      "practice": "Recall or find something that fills you with awe, and for a minute simply look, without taking a photo or searching for words.",
+      "quote": {
+        "text": "It is not that experience exists because there is an individual, but that an individual exists because there is experience.",
+        "author": "Nishida Kitarō",
+        "source": "An Inquiry into the Good (1911), preface"
+      }
+    },
+    "relief": {
+      "text": "Relief is the exhale after long tension, and you can simply live it. From the Kyoto School's point of view, there is something very honest in relief: we suddenly feel how much strength it took just to hold on. Nishida Kitarō spoke of a \"place\" that holds all experiences; in relief we feel that place for a moment, spacious and uncluttered. Kuki Shūzō valued lightness, the ability to let go and not cling to what has passed; relief is the most natural expression of that lightness. From this point of view, there's no need to go looking for the next worry right away or to fear that the good won't last. You can let your body and mind feel the space that has opened up.",
+      "practice": "Take a deep breath in and a slow breath out. Notice where in your body the relief is strongest, and stay there for half a minute.",
+      "quote": null
+    },
+    "calm": {
+      "text": "Calm is a precious state, and you don't have to earn it. Nishida Kitarō, who practiced Zen meditation for years, knew a calm that doesn't depend on whether everything has been sorted out. He described \"absolute nothingness\" as the deepest place, which holds everything, joy and anxiety alike, yet itself stays unperturbed, like a sky with clouds drifting across it. Nishitani Keiji said that in the field of emptiness every thing is \"at home.\" Calm may be exactly that feeling of being at home, in your own present moment. From this point of view, calm is not an absence of life but its quiet fullness. You can simply enjoy it.",
+      "practice": "Sit for a minute, noting that nothing needs fixing at this moment. If thoughts come, let them drift by like clouds.",
+      "quote": null
+    },
+    "inspiration": {
+      "text": "Inspiration is the feeling that something wants to be born through you. Nishida Kitarō saw the world as creative: he described historical reality as a movement \"from the created to the creating,\" in which each of us is at once a result of the past and the beginning of something new. In this sense inspiration is not a random spark but a moment when you feel especially clearly that you are a creative point in the world. His \"acting intuition,\" the unity of seeing and doing, describes well how in inspiration thought and hand seem to move at the same time. From this point of view, inspiration doesn't need to be controlled or rationed. Better simply to start doing while the wave is carrying you.",
+      "practice": "Write down or sketch what has come to you, right now: messily, without editing. You can polish it later.",
+      "quote": null
+    },
+    "schadenfreude": {
+      "text": "Schadenfreude arrives unexpectedly and usually frightens us ourselves: am I really glad about someone else's misfortune? Almost everyone knows this feeling, and it says little about who you are. Nishitani Keiji described the ordinary \"I\" as a center that measures everything relative to itself: someone else's failure seems for a moment to lift me higher on an imaginary ladder. This is the standpoint of the \"field of consciousness,\" where I and the other are separate objects competing for a place. But Nishitani also spoke of a deeper \"field of emptiness,\" where things don't stand against one another but hold each other up. From this point of view, one might say schadenfreude is a flash of comparison, not your essence. Once you notice it, you don't need to fight it; you can ask what worry about your own place it is responding to.",
+      "practice": "Write: \"For a second, someone else's failure gave me the feeling that I…\" and finish it honestly. It will hint at what you're missing right now.",
+      "quote": null
+    },
+    "contempt": {
+      "text": "Contempt is a cold feeling, and often it holds some truth: something really does seem petty or unworthy to you. The Kyoto School invites you to look at where the contemptuous gaze is looking from. Nishida Kitarō said that every experience takes place in some \"place\" (basho in Japanese). Contempt is a place above: I stand on a height, the other is below, and between us there's a solid wall. In \"absolute nothingness,\" Nishida's deepest place, there is no such height: both you and the one you despise arise in the same openness. From this point of view, one might say contempt often protects you from something: disappointment, pain, an uncomfortable resemblance. It's worth questioning, not being ashamed of.",
+      "practice": "Ask yourself: \"What would happen if I didn't stand above this person?\" Listen to the first answer: it may hide what the contempt is protecting you from.",
+      "quote": null
+    },
+    "disgust": {
+      "text": "Disgust is a very bodily feeling: you want to turn away, draw back, close up. It can be about people, situations, even yourself, and it doesn't make you a bad person. Nishida Kitarō began philosophy with \"pure experience,\" experience before we split it into \"I\" and \"this.\" From this point of view, one might say disgust is at first simply a wave: tightening, nausea, recoil. Only afterwards does the mind stick a label on it: \"this is vile\" or \"I am vile.\" Nishitani Keiji said that in the \"field of emptiness\" each thing is \"at home,\" in its own way of being, not in the role we have assigned to it. Disgust can be endured without turning it into a final verdict on the world or on yourself.",
+      "practice": "For half a minute, keep only the bodily side of the disgust: where do you feel it, what is it like, tightness, cold, heaviness? Without the words \"vile\" or \"bad.\"",
+      "quote": null
+    },
+    "revenge": {
+      "text": "The wish for revenge is usually born of a real wound: you were treated unjustly, and your soul demands that the balance be restored. This feeling is understandable, and there's nothing shameful in it. Tanabe Hajime, who during the war saw his own convictions collapse, arrived at \"metanoetics,\" a philosophy that begins with admitting the powerlessness of one's own \"I.\" He wrote that true renewal comes not from \"self-power\" (jiriki in Japanese) but from \"other power\" (tariki), something that surpasses us and allows us to let go. From this point of view, one might say revenge promises release but in fact ties you more tightly to the person who hurt you, making them the center of your life. Acknowledging the pain fully and letting it be is already a step toward it no longer ruling you.",
+      "practice": "Write down what exactly that wound destroyed: trust, dignity, a sense of safety? Revenge speaks about the past; this note speaks about what you need to restore.",
+      "quote": null
+    },
+    "anger_at_loved": {
+      "text": "Anger at someone close, a partner, a parent, a child, can be very strong, and then shame follows: how can I feel this way about someone I love? But anger and love don't exclude each other. Nishitani Keiji described the deep connection of things as mutual interpenetration: in the \"field of emptiness\" no one exists separately but through others, as if others enter into one's very being. The people closest to us penetrate us most deeply, which is why their words and actions hit where we are least protected. From this point of view, your anger doesn't prove there's no love; rather, it shows how woven into your life this person is, and it may point to a boundary or a need that has long gone unnoticed. You can acknowledge the anger without dumping it on the other person or hiding it from yourself.",
+      "practice": "When the anger has settled a little, finish the sentence: \"I'm angry because what matters to me is…\" Sometimes underneath anger there's a request you can make calmly.",
+      "quote": null
+    },
+    "ambivalence": {
+      "text": "Loving someone and not being able to stand them at the same time is an exhausting but entirely human state. We usually think only one thing can be true: either I love them or I don't. In his late works Nishida Kitarō spoke of the \"self-identity of absolute contradictories\": the world holds together precisely because opposites coexist without merging or destroying each other. A living person, for Nishida, is not a smooth essence but a place where such tensions meet. From this point of view, your mixed feelings are not a mistake to be fixed urgently by choosing a side. They are an honest reflection of a complicated relationship. You can let both feelings be, without rushing to a final decision, and see that you are wider than either of them.",
+      "practice": "Write one sentence that contains both \"I love\" and \"I can't stand,\" joined not by \"but\" but by \"and.\" Read it and notice that there's room in you for both.",
+      "quote": null
+    },
+    "guilty_relief": {
+      "text": "Relief after a breakup, a departure, or a loved one's long illness often frightens us: how can I feel lighter when there \"should\" be nothing but grief? You can. Relief and love don't cancel each other out. Nishida Kitarō said that the deepest \"place,\" \"absolute nothingness,\" has room for everything, and one experience does not push out another. Sorrow, exhaustion from long strain and the exhale after it can all live in one heart at once. Relief often means not \"I'm glad about the loss\" but \"something unbearably hard has ended.\" From this point of view, allowing yourself relief is neither betrayal nor coldness. It's simply the truth about how much you were carrying, and part of how life goes on.",
+      "practice": "Write two sentences side by side: \"It was hard for me because…\" and \"I loved because…\" Let both be true at once.",
+      "quote": null
+    },
+    "indifference": {
+      "text": "Sometimes, where you're \"supposed\" to be moved, by important news, by someone else's misfortune, even in grief, there is silence inside. That's frightening, and it makes you suspect yourself of being callous. But indifference rarely means you truly don't care. Nishitani Keiji wrote a great deal about nihilism, the experience in which everything suddenly loses weight and meaning. He believed this experience can't simply be muffled: you have to pass through it, and then it can open into the \"field of emptiness,\" where things become alive and close again. From this point of view, one might say numbness is not a verdict but perhaps a pause in which the mind is saving its strength or can't yet take in what has happened. Don't force yourself to feel \"the right way\": an honest silence is closer to the truth than performed emotion.",
+      "practice": "Without demanding any feelings of yourself, just note what you're noticing right now: sounds, light, breath. Feelings don't have to arrive on schedule.",
+      "quote": null
+    },
+    "escape": {
+      "text": "Many people know the urge to drop everything, the job, the city, the familiar role, and go somewhere no one knows you. This isn't weakness: it's often the voice of weariness with a life that has become too cramped. Nishida Kitarō taught that the \"I\" is not locked inside a role: a role is only one of the forms arising in a deeper \"place,\" in \"absolute nothingness,\" which nothing limits. Nishitani Keiji spoke of a thing being \"at home,\" in its true way of being. From this point of view, the urge to escape may be a longing not so much for another city as for the freedom to be yourself without being reduced to a function. That longing deserves to be taken seriously, and, without hurrying into big decisions, first listened to closely, to hear what exactly it is asking for.",
+      "practice": "Imagine you have already \"escaped.\" Describe in three words what you feel there. Those words will hint at what's missing here.",
+      "quote": null
+    },
+    "forbidden_attraction": {
+      "text": "Attraction to someone you \"shouldn't\" be drawn to, someone unavailable, the \"wrong\" person, can be embarrassing and unsettling. But attraction itself is part of being alive, and the fact that it appears says nothing about you yet. In The Structure of Iki (1930), Kuki Shūzō described a refined feeling of attraction that rests on distance: what matters to him is neither possession nor merging, but the tension between two people who keep their freedom. He observed that when that distance disappears, the charm disappears too. From this point of view, one might say attraction to someone unavailable is often about not only the particular person but what they embody for you: another life, another version of yourself. You can look at it with curiosity, in no hurry either to condemn yourself or to decide anything.",
+      "practice": "Write: \"What draws me to this person is…\" and see which of these qualities you'd like to discover or develop in your own life.",
+      "quote": null
+    },
+    "social_anxiety": {
+      "text": "Fear of people and their judgment makes simple things, making a call, walking into a room, saying a word, difficult. It's a very common experience, and there's nothing shameful in it. Nishitani Keiji described ordinary consciousness as a \"field\" in which I keep looking at myself as an object: how I look, what people will think of me. In shyness this outside view becomes almost constant. Against such self-watching, Nishida Kitarō set \"pure experience,\" absorption in what is happening, where there's no gap between the one acting and the action itself. From this point of view, relief comes not from trying to be liked but in the moments when attention shifts from yourself to the task or to the person you're talking to. You can notice such moments and gradually collect them.",
+      "practice": "In your next conversation, pick one detail about the other person, their intonation, something in their hands, and for half a minute simply observe it. Notice what happens to your attention on yourself.",
+      "quote": null
+    },
+    "uncertainty": {
+      "text": "Uncertainty wears you out: it's unclear what will happen, and there's nothing to lean on. Wanting to know in advance is natural. Drawing on Zen Buddhism, Nishitani Keiji wrote about the \"Great Doubt,\" a state in which the familiar ground is gone and every ready-made answer has been called into question. For him this was not only a misfortune but also an opportunity: where the schemes collapse, a person meets reality directly for the first time, not through their expectations. Nishitani would add that trying to foresee everything is the \"I\" trying to hold the world like an object in its hands, and life is always wider than any plan. From this point of view, uncertainty is not only a threat but the honest face of a life that was never known in advance. You don't have to try to find the answer right now; you can live in the part of the road that is already visible.",
+      "practice": "Write: \"Right now I know for certain that…\" and list three simple things. Support is often found in the present, not in a forecast.",
+      "quote": null
+    },
+    "waiting": {
+      "text": "Waiting, for results, for an answer, for news, stretches time and keeps you from living: everything seems to be on pause. It's hard, and impatience is natural here. Nishida Kitarō spoke of the \"eternal now\": the present moment is not an empty gap between past and future but the place where time gathers as a whole. When we wait, it's as if we leave that place and live in what hasn't arrived yet. The Zen tradition the Kyoto School drew on values simple actions: when you eat, eat; when you walk, walk. From this point of view, one might say waiting doesn't have to be lived as emptiness. While there's no answer yet, time still passes, and it holds tea, a walk, a conversation. You don't have to hurry the waiting; you can surround it with care.",
+      "practice": "Choose one simple action for the next five minutes, making tea, taking a walk, and do it wholly, noticing the sensations. The waiting won't go anywhere, but it won't be the only thing.",
+      "quote": null
+    },
+    "regret": {
+      "text": "Regret over what you did or didn't do can come back again and again. The feeling shows that you care, and there's nothing shameful in it. In the last years of the war Tanabe Hajime wrote Philosophy as Metanoetics, from the Greek metanoia, \"change of mind, repentance.\" He acknowledged the errors of his own thinking and saw that honest acknowledgment does not destroy a person but becomes a place of renewal: through recognizing one's powerlessness comes a strength greater than the \"I.\" From this point of view, one might say regret is not endless self-punishment but the start of a path Tanabe called \"death and resurrection,\" giving up your former self for a new one. The past can't be changed, but how you are connected to it can.",
+      "practice": "Write in one sentence what you regret, in a second what it taught you. Begin the third with: \"Now I can…\"",
+      "quote": null
+    },
+    "longing": {
+      "text": "Longing for a particular person, the feeling that their place beside you is empty, can be almost physical. It's natural: it speaks of a connection that was real. In the essay \"I and Thou\" (1932), Nishida Kitarō wrote that the \"Thou\" is absolutely other and cannot be dissolved into oneself, and yet the \"I\" finds the \"Thou\" in its own very depths: the other doesn't simply stand outside but has a part in who we have become. From this point of view, one might say longing is a person's presence in the form of their absence. Their voice, habits, jokes go on living in you, and that's why the emptiness beside you feels so sharp. You don't have to chase longing away; you can treat it as a form of faithfulness, as proof that the meeting happened.",
+      "practice": "Write this person a short letter you don't need to send: what you'd want to tell them today.",
+      "quote": null
+    },
+    "world_pain": {
+      "text": "Pain for the world, over wars, injustice, grim news, can press down so hard that ordinary life becomes difficult. The feeling speaks of your capacity for compassion, and it isn't superfluous. Nishitani Keiji described reality as a web of interconnections: in the \"field of emptiness\" each thing is connected to all the others and reflects them. From this point of view, it's no surprise that a distant disaster resonates in you: the connection is real. But the same idea implies something else: you are not obliged to hold up the whole world alone. You are one point in this web, and your place is here, in your particular life, among the people around you. One might say that compassion which finds a small, real action close at hand brings more relief than endlessly reading the news.",
+      "practice": "Choose one small thing you can do today, help someone nearby, make a call, offer support. And then give yourself an hour without news.",
+      "quote": null
+    },
+    "rejection": {
+      "text": "Rejection wounds deeply: it feels as if not a request or an offer was turned down, but the whole of you. This pain is natural. In The Problem of Contingency (1935), Kuki Shūzō described an encounter as an event in which two independent lines of life converge, something that might come together and might not. From this point of view, a refusal is an encounter that didn't align, an event between two free people, not a final assessment of your essence. Nishida Kitarō would remind you that the \"I\" runs deeper than any role in which it was or wasn't accepted: you are not a single image to be approved or discarded, but a living \"place\" where far more is happening than this one answer. You can live through the pain without agreeing with the verdict it seems to pronounce.",
+      "practice": "Write: \"I was rejected in… (the specific situation), but not in everything.\" List what in you this refusal didn't touch.",
+      "quote": null
+    },
+    "abandonment": {
+      "text": "The fear of being abandoned can run very deep: it seems that without the other person there will be nothing left to hold on to. This feeling is understandable; we are beings who need connection. Tanabe Hajime spoke of \"absolute mediation\": nothing exists by itself; everything exists through its relationships with others. From this point of view, your need for people is not a weakness but the very fabric of life. But Nishida Kitarō would add that all relationships arise in the \"place of absolute nothingness,\" an openness that holds every meeting and parting and doesn't vanish with any of them. You might put it like this: connections are important and real, but the deep \"place\" you live in cannot leave along with someone. You can acknowledge the fear and at the same time feel the support you already have.",
+      "practice": "Name three connections in your life, with people, places, activities, that support you. Stay for a minute with the feeling that you're not hanging on by a single thread.",
+      "quote": null
+    },
+    "unrequited": {
+      "text": "Unrequited love hurts: the feeling is there, but the meeting isn't. That doesn't make it any less real. In The Structure of Iki, Kuki Shūzō described romantic attraction as a tension between two people who remain separate and free. One of the elements of iki he called akirame, a Buddhist-tinged word meaning both \"resignation\" and \"seeing clearly\": the ability to accept impermanence and not cling. For Kuki this is not coldness but a particular maturity of feeling: loving without demanding that the world bend to your wish. From this point of view, one might say your love is neither a mistake nor a defeat. It showed your capacity to feel deeply. Letting go of the hope of it being returned doesn't mean devaluing the feeling itself.",
+      "practice": "Write down what this love opened up in you: what feelings, what qualities. That stays yours, whatever the other person answers.",
+      "quote": null
+    },
+    "humiliation": {
+      "text": "Humiliation is one of the hardest experiences: it feels as if your dignity has been taken from you, often in front of others. This pain is natural and deserves to be acknowledged. Nishitani Keiji would say that humiliation tries to turn you into an object, a \"thing\" that can be judged and discarded. But for Nishitani a person, at depth, is not an object but an openness that no one else's judgment can fully capture. Nishida Kitarō described genuine self-awareness as \"seeing oneself within oneself\": not through someone else's distorting mirror but from inside one's own experience. From this point of view, one might say humiliation is done to an image, not to your essence. That doesn't cancel the pain, but it helps you refuse the verdict someone tried to impose on you.",
+      "practice": "Write down what was said or done, and separately, what you know about yourself from the inside, regardless of it. Read the second list slowly.",
+      "quote": null
+    },
+    "body_shame": {
+      "text": "Being unhappy with your body can be exhausting: a glance in the mirror turns into an exam. It's a common and understandable feeling, especially in a world full of idealized images. Nishida Kitarō insisted that the body is not a thing we look at from outside but that through which we act in the world: through the body we see, touch, create. He called this \"acting intuition,\" a knowing that lives in movement rather than in inspection. From this point of view, one might say body shame arises when we turn the body into a picture to be graded and forget that it is first of all our way of being alive. The body that carries you down the street, holds a cup, hugs the people you love is more than any reflection.",
+      "practice": "Choose one thing your body did for you today, walked, cooked, hugged, and silently say \"thank you\" to it for that.",
+      "quote": null
+    },
+    "illness": {
+      "text": "When your body lets you down, illness, pain, weakness, your whole life changes, and that's hard. Irritation, fear and sadness are natural here. Nishida Kitarō saw the human being as a unity of body and action: we live not \"in\" a body but as a body. So illness affects not only organs but the way you are in the world. Nishitani Keiji wrote that the experience of fragility and finitude, which we usually turn away from, can become a place where life is seen more deeply: without the usual armor it's clearer what truly matters. From this point of view, one might say illness is neither your fault nor a failure. Even within limitation there remains a \"place\" where you go on feeling, seeing, being in relationship. That doesn't cancel the difficulty, but it gives you something to stand on.",
+      "practice": "Notice one thing you can enjoy feeling today despite the illness: warm light, a taste, a voice. Stay with it for a minute.",
+      "quote": null
+    },
+    "pride": {
+      "text": "Pride in what you've done is a good, deserved feeling, and it's worth savoring without belittling it. Kuki Shūzō considered ikiji one of the pillars of human dignity: an inner resilience, a calm pride of spirit that doesn't fawn and doesn't need constant approval. In An Inquiry into the Good (1911), Nishida Kitarō wrote that the good is the realization of the personality: when a person unfolds what lies within them, they do good both for themselves and for the world. From this point of view, one might say healthy pride doesn't set you against others; it confirms that you have become a little more yourself. There's no need to hide it out of modesty or inflate it into superiority; it's enough to acknowledge it calmly.",
+      "practice": "Write down what exactly you did and what quality in yourself you showed in doing it. Read it aloud, without \"but\" or \"I just got lucky.\"",
+      "quote": null
+    },
+    "melancholy": {
+      "text": "Bright sadness, melancholy, is a quiet, deep feeling in which sorrow mingles with tenderness toward the world. It doesn't need fixing. The Japanese culture the Kyoto School grew out of has the notion of mono no aware, the poignant charm of things that comes from sensing their transience: cherry blossoms are beautiful precisely because they will soon fall. Nishitani Keiji believed that emptiness, understood all the way through, is not the emptiness of loss but that in which each thing appears for the first time in all its uniqueness. From this point of view, melancholy is not a malfunction but a form of clear seeing: you feel that everything passes, and so everything becomes more precious. You can simply live it, like slow music.",
+      "practice": "Choose something fleeting nearby, light on the wall, a cloud, a sound, and watch it for a minute, letting it be passing.",
+      "quote": null
+    }
+  }
+}

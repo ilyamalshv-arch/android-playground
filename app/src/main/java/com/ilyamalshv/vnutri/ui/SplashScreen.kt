@@ -83,6 +83,9 @@ private class Mass(val w: Int, val h: Int) {
     val bitmap: Bitmap = Bitmap.createBitmap(w, h, Bitmap.Config.ARGB_8888)
     var melting = false
 
+    /** Frames since the finger last touched; the mass only starts flowing back after a pause. */
+    var idleFrames = 0
+
     init {
         val rnd = Random(System.nanoTime())
         val waves = List(7) { floatArrayOf(rnd.nextFloat() * 0.09f + 0.02f, rnd.nextFloat() * 0.09f + 0.02f, rnd.nextFloat() * 6.28f, rnd.nextFloat() * 0.08f + 0.03f) }
@@ -96,6 +99,7 @@ private class Mass(val w: Int, val h: Int) {
 
     /** Wipe along a segment; removed material piles up in a ridge around the brush. */
     fun wipe(x0: Float, y0: Float, x1: Float, y1: Float, radius: Float) {
+        idleFrames = 0
         val len = hypot(x1 - x0, y1 - y0)
         val steps = max(1, (len / (radius * 0.35f)).toInt())
         for (i in 0..steps) {
@@ -113,7 +117,7 @@ private class Mass(val w: Int, val h: Int) {
         for (y in minY..maxY) for (x in minX..maxX) {
             val d = hypot(x - cx, y - cy) / r
             if (d < 1f) {
-                val k = (1f - d * d).let { it * it } * 0.35f
+                val k = (1f - d * d).let { it * it } * 0.6f
                 val i = y * w + x
                 val take = height[i] * k
                 height[i] -= take
@@ -130,15 +134,18 @@ private class Mass(val w: Int, val h: Int) {
         }
     }
 
-    /** Viscous smoothing, slow healing towards the resting surface, or melting away. */
+    /** Very slow viscous smoothing; after a pause the mass creeps back, or melts away once opened. */
     fun step() {
+        idleFrames++
+        // ~3 s of stillness before it starts to return, then it takes about a minute.
+        val heal = if (idleFrames > 180) 0.00025f else 0f
         val src = height; val dst = scratch
         for (y in 0 until h) for (x in 0 until w) {
             val i = y * w + x
             if (x == 0 || y == 0 || x == w - 1 || y == h - 1) { dst[i] = src[i]; continue }
             val lap = src[i - 1] + src[i + 1] + src[i - w] + src[i + w] - 4f * src[i]
-            var v = src[i] + 0.11f * lap
-            v = if (melting) v * 0.93f else v + (rest[i] - v) * 0.0012f
+            var v = src[i] + 0.015f * lap
+            v = if (melting) v * 0.93f else v + (rest[i] - v) * heal
             dst[i] = max(0f, v)
         }
         height = dst; scratch = src
@@ -211,7 +218,7 @@ fun SplashScreen(quote: Quote?, lang: String, onLang: (String) -> Unit, onEnter:
                 m.render()
                 frame++
             }
-            if (frame % 30 == 0 && !m.melting && m.coverage() < 0.62f) {
+            if (frame % 30 == 0 && !m.melting && m.coverage() < 0.8f) {
                 m.melting = true
                 ready = true
             }
@@ -226,7 +233,7 @@ fun SplashScreen(quote: Quote?, lang: String, onLang: (String) -> Unit, onEnter:
                 val m = mass ?: return@pointerInput
                 val sx = m.w / size.width.toFloat()
                 val sy = m.h / size.height.toFloat()
-                val radius = m.w * 0.075f
+                val radius = m.w * 0.09f
                 awaitEachGesture {
                     val down = awaitFirstDown()
                     var prev = down.position

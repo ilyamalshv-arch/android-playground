@@ -1,0 +1,413 @@
+{
+  "id": "pascal",
+  "title": "Pascal",
+  "tradition": "Christian philosophy, the moralists",
+  "family": "early_modern",
+  "period": "17th century",
+  "sortYear": 1670,
+  "thinkers": [
+    "Blaise Pascal"
+  ],
+  "keyWorks": [
+    "Pensées (publ. 1670)",
+    "The Memorial (1654)"
+  ],
+  "summary": "Pascal was a French mathematician, physicist and religious thinker. His Pensées is a collection of fragments about how strangely and contradictorily a human being is made: fragile and insignificant before the universe, yet great because we can be aware of it.",
+  "onEmotions": "Pascal saw in the human being both “wretchedness” and “greatness”: we are weak and changeable, yet we can think about our own weakness. For most of our lives we run away from ourselves into “diversion” (divertissement) — busyness, business, games — just so we never have to be alone with anxiety and boredom. For Pascal, a difficult feeling honestly met is not a malfunction but a path to the truth about yourself. He also held that there is a knowledge of the heart — intuitive, immediate — that cannot be reduced to logical argument. Pascal was a deeply believing Christian and sought his final consolation in God; yet his observations about human beings matter just as much to those who do not share his faith.",
+  "entries": {
+    "anxiety": {
+      "text": "Anxiety makes sense: the future is unknown, and the mind can’t stop peering into it. Pascal described this with remarkable precision. He noticed that we are almost never in the present: we recall the past, we hurry or anticipate the future, and we “wander in times that are not ours,” missing the only one we actually have. The present, he wrote, usually hurts us, and so we hide it from our sight. This isn’t a reproach: for Pascal, it is simply human nature, its fragility. But it offers a gentle foothold. Anxiety lives where nothing exists yet; what you have is this minute, in which you are most likely breathing, sitting, reading. You can return to it — not forever, but at least for a moment.",
+      "practice": "Notice three things that exist right now, in this minute: one sound, one sensation in your body, one object in front of your eyes.",
+      "quote": null
+    },
+    "fear": {
+      "text": "Fear is one of the oldest feelings, and Pascal wasn’t ashamed of it. Reflecting on the infinity of the universe, he admitted that its silence terrified him. A human being, he wrote, stands between two abysses — the infinitely large and the infinitely small — and sees neither beginning nor end. But Pascal also has an answer: a human being is only a reed, the weakest thing in nature, but a thinking reed. The universe could crush it, yet the human knows that the universe is stronger, and the universe knows nothing of this. Your fear is also a form of thought: you are aware of your vulnerability. For Pascal, this is exactly where human dignity lies. To be afraid is not to be insignificant; it is to see.",
+      "practice": "Name your fear in one sentence. Then add: “and I am able to be aware of this.” Notice whether there is even a little support in that.",
+      "quote": {
+        "text": "The eternal silence of these infinite spaces frightens me.",
+        "author": "Blaise Pascal",
+        "source": "Pensées, fr. 206 (Brunschvicg)"
+      }
+    },
+    "sadness": {
+      "text": "Sadness has a right to exist, and Pascal might have understood it better than most. He believed that being aware of your own fragility and imperfection is not a mistake but part of human greatness: a tree doesn’t know it is miserable, but a human does. Pascal noticed that most people flee sadness into “diversion” — bustle, noise, endless tasks — just to avoid being alone with it. He himself suggested something else: not to hide, but to look honestly. In this light, sadness isn’t a malfunction but a moment when you stopped distracting yourself and saw something real about your life. You can let yourself stay with it for a while without rushing to drown it out — there is a dignity of its own in that honesty.",
+      "practice": "Sit for a couple of minutes in silence, without your phone or music, and simply ask yourself: what is my sadness really about?",
+      "quote": null
+    },
+    "grief": {
+      "text": "Grief is the heaviest of feelings, and no words are obliged to take it away. When Pascal’s father died, he wrote a long letter to his sister and her husband. He didn’t demand that they be dispassionate, and he didn’t call sorrow a weakness; he acknowledged that the blow was too real not to be felt. Pascal sought consolation in faith — in the hope that death is not the last word. Even if you don’t share his faith, there is an important thought in that letter: grief and the search for meaning can exist together; one does not cancel the other. Pascal also knew that the heart has its reasons: love for someone who is gone doesn’t yield to arguments like “it’s time to calm down.” Your grief is a continuation of that love, and it can last as long as it needs to.",
+      "practice": "If you like, write a few lines to the person you have lost — like a letter. You don’t need to explain or finish anything.",
+      "quote": null
+    },
+    "loneliness": {
+      "text": "Loneliness hurts, and Pascal knew well why. He noticed how hard it is for people to be alone with themselves: we run to people, tasks and entertainments so as not to meet our own thoughts. That is why loneliness feels so sharp — everything that usually distracts us disappears. But Pascal also saw an opportunity in it: only in silence, he wrote, can a person ask themselves the most important questions about their life. This doesn’t mean that longing for closeness is wrong — Pascal placed love for others, “charity,” above everything. Rather, loneliness can be two things at once: the pain of missing connection and a rare meeting with yourself.",
+      "practice": "Ask yourself in silence: what do I learn about myself when no one is around? Write down one thought that usually gets lost in the bustle.",
+      "quote": null
+    },
+    "anger": {
+      "text": "Anger is a natural reaction, and Pascal showed with irony how easily it arises even in the most reasonable people. He wrote that the mind of the greatest man is not so independent that the slightest noise can’t disturb it: the buzzing of a fly is enough to stop him reasoning clearly. This is not a reproach but a sober observation about our fragility. Pascal also spoke of “self-love” — the urge to see ourselves as the center of the world — which makes us especially sensitive to slights. Understanding this helps you look at your anger more gently: it doesn’t make you a bad person, it reminds you that you are human — a vulnerable being who is also capable of understanding what is happening to them.",
+      "practice": "Ask yourself: what in this situation is “the buzzing of a fly,” and what really matters to me? Try to separate the one from the other.",
+      "quote": null
+    },
+    "shame": {
+      "text": "Shame is an agonizing feeling in which you see yourself as weak and imperfect. Pascal wouldn’t argue with that weakness: he considered human “wretchedness” real. But at the same time he insisted on human “greatness” — and saw it precisely in the ability to be aware of our imperfection. A tree, he wrote, doesn’t know its own wretchedness; a human does, and therein lies our dignity. Pascal also warned: man is neither angel nor beast, and whoever tries to act the angel risks falling all the harder. From this point of view, your shame is not a verdict but a sign that you see yourself honestly. That seeing is already part of your greatness.",
+      "practice": "Finish the sentence: “I’m ashamed of this, and the fact that I can see it shows that what matters to me is…”",
+      "quote": {
+        "text": "The greatness of man is great in that he knows himself to be miserable. A tree does not know itself to be miserable.",
+        "author": "Blaise Pascal",
+        "source": "Pensées, fr. 397 (Brunschvicg)"
+      }
+    },
+    "guilt": {
+      "text": "Guilt says that you care how you act. As a Christian, Pascal thought a great deal about human imperfection. But his main idea here is about balance. He wrote that to know your imperfection without knowing the way to repair and mercy is to fall into despair; and to see only your dignity without noticing your weakness is to fall into pride. The path, for Pascal, lies in the middle: to admit the mistake without drowning in it. For him, that middle was faith. But even outside faith you can take the heart of his thought: guilt isn’t there so you can destroy yourself, but so you can see yourself honestly and begin again.",
+      "practice": "Write two lines: “Here is what I did wrong” and “Here is what in me remains valuable and able to make it right.”",
+      "quote": null
+    },
+    "envy": {
+      "text": "Almost everyone feels envy, and Pascal explained it with subtlety. He wrote that our real life isn’t enough for us: we also want to live an imaginary life in other people’s minds — and we spend enormous effort on seeming rather than being. Envy is born right here: the comparison is not with the real other person but with their image, which is often as embellished as our own. Pascal didn’t condemn this; he showed how our “self-love” and imagination work. His observation is freeing: what you envy may be only a façade. And your own real life — the one you live from the inside — is valuable in itself.",
+      "practice": "Ask yourself: what do I envy — this person’s life, or the image of it? What do I actually know about their life from the inside?",
+      "quote": null
+    },
+    "emptiness": {
+      "text": "Emptiness is a heavy experience, and Pascal was one of the first in European philosophy to describe it. He noticed that when a person is left without tasks, entertainments and passions, they begin to feel their abandonment and powerlessness, and boredom, sadness and bitterness rise from the depths of the soul. For Pascal, this isn’t one person’s illness but a shared feature of human nature: we all carry this emptiness within us and usually fill it with busyness. So your emptiness is not a sign that something is wrong with you. Pascal saw in it a question life asks everyone: what can truly fill me? He looked for the answer in faith; but the question itself is honest and important for anyone.",
+      "practice": "Without filling the emptiness with anything, quietly ask yourself: “What am I really missing?” Write down the first thing that comes, even if it’s a single word.",
+      "quote": {
+        "text": "Nothing is so insufferable to man as to be completely at rest, without passions, without business, without diversion, without study.",
+        "author": "Blaise Pascal",
+        "source": "Pensées, fr. 131 (Brunschvicg)"
+      }
+    },
+    "confusion": {
+      "text": "Confusion is an honest response to the complexity of the world and of yourself. Pascal knew it like no one else: he exclaimed that man is a chimera, a chaos, a subject of contradictions, judge of all things and at the same time a feeble earthworm. He didn’t believe this tangle could be fully unraveled by logic alone. Pascal distinguished the “spirit of geometry” — reasoning step by step from definitions — from the “spirit of finesse,” which grasps many things at once, intuitively, as if with the heart. Perhaps it is the second that is at work in confusion: it doesn’t yet see a clear answer, but it senses that the old answers no longer fit. Pascal helps you accept this: unclarity is not a defeat of the mind but an honest recognition of how complex life is.",
+      "practice": "Without looking for an answer, ask yourself: what do I feel about this situation “with my heart,” before any arguments? Write it down in one or two words.",
+      "quote": null
+    },
+    "fatigue": {
+      "text": "Your tiredness is real, and you have a right to rest. Pascal, who suffered from serious illness all his life, knew exhaustion firsthand. His thoughts on “diversion” help explain a particular kind of tiredness — the tiredness of endless busyness. He noticed that people often chase tasks not for the result but for the chase itself: the hunter wants the hunt, not the hare. Bustle lets us avoid being alone with ourselves, but it also wears us out. From this point of view, burnout is not only a lack of strength but a signal that the running has become an end in itself. Pascal didn’t call for doing nothing; he suggested that we at least sometimes stop and ask where we are running and why.",
+      "practice": "Pick one task from your list and ask yourself: “Do I need the hare — or the hunt?” Could you let go of at least part of that hunt today?",
+      "quote": null
+    },
+    "boredom": {
+      "text": "Boredom is a feeling Pascal wrote about perhaps more than any philosopher of his time. He considered it one of the deepest features of the human condition. We flee boredom, he noticed, into noise, games, conversations and tasks — anything to avoid being alone with ourselves. Hence his famous observation about the room. Pascal doesn’t invite you to fight boredom with even more entertainment. He suggests looking at it differently: boredom is the moment when distractions stop working and you find yourself closer to yourself. It’s uncomfortable, but this is where real questions and real desires can appear, rather than ones imposed by the bustle.",
+      "practice": "Sit for five minutes with no screen and no task, just in the room. Notice what thoughts or desires surface when you are not distracting yourself.",
+      "quote": {
+        "text": "All the unhappiness of men arises from one single fact, that they cannot stay quietly in their own chamber.",
+        "author": "Blaise Pascal",
+        "source": "Pensées, fr. 139 (Brunschvicg)"
+      }
+    },
+    "joy": {
+      "text": "Joy is a precious feeling, and Pascal knew its power. He wrote that all people without exception seek happiness — it moves every one of our actions. He himself once lived through a night of such intense joy and certainty that he wrote it down on a sheet of paper, which he then sewed into the lining of his coat and carried with him for the rest of his life; this text is known as the Memorial, and the word “joy” appears in it several times. For Pascal this was a religious experience. But his life also shows something universal: real joy can matter so much that you want to keep it rather than let it dissolve in the bustle. Let your joy be noticed — perhaps it, too, is worth “writing down.”",
+      "practice": "Write down in two or three words what you are feeling right now and why. Keep this note somewhere you’ll be able to find it later.",
+      "quote": null
+    },
+    "love": {
+      "text": "Love and tenderness are hard to explain, and Pascal thought that was natural. His most famous line is about the heart and reason. By “the heart” he meant not just emotions but a particular way of knowing: an immediate, intuitive grasp that doesn’t go through proofs. We know that we love earlier and more deeply than we can give reasons for it. For Pascal this is not a weakness of reason but its limit: not everything important can be derived logically. From this point of view, your tenderness is also a form of knowledge — about the world and about another person. It doesn’t have to be justified with arguments; it has its own grounds, and they are no worse than rational ones.",
+      "practice": "Think of someone you love and name one thing your heart knows about them that is hard to put into words.",
+      "quote": {
+        "text": "The heart has its reasons, which reason does not know.",
+        "author": "Blaise Pascal",
+        "source": "Pensées, fr. 277 (Brunschvicg)"
+      }
+    },
+    "gratitude": {
+      "text": "Gratitude is a warm feeling in which we notice that we have received something as a gift. Pascal didn’t write about gratitude separately, but from the standpoint of his thought something important can be said. He saw the human being as fragile, dependent and not self-sufficient; realizing this can lead not only to anxiety but also to gratitude — for what sustains us even though we neither earned nor created it. Pascal spoke of three “orders” — of bodies, of minds and of charity — and held that the order of love and kindness is infinitely higher than the other two. Gratitude is perhaps the moment when we touch that higher order: when we notice a kindness that was given to us.",
+      "practice": "Recall one thing in your life that came to you as a gift rather than as something you earned. What do you feel when you think about it?",
+      "quote": null
+    },
+    "hope": {
+      "text": "Hope is a living and necessary feeling. Pascal, however, noticed a trap in it and described it with bitter precision. We so often live in expectation of a better future that the present passes us by: we are always getting ready to be happy. This doesn’t mean hoping is bad. Pascal himself was a man of deep hope — religious hope — and it sustained him through illness and doubt. But his observation helps distinguish the hope that gives you strength to live now from the hope that postpones life “for later.” You can keep your hope and at the same time ask: what good is already here today? Then hope stops being an escape and becomes support.",
+      "practice": "Name what you are hoping for. Then name one small piece of it that you could feel or do already today.",
+      "quote": {
+        "text": "So we never live, but we hope to live; and, as we are always preparing to be happy, it is inevitable we should never be so.",
+        "author": "Blaise Pascal",
+        "source": "Pensées, fr. 172 (Brunschvicg)"
+      }
+    },
+    "nostalgia": {
+      "text": "Nostalgia is a tender, sad feeling, and there is nothing wrong with it. Pascal noticed that the human mind rarely lives in the present: it drifts off into the past, then runs ahead into the future. Nostalgia is one of those walks through time. Pascal also wrote that time heals offenses and sorrows because we change: we are no longer who we were. This observation also explains nostalgia’s bittersweetness: we miss not only a time that is gone but also the person we were back then. Pascal helps you accept this: you have changed, and the past doesn’t need to be brought back. But you can see in it what mattered to you — and that knowledge stays with you now.",
+      "practice": "Think: which past version of yourself do you miss? What trait of theirs would you like to carefully bring with you into today?",
+      "quote": null
+    },
+    "craving": {
+      "text": "A craving is a sharp “I want it right now,” and in that moment it seems impossible to do without. Pascal understood well how this happens. He considered imagination the dominant power in a human being and wrote that it inflates small things until they fill the whole soul. In a moment of craving, imagination does exactly that: a single object takes up the entire horizon. Pascal also noticed that often we strive not for the thing itself but to avoid being alone with ourselves, with our boredom or anxiety — he called this “diversion,” a flight from oneself. This is not a reproach: all people are made this way. But you can ask what exactly you want to run away from right now — and let the wave of imagination settle a little.",
+      "practice": "Ask yourself: “What feeling do I want to distract myself from right now?” Name it in one word and stay with it for one minute before deciding anything.",
+      "quote": null
+    },
+    "addiction": {
+      "text": "Addiction is not evidence of being corrupted; for Pascal, it is one expression of the shared human condition. He wrote about a gambler: give him every morning as much money as he could win in a day, on condition that he doesn’t gamble — and you will make him unhappy. What he needs is not the winnings but the excitement of the game itself, which distracts him from thinking about himself. Pascal saw that everyone lives by this “diversion,” from kings to servants. He also wrote that habit is a second nature that can displace the first. That sounds alarming, but there is hope in it: since habit shapes us so strongly, new habits, grown patiently and gradually, can also become part of your nature.",
+      "practice": "Write down what feeling or state most often comes before the thing you depend on. This will help you see what the cycle “distracts” you from. If you want, you can talk about this with people who have walked a similar path.",
+      "quote": null
+    },
+    "hangover": {
+      "text": "A hungover morning is a time when your body aches and, at the same time, anxiety, shame and gaps in memory torment you. Pascal helps explain why such a morning feels so sharp. Last night’s noise was, in his terms, a “diversion” — a way of not meeting yourself. In the morning the diversion is over, and you are left alone with yourself, with all your fragility. Pascal considered human beings inconstant: we can be very different in the evening and in the morning, and neither state exhausts who we are. He also said that human greatness lies in the ability to see one’s weakness honestly. Today’s awkwardness is a sign of exactly that honesty, not a verdict. You can give yourself time to recover before you judge.",
+      "practice": "Tell yourself: “Yesterday is one part of me, not all of me.” Do one simple thing for your body: water, food or a short rest.",
+      "quote": null
+    },
+    "euphoria": {
+      "text": "A burst of euphoria is a bright high, and it’s perfectly natural to enjoy it. Pascal, however, noticed something interesting about such states. He wrote of imagination that it can create its own happy and unhappy, healthy and sick, rich and poor, and that those it makes happy are filled with a satisfaction far fuller than any reason gives. This doesn’t mean the joy isn’t real — it is experienced completely for real. But Pascal helps you see that part of its glow comes from imagination, painting the world in the brightest colors. You can enjoy the high fully and still remember that the light exaggerates a little. Big decisions are best made when the colors have returned to normal.",
+      "practice": "Write down what seems possible to you right now and mark it: “check on a calm day.” Then simply let yourself be glad.",
+      "quote": null
+    },
+    "crash": {
+      "text": "A sudden slump after a high is a hard thing to go through: not long ago everything was shining, and now everything looks gray. Pascal understood this pattern from the inside. He wrote that human nature does not consist in always moving forward: it has its advances and retreats. A fever, he noticed, has its heat and its chills, and the cold shows its strength no less than the heat. From this point of view, a slump is like the ebb that follows the tide; it is not a verdict on your whole life. Pascal didn’t see these swings as a malfunction: this is how a human being lives, fragile and changeable. You don’t have to demand that you get back up immediately — you can let the ebb pass.",
+      "practice": "Tell yourself: “This is the ebb, and it will pass.” Do one simple, caring thing for yourself and don’t evaluate your life until tomorrow.",
+      "quote": null
+    },
+    "panic": {
+      "text": "A wave of panic is one of the most frightening experiences: terror rolls in, and it feels as if something irreparable is about to happen. Pascal described how much stronger imagination can be than reason. He gave an example: put the greatest philosopher in the world on a plank wider than necessary over a precipice — and although his reason convinces him he is safe, his imagination will prevail, and he will turn pale and break out in a sweat. This doesn’t mean your fear isn’t real: it is felt with your whole body. But Pascal shows that the strength of terror doesn’t always match what is actually happening. Usually such a wave peaks and subsides within a few minutes. You don’t need to argue with it right now — it’s enough to lean on your body and wait it out.",
+      "practice": "Put your feet on the floor and feel it holding you. Breathe out more slowly than you breathe in, and silently name the objects around you: “table, window, cup…”",
+      "quote": null
+    },
+    "dread": {
+      "text": "Existential dread — “what is all this for?” — is something Pascal knew perhaps better than anyone. He wrote that when he considered the brevity of his life, swallowed up in the eternity before and after it, and the small space he occupies amid infinite spaces, he was terrified and astonished: why am I here rather than there, why now rather than then? Pascal didn’t turn away from this question. His answer lies in the dignity of thought: a human being is weak before the universe, but able to comprehend it, while the universe cannot comprehend itself. Pascal himself found support in faith. But even without it, his main conclusion stands: your ability to ask such questions is not a misfortune but a sign of your greatness. It is possible to live with that ability.",
+      "practice": "Write down the question that is troubling you right now, and next to it one thing that makes your life meaningful, at least today.",
+      "quote": {
+        "text": "Let us endeavour, then, to think well; this is the principle of morality.",
+        "author": "Blaise Pascal",
+        "source": "Pensées, fr. 347 (Brunschvicg)"
+      }
+    },
+    "fomo": {
+      "text": "The fear of missing out — the feeling that real life is happening somewhere else and you’re not there — is something Pascal would describe as a form of what he called “diversion.” He noticed that we are rarely in the present: it seems to us that happiness is waiting somewhere else, in the next event, with other people. We chase it, and when we reach it, it slips away, and we search again. Pascal saw this not as a personal flaw but as the general make-up of human beings: we are restless because we don’t know how to be at peace where we are. This observation is freeing: the “there” you are drawn to would, in its turn, also seem incomplete. And your life here is the only one you are actually living.",
+      "practice": "Put your phone aside for two minutes and describe to yourself the place you’re in right now: the light, the sounds, the smells. This is life too, and it is happening now.",
+      "quote": null
+    },
+    "sleepless": {
+      "text": "Sleepless nights with circling thoughts are agonizing, and Pascal knew them himself: he suffered from illness and pain for almost his entire life. His sister Gilberte told a remarkable story. One night Pascal’s toothache was so bad that he couldn’t sleep. To take his mind off it, he began thinking about a difficult mathematical problem concerning a curve called the cycloid — and became so absorbed that, according to her, the pain receded. This isn’t a prescription but an example of how attention can shift from circling worries to something neutral and engaging. Night amplifies everything heavy. You don’t have to fight sleeplessness; you can give your mind different food — calm and harmless, even very simple.",
+      "practice": "Choose an easy “puzzle” for your mind: recall names of cities starting with the same letter, or picture a familiar route in detail. Don’t try to fall asleep — just keep your mind occupied.",
+      "quote": null
+    },
+    "betrayal": {
+      "text": "Betrayal wounds deeply: trust collapses, and the world seems less reliable. Pascal looked at human relationships very soberly. He wrote that if everyone knew what others said about them, there would not be four friends in the world. He explained this by “self-love” — each person’s tendency to put themselves at the center of the world, which sometimes makes people lie and betray. It’s a bitter observation, but it can bring a strange comfort: betrayal says more about the weakness of the one who betrayed, and about the fragility of human nature, than about your worth. At the same time, Pascal placed love and charity above everything. Your pain is legitimate, and your capacity to trust is not naivety but a virtue.",
+      "practice": "Write down what exactly was betrayed: trust, a shared plan, your openness. Then note which of these remains yours even after what happened.",
+      "quote": null
+    },
+    "jealousy": {
+      "text": "Jealousy is agonizing because love and the fear of loss are intertwined in it. Pascal has a fragment that helps you see it from an unexpected angle. He asked: what is the “self”? Does someone who loves me for my beauty love me? No, because illness could destroy the beauty without destroying me. For my intelligence, my memory? These, too, can be lost. For Pascal, we never love a person as such, only their qualities — and that is why love always seems fragile. From this point of view, jealousy is the fear of being replaced by someone with “better” qualities. But you are more than a set of qualities, and you can remember that even when the fear is loud.",
+      "practice": "Name three things about yourself that are not “qualities for comparison” — the way you see the world, what you love, what matters to you.",
+      "quote": null
+    },
+    "resentment": {
+      "text": "An old grudge is a heavy burden, and you don’t carry it by accident: at some point you really were hurt. Pascal made a simple but deep observation. Time, he wrote, heals grievances and quarrels because we change: neither the offender nor the offended is the same person anymore. The grudge you carry is often tied to an image of a person and a situation frozen in the past, while both they and you have changed since then. This doesn’t mean the hurt wasn’t real or that you must force yourself to forgive. But it can free you a little: you are no longer the person who was hurt back then — you are the one who lived through it. And you have the right to decide how much room to give it.",
+      "practice": "Describe how the you of today differs from the you at the moment of that hurt. What can you do or understand now?",
+      "quote": null
+    },
+    "heartbreak": {
+      "text": "A broken heart hurts, and Pascal understood what power love has over us. He wrote that whoever wants to understand the full vanity of man should consider the causes and effects of love: its cause is a “je ne sais quoi,” and its effects are enormous. His example is Cleopatra’s nose: had it been shorter, the whole face of the world would have been different. Love begins with something barely perceptible and turns a whole life upside down. That is why the pain of a breakup can seem out of proportion — this is not your weakness at all, but the scale of the feeling itself. Pascal also reminded us that the heart has its reasons: you don’t need to talk yourself “reasonably” out of loving. You can let your heart grieve for as long as it needs.",
+      "practice": "Write down one thing you are grateful for in the relationship that ended, and one thing you would like to keep in yourself after it.",
+      "quote": null
+    },
+    "impostor": {
+      "text": "The fear of being found out — “I’m not who they think I am” — is familiar to a great many people, and Pascal would show you that you are in good company. In the Pensées he wrote with irony about judges in red robes and ermine and doctors in square caps: all that attire exists to strike the imagination. If doctors possessed the true art of healing, he noted, they would have no need of square caps. Pascal wasn’t mocking people — he was showing that almost everyone relies partly on outward signs, not only on inner confidence. So you are not the only one “playing a role”: that is how society works. Your fear doesn’t say that you are a fraud; it says that you honestly see the difference between yourself and the mask.",
+      "practice": "Write down one skill you really do have — without the “robes” and titles, simply as a fact about what you do.",
+      "quote": null
+    },
+    "self_hatred": {
+      "text": "Self-hatred is one of the heaviest feelings, and Pascal, who wrote a great deal about human wretchedness, never stopped at wretchedness alone. His thought always keeps a balance: a person is in danger if they see only their baseness or only their greatness. Pascal said a person needs to know both — and wrote that a person should value and love themselves, because there is in them a nature capable of good. He only warned against loving what is base in oneself. An inner critic who sees nothing but bad in you breaks that balance. Pascal would not agree with its verdict: the ability to see your flaws is already part of your greatness, not proof of your worthlessness.",
+      "practice": "Write down one thing about yourself that you can respect — an action, care for someone, honesty. This is also the truth about you.",
+      "quote": {
+        "text": "Let man now know his value. Let him love himself, for there is in him a nature capable of good.",
+        "author": "Blaise Pascal",
+        "source": "Pensées, fr. 423 (Brunschvicg)"
+      }
+    },
+    "helplessness": {
+      "text": "Helplessness is a heavy feeling, and Pascal felt it many times: from his youth he suffered from an illness he couldn’t cure. He wrote a short text — the “Prayer to Ask of God the Right Use of Sickness.” In it he asked not so much to be freed from suffering as to keep, even in this state he couldn’t change, the possibility of relating to it well and finding meaning in it. For Pascal, this was a religious path. But it also holds a thought available to everyone: when we have no power over circumstances, we still have how we live through them. This doesn’t cancel the powerlessness, but it leaves a small space of freedom beside it.",
+      "practice": "Finish the sentence: “I can’t change…, but I can choose how to meet one small moment today: …”",
+      "quote": null
+    },
+    "procrastination": {
+      "text": "“I can’t get started” is a very familiar state, and Pascal left an unexpected consolation. His main book, the Pensées, was never finished. He planned a great work but wrote it in scraps — on separate slips of paper, which he later threaded together into bundles. These fragments, never arranged into a final order, became one of the most widely read books in history. Pascal also noticed that we often postpone life by thinking about the future and never truly live in the present. Procrastination can be like that: it seems you have to start with the whole thing at once. But you can allow yourself a fragment — one line, one thought, one slip of paper. A beginning doesn’t have to be orderly to be a beginning.",
+      "practice": "Do one “fragment” of the task — write one line, one idea, one point — without worrying about how it will fit into the whole.",
+      "quote": null
+    },
+    "uprooted": {
+      "text": "Being cut off from home is a deep experience: the ground disappears from under your feet, and the world seems foreign. Pascal has an image that conveys this feeling with remarkable accuracy. He compared a human being to someone carried off in their sleep to a desert island, who wakes without knowing where they are or how to get away. Pascal was speaking of the whole human condition, but his image is clear to anyone who has moved or emigrated. What he writes next matters too: looking around, he sees other people of the same nature nearby and asks them whether they know more. Feeling lost in a new place is not your personal failure but a shared human experience. And the way out of it begins with finding others nearby.",
+      "practice": "Think of one person who also once found themselves in a new place. Write to them, or imagine the conversation: what helped them put down roots?",
+      "quote": null
+    },
+    "overload": {
+      "text": "Overload from information noise is a real burden, not a weakness. Pascal, who lived long before endless feeds, noticed the main thing: our senses and mind are built for a certain measure. He wrote that too much noise deafens, too much light dazzles, too great a distance and too great a closeness prevent us from seeing. An excess of impressions doesn’t make us better informed — it takes away our ability to perceive. Pascal also held that an endless stream of tasks and news is one form of “diversion,” helping us avoid being alone with ourselves. Your tiredness from the noise is a natural reaction of a mind that needs measure. You can give that measure back to yourself, at least for a few minutes.",
+      "practice": "Mute every device for five minutes and sit in silence. Notice what you hear when the noise dies down.",
+      "quote": {
+        "text": "Too much noise deafens us; too much light dazzles us.",
+        "author": "Blaise Pascal",
+        "source": "Pensées, fr. 72 (Brunschvicg)"
+      }
+    },
+    "unreality": {
+      "text": "The feeling that everything around you, or you yourself, is somehow not real is frightening, and Pascal knew similar questions. He wrote that he could find no reliable proof that he was not asleep: who knows whether the half of life in which we think we are awake is not another dream? He even noted that if an artisan dreamed for twelve hours every night that he was a king, he would be almost as happy as a king who dreamed every night that he was an artisan. Pascal wasn’t frightened by these thoughts and didn’t consider them madness: they are an honest limit of human knowledge. But he also said that the heart knows first principles — space, time, motion — directly, without proofs. You can lean on that knowledge.",
+      "practice": "Silently name three things your heart knows without proof: “I am here,” “it is day (or night) now,” “I am breathing.”",
+      "quote": null
+    },
+    "awe": {
+      "text": "Awe before something vast or beautiful is a powerful feeling, and Pascal described it with one of the most famous images in philosophy. He invited us to contemplate the whole of nature in its majesty and to see that our world is only an imperceptible point within it. The universe, he wrote, is an infinite sphere whose center is everywhere and whose circumference is nowhere. For Pascal, this image produced both wonder and terror. But the awe you feel is precisely the human capacity to hold within yourself something immeasurable. Pascal saw greatness in this: the universe is vast, but only a human can contemplate it and marvel. Let yourself simply be with this feeling, without hurrying to explain it.",
+      "practice": "Look at something vast or distant — the sky, the horizon, the clouds — and for a minute just breathe, without judging or taking a photo.",
+      "quote": {
+        "text": "It is an infinite sphere, the centre of which is everywhere, the circumference nowhere.",
+        "author": "Blaise Pascal",
+        "source": "Pensées, fr. 72 (Brunschvicg)"
+      }
+    },
+    "relief": {
+      "text": "Relief is a warm and well-earned feeling: the tension has let go, and you can breathe out. Pascal noticed a habit of ours that can help you treat it more carefully. He wrote that the present usually hurts us, and if it is pleasant, we regret that it slips away — and hurry in our thoughts to the future, to the next worry. Relief is especially easy to miss in exactly this way: it has barely eased, and the mind is already looking for what to worry about next. Pascal suggested lingering in the present, at least now and then. Relief is a good occasion to do so: it shows how much you were carrying and that you came through it. Let yourself live it fully, without rushing on.",
+      "practice": "Take three slow breaths out and tell yourself: “Right now it’s easier for me.” Notice where in your body you feel this.",
+      "quote": null
+    },
+    "calm": {
+      "text": "Calm is a rare and precious state, and Pascal knew how hard it is to find. His central observation about human beings is that we flee calm into bustle and diversions because being alone with ourselves is uncomfortable. So if you are calm right now and don’t need to run away from anything — that is very valuable. After hard years, Pascal himself lived through a night he described in the Memorial; among the words he used to record it are “certainty,” “joy” and “peace.” For him this was a religious experience. But even outside faith, calm is a moment when you can be where you are, and that is enough. Let yourself notice it and stay in it, without filling it with tasks.",
+      "practice": "Sit for a minute doing nothing and without filling the silence. Simply note: “I am here, and this is enough.”",
+      "quote": null
+    },
+    "inspiration": {
+      "text": "Inspiration is a joyful state in which thoughts seem to find each other on their own. Pascal knew this state: at nineteen he invented a calculating machine, later he carried out famous experiments on the vacuum and laid the foundations of probability theory. But he also spoke of a knowledge that doesn’t come through reasoning. Besides the “spirit of geometry,” which steps from definition to definition, there is the “spirit of finesse” — the ability to grasp many things at a single glance. And deeper still is the knowledge of the “heart,” which grasps first truths directly. From this point of view, inspiration is the moment when heart and mind work together. It doesn’t need to look for proof right away: you can trust it and write down what has opened up.",
+      "practice": "Write down what inspires you right now, without checking or editing. You can check later — for now, what matters is to keep it.",
+      "quote": {
+        "text": "We know truth, not only by the reason, but also by the heart.",
+        "author": "Blaise Pascal",
+        "source": "Pensées, fr. 282 (Brunschvicg)"
+      }
+    },
+    "schadenfreude": {
+      "text": "Schadenfreude is unpleasant to admit, but Pascal would explain it without surprise. He wrote a great deal about “self-love” (amour-propre) — a person’s attachment to their own “self.” Self-love wants to be great — and sees itself small; it wants to be perfect — and sees itself full of flaws. For Pascal, this throws it into turmoil, and it looks for ways to hide its smallness. From his point of view, one could say: someone else’s failure momentarily eases this pressure — next to another’s fall, our “self” seems bigger to itself. Hence the secret pleasure. But Pascal also saw greatness in human beings — the ability to be aware of our weakness. By noticing schadenfreude and honestly naming it, you are already doing exactly that: seeing yourself without embellishment — and you can choose not to act from this feeling.",
+      "practice": "Ask yourself: where do I feel small or not enough right now? Write it down in one sentence — this is what is looking for relief.",
+      "quote": null
+    },
+    "contempt": {
+      "text": "Contempt often feels clear and justified. Pascal offered a different way to look at it — through his teaching on the “three orders.” There is the order of the body (strength, wealth, beauty), the order of the mind (knowledge, talent) and the order of the heart, or of love. The greatness of one order, he wrote, is invisible to another: whoever values only strength doesn’t notice the greatness of thought, and whoever values only intellect doesn’t see the greatness of kindness. From this point of view, contempt often means we are measuring a person by the wrong yardstick — we see where they are small in one order and fail to see where they may be great in another. Pascal was strict about human pride, including his own. But his thought doesn’t shame; it widens the view: everyone has an order in which we simply haven’t seen them yet.",
+      "practice": "Think of a person you feel contempt for and ask: in which “order” — strength, mind or heart — am I judging them? Is there an order in which I haven’t seen them?",
+      "quote": null
+    },
+    "disgust": {
+      "text": "Disgust — at people, at a situation, at yourself — can be deafening. Pascal knew how contradictory a human being can look: in one of the most famous fragments of the Pensées he calls man a chimera, a monster and a chaos — judge of all things and a feeble earthworm, keeper of truth and a sink of error, the glory and the refuse of the universe. Notice: in Pascal, both halves are always together. He won’t let us stop at either admiration or disgust — only at their union. Disgust sees only the “refuse” and forgets the “glory.” From this point of view, your feeling isn’t lying: it notices a real side of what is human, including in you. But it is only half the picture, and Pascal would insist on the other half. You can hold both without choosing.",
+      "practice": "If the disgust is aimed at yourself, finish the sentence: “There is this in me — and there is also…” Find at least one way to continue it.",
+      "quote": {
+        "text": "What a chimera then is man! … Judge of all things, imbecile worm of the earth; depositary of truth, a sink of uncertainty and error; the pride and refuse of the universe!",
+        "author": "Blaise Pascal",
+        "source": "Pensées, fr. 434 (Brunschvicg)"
+      }
+    },
+    "revenge": {
+      "text": "The wish for revenge is an understandable response to injustice: you want the one who hurt you to feel pain too. Pascal took this seriously and soberly. In the Provincial Letters he argued sharply with the moralists of his time who found ingenious justifications for killing in defense of honor — and showed how easily a person convinces themselves that their revenge is justice itself. In the Pensées he wrote that justice without force is powerless, and force without justice is tyrannical. The thirst for revenge is often exactly such a force, straining to correct what seems unjust. Pascal didn’t deny that the hurt is real. He would suggest asking: what does justice demand here, and what does my pain demand? These are different voices. Both deserve to be heard, but it is better to let the first one decide.",
+      "practice": "Write two lists: “what justice requires” and “what my pain wants.” See where they coincide and where they diverge.",
+      "quote": null
+    },
+    "anger_at_loved": {
+      "text": "Anger at people close to you is especially hard, because afterward you feel ashamed. Pascal knew this from his own life. After their father’s death, his younger sister Jacqueline, to whom he was very close, decided to enter the convent of Port-Royal, and for a while Blaise resisted her decision and delayed handing over her share of the inheritance; tension arose between them. Later they reconciled, and Jacqueline became one of the most important people in his life. Pascal observed in the Pensées: a little thing consoles us, because a little thing afflicts us. With loved ones this is especially clear: a small thing can wound — and a small thing can heal. Anger at someone you love doesn’t disprove the love; it shows how strongly you are connected. And in a bond like Pascal’s with his sister, there is room both for the quarrel and for the return.",
+      "practice": "Think of one small thing you could do today to make this person happy. Pascal was right: a small thing can change a lot.",
+      "quote": null
+    },
+    "ambivalence": {
+      "text": "Loving someone and at the same time being unable to stand them is a state that is easy to mistake for an inner breakdown. Pascal would see in it human nature itself. For him, the human being is a creature of contradictions: greatness and wretchedness, reason and passions live in us together, and neither cancels the other. He wrote that greatness shows itself not in standing at one extreme but in touching both at once and filling the space between them. From this point of view, your ability to feel both love and dislike for the same person is not a weakness but breadth. You see them whole — with what draws you and with what hurts. There’s no need to hurry to fuse these feelings into one. You can bear the tension between them: that is what an honest relationship with a living person looks like.",
+      "practice": "Write one sentence about someone close to you that joins both feelings — for example: “I love you and I’m angry with you, and it’s one story.”",
+      "quote": null
+    },
+    "guilty_relief": {
+      "text": "Relief after a breakup, a departure or a loved one’s long illness is often accompanied by shame: how can I feel this, right next to grief? Pascal distinguished two kinds of mind. The “geometric” mind proceeds from a few clear principles and wants one correct conclusion. The “intuitive” mind (esprit de finesse) sees at once a multitude of barely perceptible principles that can’t be reduced to one formula. Feelings call for the intuitive mind. Geometry will say: if you loved, there can be no relief. Finesse will see that one story held love, and long fear, and exhaustion, and powerlessness — and that the end of a heavy burden naturally answers with relief. Pascal was stern about self-deception and valued honesty with oneself. Here, honesty means acknowledging both feelings. Relief doesn’t cancel love; it tells you how much you were carrying.",
+      "practice": "Write: “My heart is feeling, all at once…” — and list everything that is in it, without crossing out what is uncomfortable.",
+      "quote": null
+    },
+    "indifference": {
+      "text": "Sometimes there is silence inside where something “should” move you — and that silence is frightening. Pascal knew the cost of indifference: he wrote about people who aren’t troubled even by the most important questions of life, and this astonished him. But he made an important distinction. He could not approve of one kind — those who are indifferent and quite content with it. Of the other kind he spoke with deep respect: he approved of those who seek, even with groaning. If your indifference troubles you, then from Pascal’s point of view you are no longer indifferent — you are among the seekers. Pascal also knew that “diversion” — constant bustle and noise — dulls the feelings. Perhaps your heart simply lacks the quiet to hear itself. Feeling doesn’t come on command, but you can make room for it.",
+      "practice": "Spend five minutes without your phone or background noise — just in silence. Then ask yourself: what am I feeling right now, even very faintly?",
+      "quote": {
+        "text": "I can only approve of those who seek with lamentation.",
+        "author": "Blaise Pascal",
+        "source": "Pensées, fr. 421 (Brunschvicg)"
+      }
+    },
+    "escape": {
+      "text": "Pascal would understand very well the wish to drop everything and get away. He wrote that people seek not so much rest as movement: the hunter doesn’t need the hare itself — give him the hare, and he won’t be pleased; what he needs is the chase, which distracts him from thinking about himself. Pascal called this “diversion” (divertissement). The dream of getting away can be such a “hare”: it seems the whole point is a new place. But it can also be something more. Pascal himself once really did change his life sharply — after a night of deep inner experience that he described in the Memorial — and began to spend long periods in the seclusion of Port-Royal. He was leaving not out of boredom but toward what he considered most important. From this point of view, it’s worth asking yourself: am I running away from — or going toward?",
+      "practice": "Write down what exactly the imagined new life gives you. Is it “the chase” — change for the sake of change — or something you are genuinely missing?",
+      "quote": null
+    },
+    "forbidden_attraction": {
+      "text": "An attraction you “shouldn’t” have can throw you into turmoil: why this person, of all people? Pascal wrote that whoever wants to fully understand human vanity should look at the causes and effects of love. The cause, he said, is a “je ne sais quoi,” something so small it can’t be recognized, while the consequences can be enormous. And he added the famous line: had Cleopatra’s nose been shorter, the whole face of the earth would have changed. Pascal doesn’t lecture lovers; he marvels at how an elusive “I know not what” can turn a life upside down. From this point of view, your attraction doesn’t necessarily say anything about your being “corrupt,” or about fate — the heart, as he wrote, has its reasons. You can explore them calmly, without a verdict — and then you will better understand what your heart is looking for.",
+      "practice": "Try to name this “je ne sais quoi”: what trait, gesture or sensation around this person draws you? Write it down in one or two words.",
+      "quote": null
+    },
+    "social_anxiety": {
+      "text": "Fear of people and their judgment can turn any conversation into an ordeal. Pascal described its root very precisely. The life we have within ourselves isn’t enough for us, he wrote: we want to live an imaginary life in the minds of others, and for its sake we try to seem. This second, “imaginary” life is very fragile: it depends on other people’s views, which we don’t even know. Pascal also showed the power of imagination: even the greatest philosopher, standing on a wide plank over a precipice, will be seized by fear, although reason tells him he is safe. The fear of judgment is like that plank: imagination draws an abyss where there is none. From this point of view, it helps to return to the first life — the one within you: your thoughts, interests, feelings. It is sturdier.",
+      "practice": "Before meeting people, silently name one thing that interests you in the conversation — not how you’ll come across, but what you want to learn or say.",
+      "quote": {
+        "text": "We are not satisfied with the life we have in ourselves and in our own being; we desire to live an imaginary life in the mind of others, and for this purpose we endeavour to shine.",
+        "author": "Blaise Pascal",
+        "source": "Pensées, fr. 147 (Brunschvicg)"
+      }
+    },
+    "uncertainty": {
+      "text": "Uncertainty is agonizing: you want to know before you commit. Pascal, one of the founders of probability theory, thought a lot about how to act when the outcome is unknown. In his famous argument of the “wager” he voices an idea that matters far beyond religion: “you are already embarked.” You can’t stand aside and wait for complete certainty — not choosing is also a choice. This thought may seem unsettling, but there is freedom in it. If complete certainty will never come, you don’t have to wait for it: you can weigh what is known and act, acknowledging the risk. Pascal combined precise calculation with the “reason of the heart,” and both helped him move through the fog. Uncertainty isn’t a mistake in your life but its ordinary medium.",
+      "practice": "Write down a decision you’ve been putting off because things are unclear. Ask: what do I already know, and what one step makes sense whatever the outcome?",
+      "quote": null
+    },
+    "waiting": {
+      "text": "Waiting stretches time and shrinks life down to a single question. Pascal described this trap precisely: we almost never think about the present, and if we do, it is only to borrow its light for arranging the future. The present is never our goal: the past and the present are our means, only the future is our end. We are so unwise, he wrote, that we wander in times that are not ours and do not think of the only one that belongs to us. From this point of view, waiting is a concentrated form of this habit. Pascal didn’t suggest you stop waiting: the answer matters, and the anxiety is understandable. But between “now” and the answer there is time that belongs to you. It can be lived, not just waited out.",
+      "practice": "Notice three things happening to you right now that have nothing to do with the waiting: a sound, a taste, a sensation in your body. This is your present.",
+      "quote": null
+    },
+    "regret": {
+      "text": "Regret over what you did or didn’t do can pull you back into the past again and again. Pascal noticed a simple thing: time heals pain and quarrels because we change. The one who made that decision back then and the you of today are connected, but they are not quite the same person. The earlier you had different knowledge, different strength, different fears. Judging them as if they knew everything you know now is unfair. But regret also has a dignity: for Pascal, human greatness lies in the ability to see one’s imperfections. If you can see the mistake, you have already changed. From this point of view, regret can be turned into understanding, and understanding into a choice you make today.",
+      "practice": "Write a letter to your past self — with understanding for what they didn’t know and what they were afraid of. One or two sentences are enough.",
+      "quote": {
+        "text": "Time heals griefs and quarrels, for we change and are no longer the same persons. Neither the offender nor the offended are any more themselves.",
+        "author": "Blaise Pascal",
+        "source": "Pensées, fr. 122 (Brunschvicg)"
+      }
+    },
+    "longing": {
+      "text": "Longing for a particular person doesn’t obey arguments: you can understand why you’re not together and still miss them. Pascal left a subtle observation about love over time. A man, he wrote, no longer loves the woman he loved ten years ago — and no wonder: she is not the same, and neither is he; perhaps he would love her still, as she was then. This thought can help you understand your longing. Sometimes we miss not only a person but also a time, a place, ourselves beside them. That doesn’t make the feeling any less real. It helps you see what exactly is so dear to you — and what of it you can keep within yourself while distance or time separates you.",
+      "practice": "Finish the sentence: “What I miss most of all is…” — and keep going until you reach something very specific: a gesture, a phrase, a habit.",
+      "quote": null
+    },
+    "world_pain": {
+      "text": "Pain for the world — wars, injustice, hard news — can seem unbearable. Pascal knew how fragile a human being is: he called us thinking reeds, the weakest thing in nature. But human dignity, he said, lies in the fact that we think and are aware. Your pain for the world is an expression of that capacity: you see, and you don’t look away. In “The Mystery of Jesus,” one of the most personal fragments of the Pensées, Pascal writes of a suffering that lasts until the end of the world and of the call not to sleep during that time — that is, to stay awake and attentive beside those who suffer. For a believer this is a prayer; for anyone, it is an image of compassionate wakefulness. But staying awake doesn’t mean carrying everything alone. You can keep an open heart, help where you can, and give yourself rest.",
+      "practice": "Choose one specific person or one cause you can help in a small way. Do it — and then give yourself an hour without news.",
+      "quote": null
+    },
+    "rejection": {
+      "text": "Rejection hurts as if all of you had been rejected. Pascal asked a question that turns out to help: what is the “self”? If someone loves a person for their beauty, do they love the person themselves? No: illness could destroy the beauty without destroying the person. If for their intelligence or memory — again no: these can be lost while one remains oneself. From this Pascal draws a paradoxical conclusion: we love not the “self” itself, only its qualities. From his point of view, one could say: it is also qualities that get rejected — as they were seen. The other person’s refusal concerns what they noticed and what did or didn’t suit them. Their decision doesn’t reach the “self” itself — mysterious, elusive. This doesn’t cancel the pain. But your essence was never put to a vote.",
+      "practice": "Write down: which of my qualities did this person see — or fail to see? Then add: “And I am more than that.”",
+      "quote": null
+    },
+    "abandonment": {
+      "text": "The fear of being abandoned is one of the oldest fears. Pascal knew loss early: his mother died when he was about three. In the Pensées he describes a deep human desire: we burn with the wish to find solid ground and an ultimate sure foundation on which to build a tower rising to the infinite — but the foundation cracks again and again. From this point of view, the fear of being left is the voice of that thirst for a reliable foothold. Pascal looked for it in God and believed that nothing finite can bear the whole weight of the human heart. Even if you don’t share his faith, there is relief in this thought: no single person can or should be the only support of your whole life. When there are more supports, love looks less like fear.",
+      "practice": "Ask yourself: what else, besides this person, holds my life up — which people, values, activities? Write down at least three supports.",
+      "quote": null
+    },
+    "unrequited": {
+      "text": "Unrequited love wounds painfully, and Pascal wouldn’t try to persuade you that it’s a trifle. His best-known thought about the heart — “the heart has its reasons, which reason does not know” — explains why arguments are powerless here: you can understand that there will be no answer and still love. The heart doesn’t obey reason, but it doesn’t need its permission either. From Pascal’s point of view, something else can be said too: the other person also has a heart with its own reasons, which obey neither your virtues nor their own will. So the absence of a response doesn’t measure your worth — it speaks of the border between two hearts. Your feeling can be respected as a movement of the heart. It needs no justification — and it doesn’t require you to wait forever.",
+      "practice": "Write down what this feeling says about you: what you value, what you reach for, what you are capable of. That will remain yours, however the story turns out.",
+      "quote": null
+    },
+    "humiliation": {
+      "text": "Humiliation — being put lower than you are — wounds deeply. Pascal offered a distinction that helps a great deal here. In his Discourses on the Condition of the Great he separates “established” greatness — ranks, position, power, which are owed outward signs of respect — from “natural” greatness: intelligence, kindness, strength of spirit, which is owed genuine esteem. Humiliation operates in the first order: you were deprived of outward respect, “put in your place.” But natural dignity is distributed differently, and no one else’s act can take it away. In the Provincial Letters, moreover, Pascal sharply mocked those who justified violence in defense of honor: an honor that could be taken away by a slap was not, for him, true greatness. Your pain is real, and your worth is untouched.",
+      "practice": "Write down what exactly someone tried to take from you — position, image, outward respect. Then write what of your “natural” dignity has stayed with you.",
+      "quote": null
+    },
+    "body_shame": {
+      "text": "Dissatisfaction with your body can take up an enormous place in your thoughts. Pascal, who lived most of his adult life in a weakened, ailing body, looked at this from a particular angle. He wrote that a human being is defined not by this or that make-up of the body but by thought: for Pascal, all our dignity lies there. He also distinguished “orders” of greatness: beauty belongs to the order of the body, but a person also has the orders of the mind and of the heart, where entirely different measures apply — and those are higher. From this point of view, appearance is just one measure among many, and far from the main one. Pascal didn’t demand contempt for the body; he reminded us that we are all fragile and imperfect, neither angels nor beasts. You can let your body be as human as everyone else’s.",
+      "practice": "Name one thing you value in yourself in the “order of the mind” and one in the “order of the heart.” Write them down side by side.",
+      "quote": null
+    },
+    "illness": {
+      "text": "When the body lets you down, the world narrows. Pascal knew this like few others: according to his sister, from the age of eighteen he hardly spent a day without pain, and in his last years he was gravely ill. He wrote an unusual text — the “Prayer to Ask of God the Right Use of Sickness.” It contains no promise that the illness will go away; it is an attempt to find meaning in it and not let it take away a person’s inner life. Even if you don’t share Pascal’s faith, his path shows a possibility: illness can limit the body, but it doesn’t have to define who you are. Pascal kept thinking, writing and caring for others — as far as his strength allowed. Your fear and tiredness are legitimate. Alongside them there can still be room for what truly matters to you.",
+      "practice": "Today, note one thing that stays yours despite the illness: a thought, an attachment, a small activity. Give it a few minutes.",
+      "quote": null
+    },
+    "pride": {
+      "text": "Pride in what you’ve done is a good feeling, and Pascal had reasons to feel it: at nineteen he built one of the first calculating machines to spare his father tedious computations. Yet Pascal saw clearly how easily healthy joy slides into vanity. Vanity, he wrote, is so rooted in the human heart that a soldier, a cook, a porter all boast and want admirers — and even those who write against vanity want the glory of having written well. His distinction is useful: one thing is joy in the work itself, in truth, in precise work; another is the thirst for admiring looks. The first, for Pascal, is connected with the greatness of thought and is worthy of a human being. Allow it to yourself — and notice how little it needs an audience.",
+      "practice": "Describe what you’re proud of as if no one would ever find out about it. What in this work gladdens you yourself?",
+      "quote": null
+    },
+    "melancholy": {
+      "text": "Bright sadness is a delicate state in which sorrow sits beside clarity. Pascal knew well that inner weather has its own laws: he wrote that his mood had little to do with the weather outside, because he had his own fogs and his own clear skies within. This observation is freeing: bright sadness needs no external cause to be legitimate. Pascal also believed that people constantly flee silence into “diversion,” just to avoid being alone with themselves. Bright sadness often comes precisely in moments of silence — and brings what we usually distract ourselves from: memory, tenderness, a sense of how fragile and precious life is. From this point of view, you don’t have to chase it away. It is one of the rare moments when you can hear yourself.",
+      "practice": "Stay with this state for five minutes without distractions. Then write down what thought or memory came to you in that silence.",
+      "quote": {
+        "text": "The weather and my mood have little connection. I have my foggy and my fine days within me.",
+        "author": "Blaise Pascal",
+        "source": "Pensées, fr. 107 (Brunschvicg)"
+      }
+    }
+  }
+}

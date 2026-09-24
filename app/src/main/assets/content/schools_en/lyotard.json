@@ -1,0 +1,374 @@
+{
+  "id": "lyotard",
+  "title": "Jean-François Lyotard",
+  "tradition": "Poststructuralism: the postmodern and the differend",
+  "family": "poststructuralism",
+  "period": "1970s–1990s",
+  "sortYear": 1979,
+  "thinkers": [
+    "Jean-François Lyotard"
+  ],
+  "keyWorks": [
+    "Libidinal Economy (1974)",
+    "The Postmodern Condition (1979)",
+    "Answering the Question: What Is Postmodernism? (1982)",
+    "The Differend (1983)",
+    "The Inhuman (1988)",
+    "Lessons on the Analytic of the Sublime (1991)",
+    "Postmodern Fables (1993)"
+  ],
+  "summary": "Jean-François Lyotard was a French philosopher who brought the word “postmodern” into wide use. He described our age as a time of “incredulity toward metanarratives” — the grand stories, like “progress will fix everything,” that once explained the meaning of it all. He was drawn to whatever doesn’t fit into a shared language: injustice that cannot be voiced, and “the sublime” — an experience that exceeds any picture of it.",
+  "onEmotions": "For Lyotard, a feeling is often the first sign that something is happening for which we don’t yet have words. In The Differend he writes that when something must be put into words but cannot yet be, a feeling signals it — and that feeling deserves respect, not to be drowned out with ready-made formulas. In Libidinal Economy he insisted that affects are “intensities,” energy that can never be fully translated into rational theories. And his reflections on “the sublime” describe a mixture of pain and pleasure before something greater than us. Lyotard helps you treat your feelings as witnesses, not as mistakes.",
+  "entries": {
+    "anxiety": {
+      "text": "Anxiety is often bound up with waiting: what if something is about to happen — or, on the contrary, what if nothing will happen anymore? In thinking about “the sublime,” Lyotard drew on Edmund Burke, who wrote that the deepest terror is the terror of privation: of light, of other people, of language. Lyotard carries this thought over to time: what unsettles us is not so much the event itself as the not-knowing — whether anything will come next. The question “Is it happening?” hangs in the air. But for Lyotard that same uncertainty is also a source of openness: the future is not written in advance, so something new is possible in it. From Lyotard’s point of view, anxiety can be understood as a heightened sense of time — a sensitivity to the fact that life is unfinished. That is hard to bear, but there is something alive in it too.",
+      "practice": "When anxiety rises, say to yourself: “Something is happening right now” — and name three things that really are happening: your breath, a sound, the light.",
+      "quote": null
+    },
+    "fear": {
+      "text": "Fear is a strong and entirely legitimate feeling: it tells you that something in front of you is bigger than you. Following Kant and Burke, Lyotard thought a great deal about “the sublime” — a mixed feeling that holds both fear and a strange pleasure. We feel it before a storm, mountains, the night sky — before whatever won’t fit into our imagination. Burke had already noticed that the sublime arises when the threat is held at a distance: we still sense its power, but we are no longer crushed by it. From Lyotard’s point of view, you might say: not every fear has to be conquered. Sometimes it is enough to find a distance at which it turns into a sense of scale — the understanding that you have touched something greater, and are still here.",
+      "practice": "Imagine your fear as a thunderstorm you are watching from behind a window. What do you notice about it when it isn’t so close?",
+      "quote": null
+    },
+    "sadness": {
+      "text": "Sadness doesn’t have to have an explanation or a use. In his early and boldest book, Libidinal Economy, Lyotard pushed back against the habit of immediately translating feelings into theory, diagnosis or moral. He described affects as “intensities” — clots of energy that pass through us and can never be reduced to meaning without remainder. Trying to explain an intensity at once often muffles it. From Lyotard’s point of view, you might say: your sadness doesn’t need to pass a reasonableness test. It isn’t necessarily “about something” or “for something.” You can let it simply be an intensity — feel its weight and its colour, without forcing yourself to find a cause, a lesson or a way out right away.",
+      "practice": "Describe your sadness not in words about its cause but through sensations: where is it in your body, how heavy is it, what temperature, what colour?",
+      "quote": null
+    },
+    "grief": {
+      "text": "Grief is perhaps the hardest of all feelings to put into words, and it is completely natural that words fall short. In The Differend, Lyotard describes states in which something must be said, but the existing language won’t do. He stresses that even silence is a “phrase” — something is being said in it too — and that the signal of such a state is a feeling. Pain, for Lyotard, is a sign that new words need to be sought, rather than rushing to ready-made consolations like “time heals.” From Lyotard’s point of view, you might say: your grief doesn’t have to fit accepted formulas, and its silence is meaningful. The little word “yet” in his definition matters too: what cannot be expressed now may, in time, find its form.",
+      "practice": "If words won’t come, write down a single word — or simply write the date on a sheet of paper and sit in silence with it for a minute. That is a statement too.",
+      "quote": {
+        "text": "The differend is the unstable state and instant of language wherein something which must be able to be put into phrases cannot yet be.",
+        "author": "Jean-François Lyotard",
+        "source": "The Differend (1983), § 22"
+      }
+    },
+    "loneliness": {
+      "text": "Loneliness can be especially sharp when it feels as though no one hears you: you speak, and your words fly past. Lyotard explained this through the idea of “language games” (a notion he borrowed from Wittgenstein): people speak in different modes — reasoning, asking, complaining, joking — and these modes don’t always translate into one another. What carries weight in your “language” may simply have no weight in someone else’s. From Lyotard’s point of view, you might say: loneliness is not always the absence of people but the absence of a shared game in which someone picks up your phrase. Lyotard believed in “little narratives” — small communities with their own stories. The task is not to be understood by everyone, but to find those who speak a language close to yours.",
+      "practice": "Remember someone you were able to talk to without “translation” — even briefly. What made that language shared? Where else might you find it?",
+      "quote": null
+    },
+    "anger": {
+      "text": "Anger often flares up in the face of injustice — and deserves to be taken seriously. Lyotard distinguished two kinds of conflict. A “litigation” is a dispute that can be settled by shared rules, as in a court. A “differend” (le différend) is a conflict where there are no rules acceptable to both sides, and one side cannot even voice its wrong in the other’s language. A victim, for Lyotard, is someone deprived of the means to prove the damage done to them. From this point of view, your anger may be the signal of a differend: you were harmed, but there is no “court” where this will be recognised. Then anger is not a whim but a testimony. Lyotard urged us not to silence such feelings but to look for new words and new listeners able to receive them.",
+      "practice": "Write down your grievance in two ways: in the “official” language and in your own. What gets lost in translation?",
+      "quote": null
+    },
+    "shame": {
+      "text": "Shame is a very painful feeling, one in which you want to become invisible. In The Postmodern Condition, Lyotard described how the modern world increasingly values “performativity” — efficiency, a favourable ratio of input to output. Knowledge, work, and people along with them are judged by how well they “perform” in the system. Lyotard noticed a hidden pressure behind this criterion: whoever doesn’t measure up is simply no longer let into the game. From Lyotard’s point of view, you might say: much of today’s shame is not shame over a bad deed but over “insufficient efficiency.” Yet performativity is only one language among many, not the measure of human worth. Your life is also made of “games” where efficiency means nothing: friendship, care, contemplation.",
+      "practice": "Ask your shame: by what criterion am I being judged right now? Then name one area of your life where that criterion simply doesn’t apply.",
+      "quote": null
+    },
+    "guilt": {
+      "text": "Guilt is a sign that you feel responsible; it is an important and worthy feeling. In The Differend, Lyotard stressed that there are different “genres” of discourse — cognitive, economic, ethical — and each has its own tribunal. Injustice arises when one genre judges what belongs to another: for example, when a relationship is assessed like a deal, or rest like work. From Lyotard’s point of view, you might say: it helps to ask which “tribunal” is passing sentence on you. Sometimes guilt is fair: you really did hurt someone, and that can be acknowledged and made right. But sometimes you are being judged by the wrong genre — for instance, by the logic of productivity where you were simply being human. Then guilt is a mistake of jurisdiction, not the truth about you.",
+      "practice": "Write down what you blame yourself for, and add: “I am being judged by the logic of…” — work, family, the market, morality. Is this the right judge for this case?",
+      "quote": null
+    },
+    "envy": {
+      "text": "Envy is painful, and there is no need to be ashamed of it. But it’s worth noticing: envy assumes a single common scale on which your life and someone else’s can be compared. Lyotard argued against such scales all his life. In The Postmodern Condition he describes our time as an age of incredulity toward “metanarratives” — grand stories that explain where everyone should be heading and what counts as success. And in The Differend he insists on incommensurability: different lives and different “language games” cannot be converted into common points without loss. From Lyotard’s point of view, you might say: envy is the moment you believed in a single ladder on which someone stands higher. But if there are many ladders, the comparison loses its force, and your path is not falling behind — it is a different game.",
+      "practice": "Write down which “game” the person you envy is winning. Then — which game you are living in. Do their rules match?",
+      "quote": null
+    },
+    "emptiness": {
+      "text": "Emptiness and apathy can be very heavy: as if nothing inside responds. In his late essay “Anima Minima” (from the collection Postmodern Fables), Lyotard offers a simple and profound thought: the soul exists when something touches it. A sound, a colour, a touch awakens it; without such contacts it seems to fall asleep. Lyotard sees this not as a verdict but as a description of how fragile and sensuous our make-up is. From Lyotard’s point of view, you might say: emptiness is not proof that there is nothing inside, but a state in which the soul is waiting for a sensation. You don’t need to demand strong feelings from yourself. Something very small is enough — a single sound, a single shade that touches you even a little.",
+      "practice": "Find one very small sensation: the taste of water, the texture of fabric, a patch of light. Stay with it, asking nothing more of yourself.",
+      "quote": null
+    },
+    "confusion": {
+      "text": "Feeling lost is natural in a world where there is no single story that explains everything. This is exactly what Lyotard called “the postmodern condition.” People used to be held up by “metanarratives” — grand stories of progress, emancipation and truth that gave meaning to every individual life. Today they are believed less and less, and what remains is a multitude of “little narratives” that don’t add up to a single picture. Lyotard didn’t mourn this: he saw instability as a source of inventiveness — what he called “paralogy,” the search for the new through dissent and paradox. From Lyotard’s point of view, your confusion is not a malfunction but an honest experience of the age. You don’t have to wait for a final story; you can assemble your own from small fragments tested by experience.",
+      "practice": "Write three “little narratives” that help you hold on right now — short and concrete. Do they need one big shared story?",
+      "quote": {
+        "text": "Simplifying to the extreme, I define postmodern as incredulity toward metanarratives.",
+        "author": "Jean-François Lyotard",
+        "source": "The Postmodern Condition (1979), Introduction"
+      }
+    },
+    "fatigue": {
+      "text": "Tiredness and burnout are not a personal weakness. As early as 1979, Lyotard described “performativity” as the main criterion of modern society: maximum output for minimum input. In The Inhuman he went further: “development” behaves like an inhuman process that uses people as a resource and demands ever more speed and efficiency. From Lyotard’s point of view, you might say: your tiredness is a differend between your body and the logic of endless optimisation. The body speaks its own language, one the system doesn’t know how to hear. To acknowledge your tiredness is to give a voice to the side that usually goes unheard. Rest, in this sense, is not a whim but the restoration of justice toward yourself.",
+      "practice": "Ask yourself: which part of me “has no say” right now? Let it speak one sentence, and write that sentence down.",
+      "quote": null
+    },
+    "boredom": {
+      "text": "Boredom is the feeling that nothing is happening, and it can be genuinely oppressive. Lyotard was deeply preoccupied with the very fact of the event — that something happens rather than nothing. In an essay on the painter Barnett Newman he writes about the “now” — the instant in which something occurs before we have understood what it is. The question “Is it happening?” is central to his understanding of the sublime. From Lyotard’s point of view, you might say: boredom arises when we expect events only in their familiar, anticipated form. But even in the emptiest minute something is happening: the light shifts, a sound rises and fades. Boredom can become a threshold of attention — a place where you learn to notice the barely perceptible “now.”",
+      "practice": "Sit for one minute and note everything that “happens”: every sound, movement, change of light. How many events did you count?",
+      "quote": null
+    },
+    "joy": {
+      "text": "Joy needs no justification — neither usefulness nor “deep meaning.” In Libidinal Economy Lyotard defended affects as “intensities” that can never be fully subordinated to reason, system or morality. Later, in the essay “Anima Minima,” he wrote that the soul lives by what touches it: colour, sound, touch. Joy, in this light, is an especially pure example of such an intensity: it happens as an event and doesn’t need to fit into some grand success story. From Lyotard’s point of view, you might say: don’t turn joy into proof that “everything is going right.” It is not a result but an occurrence. You can simply accept it — the way you accept a day that has suddenly turned warm.",
+      "practice": "Describe one recent joy as an event: where, when, what exactly happened in those few seconds?",
+      "quote": null
+    },
+    "love": {
+      "text": "Love and tenderness are living, beautiful feelings. Lyotard didn’t create a separate theory of love, but a subtle thought follows from his ideas. He insisted that each of us has our own “language games” and our own “idiom” — a way of speaking and feeling that can never be fully translated into someone else’s language. From Lyotard’s point of view, you might say: to love is to meet someone who will never be fully translatable into your language, and not to demand that they be. A love that respects the untranslatability of the other doesn’t try to reduce them to a “common denominator.” And his defence of “intensities” is a reminder: tenderness doesn’t have to be explained or justified. It simply happens between two different people.",
+      "practice": "Think of the ways someone close to you remains a mystery to you. Could you love precisely that untranslatable part?",
+      "quote": null
+    },
+    "gratitude": {
+      "text": "Gratitude is the feeling that something was given to you rather than earned. Lyotard has a deep wonder at the very fact that something happens rather than nothing. Reflecting on the sublime, he stresses that the fact that anything occurs at all — a phrase, a meeting, a moment — is not guaranteed and not produced to plan. From Lyotard’s point of view, you might say: gratitude is the recognition of an event as a gift. It doesn’t need to be squeezed into the logic of exchange, “I give to you, you give to me”: in a world of performativity everything is measured by results, while gratitude sees what no calculation can capture. By noticing what came to you without merit and without a plan, you step out of endless accountability and accept life as an event.",
+      "practice": "Name three things that “happened” to you today without any effort on your part — the weather, someone’s gesture, a phrase. Which of these are you grateful for?",
+      "quote": null
+    },
+    "hope": {
+      "text": "Hope can seem out of place when the grand stories about a bright future no longer convince. Lyotard did indeed think that the age of “metanarratives” was over. But he was no pessimist. First, for him the future is fundamentally open: the event is unpredictable, and that is its strength. Second, instead of one great story we have many “little narratives” — local, alive, our own. From Lyotard’s point of view, you might say: hope doesn’t need a guarantee of universal progress. It can rest on small things — on the next step, on a single meeting, on the chance that tomorrow something may happen that you can’t yet even imagine. Such hope is humbler, but it is harder to disappoint.",
+      "practice": "Write down one small, concrete thing you are hoping for in the next few days. Not a big story — a single event.",
+      "quote": null
+    },
+    "nostalgia": {
+      "text": "Nostalgia is a longing for what has been lost, and there is much tenderness in it. Lyotard wrote about nostalgia on a historical scale: a longing for the grand stories that once gave life a clear meaning — faith in progress, in a single truth, in a shared “we.” He noted that many people have lost even this nostalgia — and added at once that this by no means turns them into barbarians: meaning doesn’t vanish, it passes into little stories and everyday practices. From Lyotard’s point of view, you might say: personal nostalgia can also be a longing for a whole story in which everything made sense. You can honour it without trying to bring back the past in its entirety. What was valuable lives on in fragments — in habits, words, people.",
+      "practice": "Name one fragment of the past that you still carry with you — a word, a habit, a gesture. How does it live in your today?",
+      "quote": {
+        "text": "Most people have lost the nostalgia for the lost narrative.",
+        "author": "Jean-François Lyotard",
+        "source": "The Postmodern Condition (1979)"
+      }
+    },
+    "craving": {
+      "text": "An acute craving — “I want it right now” — can feel like an order you cannot help but obey. That is hard, and you are not alone in it. In The Differend, Lyotard describes life as a chain of “phrases” — not only words but gestures, glances, actions. One of his key thoughts: after every phrase there will necessarily be a next one, but what it will be is not decided in advance. Linking is inevitable; how to link is open. From Lyotard’s point of view, you might say: a craving is a strong phrase that insists on a single continuation. But it is only one possible response, not a law. Between the wave of desire and the action there is a moment when you can “link” differently: a sip of water, a phone call, five steps across the room. The wave of craving rises and falls, and the next phrase is still yours.",
+      "practice": "When the craving comes, name to yourself three other possible “next steps” — any at all, even strange ones. Choose one and do it.",
+      "quote": null
+    },
+    "addiction": {
+      "text": "When life has been built around one thing for years — a substance, gambling, a screen — breaking out of the circle is very hard, and it is not a moral failure. In The Differend, Lyotard describes different “genres of discourse” — knowledge, friendship, play, care, dreaming — each with its own aims and rules. Injustice, for Lyotard, arises when one genre seizes power over all the others and begins to subordinate them to its own aim. From his point of view, you might say: addiction resembles such a hegemony — one aim gradually rebuilds everything around itself: time, relationships, money, thoughts. Recovery, then, is not a single heroic act of will but a slow return of voice to the other genres of life. And here the “little narratives” Lyotard valued so much can help: the stories of people who have walked a similar path and speak about it honestly.",
+      "practice": "Name one area of life — a friendship, a walk, a craft — to which you would like to give back a little time. If you feel like it, you could listen to the stories of people who have walked a similar path, for example in a mutual-help group.",
+      "quote": null
+    },
+    "hangover": {
+      "text": "The morning after — physical heaviness, anxiety, shame and memory gaps — is a very uncomfortable state, and it doesn’t make you a bad person. In the essay “Rewriting Modernity” (in The Inhuman), Lyotard distinguished two ways of dealing with the past. You can try to reconstruct everything down to the last detail, frantically piecing together an exact chronology. Or you can, following Freud’s “working through,” patiently and unhurriedly let what matters surface on its own. Lyotard preferred the second. From his point of view, you might say: you don’t have to reconstruct the whole evening right now, in a state of anxiety, and pass sentence on yourself. Memory gaps are a “phrase” too — a silence that can’t be read yet. First you can take care of your body. And later, more calmly, see what really matters and whether you need to say something to someone.",
+      "practice": "Put the “investigation” off for a couple of hours. For now, do one simple act of care for your body — water, a shower, food, fresh air.",
+      "quote": null
+    },
+    "euphoria": {
+      "text": "A burst of euphoria, when everything seems possible, is a vivid experience, and you can enjoy it. In the early Libidinal Economy, Lyotard described affects as “intensities” — surges of energy that don’t accumulate, don’t turn into capital and don’t obey a plan. Later he himself looked at that book critically, but one of its thoughts remains valuable: an intensity is an event, not a possession. From Lyotard’s point of view, you might say: euphoria doesn’t have to be held on to, turned into proof or into an obligation for the future. It arrives as a “now” — the question “Is it happening?” to which the moment answers “yes.” To live it fully means accepting that it will end. That doesn’t make it any less real; it makes it an event rather than a debt.",
+      "practice": "Describe this high in one sentence: where you are, what is happening, what you feel. Keep it as a record of an event, not as a plan.",
+      "quote": null
+    },
+    "crash": {
+      "text": "A sharp drop after a high — after a celebration, a success, a vivid encounter — can be bitter, as if something has been taken away. In Libidinal Economy, Lyotard wrote that intensities by their nature do not accumulate: they flare up and dissipate. Later, in The Postmodern Condition, he showed how a society of “performativity” — of efficiency and constant results — expects continuous growth from us, as if the high should last forever. From Lyotard’s point of view, you might say: the “comedown” is the natural dissipation of an intensity, which looks like failure only against the demand to be in top form forever. You haven’t lost what happened: the event took place and remains an event. And the emptiness after it is not a verdict but an interval in which something new may happen, something you don’t yet expect.",
+      "practice": "Write one sentence about what was good in the recent high, and one about what you would like from today’s quiet day.",
+      "quote": null
+    },
+    "panic": {
+      "text": "A panic attack is genuinely frightening: your heart, your breathing, the sense that “something irreparable is about to happen.” In thinking about the sublime, Lyotard drew on Edmund Burke. Burke wrote that the strongest terror is the threat that nothing more will happen: that light, breath, connection with others will vanish. But the sublime, for Burke and Lyotard, arises when such a threat is held at a distance. From Lyotard’s point of view, you might say: panic is terror without distance, when the threat seems to be right inside your body. That is why whatever brings back even a little distance and a sense of “now” helps: something solid under you, your breath, the objects around you. A wave of panic usually peaks and subsides within a few minutes. Each next breath is an answer to the question “Is it happening?”: yes, it is happening, you are here.",
+      "practice": "Press your feet into the floor, take a slow breath in and an even slower breath out. On each out-breath, silently name one object you can see.",
+      "quote": null
+    },
+    "dread": {
+      "text": "Existential dread — “what is the point of it all,” the sense of an abyss — is a heavy experience, and many people know it. In the essay “Can Thought Go On Without a Body?” (in The Inhuman), Lyotard looks straight into the greatest abyss of all: in billions of years the Sun will go out. But what interests him is not despair but what this scale does to thought: it makes us value the body, memory, the very event of thinking. Another of his themes is the sublime, a mixture of pain and pleasure before what cannot be imagined. From Lyotard’s point of view, you might say: dread before the abyss and wonder that anything exists at all are two sides of the same feeling. The question “why” may never receive a final answer. But the fact that something happens rather than nothing is astonishing in itself, and you can stand on that.",
+      "practice": "Go to a window or outside and spend a minute looking at something vast — the sky, clouds, the dark. Tell yourself: “And yet something is happening.”",
+      "quote": null
+    },
+    "fomo": {
+      "text": "The feeling that everyone else is living more interesting lives while you’re in the wrong place is painful and very common. Describing “the postmodern condition,” Lyotard showed that there is no longer one grand story explaining where “the main thing” is. Instead there are many “little narratives,” each with its own rules and values. From Lyotard’s point of view, you might say: the fear of missing out assumes that somewhere there is a centre, a real life you’ve been excluded from. But there is no centre — there are many places where something is happening. Lyotard wrote a great deal about the “now” — the event that happens here, before we manage to name it. The event isn’t taking place somewhere out there, with other people; it can begin in the very room where you are sitting.",
+      "practice": "Right now, note three things that are “happening” where you are: a sound, the light, a movement. This is life too, and it isn’t somewhere else.",
+      "quote": null
+    },
+    "sleepless": {
+      "text": "Insomnia and three-in-the-morning thoughts are exhausting, and in the dark everything seems more hopeless than by day. In The Differend, Lyotard describes thinking as a chain of phrases in which each one calls for a continuation. At night this chain often locks into a single genre — the genre of the trial: accusation, defence, a new accusation, round and round. The other genres — care, humour, a friendly glance — seem to be asleep at night. From Lyotard’s point of view, you might say: night thoughts are not the final truth but one voice that sounds louder because the others have fallen silent. Lyotard valued the word “yet”: what cannot be resolved now may yet find its expression. Some questions can honestly be left until morning — not because they don’t matter, but because at night they lack anyone to talk to.",
+      "practice": "Write the night thought down on paper and add beside it: “I’ll come back to this in the morning.” Then put a hand on your belly and feel your breathing.",
+      "quote": null
+    },
+    "betrayal": {
+      "text": "Betrayal wounds deeply: trust is destroyed, and it feels as if the ground has been knocked out from under you. In The Differend, Lyotard distinguished “damage,” which can be proven and compensated, from a “wrong” (tort) — damage that has no way of being recognised. Betrayal often belongs to the second kind: you can’t “present” broken trust by rules the other person would accept. They have their language — “it just happened,” “I had my reasons” — and you have yours, and the two don’t translate into each other. From Lyotard’s point of view, you might say: your pain is testimony that a differend has occurred, even if no court will ever recognise it. It doesn’t have to be proven to be real. Lyotard urged us to seek new words for such wounds, and people able to hear them.",
+      "practice": "Describe what was destroyed in your own words — not to justify, not to accuse. Who might you one day tell this to in a way that lets you be heard?",
+      "quote": null
+    },
+    "jealousy": {
+      "text": "Jealousy is a burning feeling: the fear of losing someone dear, mixed with pain and suspicion. Lyotard insisted that every person has their own “idiom” — a way of speaking, feeling and linking their experience that can never be fully translated into someone else’s language. Even the person closest to you remains in some way untranslatable. From Lyotard’s point of view, you might say: jealousy often wants to translate the other completely — to know everything, understand everything, make their life transparent and subject to a single rule. But that is impossible even in the happiest love. Accepting that the other is not your “text” hurts, but it also frees you: you are not obliged to control the untranslatable. Instead, you can speak about your fear in your own language — directly and without accusation.",
+      "practice": "Put what you are afraid of into one sentence that starts with “I,” not “you.” For example: “I’m afraid of becoming unimportant to you.”",
+      "quote": null
+    },
+    "resentment": {
+      "text": "A long-held grudge you have carried for years is heavy, and it can’t be let go of on command. Lyotard distinguished “litigation” — a dispute with shared rules, where a fair decision can be reached — from a “differend,” where the injured party has no language in which their damage will be recognised. From Lyotard’s point of view, you might say: resentment often lives so long precisely because it is an unrecognised differend. The wound has found neither a court nor a listener, and it keeps waiting. Lyotard didn’t say such wounds should simply be “forgotten.” He wrote that they need new ways of being expressed — new words, new listeners. Sometimes resentment eases not when the one who hurt you admits their guilt, but when you find a way to speak of it so that you are finally heard — by at least one person, or by yourself.",
+      "practice": "Write a letter about your grievance that you will not send. Write it the way you have never allowed yourself to say it out loud.",
+      "quote": null
+    },
+    "heartbreak": {
+      "text": "A broken heart aches through the whole body, and that is a natural response to loss. Lyotard wrote about “little narratives” — small stories that give life meaning. Love is one such story: it had its own words, jokes, rituals, a shared language. When a relationship ends, that story breaks off, and there is no longer anyone to answer in the old language. Lyotard stressed that after every phrase there will necessarily be a next one, but what it will be is not determined in advance. From Lyotard’s point of view, you might say: the end of a relationship is not the end of your story but a point after which it will inevitably continue, even if it’s hard to imagine how right now. There’s no need to rush the next chapter. Grieving is also a way of continuing the phrase.",
+      "practice": "Write down one word or joke from your shared “language” that is dear to you. Let it stay with you as part of your story.",
+      "quote": null
+    },
+    "impostor": {
+      "text": "The fear that you are about to be exposed is agonising, and many highly competent people know it. Lyotard’s The Postmodern Condition is essentially a book about legitimation: about who has the right to be considered knowledgeable, and on what grounds. Lyotard showed that the old grand justifications of knowledge — like “the progress of reason” — have lost their force, and today legitimacy rests mainly on “performativity”: on what works. No one possesses a final “certificate” of their authenticity anymore. From Lyotard’s point of view, you might say: you are not the only one who can’t produce absolute proof of your right to be here — no one has such proof. You are not a fraud among genuine experts; everyone around you is learning, making mistakes and getting by on the fact that their work sometimes comes off.",
+      "practice": "Write down which “certificate” you feel you lack. Then ask: do the people you consider “real” actually have it?",
+      "quote": null
+    },
+    "self_hatred": {
+      "text": "When your inner critic keeps insisting that you are bad, a failure, “not right,” it hurts a great deal — and its verdict is not the truth about you. In Lectures d’enfance (Readings of Infancy, 1991), Lyotard wrote about “infancy” (from the Latin infantia, “not speaking”) as the part of a person that cannot explain itself, justify itself, give an account. It is there in each of us all our lives. For Lyotard this is not a flaw but the very thing that is human and cannot be reduced to efficiency or calculation. From Lyotard’s point of view, you might say: the inner critic demands that this fragile, imperfect part of you give an account of itself by someone else’s rules. But it isn’t supposed to be able to. It cannot be condemned in a language it doesn’t speak. Tenderness toward it is not weakness but justice.",
+      "practice": "Imagine yourself as a child to whom the inner critic’s words are addressed. What would you say to that child instead? Write down one sentence.",
+      "quote": null
+    },
+    "helplessness": {
+      "text": "Being powerless to change something is hard to bear, especially when you are trying very hard. In The Inhuman, Lyotard describes “development” — a vast process of acceleration and optimisation that moves on its own, barely consulting people. He admits honestly that an individual often cannot stand up to this process. From Lyotard’s point of view, you might say: your helplessness is in large part an accurate perception of scale, not a personal failure. But Lyotard also speaks of another “inhuman” — an unmanageable, living part of us that is still capable of being touched and of responding. Even when little depends on you, you keep the ability to choose how to answer life’s next phrase: to notice, to speak, to disagree. It isn’t much, but it isn’t nothing.",
+      "practice": "Write down a situation in which you feel helpless, and beside it — one small “phrase” with which you can respond to it: a word, a gesture, a question.",
+      "quote": null
+    },
+    "procrastination": {
+      "text": "When you can’t get started even though you really need to, it’s easy to suspect yourself of laziness. Reflecting on artists like Barnett Newman, Lyotard wrote about the anxious question “Is it happening?” that stands before every beginning — before a blank canvas or an empty page. A beginning is an event that can’t be fully planned in advance. From Lyotard’s point of view, you might say: procrastination is sometimes not laziness but trepidation before that open “now,” where nothing has been decided yet. What’s more, in a world of “performativity,” every beginning seems obliged to become a result at once, which is even more frightening. If you relieve the first step of the obligation to be good, starting becomes easier. Lyotard valued the uncertain, searching beginning — that is exactly where the new is born.",
+      "practice": "Set a timer for five minutes and do something clumsy and unfinished on the task. The aim is not a result, just for “something to happen.”",
+      "quote": null
+    },
+    "uprooted": {
+      "text": "Being cut off from home — after emigrating or moving — can go very deep: language, habits, the very ground seem to slip from under your feet. Lyotard wrote a great deal about the incommensurability of languages and “language games”: what is weighty and clear in one language may sound hollow, or not sound at all, in another. Emigration is life at the junction of such games, where many of your phrases lose weight in translation. From Lyotard’s point of view, you might say: the pain of uprootedness is not a failure to adapt but an honest experience of a differend between two worlds. Lyotard didn’t demand that you choose one language and give up the other. He valued the ability to live with the incommensurable without reducing it to a common denominator. Your doubleness is not a mistake but a particular knowledge that those who never left don’t have.",
+      "practice": "Write down one word from your native language or your former life that can’t be translated exactly. What is in it that the new place doesn’t have?",
+      "quote": {
+        "text": "Postmodern knowledge is not simply a tool of the authorities; it refines our sensitivity to differences and reinforces our ability to tolerate the incommensurable.",
+        "author": "Jean-François Lyotard",
+        "source": "The Postmodern Condition (1979), Introduction"
+      }
+    },
+    "overload": {
+      "text": "Overload from the endless feed, notifications and news is exhausting, and it is not a personal inability to “keep up.” As early as 1979, in The Postmodern Condition, Lyotard foresaw the “computerisation of society”: knowledge increasingly turns into information — a commodity produced, sold and consumed for the sake of efficiency. Later, in The Inhuman, he wrote about constant acceleration demanding ever more speed and memory from people. From Lyotard’s point of view, you might say: overload is a collision between the human body with its rhythm and a system running at inhuman speed. Your body doesn’t have to keep pace with it. Lyotard valued the slowness of writing, thinking, contemplating — what doesn’t fit into the flow of information. Slowing down is not falling behind but returning to a human tempo.",
+      "practice": "Choose one thing — a paragraph, a painting, the view from a window — and give it three minutes of slow attention, without switching.",
+      "quote": null
+    },
+    "unreality": {
+      "text": "The sense that the world, or you yourself, is somehow not quite real can be frightening and disorienting. Lyotard thought a great deal about how we experience an event. He wrote that an event always happens before consciousness manages to grasp it: first “it happens,” and only afterwards do we understand what. Between what occurred and making sense of it there is a gap. From Lyotard’s point of view, you might say: the feeling of unreality is as if this gap has stretched — the world goes on, while the sense that “I am here, this is happening to me” lags behind. That doesn’t mean the world has vanished. Lyotard valued the smallest sensations — a sound, a colour, a touch — which, in his words, awaken the “minimal soul.” They can be a good bridge back to the “now.”",
+      "practice": "Silently name one sensation for each sense: what you hear, what you see, what you feel on your skin, what you smell, what taste is in your mouth.",
+      "quote": null
+    },
+    "awe": {
+      "text": "Awe before something vast or beautiful is a rare and precious feeling. For Lyotard it is perhaps the central experience: he called it “the sublime” and devoted to it his book Lessons on the Analytic of the Sublime and the famous essay “The Sublime and the Avant-Garde.” Following Kant, he described the sublime as a mixture of pleasure and pain: we encounter something the imagination cannot hold — the ocean, the starry sky, a huge painting — and feel at once our own smallness and elation. From Lyotard’s point of view, this feeling bears witness to the unpresentable — to the fact that the world is bigger than any image of it. Awe doesn’t need to be explained or photographed. You can simply live it as an event, as an answer to the question “Is it happening?” to which your whole body answers “yes.”",
+      "practice": "Stay with whatever filled you with awe for one more minute in silence. Notice how smallness and elation are mixed in you.",
+      "quote": null
+    },
+    "relief": {
+      "text": "Relief is a warm feeling as tension lets go, and it is worth savouring. Reflecting on the sublime, Lyotard recalled Edmund Burke, who described a special feeling — “delight”: the pleasure that arises when a threat recedes. It isn’t ordinary joy but relief after fear, mixed with amazement at still being here. From Lyotard’s point of view, you might say: relief is an event, the moment when the question “Will anything else happen?” receives the answer “yes, life goes on.” It shows how much strength was going into waiting for disaster. Relief doesn’t have to be turned straight into a new task. You can let your body feel this delight — and remember it as a sign that a threat can recede.",
+      "practice": "Breathe out slowly and notice which part of your body has become lighter. Tell yourself: “Right now I can rest.”",
+      "quote": null
+    },
+    "calm": {
+      "text": "Calm and peace are infrequent guests, and it is good to cherish them. In the essay “Domus and the Megalopolis” in The Inhuman, Lyotard wrote about “home” (Latin domus) as the rhythm of everyday life: the recurring seasons, morning and evening, familiar actions that carry a quiet wisdom. This rhythm, he said, is increasingly being pushed out by the speed of the megalopolis. From Lyotard’s point of view, you might say: calm is the moment you fall back into such a domestic rhythm, where nothing needs to be sped up or proven. It is not a result and does not serve efficiency. That is exactly why it is valuable in itself. Let calm last without asking what it is for.",
+      "practice": "Do one ordinary, simple action — pour some tea, water a plant — more slowly than usual, noticing each movement.",
+      "quote": null
+    },
+    "inspiration": {
+      "text": "Inspiration is a joyful feeling, when something new seems to be striving to appear on its own. Lyotard linked it with “paralogy” — the search for the new through disagreement with familiar rules. He wrote that the postmodern artist and writer work without rules given in advance: the rules of what they are doing become visible only afterwards, once the work is done. From Lyotard’s point of view, you might say: inspiration is the moment when you act without yet knowing the rules, and that is not a mistake but the condition of creativity. There’s no need to test the idea for efficiency or “correctness” right away. The question “Is it happening?” rings especially bright here: something is being born, and it isn’t yet known what. You can simply enjoy this moment.",
+      "practice": "Write the idea down as it came to you, without checking whether it is right. Note: what in it is newest for you?",
+      "quote": null
+    },
+    "schadenfreude": {
+      "text": "A secret pleasure at someone else’s failure is familiar to almost everyone, and it doesn’t make you a bad person. In The Postmodern Condition, Lyotard writes that speech resembles a game, and that to speak is in some sense to compete: to make “moves,” to win and to lose. He called this “agonistics” (from the Greek agon, contest). From Lyotard’s point of view, you might say that schadenfreude is born where life turns into one continuous competition: someone else’s loss seems for a moment to be your win. It is an understandable reaction in a world where everything is compared and ranked. But Lyotard also stressed something else: there are many games, and most of them have no shared score. Someone’s failure in one game adds nothing to your life and takes nothing from it. You can notice this flash and not continue the game.",
+      "practice": "Ask yourself: “In what game am I competing with this person right now?” Then name a game in your life where there is no competition at all.",
+      "quote": null
+    },
+    "contempt": {
+      "text": "Contempt is a cold, “looking-down” feeling, and it often protects something vulnerable. Lyotard described our age as a time of incredulity toward “metanarratives” — grand stories that explain everything and put everyone in their place: who is progressive and who is backward, who is “right” and who is not. Such stories granted the right to look down on others. From Lyotard’s point of view, you might say that contempt often leans on a grand narrative of this kind — about how “normal” people are supposed to live — and borrows its sense of being right from it. If you start to doubt that narrative, you discover that in front of you is simply another person with their own “little story.” You don’t have to love or approve of them. But perhaps you can decline the role of judge that the grand narrative offers you.",
+      "practice": "Put into words the “grand story” your contempt leans on (“normal people don’t…”). Who first told it to you?",
+      "quote": null
+    },
+    "disgust": {
+      "text": "Disgust is an instant, almost bodily “no,” and there is nothing shameful in it. In the dialogue-book Just Gaming (Au juste), Lyotard talks a lot about how we constantly “judge without criteria”: we evaluate without a ready-made rule, feeling our way, as it were. Following Kant, he saw such judgement as a normal part of life, not a mistake. From Lyotard’s point of view, you might say that disgust is exactly this kind of quick judgement without criteria: the body says “no” before the mind finds a reason. This judgement deserves respect: it is signalling something. But Lyotard also stressed that every judgement without criteria has to be tested anew each time. Disgust toward a person, or toward yourself, is an opening remark, not a final verdict.",
+      "practice": "Write down what exactly the disgust reacted to. Then ask: “What will I say about this tomorrow, once the reaction has faded?”",
+      "quote": null
+    },
+    "revenge": {
+      "text": "The wish for revenge tells you that you have been hurt, and that the hurt demands recognition. In The Differend, Lyotard distinguishes two kinds of harm. “Damage” (dommage) can be proven and compensated by shared rules — in a court, for example. A “wrong” (tort) is harm that also strips the injured party of the means to prove it: there are no witnesses, no fitting words, no court that would listen. From Lyotard’s point of view, you might say that the thirst for revenge is especially strong when there is a wrong: when there is neither recognition nor a way to speak of it, what remains is the fantasy of taking justice into your own hands. But revenge doesn’t give you a voice — it only adds a new harm. What matters more is finding where, and to whom, you can tell what happened: a friend, a diary, someone who knows how to listen.",
+      "practice": "Write down what happened to you as if you were telling it to an honest witness. Who in your life could listen to this story?",
+      "quote": null
+    },
+    "anger_at_loved": {
+      "text": "Anger at those close to you — a partner, parents, children — can flare up especially strongly, and afterwards you feel ashamed of it. In Libidinal Economy, Lyotard describes feelings as “intensities” — energy flowing through the body. Society, family and roles are “dispositifs,” devices that channel this energy into prescribed courses: to care, to endure, to be a good parent or child. But energy never fits into those channels completely. From Lyotard’s point of view, you might say that anger at someone you love is often a breakthrough of energy that a role has held back for a long time. It doesn’t mean love has vanished; it means you are more than your role. Anger gives no right to wound, but it can show you where a role has become too tight.",
+      "practice": "Finish the sentence: “In the role of… (mother, daughter, partner) I feel cramped because…” What could be loosened a little in that role?",
+      "quote": null
+    },
+    "ambivalence": {
+      "text": "Loving a person and at the same time being unable to stand them is hard and confusing, but it is a very human state. Lyotard reflected a great deal on “the sublime” — a feeling which, following Kant, he described as a mixture of pleasure and pain, attraction and terror at once. For him this feeling is not a contradiction to be eliminated but a sign of meeting something larger than our familiar categories. From Lyotard’s point of view, you might say that mixed feelings toward someone close are relatives of the sublime: the person is too large and complex to fit into a single emotion. Love and the unbearable live side by side because this person touches you deeply. There’s no need to hurry toward a synthesis. Ambivalence is not a mistake but a testimony to how much someone matters.",
+      "practice": "Write one sentence that joins both feelings: “I love… and I can’t stand…”. Read it without trying to fix anything.",
+      "quote": null
+    },
+    "guilty_relief": {
+      "text": "Relief after a breakup, a departure, or even the death of a seriously ill loved one can be frightening: “how can I feel this?” Relief and love can exist together. Lyotard urged us to be incredulous toward “metanarratives” — grand stories that prescribe to everyone how life should be understood. Loss has such a grand story too: “someone who truly loves feels nothing but grief.” From Lyotard’s point of view, you might say that shame over relief is the result of this narrative’s pressure. Your situation is a “little narrative,” a story of its own: long caregiving, exhausting worry, conflicts that have finally ended. In such a story, relief is natural and does not cancel love. Your feeling doesn’t have to obey a general script in order to be honest.",
+      "practice": "Write your own “little story” of this loss in three sentences. Where in it is there room for relief — and where for love?",
+      "quote": null
+    },
+    "indifference": {
+      "text": "Sometimes you aren’t moved by what you “should” be moved by — and guilt arrives. In The Inhuman, Lyotard uses the word “passibility” — the capacity to be affected, to receive, to let something happen to you. He considered it the most fragile and precious human quality. And he noticed that modern life, with its speed and demand for efficiency, depletes this capacity: being affected takes time and slowness. From Lyotard’s point of view, you might say that your indifference is not coldness but perhaps an exhaustion of passibility. It can’t be switched on by order. It can only be looked after: by giving yourself pauses, slowness, quiet. Then the ability to respond will gradually return on its own.",
+      "practice": "Set aside five minutes for something slow: looking out of the window, listening to sounds. Don’t wait for a feeling — just give it time.",
+      "quote": null
+    },
+    "escape": {
+      "text": "The wish to drop everything — your job, your city, your role — tells you that your current life has become too tight. It is a legitimate signal. One of Lyotard’s early books is called Drifting Away from Marx and Freud (Dérive à partir de Marx et Freud). He chose the word “drift” deliberately: not a revolutionary break and not flight, but a gradual, free shifting, when you allow the current to carry you out of familiar places. Lyotard saw drift as a way of thinking and living without submitting to a single system. From Lyotard’s point of view, you might say that the pull to escape is the voice of this drift. It doesn’t necessarily demand an abrupt break. You can start drifting: shift little by little, try new things, loosen the tether to what has become too tight, and see where the current takes you.",
+      "practice": "Name one small shift you could make this week: a different route, a new activity, a conversation. That is the start of a drift.",
+      "quote": null
+    },
+    "forbidden_attraction": {
+      "text": "An attraction that is “not allowed” — to someone unavailable or “wrong” — can be embarrassing and frightening. But a feeling is not an action. In Libidinal Economy, Lyotard described desire not as lack but as an “intensity” — a flow of energy that obeys neither morality nor logic. He argued against theories that see in every desire a “hidden truth” about a person. For Lyotard, an intensity simply happens, like a wave, and doesn’t have to mean anything. From Lyotard’s point of view, you might say that a forbidden attraction is such a wave: it doesn’t choose where to flow, and it is not a command. You can feel it, acknowledge its strength, and not hurry either to interpret it or to decide anything. A wave doesn’t have to become an action to be acknowledged.",
+      "practice": "Describe this attraction as weather: “right now in me there is…” (a thunderstorm, heat, wind). Note how its strength changes over the day.",
+      "quote": null
+    },
+    "social_anxiety": {
+      "text": "Fear of people and their judgement is exhausting: every meeting feels like an exam. In The Postmodern Condition, Lyotard writes that the self is never an island: each of us is a node in a fabric of relations through which messages, questions and answers pass. He adds that even the least noticeable person is always located at some point in this network — both receiving and passing things on. From Lyotard’s point of view, you might say that social anxiety often paints a picture in which you are a lone examinee and everyone around you is the examining board. But in fact you are a player in a shared game where everyone has their own move and everyone is a little nervous. You don’t need to win the conversation. It is enough to make your move — a question, a remark, a smile — and let others make theirs.",
+      "practice": "Before a meeting, come up with one simple “move”: a question you are genuinely curious to ask. That one move is enough.",
+      "quote": null
+    },
+    "uncertainty": {
+      "text": "Uncertainty is hard: it isn’t clear what will happen, and you long for something to hold on to. The Postmodern Condition has a chapter on “postmodern science.” Lyotard writes that modern science increasingly studies not stable laws but instabilities: catastrophes, fractals, paradoxes, unpredictable leaps. For it, unpredictability is not a failure of knowledge but its new subject. From Lyotard’s point of view, you might say that the uncertainty in your life is not a sign that you have missed something. The world at every level is arranged so that exact prediction is often impossible. That is unsettling, but it is also where there is room for the new and unexpected. You don’t have to wait for complete clarity; you can explore the situation with the curiosity of a scientist studying instability.",
+      "practice": "Write down three possible ways things could go, including at least one unexpectedly good one. Note that all three are, for now, equally real.",
+      "quote": null
+    },
+    "waiting": {
+      "text": "Waiting — for results, a reply, news — stretches time and keeps you from living in the present. Lyotard wrote the essay “Newman: The Instant” about the painter Barnett Newman, who gave his paintings titles like Here, Now, Be. Lyotard admired how these paintings return the viewer to the present instant: not to the past or an anticipated future, but to the “now” that is happening right before your eyes. From Lyotard’s point of view, you might say that waiting carries you off into the future, and the present seems to stop existing. But the “now” keeps happening even while you wait. You can notice it: the light in the room, a sound, your breath. The waiting won’t disappear, but life will appear beside it again.",
+      "practice": "Say to yourself “Now” — and name three things happening at this moment. Repeat whenever the waiting pulls you in.",
+      "quote": null
+    },
+    "regret": {
+      "text": "Regret over something you did or didn’t do can come back again and again. In the essay “Rewriting Modernity,” Lyotard, drawing on Freud, distinguishes two ways of dealing with the past. You can endlessly repeat it, replaying the same thing. Or you can “work it through”: return to the past freely, as in free association, letting what was previously invisible come through. Lyotard called this kind of working through “anamnesis” — recollection. From Lyotard’s point of view, you might say that regret often gets stuck in repetition mode: “if only I had…”. But it can be shifted into working-through mode: not judging the past again, but listening to what it may still have to say. Then regret stops being a verdict and becomes a source of understanding.",
+      "practice": "Write freely about what you regret, without stopping, for three minutes. Then underline one thought you hadn’t noticed before.",
+      "quote": null
+    },
+    "longing": {
+      "text": "Longing for a particular person can be almost physical: it is precisely them you miss, not someone similar. In The Differend, Lyotard reflects a great deal on proper names. He writes that a name is not a description that can be swapped for another: it points “rigidly” to one single person, and around it gathers a whole world of phrases, memories, stories. From Lyotard’s point of view, you might say that longing is a feeling that answers to a name: behind it stands a world that can’t be translated into any other name. That is why consolations like “there will be others” help so little. Your longing speaks of this person’s uniqueness. You can honour it: say the name, recall the phrases connected with them.",
+      "practice": "Write this person’s name and beneath it — three phrases or words connected with them. Let that world stay with you for a while.",
+      "quote": null
+    },
+    "world_pain": {
+      "text": "Pain for the world — from grim news, wars, injustice — can weigh you down. It speaks of your sensitivity. In The Differend, reflecting on the catastrophes of the twentieth century, Lyotard compares them to an earthquake so powerful that it destroyed the very instruments that could have measured it. All that remains is feeling — and Lyotard insists that this feeling must be respected: it bears witness to something for which we don’t yet have words. From Lyotard’s point of view, you might say that your pain for the world is also testimony. It is not useless or “excessive.” But testimony needs a voice, not endless accumulation. You can express this pain — in words, in taking part, in offering support — instead of carrying it silently on your own.",
+      "practice": "Write in a few words what exactly wounds you in what is happening. Then choose one person you could talk to about it.",
+      "quote": null
+    },
+    "rejection": {
+      "text": "Rejection wounds painfully: it feels as if you have been judged not enough. In The Postmodern Condition, Lyotard writes about “legitimation” — how, in different “language games,” it is decided what counts as right, valuable, suitable. Each game has its own rules, and there is no single supreme game that judges all the others. From Lyotard’s point of view, you might say that a rejection is a decision made within one particular game, by its rules: this company, this person, this situation. It is not a universal verdict on your worth. In another game, with other rules, the very same thing in you may turn out to be exactly what is needed. The pain of rejection is real, but it speaks of a mismatch, not of your being “not enough” in general.",
+      "practice": "Write: “In this game I wasn’t chosen according to the rules of…” And then: “In which game are my qualities valued?”",
+      "quote": null
+    },
+    "abandonment": {
+      "text": "The fear of being abandoned is exhausting: you catch every sign of someone drawing away. This fear often grows out of old wounds and deserves gentleness. In The Inhuman and in Lectures d’enfance (Readings of Infancy), Lyotard reflects on childhood using the Latin infantia — “not speaking.” A human being is born helpless, unable to survive without another, and this original dependence never disappears; it stays in us. From Lyotard’s point of view, you might say that the fear of abandonment is the voice of that infancy in us, a memory of a time when another’s leaving really was a threat. Now you are an adult with your own supports, but infancy keeps speaking. There is no need to be ashamed of it. You can treat this fear the way you would treat a frightened child: gently, without mockery.",
+      "practice": "When the fear rises, tell yourself what you would tell a frightened child: “I’m with you. You’re not alone.” Notice what has changed in your body.",
+      "quote": null
+    },
+    "unrequited": {
+      "text": "Unrequited love wounds painfully: you reach out to someone, and there is no answer. In The Differend, Lyotard describes the “universe of a phrase”: it contains the one who speaks, the one addressed, what is spoken about, and the sense. Every phrase, even one left unanswered, has already happened and has already created its own small world. From Lyotard’s point of view, you might say that your love is such a phrase. The place of the one who should answer stands empty, and that hurts. But the phrase itself is real: the feeling was there, you lived it, and it said a great deal about you. Lyotard stressed that another phrase always follows, but which one is not decided in advance. The next phrase of your life may be addressed to someone else — including yourself.",
+      "practice": "Write yourself one sentence about what this love revealed to you about yourself. That is an answer too — from you to you.",
+      "quote": null
+    },
+    "humiliation": {
+      "text": "Humiliation is one of the most painful experiences: as if you had been stripped of your voice and put on display. In The Postmodern Condition, Lyotard defines “terror” as a way of winning by excluding the other from the game, or threatening to: not out-arguing them, but forcing them into silence. From Lyotard’s point of view, you might say that humiliation is a small instance of such terror: someone tries to put you out of the game, deny you the right to a move, make you a “nobody.” But this speaks of the other person’s methods, not of your worth. Humiliation works as long as you accept the exclusion as the truth. Taking back your move means speaking again: telling what happened to someone who will listen, writing down your version, returning to the games where you are respected.",
+      "practice": "Write your version of what happened, in the first person, calmly. This is your move, and no one can take it from you.",
+      "quote": null
+    },
+    "body_shame": {
+      "text": "Dissatisfaction with your body can be quiet and constant, and it deserves care rather than more criticism. The Inhuman contains the essay “Can Thought Go On Without a Body?”. Lyotard’s answer is no. Thought, feeling, memory, desire — all of it happens in the body and thanks to the body. The body is not a shell to be improved but the condition of your being able to think, love and notice the world at all. From Lyotard’s point of view, you might say that body shame treats the body as an object to be assessed from outside, whereas the body is your way of being. You are not the “owner” of a defective object but a living being who thinks and feels with your body. You can shift your attention from how your body looks to what it makes possible.",
+      "practice": "Name three things your body made possible for you today: tasting something, hugging someone, going for a walk. Thank it, even if only in your thoughts.",
+      "quote": null
+    },
+    "illness": {
+      "text": "When the body lets you down, it is hard both physically and emotionally: plans collapse, the world shrinks to symptoms. In Postmodern Fables, Lyotard wrote the essay “Anima Minima” — about the “minimal soul.” He believed the soul awakens when something touches it: a colour, a sound, a smell. Without these touches, he says, the soul seems to fall asleep. From Lyotard’s point of view, you might say that during illness the world of sensations often narrows to pain and discomfort, and the soul lacks other touches. That is why the small good sensations that remain available matter so much: the taste of tea, light in the window, a familiar voice, the softness of a blanket. They don’t cure, but they gently sustain the soul while the body goes through something hard.",
+      "practice": "Choose one pleasant sensation available to you now: a taste, a sound, light, a touch. Stay with it for a minute.",
+      "quote": null
+    },
+    "pride": {
+      "text": "Pride in something you have done is a healthy, well-earned feeling, worth living through without embarrassment. In the essay “Answering the Question: What Is Postmodernism?” Lyotard writes about artists and writers who work without ready-made rules: the rules of what they have made become clear only afterwards. He described this with the tense of the “future anterior” — what “will have been done.” From Lyotard’s point of view, you might say that pride is especially deserved when you have done something for which there was no instruction: found your own way, taken a risk, invented something. What you did sets a rule that didn’t exist before. That is worth noticing and celebrating without comparing it to other people’s yardsticks: you yourself created the measure of your act.",
+      "practice": "Write down what “rule” you discovered by doing the thing you are proud of. It is your contribution, and it will stay with you.",
+      "quote": {
+        "text": "The artist and the writer, then, are working without rules in order to formulate the rules of what will have been done.",
+        "author": "Jean-François Lyotard",
+        "source": "Answering the Question: What Is Postmodernism? (1982)"
+      }
+    },
+    "melancholy": {
+      "text": "Bittersweet sadness is a quiet, tender feeling in which there is no misfortune, only attention to what is gone and fragile. In the essay “Answering the Question: What Is Postmodernism?” Lyotard distinguishes two moods in art. One he calls “melancholia”: art longs for the unattainable and consoles with beautiful form. The other is “novatio”: joyful experiment with the unknown. Lyotard didn’t mock melancholia — he saw it as one legitimate way of relating to what cannot be held on to. From Lyotard’s point of view, you might say that bittersweet sadness is your personal experience of such melancholia: a longing for the unattainable, warmed by the beauty of form — music, autumn light, a memory. You can live through it without hurrying on to “novatio.” Melancholy knows how to console too.",
+      "practice": "Choose a “beautiful form” for your sadness: a song, a poem, a walk. Let it stay with you for a few minutes.",
+      "quote": null
+    }
+  }
+}

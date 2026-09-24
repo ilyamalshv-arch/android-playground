@@ -1,0 +1,411 @@
+{
+  "id": "levinas",
+  "title": "Levinas",
+  "tradition": "The ethics of the Other and the philosophy of dialogue",
+  "family": "psychoanalysis_critical",
+  "period": "20th century",
+  "sortYear": 1961,
+  "thinkers": [
+    "Emmanuel Levinas",
+    "Martin Buber"
+  ],
+  "keyWorks": [
+    "M. Buber, I and Thou (1923)",
+    "E. Levinas, On Escape (1935)",
+    "E. Levinas, Existence and Existents (1947)",
+    "E. Levinas, Time and the Other (1947)",
+    "E. Levinas, Totality and Infinity (1961)",
+    "E. Levinas, Otherwise than Being, or Beyond Essence (1974)",
+    "E. Levinas, Ethics and Infinity (1982)"
+  ],
+  "summary": "Emmanuel Levinas was a French philosopher for whom the central question was not \"what is being?\" but \"how do I respond to another person?\" He called ethics \"first philosophy\": the encounter with the other, with their \"face\", comes before any theory. Beside him here stands Martin Buber, author of I and Thou, for whom real life is encounter.",
+  "onEmotions": "Levinas said little about feelings as inner states — he was interested in how feelings open us to the other. He stressed \"sensibility\" in the sense of vulnerability: we are capable of being affected, and this is exactly what makes responsibility and closeness possible. From this point of view, many of our experiences are responses to an encounter or to its absence. Buber distinguished the \"I–Thou\" relation, in which we meet the other as a whole, from \"I–It\", in which we deal with them as an object. Seen this way, a feeling is not only something happening \"in me\" but also something happening \"between\".",
+  "entries": {
+    "anxiety": {
+      "text": "Anxiety is a heavy state, and you have every right to feel it. In his early book Existence and Existents (1947), Levinas described an experience he called the \"il y a\" — \"there is\": impersonal, anonymous being that hums like the silence of a sleepless night, when there is nothing to hold on to — no object, no meaning. He called it \"horror\" before faceless being, and many people know the description from nights of insomnia. What matters is that, for Levinas, the way out of this state is not to close in on yourself even more, but the relation to another person: the other pulls us out of our confinement in our own existence. From this point of view, anxiety can be eased not only by inner work but also by simply turning to someone nearby — a question, a glance, a conversation.",
+      "practice": "If you can, ask someone today, \"How are you?\" — and notice what happens to your anxiety while you listen to the answer.",
+      "quote": null
+    },
+    "fear": {
+      "text": "Fear is a natural feeling; it protects what is dear to you. Levinas drew a subtle distinction here. Heidegger, with whom Levinas studied and later argued, linked a person's deepest anxiety to their own mortality. Levinas, in his essay \"Ethics as First Philosophy\", spoke instead of \"fear for the other\" — the fact that a person can be afraid not only for themselves but for someone else, for their vulnerability. Such fear is not weakness but a sign of responsibility: you feel that the other's fate matters to you. If your fear is for someone, Levinas would see in it ethics at work, not mere worry. And if it is for yourself, it reminds you that you too are vulnerable — and in this you are like everyone else.",
+      "practice": "Ask yourself: who or what am I afraid for right now? If it is for someone else, what does this fear say about your bond with them?",
+      "quote": null
+    },
+    "sadness": {
+      "text": "Sadness needs no justification: it says that you are capable of being touched. Levinas gave enormous weight to \"sensibility\" — not in the sense of sensuality, but in the sense of openness, of being woundable. For him a person is not a fortress but a being that can be hurt, touched, moved. In his late book Otherwise than Being (1974), he described this vulnerability as \"a passivity more passive than all passivity\": we are always already open to the world and to others — before we have decided to be. From this point of view, sadness is not a malfunction but an expression of the same woundability that makes compassion and love possible. If you were invulnerable, you could not respond to others either.",
+      "practice": "Place your palm where you feel the sadness in your body, and say silently: \"Something has touched me.\" That is enough.",
+      "quote": null
+    },
+    "grief": {
+      "text": "Grief is one of the deepest human experiences, and it needs time. In his lectures God, Death, and Time (1975–1976), Levinas offered an unfamiliar thought: a person's primary experience of death is not reflection on their own death but the loss of another. We learn what death is through the departure of those we love, and that is why grief is so heavy: it concerns not only you but also the one who is no longer beside you — the one you can no longer answer. Levinas linked this experience to a responsibility that does not end with the other's life. From this point of view, your mourning is a continuation of the relationship, not its end. Remembering, telling stories about the one who is gone, caring for what was dear to them — these are forms of the same faithfulness.",
+      "practice": "If you have lost someone close, think: what was dear to them? Could you make one small gesture in their honour today?",
+      "quote": null
+    },
+    "loneliness": {
+      "text": "Loneliness can be very hard, and Levinas took it seriously. In his lectures Time and the Other (1947), he wrote that we can share everything with another — things, thoughts, knowledge — except our very existence: in this sense each of us is unique and alone. But Levinas does not stop there. He sees the way out in the relation to the Other, who does not dissolve into us or become our reflection. Martin Buber said something similar in I and Thou (1923): a person becomes themselves in real encounter, where the other is not a function or a means but a \"Thou\". From this point of view, loneliness is not a final fact but a longing for encounter — which can happen even in a brief moment of genuine attention.",
+      "practice": "Remember the last time someone looked at you not as a function but as a \"Thou\". What did you feel then?",
+      "quote": {
+        "text": "All actual life is encounter.",
+        "author": "Martin Buber",
+        "source": "I and Thou (1923)"
+      }
+    },
+    "anger": {
+      "text": "Anger is a living feeling, and it often speaks of a crossed boundary or an injustice. Levinas described the encounter with another person's \"face\" — not their appearance, but their nakedness and defencelessness, which in themselves ask us not to do harm. From this point of view, anger is the moment when the other becomes merely an obstacle and we stop seeing their face. Levinas does not demand that you not be angry. But he reminds us that even the one who angered us remains a vulnerable human being. In Buber's terms, in anger a \"Thou\" easily turns into an \"It\". Admitting your anger is honest; keeping the person behind the act in view means keeping the possibility of finding words rather than a blow.",
+      "practice": "Put into words which of your values was hurt — and separately: what would you want from this person if you were finally heard?",
+      "quote": null
+    },
+    "shame": {
+      "text": "Shame is painful, and everyone knows it. Levinas wrote about it twice, and differently. In his early essay On Escape (1935), he described shame as the impossibility of hiding from yourself: in shame we are as if chained to our own existence. In Totality and Infinity (1961), shame takes on another meaning: the encounter with another person calls into question my self-assurance, my habit of treating the world as mine. Such shame is the beginning of conscience, not humiliation. This is an important distinction: there is a shame that paralyses and makes you want to disappear, and there is a shame that opens you to the other. From this point of view you can ask which one you are feeling now — and notice that the second does not humiliate but makes you more human.",
+      "practice": "Ask yourself: is my shame right now asking me to hide — or to pay attention to someone else?",
+      "quote": null
+    },
+    "guilt": {
+      "text": "Guilt can be heavy, and it is important not to confuse it with a verdict on yourself. Levinas built his ethics on responsibility: another person addresses me, and I am called to respond — even before I have decided anything. This responsibility, for Levinas, is asymmetrical: I do not expect the other to do the same for me. It sounds demanding, but there is an important nuance: responsibility in Levinas is a turning towards the other, not self-flagellation. From his point of view, one could say that guilt which shuts a person up in themselves in fact turns them away from the other. Responsibility asks instead: what can I do now? So it helps to turn guilt into a question about action — apologising, making amends, taking care — rather than carrying it like a stone.",
+      "practice": "Replace the question \"how bad am I?\" with \"what can I do for the other now?\" — and write down one small step, if there is one.",
+      "quote": null
+    },
+    "envy": {
+      "text": "Envy is an unpleasant but entirely human feeling. Levinas has no theory of envy, but from his point of view one could say this. Envy is born of comparison: the other is seen as \"just like me\", only luckier. Levinas insisted, however, that the other is not my reflection or a \"second self\" (alter ego) but someone radically different, who cannot be reduced to my measures. Thinking that reduces everything to a common denominator he called \"totality\". Envy is a small totality: it puts us and the other on the same scale. To see in the other not a rival on the same ladder but a separate, unfathomable life with its own difficulties is to loosen envy a little, without denying it.",
+      "practice": "Think of someone you envy and try to imagine one difficulty in their life that you know nothing about.",
+      "quote": null
+    },
+    "emptiness": {
+      "text": "Emptiness and apathy can be very hard, and they do not mean that you are an \"empty\" person. In Totality and Infinity, Levinas wrote that human life begins with simply \"living from\" things: bread, air, sunlight, work. He called this \"enjoyment\" — not luxury, but the basic taste of life in which we first become ourselves. Apathy, from this point of view, is a moment when this taste is muted: everything is there, but nothing nourishes. Levinas added that such a life does not by itself give meaning; meaning comes through the relation to the other, who is waiting for your response. So the way out of emptiness can begin with two small things: noticing a simple sensation — warmth, taste, light — and responding to at least one call from someone else.",
+      "practice": "Notice one simple sensation right now — the warmth of a cup, the light from the window, the taste of water — and stay with it for half a minute.",
+      "quote": null
+    },
+    "confusion": {
+      "text": "Confusion is an honest state, when the world or another person doesn't fit your ideas. Levinas borrowed from Descartes the \"idea of the infinite\" — a thought that contains more than it can hold. This, for Levinas, is how the encounter with another person works: they always exceed my idea of them; they cannot be fully understood or predicted. The drive to explain everything and fit it into a system Levinas called the drive towards \"totality\". Confusion, from this point of view, is a moment when totality cracks and something larger than your schemes shows through. It is uncomfortable, but it does not mean you are lost. Perhaps you have simply met something that cannot be appropriated — and that too is knowledge.",
+      "practice": "Write down what exactly doesn't fit your picture right now. For one minute, try not to explain it, only to acknowledge: \"This is bigger than I understand yet.\"",
+      "quote": null
+    },
+    "fatigue": {
+      "text": "Fatigue is a real state, and Levinas was one of the few philosophers to describe it seriously. In Existence and Existents (1947), he analyses fatigue and indolence not as flaws of character but as a particular relation to existence itself. Fatigue, for Levinas, is a lagging of oneself behind oneself: you seem unable to keep up with your own life, and being itself becomes a burden. This is a description, not a reproach. It helps to see that burnout is not a lack of will but a moment when existence feels like a load you have to drag. Levinas gives no recipe, but from his point of view one could say: this heaviness is not your fault, and rest is not an escape from life but a way to find your place in it again.",
+      "practice": "Notice where in your body you feel the tiredness most strongly, and let that part hold nothing for a minute.",
+      "quote": null
+    },
+    "boredom": {
+      "text": "Boredom can be oppressive, and it does not mean you are ungrateful or lazy. In I and Thou, Martin Buber distinguished two basic attitudes to the world. In the \"I–It\" relation we know, use and plan: the world becomes a set of objects and tasks. In the \"I–Thou\" relation we meet something whole — a person, a tree, a work of art — and it seems to answer us. Buber believed that we cannot live without the world of \"It\", but that a life lived only in it impoverishes a person. From this point of view, boredom is a sign that there is too much \"It\" around you: everything is familiar, useful, predictable, and nothing addresses you. The way out is not necessarily new entertainment — rather, letting something become a \"Thou\" for you.",
+      "practice": "Choose one thing near you — a cup, a plant, the view from the window — and for a minute look at it not as a thing for something, but as what is simply there before you.",
+      "quote": {
+        "text": "Without It man cannot live. But he who lives with It alone is not a man.",
+        "author": "Martin Buber",
+        "source": "I and Thou (1923)"
+      }
+    },
+    "joy": {
+      "text": "Joy is a legitimate and beautiful feeling, and Levinas, for all the rigour of his ethics, did not devalue it. In Totality and Infinity he wrote of \"enjoyment\" (jouissance) — the joy of life itself: good food, warmth, light, work. For him this is not selfishness to be ashamed of but a necessary way of being yourself, of feeling your independence and happiness. But the thought goes further: in Otherwise than Being, Levinas wrote that you can truly give to another only what you yourself enjoy — like bread taken from your own mouth. From this point of view your joy is doubly valuable: it nourishes you, and it can become a gift to another. It needs neither justification nor permission.",
+      "practice": "Name one simple thing that gives you joy right now — and think about whom you could share at least part of it with.",
+      "quote": {
+        "text": "We live from \"good soup,\" air, light, spectacles, work, ideas, sleep…",
+        "author": "Emmanuel Levinas",
+        "source": "Totality and Infinity (1961)"
+      }
+    },
+    "love": {
+      "text": "Love and tenderness are among the strongest responses to another person. In his lectures Time and the Other, Levinas wrote that in love the other remains a mystery: the relationship never becomes possession, because the other never turns into \"mine\". Even the caress, as he described it, seeks not what is already known but what keeps slipping away, what is still to come. Buber, in I and Thou, stressed that love is not simply a feeling inside a person but something that happens between people when an \"I\" addresses a \"Thou\". From this point of view, your tenderness is not a wish to appropriate but a readiness to meet someone who can never be fully known. This makes love not poorer but more alive: there is always room in it for surprise.",
+      "practice": "Remember something about a person you love that surprised you recently. Be glad that they are more than what you know about them.",
+      "quote": {
+        "text": "Feelings dwell in man; but man dwells in his love.",
+        "author": "Martin Buber",
+        "source": "I and Thou (1923)"
+      }
+    },
+    "gratitude": {
+      "text": "Gratitude is a warm feeling in which you acknowledge that you received something that did not come from yourself. For Buber and Levinas this acknowledgement runs very deep: a person does not begin with themselves at all. Buber, in I and Thou, held that relation comes first: we become ourselves by answering another's address. Levinas saw the same dependence but stressed its ethical side: in Totality and Infinity the other comes to me not as a partner in a deal but as someone who surpasses me and teaches me something. From this point of view gratitude is not a debt to be repaid as quickly as possible but joy at not being alone in your existence. You can simply live it, without turning it into a calculation.",
+      "practice": "Name one person thanks to whom you became, even a little, who you are. You could thank them — or simply do so in your thoughts.",
+      "quote": {
+        "text": "In the beginning is the relation.",
+        "author": "Martin Buber",
+        "source": "I and Thou (1923)"
+      }
+    },
+    "hope": {
+      "text": "Hope is an important feeling, especially when the future is unclear. In his lectures Time and the Other, Levinas offered an unusual understanding of time. The future, he wrote, is not what I can foresee and plan; the real future comes to me from outside, unexpectedly, like another person. So time, for Levinas, is above all a relation to the other. From this point of view, hope does not have to rest on a confident forecast. It can be an openness to what you cannot yet imagine: an encounter, a word, help, a turn of events that could not be invented in advance. If it is hard right now to rely only on yourself, hope can live in the fact that you do not face the future alone.",
+      "practice": "Remember a time when something good came into your life unexpectedly, through another person. Write it down as a reminder that the future is not exhausted by forecasts.",
+      "quote": null
+    },
+    "nostalgia": {
+      "text": "Nostalgia is a natural feeling; love for what once was lives in it. Levinas used a vivid image for this theme. In his essay \"The Trace of the Other\" (1963), he compared the habitual path of Western philosophy to Odysseus, who after all his wanderings returns home to Ithaca: everything new is in the end reduced to the familiar. Against him he set Abraham, who leaves his homeland for ever for an unknown land. True desire, for Levinas, is not a longing to return but a movement towards the other, towards what was never yours. This does not make nostalgia bad: remembering home is human. But from this point of view its warmth can be not only a look backward but also the strength with which you go to meet what is new.",
+      "practice": "Remember something you miss, and ask: what warmth from that time can I take with me into what lies ahead?",
+      "quote": null
+    },
+    "craving": {
+      "text": "An acute craving — \"I want it right now\" — can be almost physically unbearable, and there is no need to be ashamed of it. In his early essay On Escape (1935), Levinas described a deep human \"need to get out\" of oneself: the feeling of being \"riveted\" to your own existence, unable to rest from it. Pleasure, he wrote, promises such an exit, but the promise proves deceptive: the moment passes, and the person is alone with themselves again — often with an even greater weight. From this point of view a craving is not a whim but a very human wish to be free, even briefly, of the burden of being yourself. Levinas saw the real way beyond oneself not in a substance or a habit but in the relation to the Other. The wave of craving rises and falls — and you can wait it out, remembering what it is really looking for.",
+      "practice": "When the craving comes, ask: \"What in me do I want a rest from right now?\" — and simply name it, without rushing to act.",
+      "quote": null
+    },
+    "addiction": {
+      "text": "When life has long been organised around one thing, it is a heavy and lonely circle, and it does not make you a bad person. In I and Thou (1923), Martin Buber distinguished two relations to the world: \"I–It\", where we deal with things and means, and \"I–Thou\", where we meet the other whole. Addiction, from this point of view, can be described as a world in which a single \"It\" has eclipsed almost every \"Thou\". In Totality and Infinity (1961), Levinas said that a person lives \"from\" things — food, light, work — and there is nothing wrong in that; but real openness begins where the face of another person appears. The way out of the circle, by this logic, lies not through self-punishment but through the return of encounters.",
+      "practice": "Remember one person with whom you felt like a \"Thou\" rather than a function. Sometimes such encounters happen in mutual-help groups too.",
+      "quote": null
+    },
+    "hangover": {
+      "text": "The morning after — with nausea, anxiety and gaps in memory — is hard, and right now you are allowed to be gentle with yourself. In his essay On Escape (1935), Levinas described with remarkable precision two feelings that many people know on such a morning. Nausea, for him, is a state in which you cannot get away from yourself: body and existence press down on you entirely. Shame is the experience of being seen and unable to hide, even from yourself. Levinas stressed that shame concerns not so much a deed as our very nakedness and vulnerability. From this point of view your morning shame is not a final verdict but an experience of human fragility that everyone shares. You can treat it gently: first come back into your body, and sort through yesterday later.",
+      "practice": "Place your palm on your chest or belly and take a few slow breaths out. Tell yourself: \"I feel bad right now, and this will pass.\"",
+      "quote": null
+    },
+    "euphoria": {
+      "text": "A sudden rush, when everything seems possible, is a vivid experience, and you can simply enjoy it. In Totality and Infinity (1961), Levinas wrote of \"enjoyment\" — of how a person lives from light, air, food, work, ideas, and how in this \"living from\" there is real, innocent happiness. He did not consider it something lower. But he noticed something else too: enjoyment lives in the moment and does not know what tomorrow will bring. From this point of view euphoria is one of the fullest forms of such enjoyment, and there is no guilt in it. What gives it depth, for Levinas, is encounter: joy becomes sturdier when it can be shared with another person rather than only lived inside.",
+      "practice": "Tell someone in one sentence what has lifted you up so much right now — or write it down as if you were telling a friend.",
+      "quote": null
+    },
+    "crash": {
+      "text": "A sharp drop after a high — a celebration, a success, a bright evening — can be very hard, and it is not your fault. In Totality and Infinity (1961), Levinas wrote that the enjoyment we live from always comes without guarantees: its \"future\" is uncertain, and the joy of the moment does not protect us from what comes next. In Existence and Existents (1947), he carefully described fatigue as a state in which existence suddenly becomes heavy, like a burden. From this point of view the \"comedown\" is not a sign that something is wrong with you but the flip side of the very capacity for joy. Levinas did not suggest running from this heaviness; he pointed to where to look for support: not in the next high, but in the relation with another.",
+      "practice": "Send one person a short message for no particular reason — just to be in touch.",
+      "quote": null
+    },
+    "panic": {
+      "text": "A wave of panic is one of the most frightening experiences: it feels as if the ground is slipping from under your feet. In Existence and Existents (1947), Levinas described a state he called the \"il y a\" — \"there is\": impersonal being in which there is no one and nothing definite, only the hum of existence. He said it evokes not anxiety but \"horror\". But in the same book Levinas described how a person emerges from this hum: through \"position\" — through the body taking a place, resting on the ground, finding a \"base\". One could say that consciousness begins with standing somewhere. From this point of view, pressing your feet against the floor is no small thing but a literal return of your place to you. Such a wave usually peaks and subsides within a few minutes.",
+      "practice": "Press your feet into the floor and feel the support. Name five objects around you out loud and make your out-breath longer than your in-breath.",
+      "quote": null
+    },
+    "dread": {
+      "text": "Dread before finitude, the question \"what is it all for?\" — this is a very deep experience, and it is hard to be alone with it. Levinas argued with Heidegger, for whom the relation to one's own death was the key to authentic life. In his lectures Time and the Other (1947), Levinas wrote that death is not something we can understand or \"take on\": it is a mystery beyond our powers. Meaning, for Levinas, comes not from facing your own finitude but from meeting another person — their \"face\", which addresses me and needs me. From this point of view, the question \"what for?\" can be answered not with a theory but with a relationship: someone needs me, and I need someone. The abyss does not disappear, but another person appears in it.",
+      "practice": "Name a person or a creature who may need you today, and do something very small for them.",
+      "quote": null
+    },
+    "fomo": {
+      "text": "The feeling that everyone else is living more interesting lives and you are not where you should be is very familiar, especially when other people's lives are constantly on display. Levinas criticised \"totality\" — a view that fits all people into one system, compares them and ranks them. Comparison is just such a small totality: me and others as points on one scale. But for Levinas the real other cannot be reduced to any scale: their \"face\" is always more than whatever can be shown of them. The same is true of you: your life is not an item in a common ranking. Buber would add that a feed shows people as \"It\" — pictures — while encounter happens only with a \"Thou\". Wherever you truly meet someone, you are already \"where you should be\".",
+      "practice": "Remember your last real encounter — a conversation, a glance, a shared silence. Where were you at that moment? Write it down in one sentence.",
+      "quote": null
+    },
+    "sleepless": {
+      "text": "Sleepless hours at night, when thoughts give you no peace, can be painfully lonely. Levinas is one of the few philosophers to have described insomnia seriously. In Existence and Existents (1947), he says that in insomnia we stay awake not because we want to but because impersonal being itself — the \"il y a\", the \"there is\" — won't let us go. It is a vigil without an object, directed at nothing: you simply \"can't sleep\". For Levinas, sleep is the possibility of \"laying yourself down\", of finding support and shelter. From this point of view insomnia is not your failure but a state everyone knows, in which it is hard to find your place. And he saw the way out not in forcing yourself to sleep but in finding support again — your body, the bed, your place.",
+      "practice": "Feel where your body touches the bed: heels, back, the back of your head. Notice each point of support in turn, without trying to fall asleep.",
+      "quote": null
+    },
+    "betrayal": {
+      "text": "Betrayal hurts especially because it comes from where you were open. In I and Thou (1923), Martin Buber wrote that in our world every \"Thou\" sooner or later becomes an \"It\": even the closest person sometimes turns, for us, into an object, a means, a function. He called this the sadness of our lot. Betrayal can be seen as the moment when you suddenly found yourself to be not a \"Thou\" for the other but an \"It\". Levinas would add that the face of the other is always vulnerable, and that is exactly why yours is open too: to be capable of trust is to be capable of being wounded. From this point of view your pain is not evidence of naivety but confirmation that you truly lived in the relationship.",
+      "practice": "Write down which part of yourself you opened to this person. It is yours, and it does not vanish with the betrayal.",
+      "quote": null
+    },
+    "jealousy": {
+      "text": "Jealousy is agonising: the fear of losing someone squeezes everything inside. In his lectures Time and the Other (1947), Levinas wrote that another person is someone who can never be fully understood, appropriated or held on to. They are not part of me or my extension; in love we meet precisely this unfathomability. From this point of view jealousy can be understood as a painful collision with the fact that the other always remains other — they have a depth of their own to which we have no access. This does not make you a bad person: it is how the strength of your attachment shows itself. But Levinas also offers consolation: it is exactly because the other cannot be appropriated that the encounter with them is alive. If they could be held completely, it would no longer be love but the possession of a thing.",
+      "practice": "Write down one thing about this person that you love precisely because it does not depend on you.",
+      "quote": {
+        "text": "The relationship with the other is a relationship with a Mystery.",
+        "author": "Emmanuel Levinas",
+        "source": "Time and the Other (1947)"
+      }
+    },
+    "resentment": {
+      "text": "A long-held grievance is heavy, and if it is with you, it means you were once truly hurt. In one of his Talmudic Readings (1968), Levinas examined an old text about the Day of Atonement: offences against God, it says, can be forgiven, but offences against a person are forgiven only when the offender has gone to the one they wronged. Levinas gave this great importance: harm done to a person is real harm, and it cannot be erased in the abstract. From this point of view your grievance is legitimate: it remembers that you were treated unjustly. No one has the right to demand quick forgiveness from you. But you can ask how to carry this memory so that it does not take away your capacity for new encounters.",
+      "practice": "Write down what would have to happen for you to feel lighter. It doesn't have to happen — what matters is naming it.",
+      "quote": null
+    },
+    "heartbreak": {
+      "text": "A break-up can feel like a wound that won't close. In his lectures Time and the Other (1947), Levinas described love not as the fusion of two halves but as a relation with someone who always slips away. The beloved never becomes entirely \"mine\" — and in this lie both the depth of love and its fragility. From this point of view a break-up is a painful confirmation that the other was always other: free, separate. This does not cancel the pain or make the past unreal: the encounter happened, and it was genuine. Buber wrote that real relationships live \"between\" people. What was between you has already happened, and it cannot be undone — even now, when you are apart.",
+      "practice": "Write down one moment in this relationship when you truly met each other. It remains yours.",
+      "quote": {
+        "text": "The pathos of love consists in an insurmountable duality of beings.",
+        "author": "Emmanuel Levinas",
+        "source": "Time and the Other (1947)"
+      }
+    },
+    "impostor": {
+      "text": "The fear of being found out at any moment is familiar to a great many people, including those who are doing perfectly well. Levinas and Buber offer an unexpected view. For Buber, a person does not \"make themselves\" alone: they become themselves in relationships, in encounter with another. For Levinas, my uniqueness is born not from achievements but from the fact that I am addressed and I answer: \"Here I am.\" No one can answer in my place. From this point of view impostor syndrome rests on a false premise: that your right to be here has to be earned by flawlessness. But you are here because you were addressed and you responded. That cannot be \"exposed\": a response is not a mask but who you already are.",
+      "practice": "Remember who turned to you this week and with what request, and how you responded. Write it down without judging.",
+      "quote": {
+        "text": "Through the Thou a man becomes I.",
+        "author": "Martin Buber",
+        "source": "I and Thou (1923)"
+      }
+    },
+    "self_hatred": {
+      "text": "When your inner voice is merciless, living with it is very hard, and you deserve gentleness. In Totality and Infinity (1961), Levinas contrasted the \"judgement of history\" — a verdict passed on a person in absentia, as if they themselves were not there — with the living presence of a person, their face, which can never be reduced to a verdict. The inner critic resembles such a trial in absentia: it talks about you in the third person, lists, sums up. But for Levinas a person is always more than any summary of them. Buber would say that the critic treats you as an \"It\", an object to be fixed. From this point of view you can decline the critic's verdict — not by arguing with it, but by reminding yourself that you are not an object but someone who can be addressed as \"you\".",
+      "practice": "Rewrite one of your inner critic's sentences the way a person who respects you would say it to your face.",
+      "quote": null
+    },
+    "helplessness": {
+      "text": "Feeling powerless to change anything is very heavy, and it deserves to be taken seriously. Levinas wrote a great deal about passivity and vulnerability. In Otherwise than Being (1974), he speaks of \"sensibility\" as the capacity to be affected, to be woundable — and sees in it not weakness but the foundation of humanity. For him a person is defined not only by what they can do but also by how they can respond. Even when you cannot change the situation, you can say \"here I am\" — be present, look, not turn away. From this point of view helplessness is not your absence but a place where you are vulnerable together with others. And in that place a small but real response is still possible.",
+      "practice": "Ask yourself: \"If I can't change this, how can I simply be present here?\" — and write down one action that takes a minute.",
+      "quote": null
+    },
+    "procrastination": {
+      "text": "When you just can't get started, it is easy to call yourself lazy. In Existence and Existents (1947), Levinas unexpectedly gave indolence a serious analysis. He wrote that indolence is not simply unwillingness to work but a recoil before beginning itself: to begin is to take on the burden of existence, to enter an action that will demand all of you. So for Levinas indolence is linked to weariness with being, not to bad character. From this point of view \"I can't start\" is an understandable reaction to the weight of the first step. Hence the relief: you don't have to begin heroically. You can begin with something so small that it barely feels like a beginning.",
+      "practice": "Choose the tiniest action on the task — open the file, write one word — and do only that.",
+      "quote": null
+    },
+    "uprooted": {
+      "text": "When the ground has gone from under your feet — a move, emigration, the loss of a familiar world — it is a deep and real loss. Levinas himself walked the emigrant's road: born in Kaunas, he studied in Strasbourg and Freiburg and lived in France. In his essay \"Heidegger, Gagarin and Us\" (1961), he argued against the cult of \"roots\" and \"place\": for him a human being is not a plant, and their dignity does not depend on the soil they grew in. He liked to contrast Odysseus, who is always trying to return home, with Abraham, who sets out into the unknown. From this point of view being cut off from home is painful, but it is not a loss of self. Your humanity, for Levinas, lives not in a place but in your relationships with people, and it moves with you.",
+      "practice": "Write down the name of one person in your new place with whom you have already had an encounter, however small.",
+      "quote": null
+    },
+    "overload": {
+      "text": "An endless stream of information and notifications really does wear you out. In Otherwise than Being (1974), Levinas distinguished \"the said\" — content, facts, information — from \"the saying\" — the very act of one person addressing another. One could say that overload is a world where there is endlessly much said and almost no saying: streams of text in which no one truly addresses you. Buber would speak of the world of \"It\", where everything is objects and data. From this point of view, feed fatigue is not your inability to \"keep up\" but a hunger for real address. What helps is not a new way to keep up with everything but a small step out of the stream towards a living voice.",
+      "practice": "Put the feed aside and write to or call one person — not \"about something\", but simply to address them.",
+      "quote": null
+    },
+    "unreality": {
+      "text": "The feeling that everything around you, or you yourself, is somehow not quite real can be frightening and lonely, and it deserves care. Levinas described the state of the \"il y a\" — the impersonal \"there is\": the world seems to lose its shapes and meanings, and only a dull presence remains, in which there is no \"I\". From this point of view the sense of unreality is not strange: Levinas considered such experience part of human existence. But he also pointed to what brings us back to reality — above all, another person's face: their gaze and voice address us, and we turn out to be someone. Buber would say that reality is born in encounter. Perhaps reality returns not through reflection but through contact.",
+      "practice": "Look into the eyes of someone close to you or an animal, or listen to someone's voice — and name to yourself the colour of their eyes or the timbre of the voice.",
+      "quote": null
+    },
+    "awe": {
+      "text": "Awe before something vast or beautiful is a rare experience, and you can simply let it fill you. In Totality and Infinity (1961), Levinas drew on Descartes' thought of the \"idea of the infinite\": we have a thought that holds more than it can hold. For Levinas this experience — when something surpasses us and does not fit into our understanding — happens above all in the encounter with another person, but an echo of it is present in any awe. Buber wrote that one can enter an \"I–Thou\" relation even with a tree: not examining it as an object but meeting it whole. From this point of view awe is the moment when the world stops being \"It\" and becomes \"Thou\" again. Such a moment needs nothing added to it.",
+      "practice": "Stay another minute with what filled you with awe, as if it were looking at you just as you are looking at it.",
+      "quote": null
+    },
+    "relief": {
+      "text": "Relief, when something heavy finally lets go, is a wonderful feeling and worth noticing. In his early essay On Escape (1935), Levinas described how hard it can be to be \"riveted\" to yourself and your worries, and how strong the need is to get out, to be even a little free. From this point of view relief is that rare moment when the weight really lifts and you can breathe. Often it comes not on its own but through another — through a word, help, a hug, news of someone close. Levinas believed that it is the other who leads us beyond ourselves. So relief is a good occasion to remember who or what helped, and perhaps to say so.",
+      "practice": "Take a long breath out and ask yourself: who or what helped this happen? If it was someone, you could tell them.",
+      "quote": null
+    },
+    "calm": {
+      "text": "Calm is a precious state; you can simply be in it. In Totality and Infinity (1961), Levinas wrote a great deal about \"home\" and \"dwelling\". Home for him is not just walls but a place of \"recollection\": where you can gather yourself, rest from the pressure of the world, and from which you can go out to meet others. He linked home with \"gentleness\" — an atmosphere of hospitality in which a person feels welcomed. From this point of view calm is the experience of such a home, even if it lasts a minute and is found not in an apartment but in you. Levinas stressed that home is also precious because you can invite another into it. But first you can simply be in it yourself.",
+      "practice": "Notice what around you right now creates a feeling of home — a light, a sound, an object — and silently thank it.",
+      "quote": null
+    },
+    "inspiration": {
+      "text": "Inspiration — the moment when a thought or image seems to arrive from outside and you want to create — is one of the best sides of life. In Otherwise than Being (1974), Levinas used exactly this word, \"inspiration\", to describe the very depth of the human soul. For him a person is not a closed fortress: \"the other-in-the-same\" lives in us, and we breathe what does not come from us. One could say that inspiration is the experience of being open to something larger than yourself. Buber said something similar about creation: a form awaits encounter and addresses the artist, and the artist answers. From this point of view inspiration is neither an achievement nor an accident but a response to being addressed. You can simply respond.",
+      "practice": "Write down what has just come to you, as an answer to the question \"What is addressing me right now?\" — without editing.",
+      "quote": null
+    },
+    "schadenfreude": {
+      "text": "Schadenfreude — joy at someone else's failure — is usually embarrassing to admit even to yourself. But almost everyone knows this feeling, and in itself it says little about who you are. Martin Buber distinguished two relations to a person: \"I–Thou\", when we meet them whole, and \"I–It\", when they become an object, a figure in our calculations. Schadenfreude almost always lives in the \"It\" mode: a rival turns into a line on the scoreboard, and their loss seems like our point. Levinas would call this the gaze of \"totality\" — a gaze that inscribes the other into its own system. But once you see a \"face\" in the same person — someone alive and vulnerable, for whom something has also collapsed — schadenfreude usually weakens by itself. There is no need to punish yourself; it is enough to notice this shift.",
+      "practice": "For a minute, imagine this person not in the role of a rival but at home, in the evening, after their failure. Notice what has changed in your feeling.",
+      "quote": null
+    },
+    "contempt": {
+      "text": "Contempt is the feeling of looking down: the other seems petty, unworthy. Sometimes it has grounds, and it does not make you a bad person. Levinas described meeting another as meeting a \"face\" that addresses us both from defencelessness and from a \"height\": the other is vulnerable — and yet speaks to us as someone who cannot be reduced to our assessment. Contempt tries to turn this picture upside down: to put yourself above and stop listening. From this point of view one could say that contempt often protects against something — disappointment, hurt, the need to recognise in the other the same vulnerability as in yourself. You need not fight it; you can ask: what exactly do I stop hearing when I feel contempt?",
+      "practice": "Remember how this person looked at a moment of tiredness or bewilderment. Describe in one sentence what you saw then.",
+      "quote": {
+        "text": "The face is what one cannot kill, or at least it is that whose meaning consists in saying: \"thou shalt not kill.\"",
+        "author": "Emmanuel Levinas",
+        "source": "Ethics and Infinity (1982)"
+      }
+    },
+    "disgust": {
+      "text": "Disgust is a strong bodily feeling, directed at people, a situation, sometimes at yourself. It does not make you bad. As early as his essay On Escape (1935) — three years before Sartre's Nausea — Levinas described nausea as a philosophical experience: not only revulsion at something external but the impossibility of getting rid of yourself, a feeling of being \"riveted\" to your own existence. From this point of view self-disgust is especially agonising: there is nowhere to step away from it. Later Levinas saw the way out not in sinking further into yourself but in turning towards another person, who leads you out of confinement. One could say that disgust is a signal that the space has become too cramped, and what widens it is not straining against yourself but connection.",
+      "practice": "If the disgust is directed at yourself, send someone one simple, warm message. Notice how the space around you changes.",
+      "quote": null
+    },
+    "revenge": {
+      "text": "The wish for revenge grows out of a real wound: you were treated unjustly, and your soul demands an answer. The feeling is understandable, and at its root lies an important truth: injustice should not go without consequences. Levinas distinguished ethics — the responsibility I bear before the face of a particular other — from justice, which arises when a \"third party\" enters the relationship: other people who must also be taken into account. Justice, for Levinas, requires comparison, weighing, courts, institutions — everything personal retribution cannot provide. From this point of view the wish for revenge can be understood as a demand for justice looking for the right form. There is no need to be ashamed of it; what matters is not letting it turn you into someone you don't want to be.",
+      "practice": "Write down what kind of justice you would need: an admission of guilt, an apology, compensation, protection. This helps to tell the need for justice apart from the wish to cause pain.",
+      "quote": null
+    },
+    "anger_at_loved": {
+      "text": "Anger at those close to you — a partner, parents, children — can be scorching, and shame comes after it. It is a very human feeling. In a public dialogue with the psychologist Carl Rogers (1957), Martin Buber distinguished \"accepting\" another from \"confirming\" them. To confirm someone close is to acknowledge them whole, to see who they could become; and at the same time, Buber said, one can struggle against what is happening in them now. From this point of view anger does not contradict love: it can be part of a real relationship in which the other matters to you rather than leaving you indifferent. Indifference would be much further from love than anger. What matters is only not to pour the anger out on the other and not to hide it from yourself, but to find words for it, addressed to them as a \"Thou\".",
+      "practice": "When the anger has settled, form one sentence: \"I'm angry because I can see what our relationship could be…\" — and finish it.",
+      "quote": null
+    },
+    "ambivalence": {
+      "text": "Loving someone and not being able to stand them at the same time is an exhausting but very human state. Levinas stressed that another person is always \"other\": they cannot be fully understood, appropriated or fitted into one picture. He called this \"alterity\" and saw in it not a flaw of relationships but their essence. That is why someone close to us inevitably both draws us and resists us — does not match our expectations. Mixed feelings are, in a sense, an honest response to this otherness. Buber understood love not as a feeling that \"lives\" in me but as a relation of responsibility for another. From this point of view you do not have to untangle all your feelings first in order to love: love can hold both irritation and tenderness, remaining a choice to care.",
+      "practice": "Write down one thing you feel responsible for in relation to this person — regardless of what you feel towards them right now.",
+      "quote": {
+        "text": "Love is responsibility of an I for a Thou.",
+        "author": "Martin Buber",
+        "source": "I and Thou (1923)"
+      }
+    },
+    "guilty_relief": {
+      "text": "Relief after a break-up, the death of someone close, or long care for someone seriously ill often brings shame: how can I feel lighter? But relief and love can live side by side. Levinas spoke of infinite responsibility for the other, and one might think such an ethics demands carrying the load without end. But in Otherwise than Being (1974), he added something important: thanks to \"the third party\", thanks to justice, I too turn out to be \"an other for others\" — someone who needs to be cared for. Your exhaustion has weight too. From this point of view relief is not a betrayal of love but a sign of how long you carried an enormous responsibility. The breath out after it does not cancel the fact that you were there.",
+      "practice": "Write down what exactly you were carrying all this time — tasks, worries, decisions. Read the list and tell yourself: \"That was a lot.\"",
+      "quote": null
+    },
+    "indifference": {
+      "text": "Sometimes, where something \"should\" move you — someone else's trouble, important news — there is silence inside. It is frightening, but it does not mean you are heartless. Levinas loved a play on words: he called the relation to the other \"non-indifference\" — the other's difference already affects us before we have had time to feel anything. This being-affected, for Levinas, lives deeper than emotions, in \"sensibility\" as vulnerability. From this point of view the absence of feeling on the surface does not mean the absence of connection: sometimes the psyche is simply tired, overloaded or protecting itself. In Existence and Existents, Levinas described fatigue as a state in which existence seems to lag behind itself. You don't need to force yourself to feel \"the right way\"; you can simply stay close — with attention, with action — and the feeling may come later.",
+      "practice": "If the feeling doesn't come, do one small thing for someone nearby: a question, some help, your attention. Notice what happens inside afterwards.",
+      "quote": null
+    },
+    "escape": {
+      "text": "The wish to drop everything — work, city, role — and just go wherever the road leads is familiar to a great many people. It is not foolish: this is often how a life that has become too cramped speaks. Levinas devoted his early essay On Escape (1935) to it. He described the need to go beyond one's own limits, the painful \"riveted\" state of being bound to one's existence, and noticed that this need cannot be satisfied by a simple change of scene: we take ourselves along. Later he saw the real \"way out\" in the relation to another person. In The Way of Man, Buber retold a Hasidic tale about a poor man who searched for treasure in a distant capital and found it under the stove of his own house. This is not an argument about whether to leave or not. From this point of view the wish to escape deserves to be heard: it speaks of a real confinement, and part of the answer may be closer than it seems.",
+      "practice": "Write down what exactly you want to escape from and what you are reaching towards. The second list is sometimes more important than the first.",
+      "quote": null
+    },
+    "forbidden_attraction": {
+      "text": "Attraction to someone who is \"off-limits\" — someone unavailable, the \"wrong\" person — can be embarrassing and frightening. In itself it decides nothing for you and says nothing about what kind of person you are. Levinas distinguished \"need\" from \"desire\". A need can be satisfied — with bread, rest, possession. \"Metaphysical desire\", for Levinas, is different: it reaches towards what surpasses us and is never fully appropriated. In his lectures Time and the Other (1947), he described love as a relation to mystery: it seeks what keeps slipping away. From this point of view unavailability can be part of the attraction itself — what draws you to the other is precisely their otherness. You can explore this feeling without rushing either to condemn yourself or to decide anything.",
+      "practice": "Write down what about this person remains a mystery to you. Ask yourself which part of your own life this mystery is calling you towards.",
+      "quote": null
+    },
+    "social_anxiety": {
+      "text": "Fear of people and their judgement makes simple things hard: starting a conversation, walking into a room, making a call. It is a common and understandable experience. In his essay \"Elements of the Interhuman\" (1953), Martin Buber distinguished \"being\" from \"seeming\": a person can live from who they are, or from how they want to appear. Buber believed that everyone knows the urge to seem, and it is not a vice in itself, but it is exactly what gets in the way of genuine encounter and takes a great deal of energy. Levinas would add that meeting another is not showing yourself but answering their address. From this point of view relief comes when attention shifts from \"how do I look\" to \"who is in front of me and what are they saying\". You don't need to be brilliant; it is enough to be present.",
+      "practice": "In your next conversation, allow yourself one simple, unrehearsed sentence. Notice what happens when you are not trying to look a certain way.",
+      "quote": null
+    },
+    "uncertainty": {
+      "text": "Uncertainty is exhausting: it is unclear what will happen, and there is nothing to lean on. Wanting to know in advance is natural. In his lectures Time and the Other (1947), Levinas gave an unexpected definition of the future: the future is what cannot be grasped, what comes to us from outside and escapes our control. He likened it to another person: just as the other cannot be fully understood and appropriated, the future never belongs to us in advance. For Levinas this is not only a threat but also a source of the new: if the future were known, there would be nothing truly other in it. From this point of view uncertainty is the other side of life's openness. It is easier to bear not alone but alongside people who don't know either.",
+      "practice": "Talk with someone about what neither of you knows about the future. Notice how uncertainty changes when it is shared.",
+      "quote": null
+    },
+    "waiting": {
+      "text": "Waiting — for an answer, results, news — stretches time and keeps you from living. It is hard, especially when the outcome does not depend on you. Levinas thought a great deal about time and believed that real time opens up in the relation with another: what comes from the other cannot be hurried or forced. Buber wrote something similar about encounter: it cannot be obtained by effort; it comes as a gift. This does not mean waiting should be pleasant. But from this point of view you can see in waiting not only helplessness but also an honest acknowledgement: the world and other people are not an extension of our will. Levinas valued \"patience\" as a particular form of openness. You can surround the waiting with care for yourself, without demanding calm of yourself.",
+      "practice": "While you wait, do one kind thing for yourself or for someone else — not to distract yourself, but so that the time of waiting is also time lived.",
+      "quote": {
+        "text": "The Thou meets me through grace — it is not found by seeking.",
+        "author": "Martin Buber",
+        "source": "I and Thou (1923)"
+      }
+    },
+    "regret": {
+      "text": "Regret over what you did or didn't do can come back again and again. The feeling says that something mattered to you. In his essay \"Guilt and Guilt Feelings\" (1957), Martin Buber distinguished fruitless self-torment from \"existential guilt\" — the honest acknowledgement that you violated or missed something in your relationships with people and the world. Such guilt, for Buber, is not a verdict but the beginning of a path: to shed light on what happened, to remain the one who answers for it, and where possible to restore the broken connection — if not with the same person, then with the world. From this point of view regret is not a reason to punish yourself but an invitation to respond. The past cannot be changed, but what you make of it now can.",
+      "practice": "Write down which connection was broken or missed by what you regret. Consider whether there is a small step by which it could be restored — even if differently.",
+      "quote": null
+    },
+    "longing": {
+      "text": "Longing for a particular person can be almost physical: you miss their voice, their face, their presence. It is the natural price of a real bond. Levinas believed that another person is never exhausted by our idea of them: they are always more than we know about them. That is why no memory or photograph can replace a living face — and why longing is so sharp. From this point of view longing is also a form of relationship: you remain turned towards this person even when they are not near. Buber wrote that a \"Thou\" cannot be had like a thing — one can only stand in relation with it. Longing reminds you that this relationship is alive. You can live it as faithfulness to an encounter that was, and remains, part of you.",
+      "practice": "Say — out loud or on paper — one sentence addressed directly to this person, as \"you\". Notice what you feel.",
+      "quote": {
+        "text": "Whoever says You does not have something; he has nothing. But he stands in relation.",
+        "author": "Martin Buber",
+        "source": "I and Thou (1923)"
+      }
+    },
+    "world_pain": {
+      "text": "Pain for the world — for wars, injustice, hard news — can weigh on you so much that it is hard to live an ordinary life. This feeling speaks of your capacity to respond, and Levinas would take it seriously: for him the suffering of another addresses us before any theory. In his essay \"Useless Suffering\" (1982), he wrote that suffering in itself is meaningless, and that only a response — the help, the care of another — gives it a human dimension. But Levinas also spoke of \"the third party\": there are many people, and responsibility has to be measured and shared out, turning it into justice, which is larger than any one person. From this point of view you are not obliged to carry the whole world alone. You can respond where you are: to a particular person near you.",
+      "practice": "Choose one particular face — a person near you, or those who help others — and take a small step towards them. Then allow yourself to rest.",
+      "quote": null
+    },
+    "rejection": {
+      "text": "Rejection hurts as if it were not a request that was turned down but you as a whole. This pain is natural. Buber wrote that a real \"I–Thou\" encounter cannot be forced: it takes two, and each is free in it. Levinas stressed the same freedom in his own way: another person is not an extension of our wishes; their \"otherness\" includes the right to say \"no\". It hurts, but this freedom is also what makes an encounter real: if the other could not refuse, their \"yes\" would mean nothing. From this point of view a refusal passes no verdict on your worth; it speaks of the other's freedom and of the fact that this encounter did not come together. You can still be a \"Thou\" for other people, and they for you.",
+      "practice": "Write down the names of two or three people for whom you are truly a \"you\" right now. If you like, write to one of them.",
+      "quote": null
+    },
+    "abandonment": {
+      "text": "The fear of being abandoned can run very deep: it seems that without the other your support will vanish. This is understandable — we are beings who live in relationships. In his early works Levinas described the \"il y a\" — the impersonal \"there is\", dull faceless being in which a person feels utterly alone. It is another person, for Levinas, who pulls us out of this solitude — which is why the fear of losing someone close is so strong: it touches the very foundation. But in Totality and Infinity Levinas also wrote about \"dwelling\" — a home where a person can gather themselves and rest — and linked it to the experience of hospitality, of having once been welcomed. From this point of view the experience of having been welcomed stays with you, even when someone leaves.",
+      "practice": "Remember a place or a person with whom you felt welcomed. Describe that feeling in three words and stay with it for a minute.",
+      "quote": null
+    },
+    "unrequited": {
+      "text": "Unrequited love hurts badly: the feeling is there, but there is no answer. That does not make it any less real. Levinas stressed the \"asymmetry\" of the ethical relation: I turn towards the other without first demanding reciprocity — and there is nothing foolish or humiliating in that. Your love, from this point of view, was not a deal that \"didn't pay off\". But Levinas insisted just as much on the otherness of the other: to love a person is to recognise their freedom, including the freedom not to respond. And Buber wrote that a living relationship is mutual — which is why it hurts so much without an answer: the encounter remained unfinished. From this point of view you can both value your feeling and take care of yourself: not demanding an answer from the other, and not demanding that you stop loving at once.",
+      "practice": "Write down what your love has given you: which sides of yourself you came to know through it. That remains yours.",
+      "quote": null
+    },
+    "humiliation": {
+      "text": "Humiliation is one of the hardest experiences: it feels as if your dignity has been taken from you, often in front of others. This pain is natural. Levinas wrote that a person's face is not their appearance or role but what speaks before any words: defenceless, \"naked\", and at the same time demanding respect. Humiliation tries to reduce you to an object — to an \"It\", Buber would say — to a thing that can be appraised and discarded. But for Levinas the face can never be entirely turned into a thing: it always remains more than any attempt to belittle it. From this point of view humiliation speaks of the act of the one who humiliated, not of your essence. The pain is real, but you don't have to accept the verdict.",
+      "practice": "Divide a sheet into two columns: \"what was done to me\" and \"who I am\". In the second, write down what has remained unchanged.",
+      "quote": null
+    },
+    "body_shame": {
+      "text": "Dissatisfaction with your body can be exhausting: the mirror turns into an exam. It is a very common feeling. Levinas distinguished the \"face\" from appearance. The face, for Levinas, is not a set of features that can be rated but the very way a person addresses another: their presence, voice, vulnerability. In the conversations Ethics and Infinity (1982), he even remarked that you truly meet a person when you stop examining their appearance. And in Totality and Infinity, Levinas described the body as that by which we \"live from\" the world: enjoying warmth, food, light. From this point of view the body is not a picture to be examined but your way of being in the world and with others. The people who love you meet you, not your reflection.",
+      "practice": "Think of a person who is dear to you. What do you value in them? Notice how much of it has nothing to do with appearance — and try applying that to yourself.",
+      "quote": {
+        "text": "The best way of encountering the Other is not even to notice the color of his eyes!",
+        "author": "Emmanuel Levinas",
+        "source": "Ethics and Infinity (1982)"
+      }
+    },
+    "illness": {
+      "text": "When the body lets you down — illness, pain, weakness — life changes, and fear, irritation and sadness are natural here. Levinas described suffering honestly, without comforting illusions. In his lectures Time and the Other, he said that in physical pain a person is as if pressed against their own existence, with nowhere to retreat. And in his essay \"Useless Suffering\" (1982), he wrote that suffering in itself carries no higher meaning — which means you don't have to force yourself to draw a lesson from it. Meaning, for Levinas, appears in relation: when another responds to your pain — and when you allow them to. From this point of view illness is neither your fault nor a test you have to \"pass correctly\". You can allow yourself to accept help.",
+      "practice": "Ask someone for a small bit of help — or simply tell them how you are feeling. Notice what happens when your pain is shared.",
+      "quote": null
+    },
+    "pride": {
+      "text": "Pride in what you have done is a good, well-earned feeling, and there is no need to hide it. Although Levinas wrote a great deal about responsibility for the other, he gave an important place to what he called \"enjoyment\": a person lives \"from\" the world — from work, food, light, ideas — and delights in it. For him such joy is not selfishness but the foundation of a separate \"I\", which can then give to others. In The Way of Man According to the Teaching of Hasidism (1948), Buber wrote that every person brings something new into the world, something that has never existed before, and that their task is to unfold precisely this. From this point of view your pride is joy at having made something of your own. It deserves to be enjoyed and perhaps shared with someone who will be glad for you.",
+      "practice": "Tell someone who will be glad for you about your achievement. Notice how the joy changes when it is shared.",
+      "quote": null
+    },
+    "melancholy": {
+      "text": "Bright sadness, melancholy, is a quiet feeling in which sorrow is mixed with tenderness towards the world. It doesn't need fixing. Buber wrote of the \"exalted melancholy\" of the human lot: a living \"I–Thou\" encounter cannot last for ever, and every \"Thou\" becomes part of the everyday world again. But he also believed that encounter can happen again, and that the very memory of it changes us. Levinas would add that time is not simply a series of losses but an openness to what is still to come, to the other. From this point of view bright sadness is the feeling of someone who knows the value of encounters and does not turn away from their fleetingness. You can live it unhurriedly, like quiet music, and perhaps remember whom you would like to share it with.",
+      "practice": "Remember one encounter — with a person, a place, a book — that was a \"Thou\" for you. Stay with this memory for a minute, without trying to hold on to it.",
+      "quote": {
+        "text": "This is the exalted melancholy of our fate, that every Thou in our world must become an It.",
+        "author": "Martin Buber",
+        "source": "I and Thou (1923)"
+      }
+    }
+  }
+}

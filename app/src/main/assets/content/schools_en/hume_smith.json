@@ -1,0 +1,407 @@
+{
+  "id": "hume_smith",
+  "title": "Hume and Smith",
+  "tradition": "The Scottish Enlightenment",
+  "family": "early_modern",
+  "period": "18th century",
+  "sortYear": 1740,
+  "thinkers": [
+    "David Hume",
+    "Adam Smith"
+  ],
+  "keyWorks": [
+    "D. Hume, A Treatise of Human Nature (1739–1740)",
+    "D. Hume, An Enquiry Concerning Human Understanding (1748)",
+    "A. Smith, The Theory of Moral Sentiments (1759)"
+  ],
+  "summary": "Hume and Smith were friends and the leading figures of the eighteenth-century Scottish Enlightenment. They studied human beings as part of nature, relying on observation, and concluded that our lives are governed far more by feelings and habits than by pure reason — and that morality grows out of people's capacity to respond to one another's feelings.",
+  "onEmotions": "Hume held that it is feelings (the “passions”) that set our goals, while reason only helps us find the way to them: he famously called reason the “slave of the passions.” He distinguished violent passions from calm ones and showed how feelings pass from person to person through “sympathy” — our capacity to catch another's state. Adam Smith developed this idea: we constantly imagine ourselves in other people's place and see ourselves through their eyes. This is how the “impartial spectator” forms in us — an inner fair and kindly gaze that helps us bring our feelings into proportion without suppressing them.",
+  "entries": {
+    "anxiety": {
+      "text": "Anxiety is a natural response to uncertainty, and the Scots explained it without reproach. Hume wrote that hope and fear are born of uncertainty: when the imagination wavers between a good outcome and a bad one, the mind swings between joy and sorrow, and out of these mixed feelings comes unease. This means anxiety is not an error in thinking but the work of an imagination that honestly sees several possibilities. Hume also distinguished “violent” from “calm” passions: the calm ones are less noticeable, yet sometimes they shape our actions more strongly. From this point of view, you needn't try to chase away a stormy anxiety; instead, you can notice the quiet, steady feelings and values beside it — they are in you too, and they also shape your life.",
+      "practice": "Beneath your anxiety, find one calm, steady feeling or value — for example, attachment to someone, or the wish to live honestly. Name it.",
+      "quote": null
+    },
+    "fear": {
+      "text": "Fear often refuses to obey arguments, and Hume considered this entirely natural. He gave an example: a man hung over a precipice in a sturdy iron cage cannot help trembling, even though he knows perfectly well that he is safe. Imagination and habit are stronger than abstract knowledge. Hume showed that feelings are not derived from reasoning and cannot be removed by it directly. This frees you from the needless reproach of “but I know there's nothing to be afraid of.” You can know — and still be afraid; that is how human beings are made. Adam Smith added that courage is not the absence of fear but “self-command”: the ability, while feeling fear, to act in due proportion anyway, leaning on a calm inner spectator.",
+      "practice": "Tell yourself: “My fear doesn't have to obey logic — and that's all right.” Then ask: what would a calm, kindly person looking at me from the outside do right now?",
+      "quote": null
+    },
+    "sadness": {
+      "text": "Sadness is a legitimate feeling, and one of Smith's central ideas concerns how to carry it more lightly. He noticed that when we tell a friend about our sorrow, we seem to live through it all over again — and yet we feel better. Another person's sympathy softens the pain, because we begin to see our trouble partly through their eyes, a little more calmly. Hume called this capacity “sympathy”: feelings naturally pass from one person to another. The conclusion is simple: sadness doesn't have to be borne alone and in silence. Sharing it doesn't mean burdening others; it means letting an ancient, natural mechanism of consolation do its work — the very mechanism on which, in the Scots' view, all of human life rests.",
+      "practice": "Think of someone with whom you could share your sadness, even in a single sentence. If there's no such person right now, write that sentence for yourself.",
+      "quote": null
+    },
+    "grief": {
+      "text": "Grief is one of the strongest feelings, and it deserves respect. Adam Smith described with great subtlety what happens to grief among other people. Those around us, he wrote, cannot feel our loss as sharply as we do; so in their company we involuntarily soften the expression of our pain a little, and this makes us a little calmer ourselves. Alone, we feel grief in full force. Both states are normal: the need to cry it out alone and the relief of having others near. Smith also believed that especially deep sorrow stirs profound sympathy in people. Grief doesn't have to be “proportionate” to anyone's expectations. It simply needs time and, where possible, people nearby.",
+      "practice": "Notice which you want more right now: to be alone with your grief, or to be near someone. Allow yourself that without justifying it.",
+      "quote": null
+    },
+    "loneliness": {
+      "text": "Loneliness hurts, and Hume and Smith explained why: human beings are deeply social creatures. Hume wrote that complete solitude is perhaps the greatest hardship a person can suffer, since almost all our passions come alive only in connection with others. According to Smith, we constantly need “mutual sympathy” — someone to share our feelings. Without it, joy fades and sorrow grows heavier. This is not weakness or a whim; it is human nature itself, as described by sober observers. Such a view lifts the shame from loneliness: you are simply missing something all people need. And it reminds you that even a small act of shared feeling matters.",
+      "practice": "Recall the last moment when someone shared your feeling — laughed along with you, understood you without many words. What was especially precious to you in it?",
+      "quote": {
+        "text": "Nothing pleases us more than to observe in other men a fellow-feeling with all the emotions of our own breast.",
+        "author": "Adam Smith",
+        "source": "The Theory of Moral Sentiments, Part I, Sec. I, Ch. 2"
+      }
+    },
+    "anger": {
+      "text": "Anger is a natural feeling, and Adam Smith gave it an important place. He called it “resentment” and believed nature gave it to us for protection: it guards justice and keeps us from being wronged with impunity. At the same time, Smith noted that anger belongs to the “unsocial” passions — others find it hard to share until they understand what happened. So he suggested looking at the situation through the eyes of the “impartial spectator” — someone who knows everything but has no stake in anyone's winning. If that spectator would agree you were wronged, your resentment is legitimate. This view helps you not to renounce your anger but to find its fair measure.",
+      "practice": "Imagine a calm, fair witness who saw the whole situation. What would they say about your anger — and about what response would be proportionate?",
+      "quote": null
+    },
+    "shame": {
+      "text": "Shame is a painful feeling in which we look at ourselves through other people's eyes. Hume classed it under “humility” — the feeling opposite to pride, which arises when some trait or action of ours seems unpleasant to us, largely through its reflection in others' opinion. Adam Smith added an important refinement: we want not only approval but also to be worthy of it. So shame before the crowd and shame before the inner impartial spectator are different things. The first can be unjust; the second is more honest and more kind. Ask yourself: would a fair and kindly person who knew all the circumstances condemn me? Often the answer turns out gentler than the voice of shame.",
+      "practice": "Imagine someone who knows all the circumstances and wishes you well. How would they describe the thing you're ashamed of?",
+      "quote": {
+        "text": "Man naturally desires, not only to be loved, but to be lovely.",
+        "author": "Adam Smith",
+        "source": "The Theory of Moral Sentiments, Part III, Ch. 2"
+      }
+    },
+    "guilt": {
+      "text": "Guilt shows that doing right matters to you, and Smith deeply respected this feeling. He called it the voice of “the man within the breast” — the inner impartial spectator who judges our actions. But Smith also noticed an important subtlety: we often feel guilty even for what happened by accident, without any ill intent — simply because we turned out to be the cause of someone else's misfortune. He considered this feeling natural and noble in its own way, but stressed that a fair spectator judges above all by intentions, not by chance outcomes. So guilt is worth checking: what here truly depended on my will, and what on circumstances? This question doesn't remove responsibility, but it makes it honest.",
+      "practice": "Divide a sheet of paper into two columns: “my intentions and my decisions” and “chance and circumstances.” What ends up in each?",
+      "quote": null
+    },
+    "envy": {
+      "text": "Envy is a very common feeling, and Hume explained its mechanics with remarkable precision. He observed that we judge things not in themselves but by comparison: the same good seems great or small depending on what we set it against. That is why, Hume wrote, envy is aroused not by a vast difference but by closeness: a common soldier envies not the general but his sergeant, and a writer envies not a philosopher but another writer. This observation helps you see that envy is the work of a “comparing” imagination, not an objective assessment of your life. You can notice it without shame and ask: whom am I comparing myself to right now, and why?",
+      "practice": "Notice whom you're comparing yourself to. For a minute, try comparing yourself not to them but to yourself a year ago: what has changed?",
+      "quote": null
+    },
+    "emptiness": {
+      "text": "Emptiness and apathy are a heavy state, and Hume knew it firsthand. As a young man, after many months of intense study, he described to a physician how his former ardour had died away, his thoughts had grown cold, and it was hard for him to do anything. What helped him, by his own account, was not effort of will but a gradual return to a regular life, to movement and to the company of people. This fits his philosophy: reason by itself cannot make us want anything; desire and motion are born of feelings. From this point of view, apathy is not a failure of will or “laziness” but a temporary dimming of the passions. They can't be switched back on by command, but you can create conditions in which they slowly come back to life.",
+      "practice": "Choose one very simple thing involving your body or other people — a short walk, a message to a friend — and do it without expecting yourself to feel anything.",
+      "quote": {
+        "text": "Reason is, and ought only to be the slave of the passions, and can never pretend to any other office than to serve and obey them.",
+        "author": "David Hume",
+        "source": "A Treatise of Human Nature, Book II, Part 3, Sec. 3"
+      }
+    },
+    "confusion": {
+      "text": "Even the greatest minds know confusion. Hume described it at the end of the first book of his Treatise: having pushed his doubts to the limit, he felt lost, surrounded on every side by questions without answers. The way out, he admitted, came not from a new theory. He dined, played a game of backgammon, talked and laughed with his friends — and after a few hours his tormenting doubts seemed far away. Hume didn't consider this an escape: nature itself brings us back to life, and we can return to hard questions later, with fresh strength. From this point of view, your confusion doesn't demand an immediate solution. Sometimes the best thing you can do is give yourself a break in simple human things.",
+      "practice": "Set aside the question that's troubling you for an hour or an evening. Do something simple and alive — eat, talk, play — and then see whether it has changed.",
+      "quote": {
+        "text": "Be a philosopher; but, amidst all your philosophy, be still a man.",
+        "author": "David Hume",
+        "source": "An Enquiry Concerning Human Understanding, Sec. I"
+      }
+    },
+    "fatigue": {
+      "text": "Fatigue and burnout are real states, and Adam Smith has a parable about them. He describes the son of a poor man who from childhood is drawn to wealth and recognition. All his life he toils without rest, sacrificing a tranquillity that was within his reach from the very start — and only near the end does he realize that much of what he chased was worth less than the peace he lost. Smith doesn't condemn the pursuit of a better life; he simply notes that happiness depends on tranquillity more than we think. From this point of view, your fatigue is not weakness but an honest voice reminding you of rest. Rest is not lost time but a return to that without which joy is impossible.",
+      "practice": "Ask yourself: how much of my effort right now is for what truly matters to me, and how much is for expectations I no longer really believe in?",
+      "quote": {
+        "text": "Happiness consists in tranquillity and enjoyment. Without tranquillity there can be no enjoyment.",
+        "author": "Adam Smith",
+        "source": "The Theory of Moral Sentiments, Part III, Ch. 3"
+      }
+    },
+    "boredom": {
+      "text": "Boredom is natural, and Hume explained it through the way the human mind works. For Hume, the mind is drawn to lively impressions: to anything that enlivens it and sets it in motion — a game, a conversation, a new task, or even someone else's story. When such impressions are absent, the mind grows sluggish, and this is felt as boredom. From this point of view, boredom is not a sign that something is wrong with you but a sign of the mind's hunger for liveliness. Hume also stressed the role of company: people's feelings pass to one another through “sympathy,” and around others even ordinary things grow brighter. You can take boredom as a signal: you're missing living contact with the world.",
+      "practice": "Think about what last truly enlivened your mind — a conversation, a book, a walk? What tiny piece of that is available to you right now?",
+      "quote": null
+    },
+    "joy": {
+      "text": "Joy is a feeling you want to share, and the Scots explained why. Hume showed that through “sympathy” feelings pass from person to person and grow stronger as they do: joy seen in another enlivens us too. Adam Smith opens his book with the observation that even the most selfish person is not indifferent to the happiness of others and is glad to see it. So shared joy is not diminished but grows. Your joy is not only your private affair; in Hume's and Smith's view, it naturally spreads to those around you and makes life together warmer. Allow yourself to feel it fully — and, if you like, share it with someone.",
+      "practice": "Tell someone about what's making you glad — or at least imagine whom you'd like to tell. How does the joy change?",
+      "quote": {
+        "text": "How selfish soever man may be supposed, there are evidently some principles in his nature, which interest him in the fortune of others, and render their happiness necessary to him, though he derives nothing from it except the pleasure of seeing it.",
+        "author": "Adam Smith",
+        "source": "The Theory of Moral Sentiments, Part I, Sec. I, Ch. 1"
+      }
+    },
+    "love": {
+      "text": "Love and tenderness are among the most natural human feelings. Hume described love as a passion directed at another person and aroused by their qualities — kindness, intelligence, beauty, closeness to us. He showed how love is born of proximity, habit and sympathy, that is, how it grows out of the very fabric of shared life. Adam Smith added that tenderness, kindness and affection are “social” feelings: people find it easy and pleasant to share them, so they warm not only the one who loves and the one who is loved but everyone around. From this point of view, tenderness needn't be hidden or felt as shameful: it is one of the feelings that hold human society together.",
+      "practice": "Think of someone you feel tenderness for. Which one of their qualities most stirs that feeling?",
+      "quote": null
+    },
+    "gratitude": {
+      "text": "Gratitude is a warm and natural feeling. Adam Smith described it as a passion that directly prompts us to return good to the one who has done us good. He saw it as the opposite of resentment: just as resentment guards justice, gratitude sustains goodwill between people. Smith noted that it matters to us not only to repay a benefactor but also that they know their kindness was noticed. Hume, for his part, saw gratitude as an expression of sympathy: we respond to the care we have felt. From this point of view, gratitude is not a duty but one of the natural ways people bind themselves to one another. You can simply live it — and, if you wish, express it.",
+      "practice": "Recall someone whose kindness once mattered to you. Do they know it? If not, consider whether you could tell them in a single sentence.",
+      "quote": null
+    },
+    "hope": {
+      "text": "Hope is a living feeling, and Hume described its mechanics very precisely. He wrote that hope arises when the imagination, wavering between different outcomes, leans toward the good one. There is always a share of uncertainty in it — which is why it lives next door to fear. But that doesn't make hope naive: for Hume, all our expectations rest on habit and experience rather than absolute certainty, and that is how all people live. From this point of view, you can calmly accept that your hope isn't guaranteed — such is the nature of any look into the future. And yet it already shapes your life now: it gives you strength and colours the day. You can cherish it without demanding promises from it.",
+      "practice": "Recall a time from your own experience when something good did happen, even though you weren't sure it would. What does that tell you now?",
+      "quote": null
+    },
+    "nostalgia": {
+      "text": "Nostalgia is a tender, slightly sad feeling, and Hume helps us understand how it arises. He described the laws of the “association of ideas”: one thought calls up another through resemblance, contiguity in time or place, or cause and effect. That is why a smell, a tune or a street can suddenly carry us into the past. Hume also noted that memories are only “fainter copies” of vivid impressions: they resemble the past but lack its full brightness. Hence the particular softness and sadness of nostalgia: we reach for what we remember but cannot live through again. There is nothing wrong in this. Nostalgia shows which impressions left a deep mark on you — that is, what is truly dear to you.",
+      "practice": "Which smell, sound or place carries you into the past most strongly? Follow the chain: what memory does it bring up, and then what feeling?",
+      "quote": null
+    },
+    "craving": {
+      "text": "A craving is a sharp “I want it right now,” and Hume would explain it without any reproach. He noticed a pattern everyone can confirm: what is near in time and space acts on our passions far more strongly than what is distant. That is why people so often prefer a small good now to a greater good later — and understand this perfectly well. It isn't stupidity; it's how the imagination works. Hume also distinguished “violent” from “calm” passions and called the ability of the calm passions to prevail over the violent ones over time “strength of mind.” A craving is a violent passion: it rises like a wave and, if you don't feed it, it subsides. Beneath it live your calm, long-term desires — and you can give them a little time so their voice becomes easier to hear.",
+      "practice": "Name one calm, long-term desire that matters to you — your health, a relationship, a clear head in the morning. Hold it in mind while the wave of craving rises and falls.",
+      "quote": null
+    },
+    "addiction": {
+      "text": "Addiction is not a moral failure but, in Hume's language, the force of habit that operates in every person. Hume called custom “the great guide of human life” and described subtly how it works. Repetition, he wrote, gradually weakens the pleasure we take in something, yet at the same time strengthens our inclination toward it: doing it becomes easier, and giving it up harder. Many who know addiction from the inside will recognize themselves here: less and less joy, and an ever tighter circle. Hume saw no vice in this — only a mechanism of nature. But in his essay “The Sceptic” he also observed the reverse: habit is one of the most powerful means of gradually changing one's mind and inclinations. What was built by repetition can be rebuilt by repetition.",
+      "practice": "Choose one tiny new action you can repeat every day at the time when the craving usually comes. If you like, find someone to share this path with.",
+      "quote": {
+        "text": "Custom, then, is the great guide of human life.",
+        "author": "David Hume",
+        "source": "An Enquiry Concerning Human Understanding, Sec. V, Part I"
+      }
+    },
+    "hangover": {
+      "text": "The morning after drinking is hard on both body and soul: anxiety, shame, gaps in memory. Hume offers an unexpected support here. Reflecting on what the “self” is, he asked: who can say what they were thinking on some particular day many years ago? And does it follow from our having forgotten it that it wasn't I back then? Our identity, for Hume, rests not on an unbroken memory but on the connection of impressions — everyone's memory has gaps. Adam Smith would add: judge yesterday not with the voice of morning panic but through the eyes of an impartial spectator who knows all the circumstances and wishes you well. That spectator will most likely be gentler than your thoughts this morning.",
+      "practice": "Put off judging yesterday for a few hours. For now — water, food, rest; later, if you need to, ask yourself: how would a kindly witness describe it?",
+      "quote": null
+    },
+    "euphoria": {
+      "text": "A burst of euphoria is a vivid experience, and the Scots wouldn't want to spoil it. Hume considered liveliness of impressions one of the mind's chief pleasures: whatever enlivens us is pleasant in itself. He noticed that novelty and surprise especially intensify any passion: a sudden good seems greater than a familiar one. This idea doesn't devalue your high; it explains its brightness. Adam Smith added that people find it easiest to share small joys, while very great and sudden delight is something others can't always take up at once — which is why euphoria can sometimes feel lonely. You can fully enjoy this state without demanding that others share it with the same intensity.",
+      "practice": "Notice what in your high has to do with novelty, and what with things truly dear to you. The second is worth writing down.",
+      "quote": null
+    },
+    "crash": {
+      "text": "A sharp drop after a high is hard, and Adam Smith described a pattern that may offer a little comfort. He observed that every person's mind sooner or later returns to its usual, natural state of tranquillity: after good fortune it sinks back to it in time, after misfortune it rises back up. From this point of view, the crash is part of the same movement: after a high wave the mind returns to its level, and in the moment of return this feels like falling. Hume would explain the sharpness too: we judge our state by comparison, and an ordinary day next to a celebration seems dull. But that also means the greyness is partly created by contrast. It will pass, just as the high did.",
+      "practice": "Tell yourself: “I'm not falling into an abyss — I'm returning to my own level.” Do one simple, familiar thing that usually steadies you.",
+      "quote": {
+        "text": "The mind of every man, in a longer or shorter time, returns to its natural and usual state of tranquillity. In prosperity, after a certain time, it falls back to that state; in adversity, after a certain time, it rises up to it.",
+        "author": "Adam Smith",
+        "source": "The Theory of Moral Sentiments, Part III, Ch. 3"
+      }
+    },
+    "panic": {
+      "text": "A wave of panic is one of the most frightening experiences: terror seizes the body, thoughts race. Hume described the mind as a kind of theatre where perceptions appear, pass, repass and glide away, succeeding one another with inconceivable speed. Nothing in this flow stays the same — terror included. Even the most violent passions, for Hume, do not stand still: they rise and weaken. Usually such a wave peaks and subsides within a few minutes. Adam Smith called “self-command” not the absence of fear but the ability to live through it without letting it decide for you. Right now you don't need to decide anything or convince yourself of anything — it is enough to lean on your body and let the wave pass.",
+      "practice": "Press your feet into the floor, breathe out more slowly than you breathe in, and name, aloud or silently, five things you can see and three sounds you can hear.",
+      "quote": null
+    },
+    "dread": {
+      "text": "Existential dread — “what's the point of it all” — comes to thinking people, and Hume knew its taste. At the end of the first book of the Treatise he described how, having pushed his questions to the limit, he felt like a strange, solitary creature amid darkness. In another work he confessed that the world as a whole is a riddle, an enigma the human mind cannot solve. Hume didn't pretend to know the answer. But he noticed that nature itself brings us back to life: to people, conversation, everyday tasks — and in them meaning is felt, even if it can't be proved. Adam Smith would add that human beings are made for connection with others and find support in it. The question “why” can stay open while you live.",
+      "practice": "Do one simple human thing today — talk to someone, go outside, cook a meal. Notice how life makes itself felt in it.",
+      "quote": null
+    },
+    "fomo": {
+      "text": "The fear of missing out — the feeling that real life is passing you by — is something Adam Smith would have understood well. He told the story of King Pyrrhus and his counsellor. Pyrrhus was listing his future conquests, and the counsellor kept asking: and then? “Then,” the king replied, “we shall live at ease and rejoice with our friends.” “And what keeps you from doing that now?” the counsellor asked. Smith saw a common trap here: we often chase what is already within reach, only in another form. He also noted that much of what we desire we want not for the pleasure of it but to be looked at and noticed. The fear of missing out may be that desire for attention. Ask yourself: what do I actually want — and isn't it already close at hand?",
+      "practice": "Write down what you're afraid of missing, then finish the sentence: “If I were there, I would feel…” Think about where that feeling can be found today.",
+      "quote": null
+    },
+    "sleepless": {
+      "text": "Sleeplessness with racing thoughts at three in the morning is agonizing, and Hume helps explain why everything seems more frightening at night. He distinguished “impressions” — the vivid sensations we receive from the world — from “ideas,” their paler copies. Usually impressions are brighter than ideas. But Hume noted that in sleep, in a fever or in great agitation, ideas can come close to impressions in force. At night, when there are few impressions and the body is tired, thoughts and imagined pictures become almost as vivid as reality. This doesn't mean you see the truth more clearly at night — if anything, the opposite. In the morning, in daylight and among people, these same thoughts usually seem much smaller.",
+      "practice": "Tell yourself: “This is night-time vividness, not the real scale of things.” Give your body one living impression: feel the fabric of the blanket or the coolness of the pillow.",
+      "quote": null
+    },
+    "betrayal": {
+      "text": "Betrayal wounds deeply, and the Scots help us understand why. Hume showed that all of human life together rests on trust and promises: we can cooperate and be friends only if we rely on each other's word. So betrayal is a blow not only to a relationship but to the very ground on which we stand beside others. Adam Smith considered resentment at injustice natural and legitimate if an impartial spectator who knew the circumstances would share it. Such a spectator would most likely understand you. Your pain is not excessive — it is proportionate to how much the trust mattered. And the ability to trust again will return when you find people who deserve it.",
+      "practice": "Imagine a fair person who knows the whole story. Write down what they would say about what happened — and about you.",
+      "quote": null
+    },
+    "jealousy": {
+      "text": "Jealousy is agonizing, and Hume would help you understand how it works. He showed that we judge everything by comparison: the same thing seems great or small depending on what stands beside it. In jealousy, the imagination places us beside a rival and starts comparing — usually not in our favour. Adam Smith observed that love itself often seems incomprehensible to outsiders, yet the anxieties and fears of loss that accompany it anyone understands at once. So your jealousy is a very human feeling, not something shameful. But it helps to remember: the pictures painted by the comparing imagination are not facts. Ask what you actually know, and what has been filled in by fear.",
+      "practice": "Divide a sheet into “what I know” and “what I imagine.” Circle whatever you could calmly ask the person close to you about.",
+      "quote": null
+    },
+    "resentment": {
+      "text": "A long-held grudge is a heavy burden, and you carry it for a reason: you really were hurt. Adam Smith recognized resentment as a natural defence of justice. But he noticed something else as well: malice and resentment belong to the “unsocial” passions — they are unpleasant above all to the one who carries them, like something cutting inside. From Hume's point of view one might add: ideas fade over time unless they are revived, and each new replay of the old scene makes it vivid again. A grudge lives so long partly because memory keeps refreshing it. This is no reproach: that's how the imagination works. But it is also a hope — if you gradually return to the scene less often, the feeling may slowly weaken.",
+      "practice": "Notice today how many times you return to the grudge in your thoughts. Don't stop yourself — just count. Sometimes simply noticing already lowers the frequency.",
+      "quote": null
+    },
+    "heartbreak": {
+      "text": "A broken heart hurts, and Adam Smith explained why this pain can be so hard to share. He observed that love is one of those passions others find hard to feel with the same force: from the outside, attachment to one particular person can seem out of proportion. So when people say “just forget it, you'll find someone else,” it hurts twice over. But Smith saw something else too: grief and loss are things others understand well, and their sympathy softens the pain. Hume would add that everything around you — places, things, songs — reminds you of the person who is gone, by the laws of association. This isn't your weakness; it's the work of memory. What you need is time, and people who understand what you've lost.",
+      "practice": "Choose one person who can listen without giving advice. Tell them: “Right now I just need you to listen.”",
+      "quote": null
+    },
+    "impostor": {
+      "text": "The fear of being exposed — “any moment now they'll see through me” — is familiar to a great many people, and the Scots help us look at it differently. Adam Smith distinguished the desire for praise from the desire to be praiseworthy. Impostor syndrome is precisely the voice of the second desire: you fear you're receiving recognition you haven't earned — which means that deserving it matters to you. That alone says a lot about you. Hume, for his part, knew self-doubt firsthand: his main work, A Treatise of Human Nature, in his own words “fell dead-born from the press.” That didn't stop him from becoming one of the greatest philosophers. Your doubts don't prove you don't belong — they show how seriously you take your work.",
+      "practice": "Ask yourself: “What would an impartial spectator who knows how I work say?” Write down their answer, not the voice of fear.",
+      "quote": null
+    },
+    "self_hatred": {
+      "text": "Self-hatred is a very heavy feeling, and the inner critic can sound like the voice of conscience. But Adam Smith drew an important distinction. The inner “impartial spectator,” for Smith, is fair and kindly: it knows all the circumstances and judges in proportion. Yet Smith acknowledged that its voice can be drowned out — by the noise of others' opinions, by humiliations you've lived through, by your own fears. A critic who only hates is not the spectator but a distortion. Hume went further still: he considered healthy self-respect a merit, and regarded self-abasement and mortification not as virtues but as things that only sour the temper and harden the heart. Neither of them would agree with the verdict this voice passes on you.",
+      "practice": "Write down one sentence from your inner critic. Then ask: would a fair and kindly person who knew everything say this? How would they rephrase it?",
+      "quote": null
+    },
+    "helplessness": {
+      "text": "Helplessness is a heavy feeling, especially when the problem is huge and you are alone. Adam Smith made an observation that brings many people relief. The care of the happiness of the whole world, he wrote, is not the business of any single person; each of us is allotted a much humbler department — care for our own well-being, our family, our friends, our country. This is not a call to indifference. It is a recognition that human beings are made for a small circle, and within that circle their actions truly mean something. Hume would add that reason by itself doesn't move us — feelings do; so powerlessness can't be fixed by a single argument, but you can do one small thing that brings back a sense of your own strength.",
+      "practice": "Name one person or one place in your close circle where you can do something today. Take one small action.",
+      "quote": null
+    },
+    "procrastination": {
+      "text": "“I can't get started” is a very human state, and Hume would explain it without reproach. He showed that reason by itself cannot move us to act: it is always some feeling that moves us — desire, interest, curiosity. That is why arguments like “I have to, it's important” are so often powerless. Hume also reflected on how interest is born: in hunting or in a game, he wrote, the pleasure comes from the very activity of the mind, from the strain of attention — and the goal grows more important as you go. In other words, interest often appears not before you start but during. This frees you from having to “want to” first. You can begin with something small — and let the feeling catch up with you along the way.",
+      "practice": "Work on the task for exactly five minutes, promising yourself nothing more. After five minutes, simply notice whether anything has changed in your interest.",
+      "quote": null
+    },
+    "uprooted": {
+      "text": "Being cut off from home is a deep experience, and the Scots knew what it means to be a stranger. Hume, like many Scots of his time, felt something of an outsider in London and even compiled a list of “Scotticisms” — expressions that gave away his origins. He lived for long periods in France; he wrote his main book in the small town of La Flèche. Hume also noticed that people who live side by side gradually take on one another's manners and feelings through “sympathy” — the natural contagiousness of feeling. This means that in a new place you aren't doomed to estrangement: connections and habits grow gradually, through simple everyday contact. Homesickness is legitimate — and alongside it, something new is already growing.",
+      "practice": "Notice one small thing in your new place that has become familiar or pleasant to you — a shop, a street, someone's face.",
+      "quote": null
+    },
+    "overload": {
+      "text": "Overload from an endless feed is a real strain, and Adam Smith helps us understand why it weighs on us so. He wrote: imagine that a man in Europe learns of a terrible earthquake in faraway China. He will sincerely sympathize — and then go back to his affairs and sleep soundly. Yet a small misfortune in his own life would rob him of sleep. Smith didn't condemn this; he described it: our capacity for fellow-feeling is built for the near circle. Today the feed pours hundreds of other people's troubles and events onto us every day — more than a human heart can hold. Your exhaustion is not callousness or weakness but a natural limit. Protecting your attention means preserving your ability to care.",
+      "practice": "Close the feed and choose one piece of news or one issue that truly matters to you. Think only about it for one minute.",
+      "quote": null
+    },
+    "unreality": {
+      "text": "The feeling that everything around you, or you yourself, is somehow not quite real is strange and frightening. Hume described something that can help you not to be frightened. Trying to find his “self,” he discovered that every time he stumbled only on particular perceptions — heat or cold, light or shade, love or hatred. He found no separate “self” behind them. For Hume this didn't mean there was no self: it's just that the “self” is a living stream of impressions, not a solid object. Hume admitted that such reflections could plunge him into a cold bewilderment, but he noticed that nature itself brings us back to life — through ordinary tasks and the company of people. You are there, where the warmth, the light and the feeling are.",
+      "practice": "Name one perception that is here right now: “warmth in my palms,” “light from the window,” “a sound.” That is you — here.",
+      "quote": {
+        "text": "For my part, when I enter most intimately into what I call myself, I always stumble on some particular perception or other, of heat or cold, light or shade, love or hatred, pain or pleasure.",
+        "author": "David Hume",
+        "source": "A Treatise of Human Nature, Book I, Part 4, Sec. 6"
+      }
+    },
+    "awe": {
+      "text": "Awe before something vast or beautiful is a rare feeling, and the Scots valued it. Hume noticed that anything very large — a wide plain, the ocean, a long succession of ages — stirs a special admiration in us: the mind seems to expand as it tries to take in the object, and this expansion is pleasant in itself. Adam Smith devoted an entire essay to wonder and admiration and believed that it was these that led people to philosophy and science: struck by something unusual, a person seeks a way to understand it. Awe, from this point of view, is not childish naivety but the beginning of knowledge. Let it be, without rushing to explain it. Smith would probably say that you are now experiencing the very thing with which all of science once began.",
+      "practice": "Try to describe to yourself, in one word, what exactly struck you. Then simply go back to looking.",
+      "quote": null
+    },
+    "relief": {
+      "text": "Relief is a warm and well-earned feeling, and the Scots help us savour it. Adam Smith observed that pain is almost always felt more sharply than the opposite pleasure. So when pain or anxiety leaves, the return to your ordinary state is experienced as real joy. Hume would explain this by the law of comparison: we judge our situation by setting it against what came before, and an ordinary calm day after strain seems bright. Relief is the moment when comparison works in your favour. Don't rush straight on to the next worry. And if you like, share your relief with someone: for Smith and Hume, shared joy grows stronger.",
+      "practice": "Say aloud or to yourself: “That's over now, and I feel lighter.” If you like, write about it to someone who knew about your worry.",
+      "quote": null
+    },
+    "calm": {
+      "text": "Calm is a precious state, and for Hume it too was a feeling, not merely the absence of feelings. He wrote about the “calm passions”: they don't rage, they are barely felt, and so they're often mistaken for cool reason. But it is they — love of life, benevolence, attachment to what matters — that often guide us more strongly than the violent ones. Adam Smith saw happiness above all in tranquillity and enjoyment. Hume himself, describing his character, said he was a man of mild disposition, of command of temper, of an open, social and cheerful humour. Your calm, from this point of view, is not a pause or an emptiness but a quiet strength that is in you. You can simply notice it.",
+      "practice": "Notice which quiet feeling lives in your calm: trust, gratitude, lightness. Name it in one word.",
+      "quote": null
+    },
+    "inspiration": {
+      "text": "Inspiration is a joyful surge when thoughts seem to fall into place by themselves. Hume experienced this as a young man: in a letter he recalled how at eighteen “a new scene of thought” seemed to open before him and he threw himself into it with ardour. Then, from overwork, came a long slump — and Hume drew a lesson from it: he went back to work, alternating it with walks, exercise and company. His major works grew out of that inspiration. His experience says: inspiration is a real force, and it's worth trusting. But taking care of it means not burning yourself out in the first rush, and giving it a foothold in a steady life. Allow yourself this surge, and find a rhythm for it.",
+      "practice": "Write down the main idea of your inspiration and one first step. Next to it, note when you'll rest — so the surge can last.",
+      "quote": null
+    },
+    "schadenfreude": {
+      "text": "Schadenfreude is an unpleasant thing to discover in yourself, and almost everyone has discovered it at least once. Hume didn't pretend the feeling was rare: in A Treatise of Human Nature he devoted a whole section to it, “Of malice and envy.” He explained it through the “principle of comparison”: we judge our situation not in itself but against others, and someone else's failure makes our own well-being seem brighter for a moment. That is, schadenfreude is not proof that you are corrupt but a side effect of the way the imagination constantly compares. Hume noticed something else too: sympathy — the capacity to catch another's feeling — is usually stronger in us. So schadenfreude rarely lasts long. You can simply notice it, without putting yourself on trial, and ask: which of my wounds did this other person's failure soothe for a second?",
+      "practice": "Finish the sentence: “Their failure made me feel better because next to it I…” See which of your pains the answer speaks of.",
+      "quote": null
+    },
+    "contempt": {
+      "text": "Contempt is a cold feeling, and it's awkward to admit it even to yourself. Yet it can be an understandable reaction to someone else's cruelty, falseness or foolishness. Hume examined it in the Treatise, in the section “Of respect and contempt,” and noticed something curious: contempt is not a simple feeling but a mixture. It contains a little dislike of the other and a little pride in oneself — since we compare and come out “above.” From this point of view, contempt often props up our own dignity when it has been wounded somehow. Smith would add the question of the impartial spectator — an imagined fair witness who knows all the circumstances: what would they see in this person as a whole? This doesn't require you to give up your judgment. It helps you understand what in your contempt is a judgment about an action, and what is self-protection.",
+      "practice": "Split it into two lines: “what exactly in the action I find unacceptable” and “what in me it touched.” Which line turned out longer?",
+      "quote": null
+    },
+    "disgust": {
+      "text": "Disgust is a strong, almost bodily feeling, and it can be directed at a situation, at a person, or even at yourself. Hume believed our moral judgments are born not of cold reasoning but of feelings of approval and disapproval — rather like taste. Vice, he wrote, we find not in the action itself but in the feeling that rises in us when we look at it. From this point of view, disgust is not a mistake but information: it tells you that something important to you has been violated. But taste can be educated, and Smith suggested checking the feeling against the impartial spectator — an imagined fair witness. If the disgust is aimed at yourself, this witness is usually much gentler: they see not something “vile” but a person in difficult circumstances who also deserves understanding.",
+      "practice": "Name in one sentence which value is violated by what disgusts you. Then ask: how would a calm, kindly witness describe this situation?",
+      "quote": null
+    },
+    "revenge": {
+      "text": "The desire for revenge usually comes after a real injury, and in itself it's understandable. Adam Smith took it seriously: resentment, in his view, is given to us by nature as a defence, a guardian of justice. But he noticed a subtlety that clarifies a great deal. The resentful person, Smith wrote, wants not so much to cause the offender pain as for the offender to realize that they are suffering precisely for what they did. That is, at the heart of revenge lies a thirst for acknowledgment — “let them understand they were wrong.” Smith added that the impartial spectator can share our resentment only when it is proportionate. So you don't have to suppress this feeling; you can listen to it: what exactly needs to be acknowledged? Often the answer points to a path in which no one needs to be harmed — speaking up, holding a boundary, seeking justice.",
+      "practice": "Finish the sentence: “More than anything, I want this person to understand that…” How much of that can you acknowledge yourself, without waiting for them?",
+      "quote": {
+        "text": "Resentment seems to have been given us by nature for defence, and for defence only.",
+        "author": "Adam Smith",
+        "source": "The Theory of Moral Sentiments, Part II, Sec. II, Ch. 1"
+      }
+    },
+    "anger_at_loved": {
+      "text": "Anger at the people close to you can be especially painful: shame follows, because you love them. Adam Smith made an observation that helps make sense of this. He noticed that among strangers we instinctively pull ourselves together — we imagine how we look in their eyes and restrain our feelings. Among those close to us this inner spectator relaxes: we expect complete understanding from them and control ourselves less. Hence the paradox: the people dearest to us get the most of our outbursts. From this point of view, anger at someone close is not a sign that love is absent but a sign of closeness and tiredness at once. Smith advised bringing back the outside view in difficult moments. This doesn't mean keeping your distance — only seeing the scene for a second through the eyes of a respectful guest before saying something you'll regret.",
+      "practice": "Next time anger rises, imagine for five seconds that someone you respect, an outsider, is in the room. What changes in your words?",
+      "quote": null
+    },
+    "ambivalence": {
+      "text": "Loving someone and at the same time being unable to stand them is a heavy, tangled state, and it often makes you feel something is wrong with you. Hume didn't think so. He studied what happens when opposite passions are directed at the same object. Sometimes, he wrote, they alternate; sometimes they mix, the way liquids mix, and then a new, complex feeling results. For Hume, love and dislike are “indirect passions”: they are aroused by different qualities of a person, not by the person as a whole. Someone close can be warm and harsh, generous and unbearable at the same time — and your feelings are simply responding honestly to all of it at once. From this point of view, ambivalence is not confusion but accuracy. You don't have to pick one feeling as the “real” one: both tell the truth about different sides of the same relationship.",
+      "practice": "Divide a sheet into two columns: “what I love in them” and “what I can't stand.” Don't pick a winner — just let both columns exist.",
+      "quote": null
+    },
+    "guilty_relief": {
+      "text": "Relief after a breakup, a departure, or even the death of a seriously ill loved one can be frightening: am I actually glad? Hume helps you see that a single event almost always stirs several feelings, because we look at it from different sides. The loss brings grief, and the end of long strain brings relief; these feelings don't cancel each other out, they simply belong to different facets of the same thing. Adam Smith would suggest imagining an impartial spectator who knows everything: how much you bore, how many nights you didn't sleep, how long you were afraid. Such a witness would not condemn you. They would understand that relief is the natural response of body and soul to a weight finally lifted. And that love hasn't gone anywhere.",
+      "practice": "Write down exactly which weight the relief came from. Next to it, write what you still love or value. Let both lists stay.",
+      "quote": null
+    },
+    "indifference": {
+      "text": "Sometimes an event “should” move you, yet inside it's quiet — and that's unsettling: am I callous? Hume explained that our sympathy — the capacity to catch others' feelings — depends on closeness: we respond more strongly to what is near, similar to us and vividly presented. When something is far away, abstract or simply too enormous, the imagination can't cope and the feeling doesn't arise. This is not a vice but how human nature works. Hume also distinguished the “calm passions”: they don't stir us violently, so they're easy to mistake for an absence of feeling, even though they can shape our actions. From this point of view, indifference is sometimes not emptiness but a calm feeling that hasn't yet taken shape, or a tiredness of sympathy. You can give it time without pretending to feel what isn't there.",
+      "practice": "Ask yourself: if there were a feeling after all, only a very quiet one, what would it be? Write down one word, even if you're not sure.",
+      "quote": null
+    },
+    "escape": {
+      "text": "The urge to quit your job, your city or your role and just leave is an understandable signal that your current life has grown too tight. Hume knew it firsthand: in his early twenties he tried working in a merchant's office in Bristol, quickly realized it wasn't for him, and went to France, where he wrote his Treatise. Adam Smith, for his part, warned against the opposite: he described a man who toils all his life for rank and wealth and at the end notices that he has been chasing “trinkets.” Together, the two views give you a good question: what am I running from, and what do I want to reach? Sometimes the urge to escape points to a real need for change, sometimes to tiredness that needs rest. The feeling itself doesn't commit you to any decision, but it deserves to be heard.",
+      "practice": "Finish two sentences: “More than anything, I want to get away from…” and “More than anything, I want to come to…” Don't draw conclusions — just compare.",
+      "quote": null
+    },
+    "forbidden_attraction": {
+      "text": "Attraction to someone who is unavailable or “wrong” can be confusing and unsettling, especially if you never meant to feel anything of the kind. Hume helps you look at it calmly. He held that the passions don't obey reason's commands: reason can suggest how to act, but it cannot simply cancel a feeling. And in the Treatise he noted that obstacles and uncertainty usually strengthen a passion rather than weaken it: whatever is hard to attain, the imagination paints especially vividly. From this point of view, part of the force of such an attraction lies in its very unavailability. This is not a verdict on the feeling, nor advice about what to do with it. It's simply an observation that lifts the shame: you're not a “bad person,” you're a person with an imagination. It can help to ask what exactly in this image is so alluring.",
+      "practice": "Name three qualities that draw you to this person or situation. Which of your needs might they be speaking of?",
+      "quote": null
+    },
+    "social_anxiety": {
+      "text": "Fear of people and their judgment is familiar to a great many, and there is nothing shameful in it. Adam Smith wrote that from childhood we learn to see ourselves through others' eyes — society is like a mirror to us. Hence our sensitivity to how we're seen. But Smith also made an observation that is reassuring. The spectator, in his view, always feels another person's state much more faintly than the one living through it: it takes an effort of imagination, and their attention is occupied by their own life. From this point of view, others notice our awkwardness far less than it seems to us. Besides, Smith set against the real spectators “the man within the breast” — the inner impartial spectator. Its judgment matters more than the crowd's approval, and it is usually kinder to your nervousness than you are.",
+      "practice": "After a conversation that made you nervous, ask yourself: which part of my awkwardness did the other person most likely not notice at all? Write it down.",
+      "quote": null
+    },
+    "uncertainty": {
+      "text": "Uncertainty is exhausting: it's hard to plan and hard to settle down. Hume described in detail what happens inside at such times. When the outcome is unknown, the imagination darts between the good possibility and the bad one, and out of this wavering hope and fear are born — a mixture of joy and sorrow. He compared the soul to a stringed instrument: after each stroke the strings keep sounding, and before one feeling has died away, another rushes in. This explains why uncertainty is so tiring — the problem isn't weakness but constant swaying. Hume, though, offered something to hold on to: believe in proportion to the evidence. No more and no less than the facts suggest. This lets you avoid inventing the worst outcome as if it had already happened, and avoid demanding a certainty from yourself that isn't available yet.",
+      "practice": "Write down what you actually know right now, and separately, what you're only assuming. Notice which column frightens you more.",
+      "quote": {
+        "text": "A wise man, therefore, proportions his belief to the evidence.",
+        "author": "David Hume",
+        "source": "An Enquiry Concerning Human Understanding, Sec. X"
+      }
+    },
+    "waiting": {
+      "text": "Waiting for an answer, results or news makes time viscous, and your thoughts keep returning to the same thing. Hume noticed that the imagination paints events near in time especially vividly: the closer the hour, the brighter the picture and the stronger the agitation. That is why waiting is so consuming. In his essay “Of Refinement in the Arts,” Hume wrote that human happiness consists of three ingredients: action, pleasure and repose. From this point of view, waiting is agonizing also because it crowds out all three: we don't act, don't enjoy, don't rest — we just hang there. What can help is not the effort to “stop thinking” but a small return of at least one of these three things. The waiting won't disappear, but it will stop filling the whole day.",
+      "practice": "For the next hour, choose one of the three: a small task, a small pleasure or real rest. Do it without cancelling the waiting.",
+      "quote": null
+    },
+    "regret": {
+      "text": "Regret over something done or left undone can be very stubborn, and behind it lies care for your own life. Adam Smith made an observation that applies directly. He wrote that the chief source of human unhappiness is over-rating the difference between one situation in life and another. We imagine that on the other road everything would have been completely different, and this picture is brighter than reality because it can never be tested. From this point of view, part of the pain of regret is that the missed option seems perfect. Smith added something else: a fair inner spectator judges us by what we knew and could do at the time, not by what became known later. You can keep regret as a lesson, but not as a verdict on your former self.",
+      "practice": "Describe what you knew and felt at the moment of the decision — then, not now. How would a kindly witness of that day judge you?",
+      "quote": {
+        "text": "The great source of both the misery and disorders of human life, seems to arise from over-rating the difference between one permanent situation and another.",
+        "author": "Adam Smith",
+        "source": "The Theory of Moral Sentiments, Part III, Ch. 3"
+      }
+    },
+    "longing": {
+      "text": "Longing for a particular person makes their presence almost tangible — precisely because they aren't here. Hume explained how this works. Our ideas are connected with one another by three principles: resemblance, contiguity in time and place, and cause and effect. So everything reminds you of the person: a similar voice, a place you used to go together, a habit they left in you. Your mind isn't to blame for returning to them again and again — that is how association works. From this point of view, longing is not weakness but the trace someone dear has left in the very fabric of your thoughts. It doesn't need to be driven out. You can notice which things stir it most, and allow yourself the sadness without being frightened by how often it comes.",
+      "practice": "Notice today three things that reminded you of this person. Which of them feels the warmest to you?",
+      "quote": null
+    },
+    "world_pain": {
+      "text": "Pain for the world — grim news, injustice, other people's grief — can weigh on you as though you had to carry it alone. Hume saw in sympathy, our capacity to catch the feelings of others, the basis of human morality; your pain is a sign of a living response. But Adam Smith made a sober observation. He wrote that we cannot feel distant misfortunes as keenly as our own, and he argued with the moralists who reproach people for being able to rejoice while others somewhere are suffering. Such artificial compassion, in his view, helps no one. Smith advised not forcing yourself to grieve endlessly, but keeping your sensitivity alive and doing what is truly within your power. From this point of view, protecting your ability to feel joy is not indifference but a condition for keeping compassion from burning out.",
+      "practice": "Name one small thing within your power today — for someone near you or for people far away. And one thing that will support you yourself.",
+      "quote": null
+    },
+    "rejection": {
+      "text": "Rejection hurts, and the pain is understandable: Adam Smith believed that the desire to be loved and accepted runs deep in human beings. Hume helps you see a trap the mind often falls into after a refusal. He described the “general rules” the imagination builds too hastily: it turns a single case into a law and extends it to everything similar. That is how one refusal quickly swells into the conclusion “no one will ever accept me.” From this point of view, the pain of rejection is real, but its generalization is the work of the imagination, not a proven fact. Hume suggested correcting hasty rules by attending to the evidence: how many times have you actually been accepted, valued, chosen? One refusal speaks of a meeting between two people, not of your worth.",
+      "practice": "Write down the conclusion you drew from the refusal. Then find at least one case from your life that contradicts it.",
+      "quote": null
+    },
+    "abandonment": {
+      "text": "The fear of being abandoned can live in a person for years and flare up at small things — a delayed reply, a cool tone of voice. Hume explained how such expectations arise. We expect the future to resemble the past not because this has been proven but by “custom”: if something has happened repeatedly, the mind reaches for the same conclusion by itself. If you were left in the past, the imagination will keep painting the same ending. This doesn't mean you exaggerate on purpose: that is how habit works, and the old experience was real. But Hume also showed that habit is not prophecy. New repetitions gradually create a new habit. From this point of view, it's worth noticing each time someone close to you stays — this slowly retrains the expectation.",
+      "practice": "Start a short list of “times people stayed or came back.” Add even the small things.",
+      "quote": null
+    },
+    "unrequited": {
+      "text": "Unrequited love is one of the loneliest pains: the feeling is there, but no answer comes. Adam Smith wrote about love with unexpected honesty: he noticed that to an outsider its intensity always seems out of proportion, since they don't see what the lover sees. So even friends may find it hard to grasp the depth of what you're going through, and that loneliness is not your fault. Hume, for his part, linked love with the wish for the other's good. From this point of view, your love is neither a mistake nor a humiliation: it speaks of your ability to see something beautiful in another person. Hume also noticed that feelings not fed by new impressions gradually grow calmer. This won't happen on command, but it will happen — and your capacity to love will stay with you.",
+      "practice": "Write down exactly what beauty you saw in this person. Which of these qualities do you also value in yourself and in the people around you?",
+      "quote": null
+    },
+    "humiliation": {
+      "text": "Humiliation wounds deeply because it strikes not at a single action but at your dignity. Adam Smith understood this: he wrote that an undeserved reproach can painfully wound even very steadfast people. But he also offered something to lean on. Smith distinguished two tribunals: “the man without” — real witnesses with their opinions — and “the man within the breast,” the impartial spectator who knows all the circumstances and your intentions. Humiliation is the verdict of the outer tribunal, often unjust and passed in haste or in malice. The inner tribunal can review it. From this point of view, the fact that you were treated in a humiliating way says something about the situation and about those who acted like that, but it does not determine your worth. It's normal to feel pain all the same; what matters is whose voice has the last word.",
+      "practice": "Imagine a fair person who saw the whole scene and knows you. Write down what they would say to you afterwards.",
+      "quote": null
+    },
+    "body_shame": {
+      "text": "Dissatisfaction with your body is familiar to a great many people, and it rarely comes from nowhere: from childhood we are judged and compared. In the Treatise, Hume noted that the beauty or deformity of the body, like our other qualities, affects pride and humility largely through the imagined gaze of others. And in his essay “Of the Standard of Taste” he wrote a sentence that changes a lot: beauty is not a quality of things themselves; it exists in the mind of the one who looks, and different minds perceive different beauty. From this point of view, a judgment about your body is a judgment of someone's taste — often borrowed from the era — and not an objective fact. This won't make you love yourself in a minute, but it weakens the power of a single “correct” ideal.",
+      "practice": "Name one thing your body did for you today — not about appearance, but about living. Thank it for that.",
+      "quote": {
+        "text": "Beauty is no quality in things themselves: It exists merely in the mind which contemplates them; and each mind perceives a different beauty.",
+        "author": "David Hume",
+        "source": "“Of the Standard of Taste” (1757)"
+      }
+    },
+    "illness": {
+      "text": "When your body lets you down, there's not only pain but loneliness too: it's hard for others to understand what it's like for you. Adam Smith explained why this happens. He wrote that others share bodily pain only very faintly: it's hard for the imagination to reproduce a sensation that isn't in one's own body. So people's sympathy often seems insufficient — and the problem is not that they don't believe you but the limits of human sympathy. Knowing this can ease some of the hurt, both toward them and toward yourself for “complaining too much.” Hume added that even in hard times the soul holds on to small habits, company and simple pleasures. From this point of view, you needn't demand heroism of yourself; you can take care of the little that brings warmth right now.",
+      "practice": "Tell one person close to you, concretely, about one sensation or difficulty of today. And notice one small thing that was pleasant today.",
+      "quote": null
+    },
+    "pride": {
+      "text": "Pride in what you've done is a good, well-earned feeling, and there's no need to hide it. Hume treated it with respect: in the Treatise he called pride an agreeable passion that arises when something valuable is connected with ourselves — our work, a skill, an action. He distinguished conceit, which irritates others, from a well-founded sense of one's own worth, and considered the latter necessary for life: it gives us confidence in our undertakings. Adam Smith added that the best pride is the kind an impartial spectator would approve — that is, deserved. If you feel it now, you needn't hurry to rein yourself in. Look at what exactly you did, and allow yourself to acknowledge it.",
+      "practice": "Write down exactly what you did and which quality in yourself you showed in doing it. Reread it in the evening.",
+      "quote": {
+        "text": "Nothing is more useful to us in the conduct of life, than a due degree of pride, which makes us sensible of our own merit, and gives us a confidence and assurance in all our projects and enterprizes.",
+        "author": "David Hume",
+        "source": "A Treatise of Human Nature, Book III, Part 3, Sec. 2"
+      }
+    },
+    "melancholy": {
+      "text": "Gentle melancholy is a quiet state in which sadness is somehow pleasant. Hume took an interest in this riddle in his essay “Of Tragedy”: why do people willingly go to see sad plays and find pleasure in tears? His answer: when sorrow is clothed in beautiful form — in words, music, images — the very stirring of sorrow merges with the pleasure of beauty, and the feeling becomes different, soft and full. From this point of view, melancholy is sadness that has managed to find a form. It doesn't need to be cured or hurriedly dispelled. Hume, who loved both solitary reflection and the company of friends, would more likely advise you to stay in it for a while and then return to people. Melancholy may turn out to be a time when you hear yourself best.",
+      "practice": "Find a form for this sadness: a song, a line, a photograph or a few words of your own. Stay with it for a couple of minutes.",
+      "quote": null
+    }
+  }
+}
