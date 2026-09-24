@@ -1,0 +1,385 @@
+{
+  "id": "jung",
+  "title": "Jung",
+  "tradition": "Analytical psychology",
+  "family": "psychoanalysis_critical",
+  "period": "20th century",
+  "sortYear": 1934,
+  "thinkers": [
+    "Carl Gustav Jung",
+    "Marie-Louise von Franz",
+    "James Hillman"
+  ],
+  "keyWorks": [
+    "C. G. Jung, Psychological Types (1921)",
+    "C. G. Jung, The Relations between the Ego and the Unconscious (1928)",
+    "C. G. Jung, The Stages of Life (1930)",
+    "C. G. Jung, The Archetypes of the Collective Unconscious (1934)",
+    "C. G. Jung, Psychology and Alchemy (1944)",
+    "C. G. Jung, Aion (1951)",
+    "C. G. Jung, Answer to Job (1952)",
+    "C. G. Jung, Memories, Dreams, Reflections (1962)",
+    "C. G. Jung et al., Man and His Symbols (1964)",
+    "J. Hillman, Betrayal (1965)",
+    "M.-L. von Franz, Puer Aeternus (1970)",
+    "C. G. Jung, The Red Book (publ. 2009)"
+  ],
+  "summary": "Carl Gustav Jung (1875–1961) was a Swiss psychiatrist and thinker who began alongside Freud and then created his own school, analytical psychology. For him the psyche is not a mechanism but a living whole that strives toward completeness. Jung studied dreams, myths, religions and alchemy and saw in them a shared language of images through which the depths of the human psyche speak. Here his ideas are presented as a philosophy of the soul — a way of understanding yourself, not a method of treatment.",
+  "onEmotions": "Jung believed that the conscious “I” is only one part of the psyche, and that feelings often arrive from its unconscious layers as messages. Everything we don't accept in ourselves goes into the “Shadow”; the face we show the world he called the “persona”; and what we involuntarily see in others instead of in ourselves, “projection.” That's why Jung matters especially for “inconvenient” feelings — envy, schadenfreude, contempt, anger at loved ones: he shows that everyone has them and that they speak of unlived parts of the personality. The aim is neither to suppress them nor to act them out on others, but to become aware of them, moving toward “individuation” — becoming your whole self. Here we set out ideas, not clinical advice.",
+  "entries": {
+    "anxiety": {
+      "text": "Anxiety wears you out, and there's nothing shameful in it. Jung saw the psyche as a self-regulating system: the unconscious — the part of our inner life that acts without our knowing — constantly “compensates” for the one-sidedness of consciousness. If we live for a long time from only one side of ourselves — say, controlling everything and never allowing ourselves any slack — then what has been left out comes back as a restlessness that seems to have no cause. From this angle, anxiety may be not a malfunction but a messenger: something in you is asking for attention. Jung suggested not chasing such states away but entering into dialogue with them — asking what image, what picture lives inside them. Sometimes anxiety turns out to have a face, and a face is something you can talk to.",
+      "practice": "Imagine your anxiety is a character. What does it look like, how old is it, what would it like to tell you? Write down one thing it says, without arguing with it.",
+      "quote": null
+    },
+    "fear": {
+      "text": "Fear is our oldest protection, and sometimes it's wise to listen to it. Jung would add one observation: we often fear not only what's outside but also what we meet inside. In Memories, Dreams, Reflections he describes honestly how, after his break with Freud, from the end of 1913 he lived through years when images rose from the depths that frightened even him — and how he decided not to run but to write them down and paint them. Later these records became The Red Book. The lesson here isn't about heroism but about attitude: what we turn away from grows in the dark, while what we can carefully look at takes on a shape and boundaries. A fear with a name and an outline is usually smaller than a faceless one.",
+      "practice": "Draw your fear — scribbles or even a single line will do. Look at the drawing and notice whether anything has shifted in how it feels.",
+      "quote": null
+    },
+    "sadness": {
+      "text": "Sadness is a legitimate feeling, and Jung wouldn't rush you out of it. He wrote that the soul lives by opposites: light and shadow, rising and descent, day and night. Jung called psychic energy “libido,” meaning not only desire but life force in general, and he noticed that at times it withdraws into the depths, “inward,” and less of it is left for consciousness. There, in the depths, quiet work is going on. From this angle, sadness isn't empty time but a time when something is being digested and rebuilt. You can ask not “how do I make this stop?” but “what is changing in me right now?” The answer won't come at once, but the question itself makes sadness less meaningless and lets you be with it rather than fight it.",
+      "practice": "Before bed, write down one word for what you're feeling, and in the morning, any image or fragment of a dream if one stayed with you. Simply set them side by side, without interpreting.",
+      "quote": null
+    },
+    "grief": {
+      "text": "Grief is the price of love, and it doesn't have to pass on schedule. Jung lived through the death of his wife Emma in 1955. In Memories, Dreams, Reflections he tells of a dream in which she appeared to him, and of how after her death he added an upper story to his tower at Bollingen — as a sign that his life had to go on, but differently. Jung was convinced that the image of someone who has died lives on in the psyche and continues to take part in our inner life: you can talk to them in your mind, remember them, ask their advice. From this angle, mourning is not only a loss but a rebuilding of the bond: the person is no longer beside you outwardly and begins to be present inwardly in a different way. This doesn't cancel the pain, but it makes it part of an ongoing relationship.",
+      "practice": "Write a short letter to the person who has died — a sentence or two about what you'd like to tell them now. You don't need to send it to anyone.",
+      "quote": null
+    },
+    "loneliness": {
+      "text": "Loneliness hurts, and it's not a sign that something is wrong with you. Jung knew it from childhood: in Memories, Dreams, Reflections he writes that as a boy he carried experiences inside that he couldn't tell anyone about, and this made him lonely among people. Hence his precise observation: loneliness isn't the absence of people around you but the impossibility of sharing with them what matters to you. Jung saw another side to this: the path of “individuation” — becoming yourself, whole, and not only convenient for others — inevitably passes through moments when no one fully understands you. This isn't a sentence to isolation but a sign that there is something of your own in you. And when you find even one person able to hear it, the meeting can be especially deep.",
+      "practice": "Name one thing that matters to you but that you almost never talk about. Think about whom — even someday later — you would like to trust it to.",
+      "quote": {
+        "text": "Loneliness does not come from having no people about one, but from being unable to communicate the things that seem important to oneself, or from holding certain views which others find inadmissible.",
+        "author": "Carl Gustav Jung",
+        "source": "Memories, Dreams, Reflections, “Retrospect”"
+      }
+    },
+    "anger": {
+      "text": "Anger is a living force, and in itself it doesn't make you a bad person. Jung would be wary of simply trying to suppress it: everything we refuse to acknowledge in ourselves goes into the “Shadow” — his name for the sum of traits and impulses incompatible with our picture of ourselves. Banished into the Shadow, anger doesn't disappear: it bursts out suddenly and at the wrong moment, or settles as bitterness. But once acknowledged, it can become energy — the ability to say “no,” to protect a boundary, to stand up for what matters. Jung stressed that the Shadow holds not only darkness but also a great deal of the life force we lack. From this angle, the question isn't “how do I not get angry?” but “what is my anger protecting, and how can I give it a voice without harming anyone?”",
+      "practice": "Finish the sentence: “My anger is protecting…” — and look at what stands behind it: a boundary, a value, a hurt.",
+      "quote": null
+    },
+    "shame": {
+      "text": "Shame is one of the heaviest feelings: you want to hide completely. Jung helps us see where it comes from. Each of us wears a “persona” — from the Latin word for an actor's mask — that is, the face we show the world: competent, decent, calm. The persona is necessary; it isn't a lie. But when something we don't accept in ourselves — the Shadow — shows through from beneath it, we feel shame, as if caught without our mask. Jung insisted that everyone has a Shadow: a person who cast no shadow would be not a saint but flat, lacking depth. From this angle, shame is a moment of meeting your own wholeness. It's painful, but it opens the possibility of being not perfect but real.",
+      "practice": "Recall what exactly you'd like to hide right now. Tell yourself silently: “This, too, is in me” — and simply notice what happens in your body.",
+      "quote": null
+    },
+    "guilt": {
+      "text": "Guilt can be agonizing, and sometimes it points to something truly important. In a late essay on conscience (1958), Jung distinguished two of its voices. One is the internalized moral code: the rules of family, society, what is “done.” The other is a deeper, personal conscience that can diverge from the rules of those around you; Jung linked it with the Self — the deep wholeness of a person, which is wider than our conscious “I.” There is guilt for breaking other people's rules, and there is guilt for betraying yourself. From this angle, it helps not just to endure guilt but to work out whose language it speaks. Sometimes it's a reason to put something right. Sometimes it's a reason to stop punishing yourself for living your own life.",
+      "practice": "Ask your guilt: “Whose voice are you speaking in?” Write down the first thing that comes to mind — a name, a phrase, an image.",
+      "quote": null
+    },
+    "envy": {
+      "text": "Envy is unpleasant to admit, though almost everyone feels it. The Jungian view here is unexpectedly comforting. Jung spoke of “projection”: we involuntarily see in others what actually belongs to us but hasn't yet been recognized. And what gets projected isn't only the dark but also the bright — unrealized abilities, courage, creative power; Jung's followers call this the “golden Shadow.” When you envy someone, perhaps something shines in them that also lives in you but hasn't found a place in your life. From this angle, envy isn't proof of pettiness but a signpost: this is the direction your unlived life is reaching toward. The task isn't to take it from the other person but to recognize it in yourself.",
+      "practice": "Name in one word the quality you see in the person you envy. Where in your life is there even a tiny sprout of that quality?",
+      "quote": null
+    },
+    "emptiness": {
+      "text": "Emptiness is a heavy, gray feeling, and it deserves gentle treatment. Jung wrote a lot about people whose lives are outwardly well arranged but who feel a lack of meaning. He noticed that this happens especially often in the second half of life, which he called the “afternoon”: the goals of youth — position, success, a settled household — have been reached or have lost their savor, and new ones haven't appeared yet. From this angle, emptiness isn't the absence of meaning altogether but the end of one meaning and a pause before another. Jung believed that in such periods a person is seeking a connection with the Self — with something larger than the familiar “I” and its tasks. You can give emptiness time: sometimes it's simply a cleared patch of ground where nothing has grown yet.",
+      "practice": "Recall what gave you meaning five years ago or so. What of it is still alive, and what has become a “morning program” that no longer fits?",
+      "quote": {
+        "text": "We cannot live the afternoon of life according to the programme of life's morning; for what was great in the morning will be little at evening, and what in the morning was true will at evening have become a lie.",
+        "author": "Carl Gustav Jung",
+        "source": "The Stages of Life (1930)"
+      }
+    },
+    "confusion": {
+      "text": "Confusion is a state in which the old maps no longer work, and it's genuinely disorienting. Jung went through this himself: after his break with Freud he, in his own words, lost his inner footing and didn't know where to go. Then he decided to trust what came from within — dreams, fantasies, play. In the Memories he tells how, as a grown physician, he began building a toy village out of stones on the lakeshore, as he had in childhood — and this helped him feel out a direction. Jung saw such periods as the beginning of “individuation”: the old orientation is exhausted, the new one not yet born. From this angle, clarity doesn't always come from the effort of thinking: sometimes it's suggested by what you do with your hands, and with interest.",
+      "practice": "Spend five minutes on something simple with your hands — drawing, modeling, sorting things — and then write down what thought came along the way.",
+      "quote": {
+        "text": "Your vision will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes.",
+        "author": "Carl Gustav Jung",
+        "source": "Letter to Fanny Bowditch, October 22, 1916"
+      }
+    },
+    "fatigue": {
+      "text": "Tiredness is a signal, not a weakness. Jung saw the psyche as a system of energy: it has ebbs and flows, and what we spend doesn't come from nowhere. When we hold up a “persona” for a long time — the face we have to show at work or in the family — it takes a lot of strength, especially if the persona is far from what's inside. Jung warned of the danger of growing too tightly into your role: a person begins to live only as a position or a function and quietly runs out of breath. From this angle, tiredness may be saying not only “you've done a lot” but also “you've been not quite yourself for too long.” Rest, then, isn't only sleep but also time when the mask can come off.",
+      "practice": "Ask yourself: in which role did you spend the most time today? Do one small thing that doesn't belong to any role.",
+      "quote": null
+    },
+    "boredom": {
+      "text": "Boredom seems trivial, but it can be very oppressive. Jung would see in it a stagnation of energy: when consciousness moves along a familiar rut, the life force he called “libido” stops flowing there and looks for another channel. In Psychological Types he described four basic ways of relating to the world — thinking, feeling, sensation and intuition. In each of us, some are developed and familiar while others remain in the shadow, clumsy and “childish.” But it's precisely there, according to Jung, that freshness and new possibilities are stored. From this angle, boredom is an invitation to where you are unskilled, where you are a beginner. That's often where a lost interest in life is hiding.",
+      "practice": "Choose one activity for today that you're clearly clumsy at — and let yourself do it badly, but with curiosity.",
+      "quote": null
+    },
+    "joy": {
+      "text": "Joy is beautiful, and it doesn't need to be tested for durability. Despite his interest in the dark sides of the soul, Jung prized the moments when a person feels alive and whole. He loved simple things: in his tower at Bollingen, which he built with his own hands, he chopped wood, cooked, pumped water — with no electricity or running water. In the Memories he writes that there he was most deeply himself. From Jung's point of view, real joy often appears when the “I” and the deep Self are for a moment in agreement: when what you're doing matches who you are. Such joy is worth noticing and savoring, because it hints at where your path runs.",
+      "practice": "Write down what exactly you were doing when the joy came. What does it say about the real you?",
+      "quote": null
+    },
+    "love": {
+      "text": "Love is one of the strongest forces of life, and Jung treated it with enormous respect. He noticed that falling in love often begins with “projection”: we see in the other an image that lives in our own soul. In men he called it the “anima,” in women the “animus”: an inner image of the “other,” our opposite, which makes a person irresistibly attractive. (Later Jungians understand these concepts more broadly, without tying them rigidly to sex.) Projection isn't deception: this is how a meeting begins. But mature love, for Jung, grows as we gradually tell apart where our inner image is and where the living person is — and go on loving that person. In this meeting, both are changed.",
+      "practice": "Name one trait of the person you love that doesn't match your expectations — and notice that you love it too, or at least know how to live with it.",
+      "quote": {
+        "text": "The meeting of two personalities is like the contact of two chemical substances: if there is any reaction, both are transformed.",
+        "author": "Carl Gustav Jung",
+        "source": "Problems of Modern Psychotherapy (1929)"
+      }
+    },
+    "gratitude": {
+      "text": "Gratitude warms, and Jung helps us see its depth. He said that our “I” is only a small part of the psyche, like an island in an ocean, and that most of our inner life happens without our knowledge and not by our will: dreams, insights, unexpected encounters. Meaningful coincidences, when inner and outer events line up so that a sense of meaning arises, Jung called “synchronicity.” Gratitude, from this angle, is the recognition that we don't do everything ourselves: something comes to us as a gift. Such recognition doesn't diminish you — it frees you: you stop carrying the weight of your life alone. And you begin to see how much has already been received.",
+      "practice": "Recall one encounter or chance event that changed your life even though you didn't plan it. Thank it silently.",
+      "quote": null
+    },
+    "hope": {
+      "text": "Hope is a quiet but stubborn force, and Jung gives it a serious foundation. He noticed that the psyche, like the body, strives toward balance and wholeness. When consciousness reaches a dead end, the unconscious often brings new images — in dreams, in fantasies, in unexpected thoughts. Jung described the “transcendent function”: if you hold a contradiction within yourself for a long time without rushing to pick a side, a third thing can be born from that tension — a solution you couldn't have devised in advance. From this angle, hope isn't a naive expectation of a miracle but trust that work is still going on inside you, even when nothing changes outside. Sometimes a way out appears from where you least expected it.",
+      "practice": "Write down the contradiction you're stuck in right now in the form “both… and…” rather than “either… or…”. Leave the note for a day and look at it again.",
+      "quote": null
+    },
+    "nostalgia": {
+      "text": "Nostalgia is sweet and bitter at once, and there's nothing childish about it. Jung might say that what we long for isn't only a particular time. He wrote about “archetypes” — images and plots common to all people, held in the “collective unconscious,” the deepest layer of the psyche. One such image is paradise lost: childhood, home, a time when everything was whole. Nostalgia can be a touch of this archetype: the past glows brighter than it really was, because a longing for wholeness falls upon it. Jung himself, as a mature man, returned to childhood games and found in them a way forward. From this angle, the past isn't only a loss but also a source from which to draw a lost quality: lightness, wonder, play.",
+      "practice": "Recall which quality of life you most associate with that time. How could you let even a drop of that quality into today?",
+      "quote": null
+    },
+    "craving": {
+      "text": "A craving is a sharp “I want it right now,” and it can be very strong. Jung suggested looking at what lies behind it. In a letter to Bill Wilson, one of the founders of Alcoholics Anonymous, written in 1961, he suggested that the craving for alcohol may be a low-level, distorted expression of a deep spiritual thirst — a person's striving for wholeness, for something larger than the everyday “I.” From this angle, a craving isn't foolishness or vice: there is a genuine need in it that has simply found the wrong address. Jung didn't romanticize addiction — he saw how much suffering it brings — but he respected the thirst itself. A craving comes in a wave: it rises and subsides. While it's passing, you can ask: what do I really want?",
+      "practice": "When a wave of craving rises, finish the sentence: “What I'm really missing right now is…” Write down the answer and notice how the wave changes over time.",
+      "quote": null
+    },
+    "addiction": {
+      "text": "Addiction is not a moral failure, and Jung was one of those who understood this. He spoke of “complexes” — knots in the psyche charged with strong feeling, which can act almost independently, as if taking possession of a person. Addiction can be seen this way: it's not that you are “weak,” but that a force larger than your conscious “I” has taken over. That's why willpower alone is often not enough. In his letter to Bill Wilson, Jung expressed this with the Latin formula “spiritus contra spiritum”: against “spirits,” what helps is “spirit” — the experience of connection with something larger than yourself, and with other people. Wilson believed this idea of Jung's stood at the origins of the Alcoholics Anonymous fellowship. From this angle, the way out isn't to shame yourself but not to remain alone with this force.",
+      "practice": "If you feel like it, think about whether there's a person or a mutual-help group nearby where you'd be heard without judgment. You don't need to decide anything — just name who that might be.",
+      "quote": null
+    },
+    "hangover": {
+      "text": "A hangover morning is hard on both body and soul: anxiety, shame, fragments of last night. From Jung's point of view, you can notice how on such a morning the inner accuser grows louder. The evening often lets the “persona” — your usual social mask — loosen, and what is normally kept in the “Shadow” comes out: sharpness, frankness, clumsiness. In the morning the mask comes back and looks at what was done in horror. So the heaviness of the morning isn't only a bodily state but a meeting of two parts of you that don't know each other well. You don't need to sign the verdict a tired mind hands down. Big conclusions about yourself can wait until your strength returns; for now, simply take care of yourself as you would of someone who feels unwell.",
+      "practice": "Tell yourself: “No conclusions about myself today.” Do one simple caring thing: wash your face, open a window, let the morning simply pass.",
+      "quote": null
+    },
+    "euphoria": {
+      "text": "Euphoria is a vivid high when everything seems possible, and you can simply live it with gratitude. Jung has a concept that helps us understand such moments without fear and without being blinded — “inflation,” literally “puffing up.” He described how the “I” sometimes overflows with a force that has come from the depths of the psyche and for a time identifies with it: it seems you can do anything and see right through everything. This energy itself is beautiful and real. From Jung's point of view, it's worth only remembering that it is larger than your “I” and doesn't wholly belong to it. This lets you enjoy the high and at the same time let important decisions rest a little. Euphoria is a gift best received with open palms rather than clenched in a fist.",
+      "practice": "Write down what you feel and what you dream about in this moment — so that later, on a calm day, you can reread it and keep the best of it.",
+      "quote": null
+    },
+    "crash": {
+      "text": "A sharp comedown after a high is a hard state, and it's not your fault. Jung borrowed from Heraclitus the word “enantiodromia” — “running into the opposite”: every extreme sooner or later turns into its opposite. The higher the flight, the more noticeable the movement back. This isn't a punishment or proof that the joy was false — it's the rhythm of the psyche, its way of returning to balance. Jung believed that opposites don't cancel each other but together make up a whole: the day needs the night. From this angle, the slump is part of the same wave as the high, and it too will pass. Right now it's more important not to pick yourself apart but to wait it out, as gently as you can, the way you wait out bad weather.",
+      "practice": "Write a short note from “yourself on the high” to “yourself in the slump” — one sentence of support.",
+      "quote": null
+    },
+    "panic": {
+      "text": "A panic attack is truly frightening: your heart pounds, you can't get enough air, it seems something irreparable is about to happen. Such a wave usually peaks and subsides within a few minutes. Jung described how the “I” is sometimes flooded by forces of the psyche it can't take in all at once — as if a wave of the ocean washed over a small island. In the years of his own “confrontation with the unconscious,” he went through states in which he feared losing his footing, and he looked for it in the simplest things: family, work, everyday tasks. In the Memories he writes that these reminded him he was a real person in a real world. From this angle, what panic needs first of all is footing — bodily, concrete, here and now. Understanding will come later.",
+      "practice": "Put your feet on the floor and feel them. Make your out-breath longer than your in-breath, and name out loud five objects around you.",
+      "quote": null
+    },
+    "dread": {
+      "text": "Objectless dread, a heavy foreboding, is one of the most exhausting states, and you don't have to understand it right away. Jung thought a lot about what rises from the depths of the psyche when a familiar picture of the world collapses. He wrote that what isn't made conscious inside is often experienced as fate advancing from outside — like a dark, formless cloud. Not necessarily because there's no threat, but because the fear doesn't yet have an image. Jung suggested giving an image to what is formless: drawing it, describing it, imagining it. In his observations, what took on a form stopped being all-consuming, and it became possible to enter into a relationship with it. Your state is neither a verdict nor a prophecy; it's something still searching for words.",
+      "practice": "If this feeling were weather or a landscape, what would it look like? Describe it in two or three sentences — and notice that you are looking at it, not only inside it.",
+      "quote": null
+    },
+    "fomo": {
+      "text": "The fear of missing out is a very recognizable feeling: it seems that real life is happening somewhere else, and you're not there. Jung would say that “projection” is at work here: in other people's lives — pictures, stories, successes — we see our own unlived life. Besides, the world of other people's feeds is a world of “personas,” carefully constructed faces people show to others; comparing your living inner state with them is unfair from the start. Jung believed each person has their own path of “individuation,” and it can't be walked by copying someone else's. No one can live every life at once. From this angle, the question isn't “what am I missing?” but “what that I've seen truly resonates in me?” — that's a hint about your own path.",
+      "practice": "Pick one image from someone else's life that stung. Name not what it shows but what you want — in one word.",
+      "quote": null
+    },
+    "sleepless": {
+      "text": "A sleepless night drags on endlessly, and the thoughts in it seem darker than by day. It's not your fault. Jung would note that at night consciousness grows tired of holding its defenses, and what was pushed aside during the day rises to the surface. He treated the night side of the psyche with respect: dreams, half-asleep images, sudden thoughts — all this is the language of the unconscious, which, he was convinced, is not an enemy but a conversation partner. But a partner who speaks in images, not verdicts. From this angle, night thoughts shouldn't be taken as the final truth about your life: they're raw material, not a judgment. In the morning much looks different. And if some image keeps returning, you can note it down so you can come back to it in the daytime, when you have more strength.",
+      "practice": "Put a sheet of paper next to your bed and write down the intrusive thought in one line — with the note “I'll come back to this in the daytime.”",
+      "quote": null
+    },
+    "betrayal": {
+      "text": "Betrayal wounds deeply: what collapses is not only trust in a person but your picture of the world. Jung knew this from experience: the break with Freud, whom he had once revered almost as a father, was one of the most painful events of his life. The Jungian James Hillman devoted an essay, “Betrayal,” to this theme. He suggested that betrayal is a bitter but common part of growing up: it destroys the “primal trust” in which we lived as children, protected from everything. Hillman also described dangerous responses to it — cynicism, revenge, refusing to trust at all. From this angle, the pain of betrayal isn't meaningless: over time it can open up a more mature trust — not blind, but aware of vulnerability, and still not closed.",
+      "practice": "Write down what you believed before this event — about people, about yourself. What of it would you like to keep, even in a new, more mature form?",
+      "quote": null
+    },
+    "jealousy": {
+      "text": "Jealousy burns, and it can't simply be switched off. Jung helps us look at it without shame. When we love, we often “project” onto the other a part of our own soul — the inner image Jung called the anima or animus. Then the threat of losing the person feels like the threat of losing a part of yourself — which is why it's so unbearable. This doesn't mean your feelings aren't real. It means that jealousy mixes fear for the relationship with fear for your own wholeness. From this angle, it helps to ask: what exactly do I feel I would lose along with them? Sometimes the answer — a sense of your own worth, aliveness, meaning — points to something you can begin to grow in yourself, rather than handing it over entirely to someone else.",
+      "practice": "Finish the sentence: “If I lose this person, I will lose the part of me that…” Look at which of this belongs to you yourself.",
+      "quote": null
+    },
+    "resentment": {
+      "text": "Resentment that won't go away is a heavy load, and there are usually serious reasons for it. Jung would call it a “complex” — a knot of experiences charged with strong feeling. Complexes live an almost independent life: touch them, and they replay the old scene again and again, as if it were happening now. Jung remarked wryly that everyone knows people “have complexes,” but far fewer realize that complexes can “have” us. From this angle, resentment isn't pettiness but a wound that hasn't yet found a way out and keeps repeating its story. Relief comes not from forcing yourself to “forgive” but from acknowledging the pain fully — and then it can gradually loosen its grip.",
+      "practice": "Write one paragraph about what was done to you and what it meant to you. Not for the sake of forgiveness or revenge — simply so that the pain is heard.",
+      "quote": null
+    },
+    "heartbreak": {
+      "text": "A broken heart hurts almost physically, and there's no need to hurry to “let go.” Jung might say that along with the person, what we “projected” onto them leaves too: the inner image of the beloved, which he called the anima or animus. While the love lasted, this image lived outside, in another person. Now it's as if it returns to you — and at first it feels like emptiness and a wound. But from Jung's point of view, this is also an opportunity: to notice that what you loved so much in the other — tenderness, courage, depth — was partly sounding in you as well. This doesn't devalue either the love or the person. It means that they have gone, but not all the good that woke up in you beside them.",
+      "practice": "Name three qualities you loved most in this person. Which of them lives, at least a little, in you too?",
+      "quote": null
+    },
+    "impostor": {
+      "text": "Feeling like an impostor is agonizing: it seems you're about to be exposed. Jung would describe this through the concept of the “persona” — the social mask, the face we go out into the world with: job title, status, role. The persona is necessary, but it never coincides with the whole person, and in the gap between them arises the feeling “I'm not who they think I am.” In the Memories Jung tells how from childhood he sensed two personalities in himself: “No. 1” — a schoolboy trying to measure up — and “No. 2” — someone older and deeper. From this angle, feeling like an impostor isn't proof of deceit but a sign that you are more than your role. No one fully coincides with their persona, not even those who seem confident.",
+      "practice": "Write in two columns: “what I show” and “what I feel meanwhile.” Look at both and acknowledge: both are you.",
+      "quote": null
+    },
+    "self_hatred": {
+      "text": "When an inner voice insists that you're worthless, it hurts terribly — and that voice is wrong, however convincing it sounds. Jung would most likely see in it not the truth about you but a “complex” — an old knot of experience that speaks in other people's words and plays the same record over and over. He also believed that everything we can't accept in ourselves goes into the “Shadow,” and the more fiercely we fight it, the louder it makes itself heard. Jung suggested not fighting yourself but gradually acknowledging: yes, this is in me too, and I am still a person worthy of life and care. Acceptance here isn't approval of everything; it's giving up the war with yourself.",
+      "practice": "Write down your inner critic's most frequent phrase and ask: “Who once spoke to me like this, or something like it?” Then write the phrase you would say to a close friend in your place.",
+      "quote": {
+        "text": "We cannot change anything unless we accept it. Condemnation does not liberate, it oppresses.",
+        "author": "Carl Gustav Jung",
+        "source": "Psychotherapists or the Clergy (1932)"
+      }
+    },
+    "helplessness": {
+      "text": "Helplessness is one of the hardest feelings: it seems nothing depends on you. Jung wouldn't try to persuade you that you're all-powerful. On the contrary, he stressed that the conscious “I” is only part of the psyche, and it really doesn't control everything: not dreams, not moods, not many events. But from this he drew a conclusion not of powerlessness but of alliance. If the “I” can't cope on its own, it can lean on a wider wholeness that Jung called the Self — on that in you which goes on living, seeking and recovering, even when you don't feel it. From this angle, helplessness isn't the end of the road but the place where your usual means run out and small steps and patience begin.",
+      "practice": "Name one very small thing that is in your hands right now — making tea, opening a window, writing someone a single word — and do it.",
+      "quote": null
+    },
+    "procrastination": {
+      "text": "Putting things off isn't always laziness, and Jung would suggest looking at it more closely. He believed the psyche has a will of its own that doesn't coincide with the will of the “I.” If some part of you resists a task, that resistance may be telling you something: the task isn't yours, it was imposed; it frightens you; or something else is needed right now. Jung would call such parts “complexes” — they have their own feelings and their own logic, and they know how to sabotage the plans of consciousness. From this angle, fighting procrastination by willpower alone is like arguing with someone without listening to them. It's more useful to ask: who in me doesn't want to do this, and why? Sometimes, once heard, this inner voice agrees to at least the first step.",
+      "practice": "Imagine the part of you that's putting the task off and ask it: “What are you afraid of, or what do you want instead?” Write down the answer without arguing.",
+      "quote": null
+    },
+    "uprooted": {
+      "text": "Being cut off from home, from your land and your language, is a real loss. Jung gave roots enormous importance. He was convinced that beneath personal memory lies a deeper layer — the “collective unconscious,” a psychic soil shared by all people, filled with ancient images. Being torn from a familiar place lays this depth bare: outer supports disappear, and you have to look for roots within. Jung himself spent decades building, with his own hands, a tower at Bollingen on the shore of Lake Zurich, and he wrote that there he felt connected with his ancestors and with many centuries at once. From this angle, home isn't only an address but something you can recreate piece by piece: objects, rituals, words that hold you wherever you are.",
+      "practice": "Choose one object or habit that reminds you of home, and do it consciously today, as a small ritual.",
+      "quote": null
+    },
+    "overload": {
+      "text": "Overload from an endless stream of information is a real burden, not a weakness of yours. Jung lived long before smartphones, but he wrote a lot about how modern people live too much “on the outside”: identified with consciousness, external events and demands, and cut off from inner life. He considered this one of the ills of our culture. To restore balance, Jung himself would go off to Bollingen, where he had neither electricity nor a telephone, and where, in his words, he was most himself. From this angle, overload is a signal that there's too much of the outer and nowhere for the inner to be heard. You don't need your own Bollingen — a few minutes of silence that the stream can't reach will do.",
+      "practice": "Turn off all screens and sounds for five minutes. Just sit and notice what thought or image appears first when it gets quiet.",
+      "quote": null
+    },
+    "unreality": {
+      "text": "The feeling of unreality — as if the world or you yourself were behind glass — is a strange and disturbing experience. Jung took such states seriously and without condescension. In the years of his “confrontation with the unconscious,” he himself went through periods when the boundary between inner images and the outer world grew shaky. So as not to get lost, he held tightly to the most ordinary things: family, work, his daily routine. In the Memories he writes that these simple realities were an anchor for him, reminding him that he existed in the real world. From Jung's point of view, the “I” is only part of a wider psyche, and sometimes it temporarily weakens. It can be helped by the simplest things: a touch, handiwork, the voice of someone close.",
+      "practice": "Pick up some object and describe out loud its weight, temperature and texture. Say today's date and the place where you are.",
+      "quote": null
+    },
+    "awe": {
+      "text": "Awe is a rare and precious feeling, and it doesn't need to be fully explained. Jung took from the theologian Rudolf Otto the word “numinous” — the experience of something vast, at once frightening and fascinating, before which a person feels small and intensely alive. Jung considered such experiences not a quirk but one of the most important experiences of the human soul: in them the “I” touches something larger than itself. He wrote that numinous experience can change a life, because it gives a sense of meaning that can't be reached by reasoning. From this angle, awe before the sea, a starry sky, music or the birth of a child is a moment when you meet the depth of the world and your own depth at the same time.",
+      "practice": "Stay with this feeling for one more minute without doing anything. Then name in one word what you have just met.",
+      "quote": null
+    },
+    "relief": {
+      "text": "Relief is a wonderful feeling, when what held you for a long time lets go. It's worth simply living it. Jung would note that relief often comes when the tension between opposites is finally resolved: for a long time you were pulled in different directions — and suddenly a way out appeared, or time simply did its work. He wrote that the psyche, like the body, strives for balance, and this striving doesn't need our effort every minute — sometimes it does its work on its own. From this angle, relief is a sign that your inner self-regulation is working. It's a good moment to notice: you got through it, and there's a strength in you that helped you do so. It's worth remembering for the future.",
+      "practice": "Take a slow breath in and out and tell yourself: “That's behind me.” Notice where in your body the relief is felt most strongly.",
+      "quote": null
+    },
+    "calm": {
+      "text": "Calm is a precious state, and it's worth valuing without waiting for a catch. Jung saw deep calm as a moment when the “I” and the Self — the deep center of the personality — are in agreement. His symbol of such wholeness was the mandala, a circular pattern found in the most diverse cultures. In the Memories Jung tells how in 1918–1919 he drew a small circular drawing in a notebook every morning and used these drawings to notice how his inner state was changing. He realized that the mandala expresses the psyche's striving toward a center and balance. From this angle, your calm isn't an accidental pause but an expression of the wholeness the soul strives for. You can remember it so you can return to it.",
+      "practice": "Draw a circle and, inside it, whatever comes to mind right now. Let it be a drawing of your calm.",
+      "quote": null
+    },
+    "inspiration": {
+      "text": "Inspiration is a joyful state in which ideas seem to come by themselves. Jung believed that, in part, they do. In his writings on artistic creation he distinguished two paths: sometimes the author guides the work consciously, and sometimes the work seems to grow on its own, using the person as an instrument, and then it says more than the author's personal experience. In the Memories Jung tells of an inner figure he called Philemon: in his fantasies this wise old man said things Jung himself did not consciously know. From this angle, inspiration is a meeting with the creative power of the unconscious, and you needn't claim it as your own — you can receive it with gratitude. This takes the pressure off: you don't have to invent everything yourself; it's enough to listen carefully and write it down.",
+      "practice": "Write down everything that comes, right now, without editing — for at least five minutes. You'll judge it later.",
+      "quote": null
+    },
+    "schadenfreude": {
+      "text": "Schadenfreude is unpleasant to discover in yourself, though almost everyone has felt it at least once. Jung would say it's the voice of the “Shadow” — the part of us that stores everything that doesn't fit the image of a “good person”: rivalry, resentment, the wish to come out on top. Everyone has a Shadow, and Jung believed it's far more dangerous not to know your Shadow than to know it. Schadenfreude often speaks of hidden pain: a feeling of having been underestimated or passed over, a secret comparison in which you long came off worse. From this angle, the feeling itself says nothing final about you. What matters is not pretending it isn't there, but asking what wound it covers — and not letting it steer your actions.",
+      "practice": "Ask yourself without judgment: “Where did this person once hurt me, or in what do I compare myself with them?” Write down the first thing that comes.",
+      "quote": {
+        "text": "One does not become enlightened by imagining figures of light, but by making the darkness conscious.",
+        "author": "Carl Gustav Jung",
+        "source": "The Philosophical Tree (1945)"
+      }
+    },
+    "contempt": {
+      "text": "Contempt is a cold feeling, and it's not easy to admit to. Jung would point out how often it's linked to “projection” — involuntarily attributing to another person what we don't accept in ourselves. The more hotly some trait in a person gets to us — weakness, stupidity, smugness — the more likely it is that it somehow concerns us too: perhaps we are suppressing it in ourselves with all our might. In Aion, Jung wrote that projections turn the world around us into a reflection of our own unknown face. This doesn't mean the other person is blameless. It means that contempt carries information about you as well. From this angle, it isn't a reason to feel superior but a chance to learn something important about yourself.",
+      "practice": "Name the trait you despise in this person. Ask yourself: “When am I afraid of discovering this in myself?”",
+      "quote": null
+    },
+    "disgust": {
+      "text": "Disgust is a strong, bodily feeling: you want to turn away, pull back, push away. Often it protects you and is perfectly reasonable. Jung would also suggest looking at what exactly gets to us so much. The “Shadow,” in his view, gathers everything we consider low, dirty, animal in ourselves, and disgust at something outside sometimes guards the border against that inner something. It's especially hard when disgust is turned on yourself. Then it helps to remember: Jung believed that wholeness includes the “low,” the bodily, the imperfect — without it a person is not purer but poorer. From this angle, disgust should neither be obeyed like an order nor be a source of shame. You can ask: what border is it guarding right now — and do I need that border?",
+      "practice": "Notice where in your body the disgust lives. Place your palm there and simply breathe, without trying to get rid of it.",
+      "quote": null
+    },
+    "revenge": {
+      "text": "The wish for revenge is understandable: when you've been hurt, a demand for justice rises inside. The wish itself isn't yet an act, and it doesn't make you a bad person. Jung would say that in such moments we can be seized by an “archetype” — an ancient plot shared by all people, in this case the plot of retribution, which pulls you along like a current. When an archetype “possesses” a person, they begin to act not as themselves but as a character in an old tragedy. Jung believed that the way out lies in awareness: once you see the plot, you don't have to play your part in it. From this angle, the thirst for revenge speaks of a real wound and a violated boundary. They need a path that protects you and restores your dignity without harming anyone.",
+      "practice": "Write down what would have to happen for you to feel better. In this list, separate the need for your pain to be acknowledged from the wish for the other person to be hurt.",
+      "quote": null
+    },
+    "anger_at_loved": {
+      "text": "Anger at those closest to you — a partner, parents, children — is one of the most common feelings and one we're most ashamed of. It doesn't cancel love. Jung understood this better than many: he believed that opposites in the psyche come in pairs, and the stronger the attachment, the more hidden tension it holds. Those close to us touch our “complexes” — old, charged knots — because it was with people like them that we once learned to love and to be hurt. We also often see our parents' traits in a partner, and transfer our own unlived life onto our children. From this angle, anger at a loved one is a sign of a strong bond and a reason to understand which old knot has been touched. You don't have to pour it out on the person; you can find words for it once the wave has settled.",
+      "practice": "When the anger has subsided, finish the sentence: “It hurt me so much because it's like…” — and look at where that “like” comes from.",
+      "quote": null
+    },
+    "ambivalence": {
+      "text": "I love you — and I can't stand you; I want to be close — and I want to leave. Such mixed feelings toward someone close are very hard, but entirely human. Jung, perhaps more than most, valued the capacity to hold opposites. He believed the psyche is polar in structure: light and shadow, love and aggression, closeness and separateness. Trying to keep only one side makes a person one-sided, and the repressed side comes back anyway. Jung described the “transcendent function”: if you patiently hold both feelings within you, without forcing yourself to choose one, a third thing can in time be born — a new, more mature attitude. From this angle, your ambivalence isn't a sign of a bad relationship but the honesty of a soul that sees the person whole.",
+      "practice": "Write one sentence that begins “What I love in you is…” and one that begins “It's hard for me with you when…”. Read both and notice that they are true at the same time.",
+      "quote": null
+    },
+    "guilty_relief": {
+      "text": "Relief you're ashamed of — after a breakup, after leaving a grueling job, even after the death of a loved one who was seriously ill for a long time — is one of the most hidden feelings. Let's say it right away: relief and love can live together. Jung repeated insistently that the psyche doesn't obey the rules of “proper” feelings: opposites sound in it at the same time. Long tension, caregiving and fear drain your strength, and when it ends, the soul breathes out — this isn't betrayal but its natural self-regulation. The shame here speaks in the voice of the “persona” — ideas about what one is supposed to feel. From this angle, relief doesn't cancel your love, grief and faithfulness. It only shows how hard it was for you — and that you got through it.",
+      "practice": "Tell yourself: “I feel lighter, and my love hasn't become any smaller because of it.” Notice that both halves of the sentence are true.",
+      "quote": null
+    },
+    "indifference": {
+      "text": "Indifference where something “should” move you is frightening: it seems something is wrong with you. Jung would suggest not rushing to a verdict. In his view, psychic energy — “libido” in the broad sense, simply life force — isn't always where consciousness expects it. Sometimes it withdraws into the depths, where quiet work is going on; sometimes it's taken up by tiredness or long strain; sometimes it reaches toward something quite other than what's “expected.” And the very expectation of the “right” reaction is a demand of the “persona,” not of the living person. From this angle, indifference isn't proof of callousness but information: there's no energy here right now, and it may be somewhere else. Feelings often return once you stop trying to squeeze them out of yourself.",
+      "practice": "Ask yourself: “What touches me even a little right now — even if it's not at all what it should be?” Name it without judgment.",
+      "quote": null
+    },
+    "escape": {
+      "text": "The urge to drop everything and leave — a job, a city, a role — is familiar to very many people, and there's nothing shameful in it. In the Jungian tradition there's the image of the “eternal youth,” the puer aeternus, described in detail by Jung's student Marie-Louise von Franz. It's the part of us that thirsts for freedom, novelty, life without limits. Von Franz also showed its trap — the “provisional life,” in which the real present is always about to begin somewhere else. But the Jungian view sees something else in the urge to escape: perhaps the “persona,” the role you play, has become too tight, and the soul is demanding room. From this angle, the important question is: what exactly am I running from, and toward what? The dream of escape deserves a hearing: there's truth in it about what you lack.",
+      "practice": "Describe the place you want to run away to in three words. These words are about what you lack here. Could you let even one of them into this week?",
+      "quote": null
+    },
+    "forbidden_attraction": {
+      "text": "Attraction to someone who is “off limits” — unavailable, or the “wrong” person — is embarrassing and unsettling. Jung wouldn't pass moral verdicts here; he would be interested in what this attraction says about the soul. For Jung, a strong, seemingly causeless attraction is often tied to the “projection” of the anima or animus — the inner image of the “other” living in our psyche. Such an image carries what conscious life lacks: passion, freedom, depth, recognition. And the less of these there is in everyday life, the more brightly the image flares up on someone outside. From this angle, the attraction isn't only about the other person but also about an unrecognized part of yourself. It can be explored inwardly — in thoughts, dreams, writing — and that exploration is valuable in itself.",
+      "practice": "Name the quality that draws you to this person. Ask: “Where in my life is there no room for this quality right now?”",
+      "quote": null
+    },
+    "social_anxiety": {
+      "text": "Fear of people and their judgment is a very common and painful feeling. Jung brought the words “introversion” and “extraversion” into wide use: an introvert is turned first of all toward the inner world, an extravert toward the outer, and neither type is better than the other. Shyness and introversion aren't the same thing, but they are often intertwined. Jung himself was more of an introvert, and in the Memories he admits that in childhood and youth he felt alien and awkward among his peers. He noticed that Western culture values the extraverted style more, and it's easy for an introvert to decide that something is wrong with them. From this angle, your sensitivity to people isn't a defect but a trait that needs its own pace and its own space.",
+      "practice": "Before meeting people, plan yourself a small “refuge” — a minute by the window or outside. Just knowing it's there takes away some of the tension.",
+      "quote": null
+    },
+    "uncertainty": {
+      "text": "Uncertainty wears you out: it's unclear what will happen, and there's nothing to lean on. Jung would say that consciousness by its nature strives for clarity and control, while the life of the psyche and of the world is much wider than what we can foresee. He used the word “synchronicity” for cases when inner and outer events unexpectedly coincide in meaning, and the very concept was an admission: there is an order in the world that can't be reduced to our plans. From this angle, uncertainty isn't only a threat but also a space in which something may appear that you couldn't have planned. This doesn't cancel the anxiety. But you can stop demanding that you know the future and stay attentive to what comes along the way.",
+      "practice": "Write: “I don't know what will happen with…” — and beside it: “But I know that today I can…”. One small certainty against a background of great unknown.",
+      "quote": null
+    },
+    "waiting": {
+      "text": "Waiting — for results, an answer, news — drags on agonizingly, and time seems to freeze. Jung wrote a lot about symbols of transition: in myths and fairy tales the hero often goes through a period of being locked up, swallowed, cut off from the world — like Jonah in the belly of the whale. Jung called such plots the “night sea journey” — a time when nothing happens outside, but inside a change is being prepared. From this angle, waiting is a burdensome but not empty time. It's an in-between state in which you are no longer who you were, but don't yet know who you'll become. Jung didn't promise that the outcome would necessarily be good. But he helps you see that even while waiting, you are living, not only waiting.",
+      "practice": "For the waiting period, choose one small activity that has nothing to do with it: a walk, a page of a book. Allow yourself, in those minutes, to live and not only to wait.",
+      "quote": null
+    },
+    "regret": {
+      "text": "Regret over what you did or didn't do can hold on for a long time. Jung might note that over the years we regret not only particular actions but also unlived sides of ourselves. In “The Stages of Life” he wrote that the second half of life offers a chance to turn toward what was cast aside in the first for the sake of success and adapting to the world. Jung was convinced that what's been missed doesn't vanish from the psyche: unlived possibilities remain in the Shadow, like shoots that never developed. From this angle, regret isn't only pain about the past but also a signpost: what of what was lost still wants to live. Much can't be brought back in its old form, but the quality behind it can sometimes be let into today.",
+      "practice": "Name what you regret, and answer: what quality or value stood behind what didn't happen? Where could that quality show itself now, even a little?",
+      "quote": null
+    },
+    "longing": {
+      "text": "Longing for a particular person aches quietly and constantly, as if there were an empty place in your heart in their shape. From Jung's point of view, you might say that someone close lives not only outside but also inside us — as an image, a voice, a part of our psyche. When the person is far away, this inner image keeps sounding, and longing is its call. Jung valued “active imagination” — a practice in which a person consciously turns to inner images and holds a conversation with them, writing it down. So the bond isn't broken by distance: it can be kept up inwardly while an outward meeting isn't possible. This doesn't replace the living person, but it helps longing be not only a wound but also a form of faithfulness.",
+      "practice": "Write a few lines as if you were talking with this person: what you would say to them, and what you imagine they would answer.",
+      "quote": null
+    },
+    "world_pain": {
+      "text": "Pain for the world — from heavy news, wars, injustice — speaks of your capacity for compassion, not of weakness. Jung lived through two world wars and thought a great deal about evil. In his late book Answer to Job (1952) he returned to the biblical story of a righteous man who suffers without guilt, and he didn't smooth it over: Job's suffering can't be explained by anything he deserved, and the very image of God in that book, according to Jung, carries a dark, unconscious side. For Jung this was a question of how a person can bear evil without closing their eyes to it. He also believed that the capacity for destruction exists in everyone, and knowing this is the first protection. From this angle, carrying pain for the world means seeing the darkness and guarding the light in yourself, not letting despair make you numb.",
+      "practice": "Allow yourself for a minute to admit: “I'm hurting for the world.” Then name one small kind act that's within your reach today.",
+      "quote": null
+    },
+    "rejection": {
+      "text": "Rejection wounds deeply: it seems it wasn't an offer or a job that was turned down, but you yourself. Jung helps separate these things. He distinguished the “persona” — how we present ourselves to others — from the whole personality, which includes both the Shadow and the deep Self. A refusal usually concerns a meeting at the level of personas: your role and how well it matched the other's expectations. It can't pass judgment on you as a whole. Jung would also say that rejection is especially painful when it touches an old “complex” — an early experience where we already felt unwanted — and then the new pain is amplified by the old. From this angle, you can feel compassion both for yourself today and for the one who once went through this for the first time.",
+      "practice": "Write: “What was turned down was my… (offer, letter, confession), not all of me.” Read it slowly, twice.",
+      "quote": null
+    },
+    "abandonment": {
+      "text": "The fear of being abandoned is one of the most ancient human fears, and it deserves gentleness. Jung saw “archetypes” in the depths of the psyche — images and plots common to all people. One of them is the abandoned child: a motif repeated in myths and fairy tales, from Moses in the basket to orphans left in the forest. In the essay “The Psychology of the Child Archetype” (1940), Jung observed that abandonment in these stories is not only a misfortune but also a condition of future strength: the abandoned child survives and grows up. From this angle, your fear touches something very early, and it's understandable. But there is also a part of you that knows how to survive and to care for your own vulnerability — for the “inner child.”",
+      "practice": "Put your hand on your chest and say to yourself the words you would have wanted to hear as a child, when you were afraid of being left alone.",
+      "quote": null
+    },
+    "unrequited": {
+      "text": "Unrequited love is bitter: everything inside you is turned toward a person, and there's no answer. Jung would help you see what's happening here. When we fall deeply in love, we, in his view, “project” onto the other the anima or animus — the inner image of an ideal “other” living in our soul. Hence the strength of the feeling, and the sense that without this person life loses its color. Projection doesn't make the love unreal: your feelings are genuine. But it does mean that part of the radiance you see in the other comes from you yourself. From this angle, unrequited love is also a meeting with your own capacity to love, which doesn't disappear even if it finds no answer right now. Little by little, this light can be brought back to yourself and your life.",
+      "practice": "Write down what this love awakens in you: tenderness, inspiration, courage. That's yours — and it can live on, regardless of any answer.",
+      "quote": null
+    },
+    "humiliation": {
+      "text": "Humiliation is one of the most searing experiences: as if you'd been stripped of your dignity in front of others. Jung would say that in such a moment the “persona” has been torn off — the face we show the world, which protects our vulnerability. Being left without it is frightening. But Jung stressed that a person isn't the same as their persona: dignity lives deeper, in what he called the Self, and it doesn't depend on other people's words and looks. He even observed that the collapse of the persona sometimes becomes the beginning of a new, more honest relationship with yourself. This in no way excuses those who humiliated you. From this angle, your pain speaks of a value that was hurt — and that value is still yours.",
+      "practice": "Write one sentence about what in you has remained unchanged despite what happened. Read it aloud.",
+      "quote": null
+    },
+    "body_shame": {
+      "text": "Dissatisfaction with your body can be agonizing and very personal. From Jung's point of view, you might say that the body often ends up in the “Shadow” of our culture: for centuries spirit was placed above flesh, and now the body is often judged as a thing that must match a template. Jung, though, believed that human wholeness is impossible without the bodily, the “low,” the imperfect and alive. He loved working with his hands, chopping wood, cutting stone, and he saw the body not as a facade but as the home of the soul. We also often carry other people's judgments, heard long ago, that sound like our own voice. From this angle, your body isn't a project to be fixed but a part of you that has been carrying your life all this time.",
+      "practice": "Name three things your body did for you today: carried, hugged, felt. Simply note them.",
+      "quote": null
+    },
+    "illness": {
+      "text": "When your body lets you down, your familiar sense of strength collapses, and it becomes frightening. Jung knew this firsthand: in 1944, after breaking his leg, he had a heart attack and recovered slowly. In Memories, Dreams, Reflections he writes that after the illness he understood how important it is to accept one's fate and say “yes” to what is — and that it was then that a fruitful period began for him: he wrote many of his major books after it. Jung saw psyche and body as two sides of one reality. From this angle, illness is neither a defeat nor a punishment but a hard event that touches your whole life, and a new relationship with yourself can be born in it too. This isn't about replacing treatment, but about how the soul can live through what is happening.",
+      "practice": "Ask yourself not “why is this happening to me?” but “what do I need most right now?” — and name one small act of self-care for today.",
+      "quote": null
+    },
+    "pride": {
+      "text": "Pride in what you've done is a healthy and well-earned feeling, and it's worth living it fully. From Jung's point of view, it's a recognition that your “I” has done its job: endured, created, seen something through to the end. He warned only against one trap, which he called “inflation” — when the “I” starts identifying with something larger than it is, and confuses its success or its role with the whole of itself. Healthy pride doesn't do this: it knows its measure and remembers that the strength came not only from you but also from the depths of the psyche, from other people, from circumstances. That's why it can be joy and gratitude at once. Such pride doesn't puff you up; it makes you stronger.",
+      "practice": "Write down what exactly you did and which of your traits it revealed. Also name one person or circumstance that helped.",
+      "quote": null
+    },
+    "melancholy": {
+      "text": "Gentle sadness, melancholy, is a subtle and deep state, and it doesn't need fixing. Jung would probably see in it the soul turning inward — an “introversion” of energy, when the outer world recedes for a while and the inner world grows brighter. Jung long studied alchemy as a language of symbols of inner transformation. The alchemists had a stage called “nigredo” — “blackening,” the darkness with which the transformation of matter begins — and they associated it with melancholy. It wasn't a defeat but a necessary step of the work. Jung considered this image an accurate description of what happens in the soul: descent into dusk precedes a new light. From this angle, melancholy is a time of ripening. You can stay in it, as in a quiet twilight, listening.",
+      "practice": "Stay with this feeling for a few minutes, with music or by a window. Then write down one word — what is ripening in you now.",
+      "quote": null
+    }
+  }
+}

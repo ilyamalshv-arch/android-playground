@@ -1,0 +1,372 @@
+{
+  "id": "aristotle",
+  "title": "Aristotle",
+  "tradition": "Peripatetic school",
+  "family": "classic",
+  "period": "4th century BC",
+  "sortYear": -340,
+  "thinkers": [
+    "Aristotle"
+  ],
+  "keyWorks": [
+    "Nicomachean Ethics",
+    "Rhetoric (especially Book II)",
+    "Poetics",
+    "On the Soul",
+    "Politics"
+  ],
+  "summary": "Aristotle was an ancient Greek philosopher, a student of Plato and teacher of Alexander the Great, and the founder of a school at the Lyceum in Athens. He investigated almost everything, from animals to politics. In ethics his central question is what a good, full life is — \"eudaimonia\" — and how to reach it through virtue, understood as a \"mean\" between extremes, through friendship and through reasoned choice.",
+  "onEmotions": "Aristotle was the first to analyze the emotions systematically: in the second book of the Rhetoric he describes anger, fear, shame, pity, envy, indignation and other feelings — what causes them, whom they are directed at and how they subside. For him feelings are not enemies of reason: they are accompanied by pain or pleasure and depend on how we understand what is happening. Feelings in themselves are neither good nor bad — we are judged by our settled character. Virtue is a \"mean\": to feel an emotion at the right time, toward the right person, and to the right degree. And tragedy, according to the Poetics, brings about \"catharsis\" — a purification of the emotions — through pity and fear.",
+  "entries": {
+    "anxiety": {
+      "text": "Anxiety is exhausting, and it doesn't make you a weak person. Aristotle has an observation that helps a great deal here. In On the Soul he notes that sometimes people feel everything a frightened person feels even though nothing frightening is happening: the body can be tuned to fear before any reason appears. Every feeling, for Aristotle, is at once a bodily movement and a thought about what is going on. In the Rhetoric he adds that fear arises from imagining a misfortune that seems near, while distant things hardly frighten us. Anxiety is often exactly this: the imagination pulling the future closer. Aristotle also reminds us that deliberating — \"taking counsel with ourselves\" — makes sense only about things that depend on us. Separating those from everything else is already half the relief.",
+      "practice": "Divide a page into two columns: \"up to me\" and \"not up to me.\" Sort what is making you anxious into them, and choose one small step from the first column.",
+      "quote": null
+    },
+    "fear": {
+      "text": "Fear is a normal part of human life, and Aristotle never considered it shameful. Courage, for him, is not fearlessness but a \"mean\" between two extremes: cowardice, when fear governs everything, and rashness, when a person fails to see real danger. Someone who fears absolutely nothing, Aristotle said, is closer to insensible or mad than brave. The courageous person fears what ought to be feared, in the way it ought to be feared, and still does what they believe is right. In the Rhetoric fear is defined as pain and disturbance arising from the thought of an impending evil. So fear has an object, and it can be examined: how real is the danger, how near is it, and what is in your power? Your fear is not a verdict but a signal you can talk with.",
+      "practice": "Name in one sentence exactly what you are afraid of. Then answer: how likely is it, and what one thing, however small, can I do even while I'm still afraid?",
+      "quote": null
+    },
+    "sadness": {
+      "text": "Sadness is a legitimate feeling, and Aristotle never demanded that people be cheerful all the time. In his Rhetoric almost every emotion is described as accompanied by pain or pleasure: sadness is a natural part of how we respond to the world. In the Nicomachean Ethics he observes that pain is driven out by pleasure — either its opposite or simply any strong and lively one. He also asks whether the presence of friends lightens grief: do they share the weight with us, or does the very joy of their company soften the pain? He doesn't settle on an answer, but he has no doubt that friends help. From this angle, sadness doesn't have to be conquered by effort. You can let it be, and beside it leave room for something alive: a person, a task, a simple pleasure.",
+      "practice": "Today, do one small thing that usually brings you quiet pleasure — not instead of the sadness, but alongside it.",
+      "quote": null
+    },
+    "grief": {
+      "text": "Grief over a loss is one of the hardest things a person goes through, and Aristotle didn't pretend that reason cancels it. He recalled King Priam of the Iliad, who lost his sons and his city, and admitted that great misfortunes cloud even the most worthy life — good and bad fortune really do matter. But he added that nobility shines through even in misfortune, when a person bears the weight not out of insensitivity but out of greatness of soul. And about friends: in grief their presence eases the pain, as if they take part of the burden on themselves. Aristotle noticed that strong people are reluctant to burden those close to them with their pain. But shared grief is not weakness. It is the very friendship he considered necessary for life.",
+      "practice": "If there is someone you can simply be near, allow yourself that — even without talking about the loss. Presence alone already shares the weight.",
+      "quote": null
+    },
+    "loneliness": {
+      "text": "Loneliness hurts because it touches a very deep need, and Aristotle considered that need part of human nature itself. In the Politics he writes that a human being is by nature a creature that lives in community — a \"political\" animal; whoever can do entirely without others is, in his words, either a beast or a god. In the Nicomachean Ethics he asks whether a happy person who has everything needs friends, and answers yes: no one would choose to have all good things on their own. Through a friend, \"another self,\" we even feel our own life more fully. So your longing for people is neither weakness nor whim but the voice of human nature. And Aristotle hints that friendship grows from small things: goodwill, a shared task, time spent together.",
+      "practice": "Think of one person toward whom you feel even a little goodwill, and take a small step toward them: a short message, a question, an invitation.",
+      "quote": {
+        "text": "Man is by nature a political animal.",
+        "author": "Aristotle",
+        "source": "Politics, Book I, ch. 2"
+      }
+    },
+    "anger": {
+      "text": "There's no need to be ashamed of anger, and here Aristotle is surprisingly on your side. In the Rhetoric he gave the first detailed analysis of anger: it is pain combined with a desire to respond to a \"slight\" — to the fact that we, or those close to us, were not taken seriously. And in the Nicomachean Ethics he writes that someone who doesn't get angry when they should seems a fool and ready to put up with insults — that, too, is a defect. Virtue, for Aristotle, is not the absence of anger but a \"mean\": to be angry at the right things and with the right people, in the right way, and as much as is fitting. So the useful question isn't \"how do I stop being angry\" but \"what here was actually unjust, and what measure of response would be right?\" Your anger may be pointing to something important.",
+      "practice": "Write one sentence: \"What hurt me was that…\" Then ask yourself: what response would be proportionate — no more and no less than the situation deserves?",
+      "quote": {
+        "text": "Anyone can get angry — that is easy… but to do this to the right person, to the right extent, at the right time, with the right motive, and in the right way, that is not for everyone, nor is it easy.",
+        "author": "Aristotle",
+        "source": "Nicomachean Ethics, Book II, ch. 9"
+      }
+    },
+    "shame": {
+      "text": "Shame is an agonizing feeling that makes you want to hide. In the Rhetoric Aristotle described it as pain and disturbance about things that may damage our good name, and he noticed that we feel shame above all before those whose opinion we value. In the Nicomachean Ethics he says that shame is not a virtue but a feeling, and that it suits the young: while still learning to live we make mistakes, and shame holds us back from worse. Another distinction of his matters too: it only really makes sense to be ashamed of what depends on us — our actions, not what has happened to us. Shame, from this angle, is a sign that you care. You can listen to it, take a lesson from it, and not let it pass judgment on the whole of you.",
+      "practice": "Ask yourself: \"Am I ashamed of something I did, or of something that happened to me?\" If it's something you did — what one thing could I do differently next time?",
+      "quote": null
+    },
+    "guilt": {
+      "text": "Guilt is heavy, but it shows that justice matters to you. Aristotle distinguished voluntary and involuntary acts: something done out of ignorance or under the pressure of circumstances, which the person later regrets, he did not regard as malice. He also described special \"mixed\" actions — like a captain who throws the cargo overboard in a storm to save the ship: a choice was made, but no one would want to make it in calm conditions. And about justice he wrote that its essence is to restore an equality that has been broken — not to punish yourself, but to set things right as far as possible. From this angle, guilt is not a reason for endless self-reproach but a question: what exactly can I restore or make good now?",
+      "practice": "Describe the situation to yourself honestly: what depended on you, and what was circumstance? Then name one action that would restore the balance, even a little.",
+      "quote": null
+    },
+    "envy": {
+      "text": "Everyone feels envy, though it's hard to admit. Aristotle analyzed it with remarkable precision in the Rhetoric: it is pain at the good fortune of those who are our equals or close to us — the potter envies the potter, not the king. Right alongside it he described its \"relative,\" emulation, in Greek \"zelos\": pain that another has a good we lack but could also attain. The difference is in direction: envy wants the other to have less, emulation wants me to have more. Aristotle considered the second a feeling of decent people; it moves us to grow. Your envy, from this angle, is raw material. You can recast it by asking: what exactly do I want for myself?",
+      "practice": "Write: \"I envy that he/she has…\" Then rephrase it: \"I want for myself…\" — and think of one step in that direction.",
+      "quote": null
+    },
+    "emptiness": {
+      "text": "Emptiness, when nothing seems to matter, is a hard state, and it is not your fault. Aristotle began his ethics with a question very close to yours: what is it all for? Every action aims at some end, and there must be an end we choose for its own sake. He called it \"eudaimonia\" — not a passing pleasure but the fullness of life, flourishing. And he believed it consists in activity: the flute player has their work, the carpenter theirs, and a human being's work is to live, acting and understanding meaningfully. From this angle, emptiness may mean that right now your life holds little activity of your own — things you do for their own sake. You don't have to find it all at once. You can start with something small that genuinely interests you.",
+      "practice": "Recall an activity in which you once lost track of time. Give it ten minutes today — not for the result, but for the activity itself.",
+      "quote": null
+    },
+    "confusion": {
+      "text": "Confusion is unpleasant, but for Aristotle it is the normal beginning of any understanding. He called this state by the Greek word \"aporia\" — literally \"no way through,\" an impasse. In the Metaphysics he writes that anyone who wants to get to the bottom of things must first be properly puzzled: someone who hasn't gone through perplexity is like a traveler who doesn't know where to go. And in the Nicomachean Ethics he advises us not to demand more precision from a subject than it allows: in matters of life, clarity comes \"in outline,\" not as in mathematics. So your confusion is not a failure but an honest sign that the question is hard. You can explore it calmly, naming exactly what is unclear.",
+      "practice": "Write your confusion down as two or three concrete questions. Sometimes stating a question precisely is already half the answer.",
+      "quote": {
+        "text": "All men by nature desire to know.",
+        "author": "Aristotle",
+        "source": "Metaphysics, Book I, ch. 1"
+      }
+    },
+    "fatigue": {
+      "text": "Tiredness is not a sign of laziness but the honest voice of a living being. Aristotle soberly observed that nothing human is capable of continuous activity; that's why even pleasure in the same thing fades over time. He considered rest necessary: we need it because we cannot work without a break. He agreed with the sage Anacharsis, who advised playing so as to be able to do serious work afterward. Rest, for Aristotle, exists for the sake of activity, not the other way round. And the highest value he placed on \"leisure\" — in Greek \"schole\" (the root of our word \"school\"): free time for what is valuable in itself. From this angle, tiredness is no reason to reproach yourself but a sign that it's time to give yourself a breather.",
+      "practice": "Allow yourself fifteen minutes of real rest with no tasks and no screens — and don't justify it, even to yourself.",
+      "quote": null
+    },
+    "boredom": {
+      "text": "Boredom is an unpleasant, dragging state, and everyone knows it. Aristotle has no separate teaching on boredom, but in the Nicomachean Ethics he makes a subtle observation: new things delight us more because at first the mind is focused on them and alert, and later attention slackens and the pleasure dims. From this angle, one might say that boredom is not the emptiness of the world but the tiredness of attention. For Aristotle, pleasure is not a separate thing but what accompanies an activity and completes it when it is carried out at full strength. So the way out of boredom is not a search for ever stronger sensations but a real return to some activity, with your attention switched on.",
+      "practice": "Pick something ordinary — tea, a walk, tidying up — and do it with full attention, noticing the details as if for the first time.",
+      "quote": null
+    },
+    "joy": {
+      "text": "Joy is a wonderful state, and Aristotle did not consider it frivolous. He argued with those who saw pleasure as something suspicious. Pleasure, he wrote, completes an activity as the bloom completes youth — it isn't glued onto life from outside but blossoms from within when we do something at full strength and without hindrance. The best joys, for Aristotle, are those bound up with good activity: understanding, friendship, work that goes well for us. And eudaimonia — happiness as the fullness of life — is unthinkable without pleasure. So your joy is not a chance gift to be hidden away quickly but a sign that life is going well right now. You can simply live it to the full.",
+      "practice": "Notice which activity or meeting your joy is connected to, and say it to yourself plainly: \"I feel good when I…\"",
+      "quote": null
+    },
+    "love": {
+      "text": "Love is one of the greatest goods in life, and Aristotle devoted two books of the Nicomachean Ethics to it. He spoke of \"philia\" — a word that covers friendship, love and family affection alike. He distinguished three kinds: for the sake of usefulness, for the sake of pleasure, and for the sake of the person themselves, their character. The last is the most lasting: in it we wish the other good for their own sake. The beloved, for Aristotle, becomes \"another self\": we feel their joys and sorrows almost as our own. He also observed that love consists more in loving than in being loved. Your feeling, from this angle, is one of the peaks of human life, not a weakness to be controlled.",
+      "practice": "Think about what you value in this person for their own sake — not for what they give you. If you feel like it, tell them.",
+      "quote": null
+    },
+    "gratitude": {
+      "text": "Gratitude is a warm feeling, and Aristotle paid attention to it. In the Rhetoric he examined \"charis\" — kindness, a readiness to help not for one's own benefit but for the sake of the one being helped. Gratitude is the response to such selfless help. In the Nicomachean Ethics he notes that some people — parents, teachers — can never be repaid in equal measure, and there is nothing shameful in that: we can repay with what is in our power. A curious observation of his: benefactors usually love those they have helped more than they are loved in return — as a craftsman loves his work. From this angle, your gratitude is also the recognition of a bond in which you matter too. You are not a debtor; you are a participant in a shared good.",
+      "practice": "Think of one person you are grateful to, and consider how you might respond — with a word, attention, support — as far as you are able.",
+      "quote": null
+    },
+    "hope": {
+      "text": "Hope is a living feeling, and Aristotle saw it as a sign of strength. In the Rhetoric he writes that the young live by hope, because hope looks to the future and they have a great deal of future ahead; this makes them bolder and quicker to take heart. From this angle, one might say that hope is seeing your life as something not yet finished. Aristotle has a fitting concept: \"potentiality,\" in Greek \"dynamis\" — what has not yet become actual but is able to. A seed is a possible tree. Hope keeps that possibility open. At the same time Aristotle advised practical wisdom: it helps to see which steps toward what you want really depend on you. Then hope becomes not waiting but the beginning of action.",
+      "practice": "Write down what you hope for, and next to it one action within your power that brings the possible a little closer to the actual.",
+      "quote": null
+    },
+    "nostalgia": {
+      "text": "Nostalgia is a bittersweet feeling, and Aristotle understood it well. In the Rhetoric he observed that older people live more by memory than by hope, because they have more past than future — and that remembering can be pleasant in itself. He even quoted a poet: it is sweet to remember past toils. That is, even hard times can become dear in memory — because we lived through them and endured. From this angle, nostalgia is not an escape from the present but a way of sensing the wholeness of your life. Eudaimonia, for Aristotle, is the fullness of a whole life, not of a single day, and the past is part of it. You can allow yourself to remember with gratitude.",
+      "practice": "Recall one specific moment from the past that you miss. What was valuable in it — and is there something of that in your life now?",
+      "quote": null
+    },
+    "craving": {
+      "text": "A craving is a sharp \"I want it now,\" and there is nothing shameful in it: it is part of our nature. Aristotle called this kind of desire \"epithymia\" — an appetite for the pleasant that lives in the non-rational part of the soul. He didn't urge us to root it out; he compared it to a child who should live by the guidance of a tutor: desire is not to be crushed but taught to listen to reason. He also honestly noted that a desire that is constantly indulged grows and can drown out reasoning. And he described \"weakness of will\" — when a person knows what is better, but passion clouds that knowledge for a while, as in someone asleep or drunk. It helps to remember that this wave rises and passes, while your knowledge of what you really want stays with you.",
+      "practice": "When the craving rolls in, wait ten minutes, noting the time. In those minutes, write one sentence about what you want for yourself in the long run.",
+      "quote": null
+    },
+    "addiction": {
+      "text": "Addiction is not a moral failure and not a verdict on your character. Aristotle examined in detail a state he called \"akrasia\" — weakness of will: a person knows what is better for them, but at the decisive moment passion wins. Importantly, Aristotle distinguished such a person from a vicious one: the weak-willed person regrets what they have done, which means their values are alive and they are capable of change. He compared them to a city that has good laws but doesn't use them. Aristotle also knew the power of habit — he said that habit becomes a kind of second nature, yet it is easier to change than nature. The path, in his view, is not a burst of willpower but the gradual forming of new habits, step by step.",
+      "practice": "Write down what you value most in your life — your \"good laws.\" If you'd like, you can talk about this with someone who knows this path firsthand, for example in a mutual-help group.",
+      "quote": null
+    },
+    "hangover": {
+      "text": "The heavy morning after is an unpleasant mix of bodily weakness and regret, and Aristotle would recognize this state. He wrote that a weak-willed person, unlike a vicious one, regrets what they did afterward. That sounds bitter, but it is good news: regret means you don't agree with what happened, and your values are in place. Aristotle advised those seeking the \"mean\" to move away from the extreme they are more drawn to — the way you straighten a bent stick by bending it the other way. At the same time he was a realist: we reach the mean not in a day but through repetition. Today is not the time to put yourself on trial. Today is the time to look after your body and think calmly.",
+      "practice": "Rest quietly for a while, and write one sentence about what you'd like to do differently next time. No reproaches — just a note to yourself.",
+      "quote": null
+    },
+    "euphoria": {
+      "text": "A high, when everything seems bright and possible, is a wonderful feeling, and there's no need to rush to spoil it. In the Nicomachean Ethics Aristotle explained why change is so sweet: our nature is not simple, there is a lot in us, and we are glad when something changes. God, he wrote, enjoys one simple pleasure forever, but we need variety. From this angle, your euphoria is a full-fledged human experience, a surge of life. Aristotle did add that the most reliable joys are those born of activity: of work, understanding, friendship. So you can simply enjoy the high, and at the same time notice what exactly has come so alive in you right now. That will be useful later, too, when the wave recedes.",
+      "practice": "Write down what you are feeling now and what seems possible. Read it later, on an ordinary day, like a letter from yourself.",
+      "quote": null
+    },
+    "crash": {
+      "text": "The drop after a high can be very hard: the world seems gray, and the recent brightness feels like a trick. Aristotle helps us look at it more broadly. For him happiness, eudaimonia, is not the state of a single day but a quality of a whole life taken together. Just as one warm day doesn't make a summer, one hard day doesn't make a life a failure. He also explained that our nature is not simple, and so change is inevitable in it: a high is followed by a low, strain by fatigue. That doesn't mean the joy was false, nor that the grayness is the truth about the world. It is a wave. Aristotle believed that support comes not from peaks but from steady things: a familiar routine, work, friends. You can lean on them until the wave passes.",
+      "practice": "Choose one simple, familiar thing for today — a walk, a meal at the usual time, a call to a friend — and do it, without demanding more of yourself.",
+      "quote": {
+        "text": "For one swallow does not make a summer, nor does one day.",
+        "author": "Aristotle",
+        "source": "Nicomachean Ethics, Book I, ch. 7"
+      }
+    },
+    "panic": {
+      "text": "A panic attack is very frightening: it feels as if your body has slipped out of control. Aristotle was not a psychologist in today's sense, but in On the Soul he made an important observation: sometimes a person feels everything a frightened person feels, even though there is nothing frightening around. For Aristotle a feeling is always bodily and mental at once: anger, he wrote, is for the natural scientist \"a boiling of the blood around the heart,\" and for the philosopher a desire to answer an injury. So a wave of terror can begin in the body and only afterward find thoughts to go with it. From this angle, it helps to return to the body without arguing with the thoughts. Such a wave usually rises, peaks and subsides within a few minutes.",
+      "practice": "Put your feet on the floor and feel the support. Take a few breaths with a long, slow exhale, and name out loud five objects around you.",
+      "quote": null
+    },
+    "dread": {
+      "text": "A heavy foreboding — when something dark seems to lie ahead but it's unclear what — is one of the most exhausting states. In the Rhetoric Aristotle defined fear as pain at the thought of a misfortune that seems near. From this angle, one might say that the weight of foreboding grows when fear has no clear object: the imagination makes the misfortune both near and elusive. Aristotle valued the ability to \"take counsel with oneself\" — to calmly consider what is possible, what is likely and what depends on us. And he reminded us that courage is not the absence of fear but the readiness to remain yourself alongside it. You don't have to get rid of the foreboding right away. Step by step you can give it back its outlines and separate the vague from the real.",
+      "practice": "Finish the sentence: \"I feel that what might happen is…\" Then ask: \"What do I know for certain right now?\" Write down at least one thing that is all right at the moment.",
+      "quote": null
+    },
+    "fomo": {
+      "text": "Almost everyone knows the fear of missing out: it feels as if real life is happening somewhere else, to other people. At the start of the Nicomachean Ethics Aristotle examines a similar trap. Many, he writes, see the good in honors, but honors are too superficial to be a real goal: they depend more on those who confer them than on the one who receives them. Happiness, on the other hand, should be something of our own, hard to take away. And further: eudaimonia is the fullness of a whole life, not a collection of bright events. No one can be everywhere and take part in everything — life is made of choices, not of being present everywhere. From this angle you can ask: is what I'm afraid of missing my own good, or just someone else's glitter?",
+      "practice": "Take one \"I have to be there\" and ask: will this matter to me in a year? Write down what matters to you yourself in the coming week.",
+      "quote": null
+    },
+    "sleepless": {
+      "text": "A sleepless night wears you out, and thoughts in the dark seem heavier than by day. Aristotle wrote a short treatise, On Sleep and Waking. He held that living beings need sleep because none of them can be active all the time: sleep is a natural rest that exists for the sake of waking. From this angle, one might say that sleep is not a task to be accomplished by effort but something nature brings on its own when it isn't interfered with. Trying to force yourself to sleep often only keeps the mind tense. From this angle, too, night thoughts are worth taking with caution: in On Dreams Aristotle shows that when outside impressions quiet down, the images of the imagination become especially vivid and easily seem like reality to us.",
+      "practice": "Instead of trying to fall asleep, simply rest lying down: feel the weight of your body and exhale slowly. A persistent thought can be written down and put aside until morning.",
+      "quote": null
+    },
+    "betrayal": {
+      "text": "Betrayal wounds deeply: the blow comes from someone you trusted. Aristotle thought a lot about how friendships fall apart. He distinguished friendship for usefulness, for pleasure and for the person themselves, and noted that it is especially painful when we thought we were loved for our own sake and it turned out to be for gain. Such deception, he wrote, deserves more reproach than counterfeiting coin, because it touches something more valuable. This is an important confirmation: your pain is proportionate to what was damaged. But Aristotle offers comfort too: being deceived doesn't mean you were foolish. Trust is part of friendship; without it friendship is impossible. The other person betrayed, and your capacity to love is still with you.",
+      "practice": "Write down what you valued in this relationship — it says something about your values. Then name one person you can still trust.",
+      "quote": null
+    },
+    "jealousy": {
+      "text": "Jealousy is agonizing: the fear of losing someone you love mixes with hurt and pain. Aristotle didn't write about jealousy as a separate topic, but something can be drawn from his thought. He observed that being in love is a kind of excess of friendship, and it is usually directed at one person: you can't be in love with many at once. So jealousy, from this angle, is tied to the very nature of such love — to its exclusiveness. In the Rhetoric he writes that we are especially stung by slights from those close to us, from whom we expect good. Jealousy may be a signal of fear of such a slight. It's worth listening to — not as an order to act, but as a question: what am I missing in our relationship right now?",
+      "practice": "Finish the sentence: \"I'm afraid that…\" and then: \"I wish that…\" The second is something you can talk about calmly.",
+      "quote": null
+    },
+    "resentment": {
+      "text": "Resentment carried inside for a long time is heavy, especially when there's no one to tell. Aristotle described this very precisely. In the Nicomachean Ethics he speaks of people he calls \"sulky\" (literally \"bitter\"): they take a long time to calm down and keep their anger inside without showing it. Because the feeling doesn't come out, no one can persuade or comfort them, and digesting anger inside yourself takes a long time. Such people, he notes, are most of all a burden to themselves and to those closest to them. This is not a reproach but a sober observation: hidden resentment goes on living. In the Rhetoric Aristotle writes that anger is appeased with time, when the offender admits fault, or when we understand there was no slight. Resentment needs a way out, not silent storage.",
+      "practice": "Write a letter to the person you resent — with no intention of sending it. Say everything you've been holding in, and notice what has changed afterward.",
+      "quote": null
+    },
+    "heartbreak": {
+      "text": "A broken heart hurts almost physically, and Aristotle did not consider such pain trivial. He wrote that being in love often begins with the pleasure of seeing the beloved and can fade when that pleasure passes; but many relationships endure if the people have come to love each other's character. He also asked how we should treat someone with whom closeness has ended. His answer is gentle: for the sake of the former closeness, it's worth keeping some warmth toward the person, unless the relationship was destroyed by a very grave wrong. From this angle, what was between you does not become unreal because it ended. It is part of your life, and you can remember it without hating yourself or them.",
+      "practice": "Write down one thing you learned about yourself in this relationship. That is what stays with you.",
+      "quote": null
+    },
+    "impostor": {
+      "text": "The feeling that you're \"not who people think you are,\" and that it will soon come out, is familiar to a great many people, clever and experienced ones included. Aristotle has a precise word for one side of it — \"small-souledness,\" in Greek \"mikropsychia.\" That's what he called the state of a person who is worthy of much but considers themselves unworthy and so allows themselves less. Aristotle saw this not as modesty but as a mistake — false knowledge about oneself, just like vanity, only in the other direction. The measure, the \"mean,\" here is to assess yourself as you really are. What helps is not self-confidence but sobriety: looking at what you have actually done and can do, as an impartial observer would.",
+      "practice": "Write down three specific things you did well — facts, not impressions. Ask: what would a fair-minded outsider say about them?",
+      "quote": null
+    },
+    "self_hatred": {
+      "text": "Self-hatred is a very heavy feeling, and the voice of the inner critic can sound convincing. But Aristotle would not agree with that voice. He believed the right relationship to oneself is friendship: a good person, in his words, should be a \"self-lover\" in the good sense — wishing themselves genuine good, caring for their mind and their life. Our relationship to ourselves, he wrote, is even the model for all friendship: the way we befriend others grows out of the way we befriend ourselves. An inner critic that hates you is not a just judge but strife within the soul. Aristotle would suggest not punishing yourself, but slowly learning to speak to yourself the way one speaks to a friend.",
+      "practice": "Think about what you would say to a close friend in your situation. Say it, or write it, to yourself in the same words.",
+      "quote": null
+    },
+    "helplessness": {
+      "text": "Helplessness is one of the hardest feelings: it seems that nothing depends on you. Aristotle acknowledged that much really is beyond our control: luck, other people's decisions, circumstances. He was honest, too, that misfortunes can cloud even a good life. But he also examined in detail what he called \"what is up to us\" — the realm where we can deliberate and choose. Sometimes it narrows to something very small: how to respond, where to direct attention, what to ask for. From this angle, one might say that even a small choice is a real action, not a pitiful substitute for a big one. And Aristotle remembered friends: what is impossible to do alone can sometimes be done with the help of others.",
+      "practice": "Find one very small thing that depends on you right now, and do it. If there's someone you could ask for help, think about what exactly you'd ask.",
+      "quote": null
+    },
+    "procrastination": {
+      "text": "Everyone knows procrastination, and behind it there is usually not laziness but something else: fear, tiredness, doubt. Aristotle described a similar phenomenon when he discussed \"weakness of will\": a person knows what is better but acts otherwise. He distinguished two kinds: impetuosity, when we act before we've had time to think, and weakness, when we have thought but don't stick to the decision. Most important, though, is his teaching on habit: virtues are not given by nature; we become just by doing just acts and brave by doing brave acts, as people become builders by building. From this angle, there's no need to wait for desire or confidence to appear. They come after action, not before it. You can start with something very small.",
+      "practice": "Pick the task you've been putting off and do only the first five minutes. Don't promise yourself more — just begin.",
+      "quote": null
+    },
+    "uprooted": {
+      "text": "The feeling of having lost your footing — after a move, a change, a break with a familiar world — is hard and understandable. For Aristotle a human being is a creature that lives in community: the polis, the city, was for him the natural setting of human life. So your longing for rootedness is not a whim but a need of your nature. But Aristotle has another observation, from his books on friendship: when traveling, he writes, you can see how near and dear every human being is to every other. Aristotle himself spent most of his life far from his native Stagira and twice left Athens. Roots, from this angle, are put down not in a place but in relationships: in friendship, shared work, recurring meetings.",
+      "practice": "In your new place, find one spot or activity that can become regular — a café, a route, a meetup. Repetition is the first little root.",
+      "quote": null
+    },
+    "overload": {
+      "text": "Overload, when there are more tasks than strength, is an exhausting state, and it is not a weakness of yours. Aristotle valued activity, but he saw the highest good in leisure — \"schole\": free time for what is valuable in itself. He wrote that we work in order to have leisure, just as we wage war for the sake of peace. From this angle, one might say that a life made entirely of tasks is like a war without peace. Aristotle also taught the \"mean\": in activity, as in everything, there is excess and deficiency. An excess of tasks doesn't make life fuller — it strips it of the very thing everything is done for. Asking yourself \"what am I doing this for?\" is already a step toward separating the important from the superfluous.",
+      "practice": "List all your tasks on a sheet of paper and next to each answer: \"what for?\" Postpone or hand off one task that has no clear answer.",
+      "quote": null
+    },
+    "unreality": {
+      "text": "The sense of unreality — when the world or you yourself seem distant and not quite real — is frightening, and it deserves to be described gently. Aristotle was a philosopher who trusted the world. In On the Soul he writes that touch is the most basic of the senses: without it an animal cannot exist at all, and through it we come into direct contact with what is. He also held that the perception of each sense's proper objects — color for sight, sound for hearing — is almost never mistaken. From this angle, one might say that when thoughts about reality get tangled, the simplest sensations become your support. You don't need to settle the question of reality by reasoning. It's enough to touch something and let your body feel that it is here.",
+      "practice": "Touch objects of different textures — wood, fabric, metal. Silently name three sensations: warm or cold, smooth or rough, heavy or light.",
+      "quote": null
+    },
+    "awe": {
+      "text": "Awe before something vast or beautiful is a rare and precious experience. Aristotle considered wonder the beginning of philosophy itself. In the Metaphysics he writes that people began to philosophize out of wonder: first at what was close at hand, then at the movements of the Moon, the Sun and the stars, at the origin of everything. The one who wonders feels that they don't understand something and wants to understand. From this angle, your awe is not a distraction from life but a moment when what is most human in us wakes up. Aristotle considered contemplation, \"theoria\" (in Greek literally \"looking\"), the most joyful and free of activities. There's no hurry to explain your awe. You can simply linger in it and look.",
+      "practice": "Stay with what stirred your awe for one more minute. Then write down one question that came up for you.",
+      "quote": {
+        "text": "For it is owing to their wonder that men both now begin and at first began to philosophize.",
+        "author": "Aristotle",
+        "source": "Metaphysics, Book I, ch. 2"
+      }
+    },
+    "relief": {
+      "text": "Relief, when tension lets go, is a very pleasant feeling, and it's worth noticing. In the Nicomachean Ethics Aristotle examined the pleasures that come when we return to our natural state after lack or pain: that is why food is pleasant to the hungry and rest to the tired. He wrote that such pleasures are especially vivid precisely by contrast with what came before. From this angle, your relief is a return to yourself. Body and soul seem to settle back into place. Aristotle also valued another thing: the pleasure of activity carried out without hindrance. Relief opens the way to it — to doing something again, not just holding on. You can let yourself enjoy this return.",
+      "practice": "Take a long exhale and notice where in your body the tension has let go. Tell yourself: \"That is behind me.\"",
+      "quote": null
+    },
+    "calm": {
+      "text": "Calm is a precious state, and Aristotle knew its worth. In the Rhetoric he examined \"praotes\" — gentleness, becoming calm: what comes when anger subsides, a hurt is understood, and time has done its work. In the Nicomachean Ethics gentleness is a virtue, the \"mean\" regarding anger: the person is not indifferent, but not carried away either. And Aristotle saw the highest form of calm activity in contemplation: it is, in his words, the most continuous and self-sufficient of activities, the one in which a person needs least from outside. From this angle, your calm is neither emptiness nor laziness. It is a time when the soul is at war with nothing and can simply see. You don't have to fill it.",
+      "practice": "Stay in this calm for a few minutes, doing nothing. Just notice what you see and hear around you.",
+      "quote": null
+    },
+    "inspiration": {
+      "text": "Inspiration is a wonderful state, when strength and ideas seem to arrive on their own. Aristotle looked at it from his own angle — through the concepts of \"potentiality\" and \"actuality.\" Everything living, in his view, strives to realize what it is capable of: a seed strives to become a tree. Inspiration, from this angle, is the experience of your potential beginning to become actual. Aristotle wrote about poets too: in the Poetics he valued their ability to see the universal in the particular and called poetry more philosophical than history. But he was also a master of method: talent needs skill, and skill grows through practice. So inspiration is worth not only experiencing but turning into work while it's still hot.",
+      "practice": "Write down the idea that inspires you, and right away take one small step toward realizing it — a sketch, a plan, a first sentence.",
+      "quote": null
+    },
+    "schadenfreude": {
+      "text": "Schadenfreude is a feeling that's embarrassing to admit even to yourself, but almost everyone knows it. Aristotle described it directly: in the Nicomachean Ethics he calls joy at others' misfortunes \"spite\" (epichairekakia) and places it next to envy. But he also draws a fine distinction. In the Rhetoric he writes about \"indignation\" — pain at undeserved success — and notes that the same person naturally feels glad when someone who acted badly is punished as they deserve. That kind of joy comes from a sense of justice, not from malice. And most importantly: Aristotle taught that we are judged not by fleeting feelings but by our settled character and our actions. A flash of schadenfreude is not a verdict on you. It's just useful to ask where it comes from: hurt, envy or a sense of justice.",
+      "practice": "Ask yourself: \"What exactly am I glad about — justice, relief, or that someone is worse off?\" An honest answer already weakens the feeling's hold.",
+      "quote": null
+    },
+    "contempt": {
+      "text": "Contempt is a cold feeling, and it's awkward to admit. In the Rhetoric Aristotle examined it as one kind of \"slight\": to feel contempt is to regard someone or something as worth nothing. He noticed something interesting: contempt is the flip side of emulation. Whoever greatly values some good — intelligence, courage, honesty — tends to look down on those who lack it. From this angle, your contempt may point to what truly matters to you. But Aristotle also knew the cost of this feeling: a slight, by his observation, is the main cause of other people's anger. There's no need to shame yourself for contempt. It's more useful to ask what value it is protecting, and whether you can serve that value without belittling another person.",
+      "practice": "Finish the sentence: \"I despise this because what matters to me is…\" Think about how you could show that value in your own action today.",
+      "quote": null
+    },
+    "disgust": {
+      "text": "Disgust is a strong, almost bodily reaction, and you can't simply \"switch it off.\" Aristotle has a remarkable passage in his treatise On the Parts of Animals. He admits that studying some creatures and their inner workings is unpleasant, but urges us not to turn away childishly: in every natural thing there is something worth marveling at. He recalls Heraclitus, who, warming himself by the stove, said to his visitors: \"Come in, there are gods here too.\" From this angle, one might say that disgust is a first reaction, not the last word. Sometimes behind it lies protection from something truly harmful, sometimes just unfamiliarity. Disgust with yourself can be examined just as calmly: it is a feeling, not the truth about your worth.",
+      "practice": "Describe what disgusts you like a researcher would: what exactly — a sight, a smell, an action, a thought? Separating the reaction from the object already helps.",
+      "quote": null
+    },
+    "revenge": {
+      "text": "The wish for revenge is usually born of real pain, and it has its own logic. In the Rhetoric Aristotle defined anger as pain and a desire to answer a slight, and even admitted that anticipating that answer is pleasant. He didn't consider the feeling monstrous. But in the Nicomachean Ethics he also described gentleness: a mild person is not vengeful but rather inclined to forgive, though they don't let themselves be trampled. And in his teaching on justice he showed another path: a broken equality should be restored by a third, impartial party — a judge, a mediator — not by the injured person themselves. From this angle, the wish for revenge is a signal: there was an injustice. You can hear it without turning it into action, and seek restoration rather than a counterblow.",
+      "practice": "Write: \"I was treated unjustly because…\" and \"What would restore justice without harming anyone?\" If there's someone you could ask for support or advice, think about that.",
+      "quote": null
+    },
+    "anger_at_loved": {
+      "text": "Anger at the people closest to you — a partner, parents, children — can be especially sharp, and then shame follows. Aristotle helps us understand why this happens. In the Rhetoric he writes that we get angrier with friends than with strangers, because we expect good treatment from them. In the Politics he notes the same thing: spirit rises most strongly against those close to us when we feel they have slighted us. This is no sign that there's no love — on the contrary, the anger here grows out of expectations that exist only in closeness. The measure, the \"mean,\" matters most of all with those you love. You can acknowledge your feeling and express it without wounding: with words, with a pause, with a conversation once the wave has subsided.",
+      "practice": "When anger rises, step away for a few minutes. Then name to yourself which expectation was broken — that's where a calm conversation can begin.",
+      "quote": null
+    },
+    "ambivalence": {
+      "text": "Mixed feelings toward someone close — loving them and not being able to stand them at the same time — are confusing and sometimes frightening. Aristotle saw nothing unnatural in this. He wrote that the soul has different parts — rational and non-rational — and they can pull in different directions. In the Rhetoric he showed that many feelings are mixed by their very nature: anger contains both pain and pleasure, and we get angriest precisely with those we love. And in discussing friendship he acknowledged that relationships can be unequal, full of disputes and mutual reproaches, especially between parents and children. From this angle, your mixed feelings are not a mistake but a sign of a complex, living bond. They don't need to be reduced to one.",
+      "practice": "Divide a page into two columns: \"what I love in this person\" and \"what I find hard to bear.\" Let both be true at the same time.",
+      "quote": null
+    },
+    "guilty_relief": {
+      "text": "Relief you feel ashamed of — after a breakup, a departure, even the death of someone close who had long been ill — is one of the quietest and heaviest feelings. Aristotle helps us see that there is no contradiction between it and love. He wrote about mixed states in which pain and pleasure combine, and about pleasure as a return to the natural state after long strain. If you carried a weight for a long time — of caregiving, fear, uncertainty — then relief that it has been lifted is natural. It doesn't cancel your love and grief; it exists alongside them. Aristotle distinguished feelings from judgments about oneself: we don't choose what we feel. From this angle, relief speaks of how long things were hard for you, not of any coldness in you.",
+      "practice": "Tell yourself: \"I feel lighter, and I loved.\" Write down what weight you carried all this time — that is the answer to where the relief comes from.",
+      "quote": null
+    },
+    "indifference": {
+      "text": "Indifference where something \"should\" move you is frightening: it seems something is wrong with you. Aristotle observed that a truly insensible person is a great rarity: feeling belongs to human nature. So indifference is most likely a temporary state, not who you are. But another of his observations matters more: feelings, he wrote, arise in us without choice — we don't decide to be frightened or angry. So demanding the \"right\" feeling from yourself on command makes no sense. From this angle, indifference may be a sign of tiredness, overload or protection, when the soul has had too much. For Aristotle, we are responsible for our actions, not for momentary feelings. You can act with care even if your heart is quiet for now, and give the feeling time.",
+      "practice": "Instead of \"why don't I feel anything?\" ask: \"How tired have I been lately?\" Write down what has been draining you over the past few weeks.",
+      "quote": null
+    },
+    "escape": {
+      "text": "The wish to drop everything and leave — a job, a city, a role — is familiar to many, especially when life has grown cramped. Aristotle helps us take this wish seriously, but without haste. He taught us to \"take counsel with ourselves\" — to deliberate not about the goal but about the ways to it: what exactly do I want to change, and by what means? He also described courage as a mean between cowardice and rashness: there is courage in staying and courage in leaving. Aristotle himself moved cities at different periods of his life and twice left Athens, starting over. From this angle, the wish to run away is a signal that you are missing something important: leisure, freedom, meaning. It's worth hearing it out and asking what exactly you are looking for.",
+      "practice": "Finish the sentence: \"If I left, I could finally…\" Whatever comes out is your real goal. Think about whether you could give yourself at least part of it right now.",
+      "quote": null
+    },
+    "forbidden_attraction": {
+      "text": "Attraction to someone who is \"off-limits\" — unavailable, or the \"wrong\" person — is confusing and brings shame. Aristotle would not judge you for the feeling itself. He wrote that desires and feelings arise without our choosing, and that we are neither praised nor blamed simply for having felt something. In his books on friendship he noted that love often begins with the pleasure of seeing the other person, and goodwill with seeing something good in them. From this angle, attraction may be telling you about what draws you: liveliness, attention, freedom, something missing from your life. Decisions about actions are a separate question, and for those Aristotle valued practical wisdom and time.",
+      "practice": "Write down what exactly draws you to this person — not on the surface but at heart. What quality or state would you like to have more of in your life?",
+      "quote": null
+    },
+    "social_anxiety": {
+      "text": "Fear of people and their judgment is agonizing, and it is very common. In the Rhetoric Aristotle described shame as pain and disturbance about things that may harm our reputation, and noted that we feel shame above all before those whose opinion we value, and before those who are watching us. In the Nicomachean Ethics he speaks of a \"mean\" in this feeling: there is the shameless person who doesn't care, and the bashful one who, as he puts it, is ashamed of everything. The good lies somewhere in between. From this angle, your shyness is the extreme of a feeling that is normal and even valuable in itself. Aristotle would add that shame is fitting for our actions, not for simply being who we are and looking the way we look.",
+      "practice": "Before meeting people, ask yourself: \"Whose opinion here really matters to me?\" Usually it's very few people.",
+      "quote": null
+    },
+    "uncertainty": {
+      "text": "Uncertainty is hard: you want to know what will happen, and knowing is impossible. Aristotle thought about this very seriously. In On Interpretation he examines a famous example: will there be a sea battle tomorrow? Today the statement \"there will be\" is not yet definitely true or false — the future really is open. This is not a flaw in our knowledge but a property of the future itself. And in the Nicomachean Ethics he advises not demanding more precision from a subject than it allows: in matters of life we judge \"in outline\" and \"for the most part.\" From this angle, your uncertainty is honest: you see the world as it is. The question is not how to know the future, but what it is reasonable to do now.",
+      "practice": "Write down three ways things might turn out, and next to each, one thing you would do. The future stays open, but you have a plan.",
+      "quote": null
+    },
+    "waiting": {
+      "text": "Waiting — for results, an answer, news — wears you out because almost nothing depends on you in that moment. Aristotle distinguished \"potentiality\" and \"actuality\": what may happen and what has already happened. Waiting is life between the two, when the outcome is not yet settled. In On Interpretation he showed that the future really is open until it arrives. And he defined time as \"the number of motion\" — we sense it when something changes. From this angle, one might say that waiting drags on so long because attention has frozen on one point and nothing is moving. Aristotle would suggest putting motion back into time: turn to what depends on you while the rest is being decided.",
+      "practice": "Set a time when you'll next check the news or your email, and until then take up one small task you can finish.",
+      "quote": null
+    },
+    "regret": {
+      "text": "Regret over something done or left undone can be very bitter. Aristotle considered it an important feeling. He wrote that a weak-willed person, unlike a vicious one, regrets their actions — and that is precisely why they can change: the right values are alive in them. And if we acted out of ignorance and grieve over it later, Aristotle did not consider such an act truly voluntary: you didn't know then what you know now. From this angle, regret is not proof that you're a bad person but a sign that you've grown and see more clearly. Aristotle taught that character is formed by repeated actions. The past can't be changed, but it can become a lesson for your next choice.",
+      "practice": "Write: \"Back then I didn't know…\" and \"Now I know…\" Then one thing you'll do differently in a similar situation.",
+      "quote": null
+    },
+    "longing": {
+      "text": "Longing for a particular person hurts because it isn't abstract loneliness but the absence of exactly them. Aristotle believed that friends want above all to live together: to talk, share everyday life, do things side by side. A friend, in his words, is \"another self,\" and in their presence we feel our own life more fully. Hence the pain of separation. But Aristotle offers a comforting distinction: distance, he writes, interrupts not the friendship as such but only its activity — the life lived together. The attachment itself, the settled disposition of the soul, remains. From this angle, your longing is a form of that bond. It says that this person is still part of your life, even if they aren't near.",
+      "practice": "Recall one specific thing you loved doing together. If the person is reachable, tell them about it; if not, write it down.",
+      "quote": null
+    },
+    "world_pain": {
+      "text": "Pain for the world — from grim news, wars, injustice — can be almost unbearable. In the Rhetoric Aristotle examined two related feelings. Pity: pain at the sight of undeserved misfortune that could also happen to us. Indignation: pain at the sight of undeserved success. He considered both signs of a good character. And in the Poetics he wrote that tragedy, through pity and fear, brings about \"catharsis\" — a purification of these feelings: pain lived through together with others becomes something that can be borne. From this angle, your pain is a sign that you are not indifferent to human fate. But Aristotle also taught measure: so as not to burn out, you need to share this weight with others and find within it a task that is within your strength.",
+      "practice": "Today, limit the news to one set time. Instead, find one thing within your strength — help, a conversation, a kind word to someone nearby.",
+      "quote": null
+    },
+    "rejection": {
+      "text": "Rejection wounds painfully, and Aristotle understood why. In the Rhetoric he writes that what stings us most is a \"slight\" — when we, our words or our qualities are not taken seriously. It is one of the main causes of anger and sadness. But in the Nicomachean Ethics he makes an important remark: recognition depends more on those who give it than on the one who receives it. That's why it cannot be the measure of our worth. Aristotle also soberly wrote that many bonds are built for pleasure or usefulness and fall apart when circumstances change — through no one's fault. From this angle, a refusal speaks about circumstances and another person's choice; it does not pass a verdict on you.",
+      "practice": "Write down what you yourself value in yourself, regardless of this rejection. At least three things.",
+      "quote": null
+    },
+    "abandonment": {
+      "text": "The fear of being abandoned can be very deep and unsettling. Aristotle considered attachment to people part of human nature, so the need itself is natural. He also wrote about how lasting closeness is built: people can't know each other until, as the proverb says, they have eaten a good deal of salt together — trust takes time and a shared life. From this angle, one might say that the fear grows when your support is too narrow: when your whole life rests on one person. Aristotle valued \"self-sufficiency\" — not solitude, but a life with several supports: friends, work, treating yourself as a friend. The more of them there are, the less the fear of one loss governs everything.",
+      "practice": "Name three supports in your life besides the person you're afraid of losing: people, activities, places. Think about which one you could strengthen this week.",
+      "quote": null
+    },
+    "unrequited": {
+      "text": "Unrequited love wounds painfully, and Aristotle knew this state. In the Nicomachean Ethics he writes that in love affairs the lover often complains that his excessive love goes unanswered. He acknowledges this pain. But he also has an unexpected thought: friendship and love, in his words, consist more in loving than in being loved. He gives the example of mothers who delight in loving their child even when the child cannot respond. From this angle, your feeling is not a useless mistake. The capacity to love is your own strength, and it stays with you. But Aristotle valued reciprocity too: love is fullest in equality, and you deserve a feeling that answers yours.",
+      "practice": "Write down what you have learned about your capacity to love through this feeling. That remains yours, whatever happens next.",
+      "quote": null
+    },
+    "humiliation": {
+      "text": "Humiliation is one of the most painful experiences: it feels as if your very worth has been struck. In the Rhetoric Aristotle described \"hubris\" — insolence, when someone acts or speaks so as to shame another for the pleasure of feeling superior. He saw this as the wrongdoing of the one who humiliates, not of the one humiliated. In the Nicomachean Ethics he added that it is fitting to be ashamed of our own bad actions — what depends on us — not of what was done to us. From this angle, the shame you feel rightly belongs not to you. Aristotle considered anger at humiliation an entirely natural response. Your dignity has not vanished because someone tried to take it away.",
+      "practice": "Tell yourself: \"This was done to me, but it doesn't make me less.\" Write down what was hurt, and what in you remained untouched.",
+      "quote": null
+    },
+    "body_shame": {
+      "text": "Dissatisfaction with your body can be quiet and constant, and that doesn't make it easier. Aristotle saw the body differently from many who came after him. For him the soul is not a passenger in a shell but the \"form\" of the living body, its life and activity. The body is not a picture to be graded but that through which we see, hear, touch, act and rejoice. He acknowledged that external goods, beauty included, matter for a life, but happiness, in his view, is above all activity: what we do, understand and experience. From this angle, one might say that your body matters not for how it looks to others but for the fact that it lets you live. You might try treating it as a companion.",
+      "practice": "Name three things your body allowed you to do today — walk, hug, taste something. Just notice them.",
+      "quote": null
+    },
+    "illness": {
+      "text": "Illness, when the body lets you down, is draining and frightening, and Aristotle didn't pretend it was a trifle. He honestly admitted that a happy life needs external goods too, and that heavy misfortunes can cloud even a good life. But he also wrote that happiness is not so easily taken away: it lies in the activity of the soul, which is possible even in constrained circumstances. A good person, in his words, makes the best use of what they have — as a good general makes the best use of the army he has. And through hardship, he observed, nobility shines when a person bears it with dignity. From this angle, illness narrows the field, but it does not cancel your life.",
+      "practice": "Find one small thing that is within your reach today despite the illness — a conversation, reading, a minute by the window. Do it wholeheartedly.",
+      "quote": null
+    },
+    "pride": {
+      "text": "Pride in what you've done is a good, healthy feeling, and Aristotle didn't urge us to hide it. He described \"greatness of soul\" — the ability of a person who is worthy of much to know and acknowledge it. False modesty, underestimating yourself, is for Aristotle as much a mistake as boasting. The Nicomachean Ethics has a lovely observation about makers: a craftsman loves his work more than the work could love him, as poets love their poems like children. The reason is that in what they make, a person in a sense realizes themselves: their activity becomes visible. From this angle, your pride is joy that your potential has become actual. You can enjoy it openly.",
+      "practice": "Describe to yourself exactly what you did and what qualities it took. Let yourself say: \"I did this.\"",
+      "quote": null
+    },
+    "melancholy": {
+      "text": "Gentle sadness, melancholy, is a subtle state in which sorrow mingles with depth and even beauty. A curious question comes down to us from antiquity: the Problems, a collection from Aristotle's school, asks why all who have become eminent in philosophy, politics, poetry and the arts turn out to be melancholics. The authorship of this text is disputed, but the idea itself became famous: melancholy is linked to depth and the capacity to see. And in the Poetics Aristotle wrote of the particular pleasure tragedy gives, and of \"catharsis\" — purification through pity and fear. From this angle, your melancholy may be not a malfunction but a way of feeling the world more deeply. You don't have to drive it away; you can spend some time with it.",
+      "practice": "Listen to music or reread poems that resonate with your mood, and notice what is beautiful in this sadness.",
+      "quote": null
+    }
+  }
+}

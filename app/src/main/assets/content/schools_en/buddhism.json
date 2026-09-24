@@ -1,0 +1,390 @@
+{
+  "id": "buddhism",
+  "title": "Buddhism",
+  "tradition": "Early Buddhism",
+  "family": "classic",
+  "period": "5th century BC",
+  "sortYear": -450,
+  "thinkers": [
+    "Shakyamuni Buddha (Siddhartha Gautama)"
+  ],
+  "keyWorks": [
+    "Dhammapada",
+    "Sutta Nipata",
+    "The Pali Canon (Tipitaka)"
+  ],
+  "summary": "Buddhism arose in India around the 5th century BC from the teaching of Siddhartha Gautama, who is called the Buddha — “the awakened one.” Its core is the Four Noble Truths: there is suffering in life; suffering has a cause — craving and clinging; liberation is possible; and there is a path to it. This path brings together ethics, mindfulness and wisdom.",
+  "onEmotions": "Early Buddhism sees feelings as processes that arise under certain conditions, last for a while and pass: none of them is “you” forever. It is important to distinguish the feeling-tone itself — pleasant, unpleasant or neutral (in Pali, vedanā) — from the reaction to it: clinging or pushing away. Suffering grows not so much from the feeling as from struggling with it or merging with it completely. The practice of mindfulness (sati) offers a third way: noticing the feeling with kindness and interest, and giving it room.",
+  "entries": {
+    "anxiety": {
+      "text": "Anxiety is an understandable state: the mind is trying to predict the future and protect you. Buddhist psychology describes a similar state as one of the “five hindrances” — uddhacca-kukkucca, restlessness and worry, when the mind is churned up like water whipped by the wind. The Buddha didn't condemn people for such states; he suggested noticing and naming them. When you tell yourself, “this is anxiety,” you already step back from it a little: there is now someone who sees, not only someone who is caught up. Another helpful observation is impermanence (anicca): anxiety, too, arises, changes and passes, like any other state. You don't have to drive it away. You can give it room and return to a simple anchor — your breath, your body, the sounds around you.",
+      "practice": "Place a hand on your chest or belly and take five slow breaths, noting silently: “This is anxiety, it is here, and it is changing.”",
+      "quote": null
+    },
+    "fear": {
+      "text": "Fear is natural to every living being, and Buddhism sees in it a vulnerability we all share, not a personal flaw. In one of the early suttas the Buddha tells how, before his awakening, he lived in the forest and at night met with terror: a twig would snap, an animal would pass. He decided not to run but to stay in whatever posture the fear found him in — walking, standing, sitting or lying down — until the fear subsided. This is not heroism but mindfulness: looking at fear instead of hiding from it. Buddhism also says that many fears are tied to clinging to what is by nature impermanent — ourselves, our loved ones, our position. This is no reason to stop cherishing things; it is an invitation to hold what is dear a little more gently. Fear seen calmly loses some of its power.",
+      "practice": "When you notice fear, don't rush to change anything right away: stay in the posture it found you in and take a few breaths, watching how it changes.",
+      "quote": null
+    },
+    "sadness": {
+      "text": "Sadness is a normal part of life, and in Buddhism there is no need to resist it. The First Noble Truth speaks of dukkha — a word often translated as “suffering,” though more precisely it means unsatisfactoriness, the instability of everything that happens. Acknowledging this is not pessimism but honesty: every life has its sad moments. The Buddha taught that difficulty is usually twofold: first comes the unpleasant feeling itself, and then we add resistance, self-reproach, thoughts of “it shouldn't be like this” — as if a person struck by one arrow were struck by a second right after. Sadness on its own can be quiet and bearable if you don't fight it. Buddhist mindfulness suggests simply being with your sadness, feeling where it lives in the body, without trying to fix it. It is impermanent, and once it receives attention it will begin to change.",
+      "practice": "Ask yourself: where in my body does my sadness live? Rest your attention there for a minute, like a warm palm.",
+      "quote": null
+    },
+    "grief": {
+      "text": "Grief is a deep wound, and Buddhism meets it with great compassion. The Buddhist tradition has a well-known story about Kisa Gotami, a young mother who lost her child. In despair she came to the Buddha asking for medicine. He asked her to bring a mustard seed from a house where no one had ever died. She went all through the town and found no such house — but in every one she met people who understood her pain. The Buddha did not tell her “don't cry”; he helped her see that she was not alone and that loss is part of our shared human fate. From the Buddhist point of view, everything we love is impermanent — and that is exactly why it is so precious. Grief can be lived through without hurrying, alongside those who also know pain.",
+      "practice": "If you can, tell one person today about the one you have lost — or simply write down their name and one warm memory.",
+      "quote": null
+    },
+    "loneliness": {
+      "text": "Loneliness hurts because human beings need connection — and Buddhism recognizes this. When the disciple Ananda said that good friends are half of the holy life, the Buddha corrected him: not half, but the whole of the holy life. Friendship with good people (kalyāṇa-mittatā) was considered a mainstay of the path. At the same time, Buddhism offers a particular view of connection: the teaching of dependent origination says that nothing exists by itself — everything arises from mutual conditions. You, too, are woven from connections: with the people who raised you, with those who grew your food, who wrote the books you have read. The practice of mettā, loving-kindness, begins with wishing yourself well and then widens to others — even strangers. Loneliness can soften when you notice these invisible threads.",
+      "practice": "Silently wish well to three people — yourself, someone close to you, and a stranger you saw today: “May you be well.”",
+      "quote": null
+    },
+    "anger": {
+      "text": "Anger is a strong, hot feeling, and its arising doesn't make you a bad person. Buddhism names its root dosa — aversion, rejection — and counts it among the three “unwholesome roots,” along with greed and delusion. But this is said not to shame you, but because anger burns first of all the one who holds it. The later Buddhist commentator Buddhaghosa compared an angry person to someone who grabs a burning coal with a bare hand in order to throw it at another. The Buddha suggested neither suppressing anger nor venting it, but looking at it attentively: where it is in the body, what thoughts are feeding it. And cultivating the antidote — mettā, loving-kindness, starting at least with yourself. Over time anger can turn into clarity: what matters to you, and how to protect it without enmity.",
+      "practice": "When anger rises, ask yourself: where do I feel it in my body? Breathe into that place three times before you speak or act.",
+      "quote": {
+        "text": "Hatred is never appeased by hatred in this world. By non-hatred alone is hatred appeased.",
+        "author": "The Buddha",
+        "source": "Dhammapada, 5"
+      }
+    },
+    "shame": {
+      "text": "Shame is a very painful feeling, but in early Buddhism it has a surprisingly respected place. The Buddha spoke of two bright qualities that guard the world: hiri — inner shame, an unwillingness to do wrong out of self-respect — and ottappa — conscientiousness, attention to the consequences of one's actions for others. Without them, he said, people would stop respecting one another. So the capacity for shame is a sign that ethical sensitivity is alive in you. But Buddhism distinguishes this healthy shame from self-flagellation, which fixes nothing and only strengthens a painful preoccupation with oneself. The teaching of not-self (anattā) reminds us: you are not a fixed essence but a changing stream. An act you regret doesn't define you forever; you can grow out of it.",
+      "practice": "Ask yourself: what is my shame telling me about how I want to act from now on? Write down one intention that grows out of it.",
+      "quote": null
+    },
+    "guilt": {
+      "text": "Guilt shows that you care how your actions affect other people's lives. Buddhism looks at actions through the notion of karma — literally, “action”: everything we do intentionally leaves a trace and shapes the future. But this is not a system of punishments; it is more a law of causes and effects, and there is always room in it for new, better causes. The Pali texts tell of Angulimala, a bandit who committed grave crimes, met the Buddha, changed and became a monk. Buddhism doesn't suggest punishing yourself endlessly: remorse is valuable when it becomes a resolve to act differently. Self-blame that goes round in circles itself becomes a form of clinging. You can acknowledge the mistake, make amends where possible, wish yourself and others well — and let go.",
+      "practice": "Write down: what can I do to make amends or put this right, even a little? And then — one sentence of kindness addressed to yourself.",
+      "quote": {
+        "text": "He, who by good deeds covers the evil he has done, illuminates this world like the moon freed from clouds.",
+        "author": "The Buddha",
+        "source": "Dhammapada, 173"
+      }
+    },
+    "envy": {
+      "text": "Everyone knows envy, and Buddhism doesn't treat it as a shameful secret: it names it plainly — issā — and offers a very beautiful antidote. This is muditā, sympathetic joy, the ability to rejoice in another's happiness almost as if it were your own. Muditā is one of the four “immeasurables,” along with loving-kindness, compassion and equanimity. The idea is not to force yourself to rejoice, but to train the heart gradually. Buddhism also explains where the pain of envy comes from: from taṇhā, craving — the sense that what I lack for happiness is precisely what someone else has. You can meet envy without judgment, notice its craving and ask: what in me wants to be seen and fed?",
+      "practice": "Think of the person you envy and try silently saying: “May your good fortune last.” Notice what happens inside you as you do.",
+      "quote": null
+    },
+    "emptiness": {
+      "text": "Emptiness and apathy are heavy states, and you don't need to blame yourself for them. Early Buddhism describes a similar state as one of the “five hindrances” — thīna-middha, sloth and torpor of mind, like a pond overgrown with moss and weeds. This is not a vice but a state that happens to everyone, and the texts suggest gentle remedies: turn toward light, go out into the fresh air, change your posture, walk, look carefully at something around you. It is important not to confuse apathy with the philosophical notion of “emptiness” (śūnyatā): it means that things have no unchanging separate essence. This thought can be unexpectedly comforting: your present sense of emptiness is not solid or final either. It is made of conditions — fatigue, circumstances, thoughts — and it changes when they change.",
+      "practice": "If you can, stand up, go to a window or toward the light and slowly take a few steps, noticing each sensation in your feet.",
+      "quote": null
+    },
+    "confusion": {
+      "text": "Confusion is an honest state: the old answers have stopped working, and new ones haven't appeared yet. Buddhism treats doubt with care. When the people of the Kalama village came to the Buddha in confusion — different teachers said opposite things — he didn't demand that they believe him. He advised them not to accept anything merely because tradition, authority or a fine argument says so, but to test it against their own experience: what leads to well-being and peace, and what leads to suffering. This conversation is known as the Kalama Sutta. From the Buddhist point of view, confusion can be accepted as a pause of openness. You don't need to rush to grab the first certainty that comes along. You can lean on what you know from experience right now and take the step that leads to less harm.",
+      "practice": "Ask yourself, as the Buddha advised the Kalamas: which of my options, judging by experience, leads to more peace and less harm — for me and for others?",
+      "quote": null
+    },
+    "fatigue": {
+      "text": "Fatigue and burnout are a signal that your energy has been spent for longer than it was replenished, and that signal deserves to be taken seriously. The Buddha himself, according to tradition, went through years of grueling asceticism, nearly starving himself to death, and realized that this path does not lead to liberation. Hence the teaching of the “middle way” — between self-indulgence and harsh self-mortification. In one sutta the Buddha speaks with the monk Sona, who was overexerting himself in practice and had once played the lute: the strings sound good only when they are neither too tight nor too slack. From the Buddhist point of view, burnout is like an overtightened string. There's nothing to be ashamed of; you just need to loosen the tension a little. Rest here is not laziness but part of wisdom: without it neither clear attention nor kindness to yourself and others is possible.",
+      "practice": "Ask yourself: where in my life is the string too tight right now? What could I loosen, even a little, today?",
+      "quote": null
+    },
+    "boredom": {
+      "text": "Boredom seems trivial, but it can be unpleasant: everything is familiar, nothing grabs you. From the Buddhist point of view you could say that boredom is an “unpleasant feeling-tone” (vedanā) to which the mind responds with craving: you want something new, bright, different. The Buddha described in detail how such craving (taṇhā) keeps us in restless searching. But Buddhist mindfulness suggests an unexpected move: take a closer look at boredom itself. How does it feel in the body? What thoughts is it made of? When you look carefully, it turns out that a great deal is happening at any moment — breathing, sounds, shades of light. Boredom often signals not an emptiness of the world but scattered attention. You can take it as an invitation to come back to the present moment.",
+      "practice": "For one minute, become an explorer of your boredom: what do you hear, see and feel in your body right now? Name three details.",
+      "quote": null
+    },
+    "joy": {
+      "text": "Joy is a bright feeling, and Buddhism doesn't ask you to give it up at all. On the contrary, among the “seven factors of awakening” are pīti — joyful rapture — and passaddhi, tranquility. The Buddha recalled how as a child, sitting in the shade of a tree, he experienced the quiet joy of concentration, and later understood: there is no need to fear a happiness that isn't bound up with craving and sensual desire. Buddhism only suggests not clinging to joy, remembering its impermanence. This doesn't dim it but makes it fuller: when you aren't trying to hold on to the moment, you can live it completely. Another Buddhist facet of joy is muditā, joy for others: it shows that happiness multiplies when it is shared.",
+      "practice": "When you feel joy, pause for three breaths and simply notice it: where it is in your body, what it is like. Don't hold on — just be with it.",
+      "quote": null
+    },
+    "love": {
+      "text": "Love and tenderness are among the most precious experiences, and Buddhism pays them special attention, distinguishing kinds of love. Mettā is loving-kindness, the wish for another to be happy; karuṇā is compassion, the wish for another not to suffer. These states are considered immeasurable: they can be extended to all beings, without conditions. Buddhism also speaks of attachment — love that wants to possess and fears losing. It is not condemned, but Buddhism shows that it is often what brings pain. From the Buddhist point of view, tenderness becomes freer when it holds more well-wishing than demand. Your love is not a problem to be solved; it is a seed of mettā that you can grow and extend ever wider.",
+      "practice": "Think of someone you love and silently wish: “May you be happy, may you be safe.” Then wish the same for yourself.",
+      "quote": {
+        "text": "Even as a mother protects with her life her child, her only child, so with a boundless heart should one cherish all living beings.",
+        "author": "The Buddha",
+        "source": "Metta Sutta (Sutta Nipata 1.8)"
+      }
+    },
+    "gratitude": {
+      "text": "In Buddhism, gratitude is considered a rare and valuable quality. The Buddha said that two kinds of people are hard to find in the world: the one who is first to do a kindness, and the one who remembers a kindness done to them and is grateful for it. Gratitude in Pali is kataññutā, literally “knowing what has been done”: the ability to see what we have received from others. It is closely tied to the teaching of interdependence: nothing in your life arose by itself — not your food, not the language you think in, not your skills. Behind each of them stand people and conditions. The Buddha spoke especially of gratitude to parents, teachers and friends. From this point of view, gratitude is not a polite formality but a sober and warm view of how you are connected to the world.",
+      "practice": "Pick up any object near you — a cup, a piece of clothing — and try to imagine at least three people whose work made it possible.",
+      "quote": null
+    },
+    "hope": {
+      "text": "Hope helps us hold on in hard times, and Buddhism understands this, though it looks at hope with subtlety. On the one hand, the Buddha's teaching itself breathes hope: the Third Noble Truth says that the ending of suffering is possible — which means change is open to everyone. On the other hand, Buddhism warns against hope that turns into craving: when we live only for a future “someday things will be good,” the present loses its value. You could say that Buddhism suggests leaning on saddhā — a calm confidence in the path, in the fact that good actions bear good fruit. Such hope needs no guarantees. It shows itself in what you do now — in small steps that create the conditions for something better.",
+      "practice": "Ask yourself: what am I hoping for? And what small action today could become a condition for it — even if the result isn't guaranteed?",
+      "quote": null
+    },
+    "nostalgia": {
+      "text": "Nostalgia is a warm longing for the past, and it often holds a hidden love for what once was. Buddhism looks at it through anicca, impermanence: everything that has arisen changes and passes. This is true of the lovely times you miss as well. Buddhist thought doesn't say they weren't worth loving. It only notices that the pain of nostalgia is the wish for the impermanent to become permanent. If you let go of that demand, what remains is pure gratitude: this happened, and it was good. Another Buddhist emphasis is the present moment as the only place where life unfolds. The past lives in you now: in who you have become, in what is dear to you. You can take nostalgia as a reminder of your values.",
+      "practice": "Recall what you miss and ask: what from that time goes on living in me now?",
+      "quote": {
+        "text": "All conditioned things are impermanent.",
+        "author": "The Buddha",
+        "source": "Dhammapada, 277"
+      }
+    },
+    "craving": {
+      "text": "A craving — a sharp “I want it right now” — can feel almost unbearable, and there is nothing shameful in that. Buddhism gives it a central place: craving, in Pali taṇhā, is according to the Second Noble Truth the root of suffering. But more important is how Buddhism suggests dealing with it: not fighting it, but examining it. Craving is a process. A pleasant or unpleasant feeling-tone (vedanā) arises, then desire follows it, and clinging follows desire. If you mindfully notice this chain, a gap appears in it. And one more observation of the Buddha's: everything conditioned is impermanent. Craving, too, comes as a wave — it builds, peaks and subsides if you don't add fuel to it. You can watch it the way you watch the tide from the shore, without throwing yourself into the water.",
+      "practice": "When a craving rises, set a timer for a couple of minutes and simply observe: where it is in your body, how its strength changes. Note the moment the wave begins to subside.",
+      "quote": {
+        "text": "From craving springs grief, from craving springs fear. For him who is wholly free from craving there is no grief; whence then fear?",
+        "author": "The Buddha",
+        "source": "Dhammapada, 216"
+      }
+    },
+    "addiction": {
+      "text": "Addiction is not a vice or a weakness of character. Buddhism describes a mechanism in which its cycle is easy to recognize — paṭicca-samuppāda, dependent origination: from feeling arises craving, from craving clinging, from clinging “becoming,” a new habitual rut. The cycle persists not because a person is “bad” but because the conditions reproduce themselves again and again. The good news of the same teaching: when the conditions change, the cycle changes too. Buddhism has a fifth precept for lay followers — to refrain from intoxicants that lead to heedlessness. But it is a sikkhāpada, a training rule: it is taken on voluntarily and returned to again after a lapse, without stigma. And one more thing: the Buddha called good friendship, kalyāṇa-mittatā, not half but the whole of the holy life. This path isn't walked alone.",
+      "practice": "Think: which one condition around this cycle — a place, a time, a mood, a group of people — could you change, even slightly?",
+      "quote": null
+    },
+    "hangover": {
+      "text": "The morning after is often two pains at once: heaviness in the body and anxious shame, fragments of memory. In the Sallatha Sutta the Buddha described something similar through the image of two arrows. The first arrow is the unpleasant sensation itself: weakness, a headache, awkwardness. The second is what we add ourselves: “I'm a terrible person,” “everyone is judging me,” endless replaying. The first arrow sometimes can't be pulled out right away; the second you can at least avoid driving in deeper. Mindfulness here is not a trial but gentle attention: here is heaviness, here is shame, here is a thought about yesterday. Understanding impermanence helps too: this state will pass, as all states do. And if something from yesterday needs putting right, you can do that later, calmly and without self-flagellation.",
+      "practice": "Note separately to yourself: “first arrow — this is what's hard for my body,” “second arrow — this is what I'm telling myself.” Take a few slow breaths without rushing to decide anything.",
+      "quote": null
+    },
+    "euphoria": {
+      "text": "A flash of euphoria is bright and joyful, and there's no need to spoil it. Buddhism has the word pīti — rapture, joyful elation — and it is counted among the factors of awakening, so strong joy in itself is not considered anything bad. Buddhism only suggests looking at it with clear eyes. Any pleasant feeling-tone, vedanā, naturally gives rise to the wish for it to last and repeat. If you live through euphoria knowing that it is impermanent — anicca — it doesn't turn into a chase. Classical descriptions of meditation tell how rapture gradually gives way to a quieter happiness, sukha, and then to calm. You can let the high be and watch how it passes, all by itself, into something more even.",
+      "practice": "In the middle of the high, take three slow breaths and notice where the euphoria is felt in your body. Let it be — without trying to hold on to it or intensify it.",
+      "quote": null
+    },
+    "crash": {
+      "text": "A sharp drop after a high can be very unpleasant — the world seems to fade. Buddhism looks at such swings without surprise. The Buddha spoke of the “eight worldly winds”: gain and loss, fame and obscurity, praise and blame, pleasure and pain. They follow one another in everyone's life, and this is not a personal failure. The drop hurts especially when comparison mixes in: “yesterday was so good, and now…” — that is clinging to a feeling that has gone. Mindfulness suggests looking at today's state as it is: an unpleasant vedanā, heaviness, fatigue — without the addition “it will always be like this.” The impermanence that carried away the high will carry away the low as well.",
+      "practice": "Silently name three neutral or slightly pleasant things that are here right now: the warmth of a cup, the light, a sound. They, too, are part of your experience.",
+      "quote": null
+    },
+    "panic": {
+      "text": "A wave of panic is truly frightening: your heart pounds, your breath falters, it seems something terrible is about to happen. It is a hard experience, and it's not your fault that it came. Buddhist mindfulness practice begins with the breath and the body: ānāpānasati — attention to the in-breath and out-breath — and kāyagatāsati — attention to the body. In panic this is not a way to “chase away” the terror, but a way to find a point of support in the middle of the storm: here are my feet, here is the out-breath, here is a sound outside the window. The Buddha taught to see sensations as waves that arise and pass. A wave of panic usually rises to a peak and subsides within a few minutes. You don't have to fight it; you can hold on to something steady while it passes.",
+      "practice": "Place your feet on the floor and take a few breaths with the exhale a little longer than the inhale. Silently note: “in… out…” — and name five things you can see.",
+      "quote": null
+    },
+    "dread": {
+      "text": "Existential dread — “what is all this for,” the thought of finitude — is a very ancient question, and the fact that it has caught up with you doesn't make you weak. According to tradition, the Buddha's own path began with a similar shock: the young prince Siddhartha, raised in a sheltered palace, saw old age, sickness and death for the first time and understood that they concerned him too. He didn't turn away from this knowledge, but he didn't stay in terror either: it became the beginning of his search and of compassion. Buddhism suggests looking at finitude not as an abyss but as a reason to value what is here now and to be kinder. Mindfulness practice teaches you to come back from the vast, abstract “everything” to the concrete “here”: this breath, this sound, this person. There, meaning is felt not as an answer but as presence.",
+      "practice": "Place your hand on your chest and feel a few breaths. Name one thing or one person you would like to treat with warmth today.",
+      "quote": null
+    },
+    "fomo": {
+      "text": "The feeling that life is happening somewhere else, to other people, is very familiar — especially in the age of the feed. Buddhism sees it as a form of craving, taṇhā: the mind reaches for what isn't here and stops seeing what is. Among the “eight worldly winds” the Buddha spoke of are fame and obscurity: they inevitably fluctuate, and no life consists only of bright moments, however it looks from outside. The good antidote Buddhism names is muditā — joy for others: you can try to rejoice in someone else's celebration without taking anything away from yourself. And one more thing: mindfulness restores the value of an ordinary moment. Life doesn't happen “somewhere else”; it always happens here.",
+      "practice": "When the “I'm missing out” pang comes, find one thing in your moment that exists only here: a light, a sound, a taste. Stay with it for a few breaths.",
+      "quote": null
+    },
+    "sleepless": {
+      "text": "Thoughts at 3 a.m. can be especially heavy: everything seems louder and more hopeless than in the daytime. The Buddha described five “hindrances” of the mind, nīvaraṇa, and one of them is uddhacca-kukkucca, restlessness and remorse: the mind darts about, going over what was done and not done. It is a remarkably accurate portrait of the nighttime whirl. The Buddhist advice is not to argue with each thought but to notice the process itself: “here is restlessness,” “here is regret.” To name something is to step back from it a little. Then you can return to your breath or to your body lying in bed: its weight, its warmth, the touch of the blanket. The Buddha also taught mettā — loving-kindness, which you can direct toward yourself; among its fruits, the texts say, is that a person falls asleep easily and sleeps peacefully.",
+      "practice": "Lying down, gently repeat to yourself: “May I be at ease. May I be safe.” When thoughts carry you off, simply return to these words.",
+      "quote": null
+    },
+    "betrayal": {
+      "text": "Betrayal wounds where there was trust, and this pain deserves attention and sympathy. The Buddha knew it himself: according to tradition, his cousin and disciple Devadatta plotted against him and even tried to kill him. The tradition doesn't pretend this wasn't terrible, but it shows another way — not answering hatred with hatred. Buddhism makes a distinction: you can see clearly that an act was wrong and keep your distance from the person — and at the same time not let bitterness settle in you. This is not approval of the betrayal but care for your own heart. Compassion, karuṇā, can begin with you: right now you are hurting, and this pain can be embraced with attention before you decide anything.",
+      "practice": "Place a hand on your heart and tell yourself: “This hurts. This is hard for me right now.” Stay like this for a few breaths without deciding anything.",
+      "quote": null
+    },
+    "jealousy": {
+      "text": "Jealousy is a tangle of fear of loss, insecurity and love, and behind it lies an attachment that is dear to you. Buddhism would say that jealousy is a form of clinging, upādāna: the wish to hold on to what is by nature changeable — another person, their feelings, their choices. That sounds stern, but it is a view without reproach, one of understanding: clinging is natural, and it wounds the one who clings most of all. Mindfulness suggests not suppressing jealousy but examining it: what fear is in it, what need — for security, for closeness, for recognition? And mettā, loving-kindness, can gradually soften the grip: wishing happiness both to yourself and to the other, even when that isn't easy.",
+      "practice": "Ask yourself: “What is my jealousy most afraid of?” Write down the answer — and one need you could speak about honestly.",
+      "quote": null
+    },
+    "resentment": {
+      "text": "An old grudge is heavy, and there is usually a real injustice behind it. Buddhism doesn't require you to declare it a trifle. But at the very beginning of the Dhammapada there is a remarkably accurate observation of how resentment prolongs itself: when we repeat to ourselves again and again, “he insulted me,” we ourselves keep that fire going. Letting go of a grudge doesn't mean excusing the one who hurt you. It means no longer carrying around what keeps wounding you in particular. Buddhist practice suggests starting not with forgiveness but with attention: noticing how the resentment feels in the body, which thoughts feed it. When you see the mechanism, its grip slowly loosens. Sometimes the first step is mettā toward yourself — toward the part of you that was hurt back then.",
+      "practice": "Notice where in your body the resentment lives: in your chest, your throat, your jaw? Breathe into that place a few times without changing anything, simply giving it attention.",
+      "quote": {
+        "text": "“He abused me, he struck me, he overpowered me, he robbed me.” Those who harbor such thoughts do not still their hatred.",
+        "author": "The Buddha",
+        "source": "Dhammapada, 3"
+      }
+    },
+    "heartbreak": {
+      "text": "A breakup is a huge loss, and a broken heart hurts almost physically. Buddhism looks at this pain with deep sympathy: listing the forms of suffering, dukkha, in his very first sermon, the Buddha explicitly names separation from what you love. So you are hurting not because you are doing something wrong — this is part of human life. The teaching of impermanence sounds here not like a cold “everything passes” but like an explanation: the love was real precisely because it was alive and changing. The pain doesn't need to be driven away. Mindfulness teaches you to stay beside it as you would beside a crying friend: without hurrying it, without shaming it. Over time the clinging to what was can soften, while gratitude for what you lived through can remain.",
+      "practice": "When a wave of longing washes over you, tell yourself: “Being separated from someone you love hurts, and all people feel this.” Take a few slow breaths with this thought.",
+      "quote": null
+    },
+    "impostor": {
+      "text": "“I'm about to be found out” — a fear familiar to many capable people. Buddhism would suggest looking at what exactly you are defending. The teaching of anattā, not-self, says there is no unchanging “self” that could be definitively “genuine” or “fake.” There is a stream of actions, efforts and skills that grow. From this point of view you could say that it's impossible to be an impostor in your own life: you aren't passing yourself off as a finished essence; you are in process, like everyone else. The later Zen tradition prizes “beginner's mind” — an openness that doesn't pretend to already know everything. And self-doubt can be noticed as a thought that arose and will pass, not as a verdict.",
+      "practice": "Write: “Right now I am learning…” — and finish the sentence about the thing in which you feel like an impostor.",
+      "quote": null
+    },
+    "self_hatred": {
+      "text": "The inner critic can sound merciless, and if it is loud right now, you deserve gentleness, not agreement with it. Buddhism is especially clear here. In the classical description of the practice of mettā, loving-kindness, you begin with yourself: first you wish happiness to yourself, and only then to others. In one sutta the Buddha agrees with King Pasenadi: searching in thought through all the directions, you will find no one dearer than yourself — and in the same way, every other person is dear to themselves. The voice saying “I'm awful” is not the truth about you but a mental event, a thought that arises and passes. You can notice it without believing it. Buddhism doesn't blame you even for having a critic: it is an old habit of the mind, and habits, like everything conditioned, change.",
+      "practice": "Place a hand on your heart and quietly tell yourself: “May I be able to treat myself kindly. May I be at ease.” If the words sound false, just stay with the intention.",
+      "quote": null
+    },
+    "helplessness": {
+      "text": "Feeling powerless to change anything is one of the heaviest feelings, and it's important not to make it worse with reproaches. Buddhism honestly acknowledges that much in life doesn't depend on us: everything arises from a multitude of conditions, and no one controls them all. But the same teaching implies something else: we ourselves are also one of the conditions. A small action, a kind word, an attentive breath change the fabric of what is happening, even if imperceptibly. The Buddha taught upekkhā, equanimity — not indifference but the ability to stay with what cannot be changed without falling apart. And alongside it, karuṇā, compassion, including for yourself when things are hard. Powerlessness before big things doesn't cancel the meaning of small ones.",
+      "practice": "Name one tiny condition you can add to this day: a call, a walk, a cup of tea. Do it, without expecting it to solve everything.",
+      "quote": null
+    },
+    "procrastination": {
+      "text": "“I can't get started” is not a vice but a state of mind that has its causes. Among the five “hindrances” the Buddha named thīna-middha — sloth and torpor — and, separately, doubt, vicikicchā, which paralyzes choice. The mere fact that these states have names and antidotes removes the shame: this is an ordinary state, not a verdict on your character. Against sluggishness, the texts advise not forcing yourself but a small lift of energy, viriya. In one sutta the Buddha tells a drowsy disciple to rub his ears, wash his face, go out and look at the stars, walk about. Mindfulness of what happens right before you begin also helps: what feeling arises, what do you want to get away from? Sometimes fear stands behind “I can't get started,” and it is enough just to notice it.",
+      "practice": "Stand up, walk around for a minute or look out the window, and then do only the first, smallest action of the task — and notice what you feel.",
+      "quote": null
+    },
+    "uprooted": {
+      "text": "Losing your home — a move, emigration — knocks the ground out from under your feet, and longing for the familiar is entirely natural. Buddhism knows wandering from the inside: the Buddha himself left home, and his monastic disciples lived on the road for centuries, without a permanent roof. But their leaving was a choice, while yours may have been forced, and that is a very different pain. Still, Buddhist experience can offer something. Your support can be not only a place but also attention: your breath, your body and the present moment are always with you, wherever you find yourself. And the sangha, the community, is in Buddhism one of the three refuges, alongside the Buddha and his teaching: a person needs people with whom to share the path. New roots grow slowly, and here the teaching of impermanence is a comfort: your present disorientation will change too.",
+      "practice": "Sit down and feel your body touching its support. Tell yourself: “I am here.” Then think about who nearby could become part of your new “sangha.”",
+      "quote": null
+    },
+    "overload": {
+      "text": "An endless feed, notifications, other people's opinions — the mind grows tired of all this, and irritation or numbness here is natural. Buddhism describes six “sense doors”: eye, ear, nose, tongue, body and mind. Impressions pour in through each door continuously, and each one brings a small feeling of pleasant or unpleasant, a small “I want more” or “I don't want this.” The Buddha advised “guarding the sense doors” — not shutting them tight, but choosing mindfully what to let in, the way a gatekeeper chooses guests. In the feed the craving for novelty, taṇhā, is especially noticeable — that's why it's so hard to stop. What helps is not willpower but a single mindful moment: noticing that your hand is reaching for the screen again.",
+      "practice": "Put your phone down for two minutes and stay with a single channel of sensation — for example, only the sounds around you. Notice how the mind gradually settles.",
+      "quote": null
+    },
+    "unreality": {
+      "text": "Sometimes the world or you yourself seem unreal, as if behind glass. It is a strange, often frightening experience, and it can be talked about calmly. Buddhist texts contain images that may seem to resonate with it: the Buddha compared bodily form to a lump of foam, feelings to bubbles on water, perception to a mirage. But importantly, he meant not that the world doesn't exist, but that everything is changeable and has no unchanging core. And the path Buddhism offers leads not to detachment but to more living contact — through the body and the breath. When reality seems faded, simple things help: feeling the ground under your feet, the warmth of your hands, a sound. This is sati — presence here and now.",
+      "practice": "Rub your palms together and feel the warmth. Silently name five sounds or objects around you — slowly, one at a time.",
+      "quote": null
+    },
+    "awe": {
+      "text": "Awe before something vast or beautiful — stars, mountains, someone's kindness — is one of the deepest experiences. Buddhism values such moments: for a while they loosen the habitual “self” that measures everything by its own concerns. In such moments the interconnection of everything, which Buddhism calls dependent origination, is especially tangible: you are part of an immense web of conditions, not a separate island. The four Buddhist practices of the heart — mettā, karuṇā, muditā and upekkhā — are called “immeasurables” because the feeling in them expands in all directions without limit. There is something similar in awe: for a moment the heart becomes wider. Buddhism doesn't ask you to explain this feeling or hold on to it. It is enough to be with it fully.",
+      "practice": "When you feel awe, take a few slow breaths and let it expand — as in the practice of the immeasurables, in all directions.",
+      "quote": null
+    },
+    "relief": {
+      "text": "Relief is a long-awaited exhale, and you can simply live it. Buddhism has the word passaddhi — tranquility, the relaxation of body and mind — and it is one of the seven factors of awakening. Relief shows how much energy was going into tension. You can notice this without reproach: this is what I was holding. Buddhist practice suggests staying attentively with relief: where it is in the body, how the shoulders drop, how the breath changes. Such attention makes it deeper and fuller. And relief shows impermanence, anicca, from its bright side — what was hard has passed too. You can keep this knowledge for the future, when things get hard again: then you'll be able to remember that relief has come before.",
+      "practice": "Take a long exhale and notice which part of your body let go first. Stay with that sensation for a few breaths.",
+      "quote": null
+    },
+    "calm": {
+      "text": "Calm is a precious state, and Buddhism values it greatly. Calming the mind is called samatha — one of the two supports of practice, together with vipassanā, clear seeing. Buddhist calm is not emptiness or indifference but clarity in which everything is seen more distinctly, like pebbles on the bottom of a clear, still lake — an image found in the suttas themselves. Such calm needs no special conditions: for a moment you can find it anywhere by returning to the breath. Now, when it has come on its own, you can simply stay in it and remember its taste. Buddhism teaches not to cling even to what is good, so there's no need to worry that the calm will leave: the road back to it will remain.",
+      "practice": "Sit still for a minute and watch your breath without changing it. Notice what you see and hear in this quiet.",
+      "quote": null
+    },
+    "inspiration": {
+      "text": "Inspiration is a living surge of energy, when you want to create. Buddhism has related notions. Viriya — energy, joyful effort in what is wholesome — is one of the pāramīs, the perfections. And chanda is the wish to act which, unlike craving, isn't bound up with clinging. Buddhism distinguishes these: craving grabs and is never satisfied, while chanda is a clear “I want to do this well.” Inspiration aimed at creating and at benefiting others is exactly of this kind. The advice is simple: let the impulse become action, but don't bind yourself tightly to the result. Then inspiration will keep coming back instead of burning out. And if the impulse fades over time, that doesn't mean it wasn't real: like everything conditioned, it has simply given way to another state, and from that state, too, you can continue along the path.",
+      "practice": "Write down what inspires you and ask yourself: whom or what could this benefit? Take the first small step today.",
+      "quote": null
+    },
+    "schadenfreude": {
+      "text": "Schadenfreude is a feeling that's embarrassing to admit, but almost everyone knows it. Buddhism would treat it without condemnation, as weather of the mind that arises under certain conditions. Among the “four immeasurables” — the main bright states — is muditā, sympathetic joy: joy at another's happiness. Schadenfreude is its mirror-image shadow, and the Buddhist tradition honestly admits that muditā is especially hard to develop: the mind is used to comparing and competing. The conditions of schadenfreude are usually understandable: envy, resentment, a feeling that you have been shortchanged. If you notice these roots, schadenfreude loses its sweetness and becomes a clue — this is where I myself am hurting. From the Buddhist point of view, there's no need to drive the feeling away; it is enough to see it clearly and then, if you can, wish well at least to yourself.",
+      "practice": "Note silently: “Here is schadenfreude.” Then ask: what pain of mine is hiding here? Wish yourself: “May I have what I am missing.”",
+      "quote": null
+    },
+    "contempt": {
+      "text": "Contempt places us above another and walls us off from them with a cold barrier. Buddhism would draw attention to the subtle mechanism beneath it — māna, conceit, the habit of comparing yourself with others. Interestingly, Buddhist texts count as māna not only the thought “I am better” but also “I am worse,” and even “I am equal”: the very habit of measuring who stands on which rung is considered a source of suffering. Contempt often protects against vulnerability: if a person is “lower,” their actions wound less. From the Buddhist point of view, it helps to notice this mechanism without judging yourself, and to remember that the other is also a stream of causes and conditions, also seeking happiness and also suffering. This doesn't require approving of their actions. But the wall can grow thinner, and it will be easier for you not to hold it up.",
+      "practice": "Silently say of the person you despise: “They, too, want to be happy and don't want to suffer.” Notice what happens inside — without trying to change anything.",
+      "quote": {
+        "text": "Let none find fault with others; let none see the omissions and commissions of others. But let one see one's own acts, done and undone.",
+        "author": "The Buddha",
+        "source": "Dhammapada, 50"
+      }
+    },
+    "disgust": {
+      "text": "Disgust is a strong bodily response, and it can be directed at people, situations, even yourself. In Buddhist psychology it belongs to the family of dosa — aversion. Interestingly, Buddhist practice also knows a mindful way of working with this feeling: monks were invited to contemplate the component parts of the body in order to weaken attachment. But the aim was not to come to hate the body, but to see things without embellishment and without recoiling — with an even gaze. This even gaze is called upekkhā, equanimity: a mind that neither clings to the pleasant nor flees the unpleasant. From the Buddhist point of view, disgust can be explored: what sensation is in the body, what thought sets it off, how it changes over time. It's worth being especially gentle with disgust toward yourself: you are a changing stream, not whatever is provoking rejection right now.",
+      "practice": "When you feel disgust, silently name the bodily sensation: “tightness in the throat,” “pulling back.” Breathe with it a few times, watching how it changes.",
+      "quote": null
+    },
+    "revenge": {
+      "text": "The wish for revenge is understandable: you were hurt, and you want the one who hurt you to feel the same. Buddhism doesn't condemn you for this wish, but looks at it through the teaching of kamma — the idea that intentional actions shape the one who performs them. Revenge, from this point of view, continues the chain of suffering and ties you to the person who hurt you: you replay the scene of the injury again and again, and they live in your head. The Buddhist path doesn't require you to forgive right away or to excuse what was done. It suggests first taking care of your own wound — acknowledging the pain, giving it room — and only then, perhaps, loosening your grip. From the Buddhist point of view, giving up revenge is not a concession to the offender or an admission that they were right, but freeing yourself from the cycle you were drawn into.",
+      "practice": "Place a hand on your chest and tell yourself: “It hurt me very much.” Stay with this acknowledgment for a minute before thinking about the person who hurt you.",
+      "quote": {
+        "text": "Overcome the angry by non-anger; overcome the wicked by goodness; overcome the miser by generosity; overcome the liar by truth.",
+        "author": "The Buddha",
+        "source": "Dhammapada, 223"
+      }
+    },
+    "anger_at_loved": {
+      "text": "Anger at those closest to you — a partner, parents, children — is one of the most shame-inducing feelings: it seems a loving person shouldn't boil like that. Buddhism looks at this soberly: where attachment is strong, expectations are stronger too, and so is the pain when they aren't met. Anger at a loved one often grows from love, fatigue and fear all at once. The image of the “two arrows” from the Sallatha Sutta helps. The first arrow is unavoidable pain — in this case, the flash of irritation itself. The second is what we add ourselves: “I'm a terrible parent,” “I'm a bad son.” The second wounds more deeply. From the Buddhist point of view, you can acknowledge the flare-up without putting yourself on trial and return to mettā, loving-kindness — first toward yourself, then toward the one you were angry with. Relationships can withstand flare-ups if warmth follows them.",
+      "practice": "When the flare-up has passed, ask yourself: what did I actually want — rest, attention, help? If you get the chance, tell your loved one about it in one calm sentence.",
+      "quote": null
+    },
+    "ambivalence": {
+      "text": "Loving and being unable to stand the same person is a very common but rarely named state. Buddhism helps you understand it without self-condemnation. According to the teaching of vedanā, every experience is colored as pleasant, unpleasant or neutral, and one and the same person can bring all three — sometimes in a single evening. The mind wants simplicity: either “good” or “bad.” But the teaching of anattā, not-self, reminds us that your loved one, too, is not a fixed essence but a stream of changing states, just like you. From the Buddhist point of view, mixed feelings are not a mistake of love but an honest reflection of reality. You can hold them in awareness at the same time without choosing one: here is tenderness, here is irritation, here is fatigue — all of this is here right now.",
+      "practice": "Think of this person and note, one by one, all the feelings that come up: “tenderness… irritation… guilt…”. Don't pick the main one — just list them.",
+      "quote": null
+    },
+    "guilty_relief": {
+      "text": "Relief after a breakup, a departure or even the death of a loved one who had long been ill often arrives together with shame: “how can I feel relieved?” Buddhism would treat it very gently. Relief is the natural result of a long strain coming to an end: caregiving, fear, watching someone else suffer. Buddhist psychology recognizes that different currents can flow in the mind at once — grief, love, fatigue, relief — and none of them cancels the others. What's more, if your loved one suffered for a long time, relief may be connected with karuṇā, compassion: you are glad their pain is over. From the Buddhist point of view, there's no need to choose which feeling is the “right” one. Everything that arises arises for reasons, and every feeling can be met with kindness.",
+      "practice": "Place a hand on your heart and tell yourself: “I love — and I feel relieved. Both of these are true.” Stay with this for a few breaths.",
+      "quote": null
+    },
+    "indifference": {
+      "text": "Sometimes something should move you — yet inside it's empty, quiet, flat. That can be frightening. Buddhism distinguishes two states that look alike from outside. Upekkhā, equanimity, is a calm, open mind that sees everything clearly and doesn't lose its warmth. And then there is its “near enemy,” as the commentator Buddhaghosa calls it — dull indifference, which resembles equanimity only on the surface. But numbness is no reason to blame yourself either: often it is a protective reaction of a tired, overloaded psyche. Buddhism also speaks of neutral vedanā: not every experience has to be vivid. From the Buddhist point of view, this “nothing” can be explored with curiosity: where is it in the body, what is it like? Attention directed at emptiness without demands on it often gradually brings sensations back.",
+      "practice": "Sit for a minute and find at least one sensation in your body — the warmth of your hands, the support of the chair. If there are no feelings, name it simply: “neutral right now.”",
+      "quote": null
+    },
+    "escape": {
+      "text": "The urge to drop everything and run away — from a job, a city, a role — is familiar to many. Interestingly, the Buddha's own story begins with a departure: Prince Siddhartha left the palace to find an answer to the question of suffering. But Buddhism subtly distinguishes two kinds of leaving. One is flight born of aversion: you simply want the unpleasant not to be there. Such leaving often doesn't help — the restlessness travels with us. The other is nekkhamma, renunciation: consciously leaving behind what harms for the sake of what matters more. From the Buddhist point of view, you can explore your wish to escape: from what exactly — and toward what? The urge itself isn't bad: it says that your present situation is causing suffering. What matters is to see it clearly before you decide.",
+      "practice": "Write two lists: “what I want to leave” and “what I want to arrive at.” Notice which one is longer.",
+      "quote": null
+    },
+    "forbidden_attraction": {
+      "text": "An attraction to someone unavailable or “the wrong” person can come suddenly and be unsettling. Buddhism sees nothing criminal in the mere arising of desire: it appears due to conditions, like everything in the mind. The teaching of dependent origination describes a chain: contact gives rise to feeling, feeling to craving (taṇhā), craving to clinging. Between feeling and clinging there is a gap where mindfulness is possible. From the Buddhist point of view, you can explore the attraction as a phenomenon: what exactly draws you, what sensations, images and hopes it carries. Often what beckons us in the unavailable is not so much the person as a promise — of novelty, recognition, a different life. Buddhism passes no verdict and doesn't decide for you; it suggests looking without pushing away and without grasping.",
+      "practice": "When the image of this person comes up, note: “desire.” Ask: what promise does it carry? Wait three breaths, watching how the sensation changes.",
+      "quote": null
+    },
+    "social_anxiety": {
+      "text": "Shyness and fear of judgment make meeting people feel like an exam. Buddhism speaks of the “eight worldly winds”: praise and blame, fame and obscurity, gain and loss, pleasure and pain. They blow on everyone, and even the Buddha didn't escape blame. Social anxiety largely revolves around the “self”: how do I look, what do people think of me. The teaching of anattā, not-self, gently loosens this grip: the “self” that is so carefully guarded is not a monolith but a process, and other people's opinions of it are temporary too. From the Buddhist point of view, it helps to shift your attention from yourself to the other person or to simple sensations — the sound of a voice, your breath, your feet on the floor. The anxiety doesn't vanish at once, but it has less fuel.",
+      "practice": "During a conversation, move your attention to the feeling of your feet on the floor or to the other person's voice. When you notice the thought “how do I look,” gently come back.",
+      "quote": {
+        "text": "They blame those who remain silent, they blame those who speak much, they blame those who speak in moderation. There is none in the world who is not blamed.",
+        "author": "The Buddha",
+        "source": "Dhammapada, 227"
+      }
+    },
+    "uncertainty": {
+      "text": "Uncertainty is hard: you want to know what will happen, and there's no answer. Buddhism starts from the fact that we always live with this: anicca, impermanence, is one of the three main characteristics of existence. Nothing stays the same, and the future is never guaranteed — it's just that in calm times we don't notice it. Suffering, according to Buddhist analysis, grows not so much from the unknown itself as from the craving for solid ground that doesn't exist. That sounds stern, but there is relief in it: you haven't broken down; you have met the way the world works. From the Buddhist point of view, support lies not in knowing the future but in the present moment, which you can feel: your breath, your body, this in-breath. Uncertainty can be held in an open palm rather than a clenched fist.",
+      "practice": "Thinking about the unknown, clench your fist — and then slowly open your palm. Take three breaths with your hand open.",
+      "quote": null
+    },
+    "waiting": {
+      "text": "Waiting — for a reply, results, news — stretches time and shrinks life down to a single point. Buddhist mindfulness practice suggests an interesting move: notice that “waiting” is not one big event but a process in the mind made up of specific moments. Here is the thought “what if it's bad,” here is a tightening in the belly, here is your hand reaching for the phone. Each of them arises and disappears. Sati, mindfulness, reminds us: life happens only now, even when the mind is entirely in the future. From the Buddhist point of view, waiting can be turned into a practice — not trying to speed it up, but noticing exactly how you wait. Then the pause stops being empty time: it, too, is life, anxious as it may be, and there is room in it for tea, for breathing, for conversation.",
+      "practice": "Each time you reach to check for news, first take one slow breath and silently name it: “waiting.” Then decide whether to check.",
+      "quote": null
+    },
+    "regret": {
+      "text": "Regret over what you did or didn't do shows that how you live matters to you. Buddhism distinguishes two states here. The first is healthy remorse that helps you learn: the Buddha advised his son Rahula to look at actions as if in a mirror — before, during and after — and, having seen harm, to acknowledge it and act differently from then on. The second is kukkucca, a restless chewing over of the past, which Buddhism counts among the “hindrances” of the mind: it fixes nothing and only torments. From the Buddhist point of view, the past has already become part of the causes and conditions; it can't be changed; but every new action also becomes a cause. Regret can be turned from a closed loop into an arrow pointing forward.",
+      "practice": "Look at the situation “as in a mirror”: what did I do, what did it lead to, what will I do differently next time? Three short answers.",
+      "quote": null
+    },
+    "longing": {
+      "text": "Longing for a particular person is an aching feeling that holds both love and pain. Buddhism honestly acknowledges that separation from those we love is one of the forms of dukkha, suffering, named already in the Buddha's first sermon. This is not a reproach but a recognition: this is how a life with attachment in it works. Buddhism distinguishes love that wants to hold on from mettā — loving-kindness, which can flow to a person across any distance. Longing holds on to the image of the person, contracting around it; mettā releases them into the world with a wish for their good. From the Buddhist point of view, there's no need to drive longing away or be ashamed of it. You can give it room and, when you have the strength, turn it into a wish: may you be well — wherever you are.",
+      "practice": "Picture this person and silently wish them: “May you be healthy, may you be at peace.” Notice what changes in your chest.",
+      "quote": null
+    },
+    "world_pain": {
+      "text": "Pain for the world — heavy news, wars, injustice — is a sign of a living heart. In Buddhism this feeling is close to karuṇā, compassion: responding to others' pain and wishing for suffering to end. But the Buddhist tradition also warns of a trap: compassion that overwhelms turns into your own grief and powerlessness. Buddhaghosa called sorrow the “near enemy” of karuṇā — it only resembles compassion but drains you. The counterweight is upekkhā, equanimity: not indifference but a steadiness that lets you keep caring without burning out. From the Buddhist point of view, you can help where you are able and at the same time take care of yourself. The world needs your living heart, not your exhaustion.",
+      "practice": "Think of the people your heart aches for and wish them: “May you be safe.” Then wish the same for yourself — you need care too.",
+      "quote": null
+    },
+    "rejection": {
+      "text": "Rejection hurts: a refusal feels like a blow to your very core. Buddhism helps break this experience into parts. There is the fact — someone said “no.” There is the pain — an unpleasant vedanā, and it is real. And there is the story the mind quickly adds: “something is wrong with me,” “it will always be like this.” This is that very “second arrow” from the Sallatha Sutta, the one we shoot into ourselves. From the Buddhist point of view, the first arrow can be received with self-compassion, and the second looked at carefully: is it really true? The teaching of not-self adds: someone else's “no” relates to a particular situation, not to some unchanging “self.” You keep changing, and tomorrow's encounters haven't been written yet.",
+      "practice": "Divide a sheet into two columns: “what happened” and “what I told myself about it.” About the second column, ask: is this the first arrow or the second?",
+      "quote": null
+    },
+    "abandonment": {
+      "text": "The fear of being abandoned can live deep in the body: tightness, anxious waiting, constant checking. Buddhism wouldn't shame you for this feeling — it acknowledges that separation from those we love is among the basic forms of suffering. But it also looks for the root of the fear: the craving for what we love to be unchanging and guaranteed, in a world where everything is impermanent. That sounds cold, but the conclusion is warm: if nothing can be held forever, the value of a connection lies in its living present, not in guarantees. Buddhism also speaks of “refuge” — a support; in the tradition it is the Buddha, the teaching and the community, the sangha. In a broad sense, it is attention, loving-kindness and the people who walk beside you. From the Buddhist point of view, you can love without holding on until it hurts, and lean on more than one person.",
+      "practice": "Place a hand on your chest and tell yourself: “I am here, I am with myself.” Then name one or two people who are also in your life.",
+      "quote": null
+    },
+    "unrequited": {
+      "text": "Unrequited love is a feeling full of tenderness and full of pain. Buddhism wouldn't call it a mistake, but it would suggest distinguishing two layers in it. The first is taṇhā, craving: the wish for the other to respond, for the connection to become mutual. This is what causes most of the torment, because it runs up against what doesn't depend on you. The second layer is mettā, loving-kindness: the wish for the beloved person to be well. It needs no answer. From the Buddhist point of view, your love is not wasted: its best part — the capacity to wish someone well — remains yours and can extend further, to others and to yourself. And craving, if you watch it attentively, behaves like a wave: it rises, peaks and subsides.",
+      "practice": "Wish this person well without expecting an answer: “May you be happy.” Then wish the same for yourself — with the same tenderness.",
+      "quote": null
+    },
+    "humiliation": {
+      "text": "Humiliation burns: it seems you have been diminished in front of everyone. Buddhism would take this pain seriously — and would help you see what exactly is hurting. The Pali Canon contains a story (the Akkosa Sutta) about a brahmin who came to the Buddha and showered him with abuse. The Buddha calmly asked: if guests don't accept the food offered to them, to whom does it remain? — To the host. In the same way, abuse that isn't accepted remains with the one who uttered it. This is not a call to pretend you aren't hurt. It is a reminder that humiliation is another person's action, and you are not obliged to agree with their assessment. From the Buddhist point of view, your dignity doesn't depend on other people's words, and the pain from them, like everything, arises and passes.",
+      "practice": "Imagine the hurtful words are food you didn't take. Tell yourself: “That stayed with them.” Take a few calm breaths.",
+      "quote": {
+        "text": "Just as a solid rock is not shaken by the storm, even so the wise are not affected by praise or blame.",
+        "author": "The Buddha",
+        "source": "Dhammapada, 81"
+      }
+    },
+    "body_shame": {
+      "text": "Dissatisfaction with your body is a quiet but exhausting pain. Buddhism looks at the body soberly: it is impermanent, it changes, it ages, and none of this is your fault. In Buddhist teaching the body is only one of the five khandhas, the aggregates that make up experience, and of each of them it is said: “this is not mine, this is not me.” It sounds unfamiliar, but it can be freeing: if your body is not the same as you, then its failure to meet other people's standards is not a verdict on you. The Buddhist practice of attention to the body teaches you to feel it from the inside — breath, warmth, movement — rather than to judge it from the outside, as a stranger's gaze would. From the Buddhist point of view, you can treat your body with mettā, loving-kindness — as a companion that carries you through life.",
+      "practice": "Close your eyes and feel your body from the inside: your breath, your weight, the warmth of your hands. For one minute, don't judge it — just feel it.",
+      "quote": null
+    },
+    "illness": {
+      "text": "When your body lets you down, it is frightening and exhausting. Buddhism speaks of illness directly: in the first sermon it is named among the basic forms of suffering, alongside old age and separation. The Buddha himself fell ill, and in old age compared his body to an old cart held together with straps. Importantly, he argued against those who considered all pain the result of past actions (the Sivaka Sutta): illness has many causes, and it is not a punishment. Buddhism suggests distinguishing “two arrows”: the first is the bodily pain itself, which can't be undone; the second is the fear, protest and thoughts of “why me” that add suffering on top. The second can sometimes be softened with attention and kindness toward yourself. You can take care of yourself, accept help and notice whatever still brings you peace.",
+      "practice": "Note the pain or discomfort as the “first arrow.” Then notice one thought that adds heaviness — the “second.” Say to it gently: “I see you.”",
+      "quote": null
+    },
+    "pride": {
+      "text": "Pride in what you have done is a good, warm feeling. Buddhism distinguishes different things here. Māna, conceit — comparing yourself with others, wanting to be above them — is considered a fetter of the mind. But joy in a wholesome deed is not only allowed in Buddhism but explicitly recommended: among the traditional practices is the recollection of one's own generosity and virtue, in which a person remembers their good deeds and finds joy and support in them. Such joy, according to Buddhist psychology, calms the mind and aids concentration. From the Buddhist point of view, healthy pride can be recognized by the fact that it doesn't need anyone else to be lower. You can rejoice in your own work just as you rejoice in someone else's — with muditā, sympathetic joy, turned toward yourself.",
+      "practice": "Recall what you have done and allow yourself a minute of simply rejoicing in it, without comparing yourself to others. You can tell yourself: “I'm glad I did this.”",
+      "quote": null
+    },
+    "melancholy": {
+      "text": "Gentle sadness is a quiet feeling in which sorrow softly intertwines with beauty. Buddhism understands it well: it is close to clearly seeing anicca, impermanence. When we see that everything passes — an evening, a summer, youth, this conversation — a particular tenderness arises. Japanese culture, which grew up under the strong influence of Buddhism, has an expression for this: mono no aware — the poignant charm of passing things. From the Buddhist point of view, such sadness needs no fixing: it neither clings nor pushes away, it simply sees. There is little craving in it and much presence. You can live it as a quiet form of mindfulness — with a cup of tea, by the window, in autumn light — letting it last as long as it wants.",
+      "practice": "Find something fleeting nearby — light on the wall, a sound, a cloud. Look at it for a minute, knowing that it is changing, and let yourself feel whatever you feel.",
+      "quote": null
+    }
+  }
+}

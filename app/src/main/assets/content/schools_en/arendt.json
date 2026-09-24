@@ -1,0 +1,384 @@
+{
+  "id": "arendt",
+  "title": "Hannah Arendt",
+  "tradition": "Political philosophy",
+  "family": "phenomenology_existential",
+  "period": "20th century",
+  "sortYear": 1958,
+  "thinkers": [
+    "Hannah Arendt"
+  ],
+  "keyWorks": [
+    "The Origins of Totalitarianism (1951)",
+    "The Human Condition (1958)",
+    "Eichmann in Jerusalem (1963)",
+    "Men in Dark Times (1968)",
+    "The Life of the Mind (1978, posthumous)"
+  ],
+  "summary": "Hannah Arendt (1906–1975) was a German-Jewish thinker, a student of Heidegger and Jaspers, who fled Nazism and became an American philosopher. She investigated how totalitarianism arose, what makes human life truly shared, and what it means to think and act in a world inhabited, in her words, by men, not “Man.”",
+  "onEmotions": "Arendt did not build a theory of feelings and was wary of attempts to build politics on them. What interested her was something else: how feelings are connected with the “world” — the shared space between people. Hence her precise distinctions: loneliness (when you are deserted even by yourself), solitude (when I am in good company with myself) and isolation (when you cannot act together with others). She understood thinking as a silent dialogue with oneself, the “two-in-one.” And against the two burdens of human life — the irreversibility of what has been done and the unpredictability of the future — people, according to Arendt, have two answers: forgiveness and promise. At the root of her hope is “natality”: every human being’s capacity to begin something new.",
+  "entries": {
+    "anxiety": {
+      "text": "Anxiety is a legitimate response to the fact that the future cannot be known for certain. Arendt considered this unknowability not a malfunction but a feature of human life itself: every action sets off a chain of consequences that no one can predict, because we live among many other free people — what she called “plurality.” In The Human Condition she offers not a cure for uncertainty but a way of living with it: the promise. By making promises and keeping their word, people create, in her image, islands of certainty in an ocean of uncertainty. Anxiety can then become not an order to control everything but a hint: where do I need an island to stand on — an agreement with myself or with someone close? The whole ocean cannot be made safe, but a small island can be built.",
+      "practice": "Name one small promise for tomorrow that you can definitely keep (for example, going out for a walk at lunchtime), and write it down. This is your island.",
+      "quote": null
+    },
+    "fear": {
+      "text": "Fear is an ancient and honest feeling: it reports that something important is under threat. Studying totalitarian regimes, Arendt saw how fear and terror separate people: a frightened person is left alone with the threat. Hence her thought about courage. Courage for her is not the absence of fear but the readiness to step out of the shelter of private life into the shared world: to speak up, to show yourself to others, to begin something. She considered it the original virtue of action — the very step outward, toward people, already requires courage. From this point of view, fear does not make you weak; it only shows that you are standing on a threshold. And a threshold is easier to cross not alone: a fear spoken to someone stops being isolating.",
+      "practice": "Tell one person about your fear, even in a single sentence — or write it down as if you were telling a friend.",
+      "quote": null
+    },
+    "sadness": {
+      "text": "Sadness does not need to justify itself: it often comes when the world around seems to have dimmed. Arendt called her book of essays about people who lived through a hard era Men in Dark Times. In the preface she writes that even in the darkest of times we have the right to expect some illumination — and that it comes less from theories and concepts than from the uncertain, flickering and often weak light that some people kindle in their lives and works. This is an important thought for sadness. There is no need to wait until everything has become clear and the sorrow has gone. It is enough to notice a small light nearby — a person, a book, a conversation, someone’s act — and let it be, without demanding that it dispel all the darkness at once.",
+      "practice": "Recall one “flickering light” from the past few days — a person or a moment that brightened the day a little. Write it down.",
+      "quote": null
+    },
+    "grief": {
+      "text": "Grief is the price of love and attachment, and there is nothing in it that needs to be “fixed.” Arendt wrote that who a person was — their unique “who” — is best preserved not in a list of their qualities but in the story of their life as others tell it. She opened the chapter on action in The Human Condition with the writer Karen Blixen’s words that any sorrow can be borne if you turn it into a story. This does not mean the story cancels the pain. It gives it a form and a place in the shared world: the loss stops being only your inner burden and becomes a memory that can be shared with others. By telling about whoever or whatever you have lost, you go on being close to them in your own way.",
+      "practice": "Recall one short story about whoever or whatever you lost — an episode that shows especially well what they were like. Write it down or tell it to someone.",
+      "quote": {
+        "text": "All sorrows can be borne if you put them into a story or tell a story about them.",
+        "author": "Isak Dinesen (Karen Blixen)",
+        "source": "epigraph to the chapter “Action” in Hannah Arendt’s The Human Condition"
+      }
+    },
+    "loneliness": {
+      "text": "Loneliness wounds more deeply than it seems, and Arendt understood this as few did. In The Origins of Totalitarianism she distinguishes three states. Isolation — when a person is cut off from common affairs, from the possibility of acting together with others. Solitude — when I am alone but have a companion: myself, with whom I can think and talk. And loneliness — when I am deserted by everyone, even by myself; it can be felt acutely in the middle of a crowd. This distinction gives you something to stand on: loneliness can gradually be turned into solitude by recovering your inner dialogue, and from solitude, for Arendt, it is easier to go out to people again. The fact that it hurts is a sign that you are a being made for a shared world.",
+      "practice": "Have a short conversation with yourself: ask yourself in writing, “How are you right now?” and answer the way an attentive friend would.",
+      "quote": {
+        "text": "Loneliness is not solitude. Solitude requires being alone whereas loneliness shows itself most sharply in company with others.",
+        "author": "Hannah Arendt",
+        "source": "The Origins of Totalitarianism, “Ideology and Terror”"
+      }
+    },
+    "anger": {
+      "text": "Anger is often regarded as something shameful and “irrational.” Arendt disagreed. In the essay On Violence she wrote that rage is not necessarily irrational at all: it arises where there is reason to suspect that conditions could be changed and are not, and where our sense of justice is offended. That is, anger can be a sign that you still believe something else is possible. At the same time, Arendt sharply distinguished power from violence: power is born when people act together and come to agreement, while violence only destroys. One conclusion follows: anger deserves to be heard, but its force serves you best when it turns into words and shared action rather than a blow.",
+      "practice": "Complete the sentence: “I’m angry because I believe things could be different, namely …” Look at what stands behind it.",
+      "quote": null
+    },
+    "shame": {
+      "text": "Shame makes you want to disappear, to hide whatever in you is “wrong.” Arendt knew this feeling well from the story of Rahel Varnhagen — the hostess of a Berlin salon at the turn of the 19th century, about whom she wrote a book. For a long time Rahel tried to get rid of her Jewish origins as something shameful, and only at the end of her life accepted them as part of herself. Arendt distinguished the “parvenu,” who is ashamed of himself and tries to look like everyone else, from the “conscious pariah,” who openly acknowledges his difference. Later she said: if one is attacked as a Jew, one must defend oneself as a Jew — that is, as who you are. Shame, from this point of view, weakens when you stop hiding from your own story.",
+      "practice": "Name to yourself one trait or part of your story that you are used to hiding, and try to speak of it without apology: “Yes, this is me too.”",
+      "quote": null
+    },
+    "guilt": {
+      "text": "Guilt can be agonizing, but it has a valuable core: it shows that you care. Arendt insisted on precision. Guilt, in her view, concerns the specific acts of a specific person; it should not spread over “everything” and turn into a verdict on the whole personality. She even warned that where all are guilty, nobody is — diffuse guilt keeps us from seeing what exactly happened. For you this might mean: try to separate what you actually did from a general feeling of your own “badness.” The first can be thought through, acknowledged, repaired; you can ask for forgiveness. The second is just a heavy fog. Besides, forgiveness for Arendt happens between people: sometimes guilt is eased by a conversation rather than by solitary self-flagellation.",
+      "practice": "Describe in one sentence the specific act you feel guilty about — without judgments. Then ask yourself: what part of this can be repaired or talked about?",
+      "quote": null
+    },
+    "envy": {
+      "text": "Envy usually compares: he has more, she is more successful. Arendt offered a distinction that helps you see this differently. In The Human Condition she distinguishes the “what” of a person — their qualities, talents, achievements, everything that can be compared with others’ — from “who” they are: the unique person who appears in words and deeds and cannot be ranked alongside others. Envy lives in the world of the “what”: there someone will always be ahead. But what is essential in you is precisely the “who,” and it does not take part in any competition. No one but you can begin what you will begin. This does not cancel the wish for more, but it takes the sting out of envy: your place in the world is not taken by others.",
+      "practice": "Write down one thing that you in particular did or said — in a way no one else would have. Not an achievement, but a gesture, a decision, a word.",
+      "quote": null
+    },
+    "emptiness": {
+      "text": "Emptiness and apathy — as if everything has lost its color and nothing moves you. Arendt would probably ask not only “what’s wrong with you?” but also “what’s wrong with your world?” By “world” she meant not the planet but the shared space between people: the things, affairs, places and conversations that both connect and separate us — the way a table connects and separates those who sit around it. She wrote about the “world alienation” of the modern age, when life is reduced to the cycle of labor and consumption. From this point of view, emptiness may be not a personal defect but a sign that there is less of this “table” between you and the world — fewer shared things and shared affairs. The way back can start small: with one lasting thing, with one task shared with someone.",
+      "practice": "Pick up one familiar object that has been with you for a long time — a mug, a book — and recall whom or what it connects you with.",
+      "quote": null
+    },
+    "confusion": {
+      "text": "Confusion arises when familiar supports stop working and it is unclear what to do. Arendt knew this from her own experience: her era destroyed many traditional answers. She spoke of “thinking without a banister” — the ability to think when you can lean neither on a ready-made theory nor on authority — and considered this perhaps the only honest way to think in a new situation. She described understanding as an unending activity through which we gradually come to terms with reality: it does not hand out final solutions but helps us find our bearings. Confusion, from this point of view, is the beginning of understanding, not its failure. You can move without a banister too: slowly, testing each step.",
+      "practice": "Write down one question that is confusing you right now and three different possible answers — without choosing between them.",
+      "quote": null
+    },
+    "fatigue": {
+      "text": "Tiredness and burnout are not weakness but an understandable response to endlessness. Arendt distinguished three kinds of activity: labor, work and action. Labor serves the cycle of life — food, cleaning, earning a living — and never ends: what is made is immediately consumed, and everything starts again. Modern society, for Arendt, has become a “society of laborers,” in which almost everything has been turned into such a cycle. No wonder people get so tired in it. Her distinction helps you ask: besides endless labor, is there anything in my life that is finished and lasting — something that will remain — or an act that begins something new? Sometimes what drains your strength is not the number of tasks but the fact that none of them brings the feeling of “done.”",
+      "practice": "Today, do one small thing that has an end: finish reading a chapter, fix some small thing — and note to yourself the moment of “done.”",
+      "quote": null
+    },
+    "boredom": {
+      "text": "Boredom seems trivial, but Arendt would have seen something revealing in it. She wrote that in a society built around labor and consumption, free time easily turns into emptiness, which is filled with new portions of consumption — and the appetite only grows. Boredom then is a signal that the cycle of “make — consume” does not satisfy. Arendt would remind us of other possibilities: thinking, conversation with oneself, action together with others. Thinking for her is not work for the sake of a result but a free activity, valuable in itself. From this point of view, boredom can become an invitation: not to hurry to fill the pause, but to allow yourself to think about something just for its own sake.",
+      "practice": "Sit for five minutes without your phone and ask yourself a question that is interesting to think about without an answer, for example: “What did I notice for the first time today?”",
+      "quote": null
+    },
+    "joy": {
+      "text": "Joy is a reason to pause and let it be. Arendt especially valued one kind of joy that is rarely talked about: the joy of acting together. In On Revolution she describes “public happiness” — a special feeling people experience when together they discuss, decide and begin something new, when they are seen and heard. It is not a private pleasure or consumption but the joy of taking part in a shared world. Perhaps your present joy also has something of this — a meeting, a conversation, a task in which you were not alone. And if the joy is quiet and personal, Arendt would remind you that it can be shared, and then it becomes part of the world and not only of your inner space.",
+      "practice": "Tell someone what is making you glad right now — in a sentence or two, just so that it is spoken aloud in the world.",
+      "quote": null
+    },
+    "love": {
+      "text": "Love and tenderness are among the strongest experiences, and Arendt devoted her first work to them — a dissertation on the concept of love in Augustine. Later, in The Life of the Mind, she cites Augustine’s formula of love: “I love you: I want you to be.” To love in this sense is not to possess or remake but to want the other to exist as they are. In The Human Condition, Arendt notes something else: love by its nature is “worldless” — it is so focused on one person that everything else seems to vanish. This is not a reproach but a description: love briefly takes us out of the shared world. You can enjoy it, remembering that afterward it usually looks for a way back — into shared affairs, into a home, into the world.",
+      "practice": "Think of someone you love and say to them inwardly: “I want you to be.” Notice what changes in the feeling.",
+      "quote": null
+    },
+    "gratitude": {
+      "text": "Gratitude is a warm feeling, and Arendt found a place for it even in very sober thinking. In the prologue to The Human Condition she writes with concern about modern man’s drive to remake the very conditions of his existence — as if life had not been given to him as a free gift from nowhere, secularly speaking. And in a well-known letter to Gershom Scholem she confessed to a basic gratitude for everything that is as it is — for what has been given and not made by us. This is not a call to put up with injustice: Arendt argued with injustice all her life. It is a recognition that much — the body, the world, encounters, language — came to us without our ordering it. Gratitude is a way of noticing this givenness.",
+      "practice": "Name three things in your life that you didn’t choose or “earn” — they were simply given — and for which you are grateful.",
+      "quote": null
+    },
+    "hope": {
+      "text": "Hope rests on the fact that the future is not yet decided. Arendt gave this an unexpected foundation — “natality.” Every human being, coming into the world, brings into it the possibility of a new beginning, and this capacity to begin stays with us all our lives: in every act, word, decision. That is why human affairs are never fully predictable — something no one expected can always happen. In The Human Condition, Arendt writes that it is precisely the capacity for action that brings into the world faith and hope, which she called the two essential characteristics of human existence. Your hope, from this point of view, is not naivety but sober knowledge about the nature of human beings: they know how to begin anew.",
+      "practice": "Write down one small “beginning” you could make this week — it needn’t be big, only new.",
+      "quote": {
+        "text": "The miracle that saves the world, the realm of human affairs, from its normal, “natural” ruin is ultimately the fact of natality.",
+        "author": "Hannah Arendt",
+        "source": "The Human Condition, “Action”"
+      }
+    },
+    "nostalgia": {
+      "text": "Nostalgia is a longing for what was and will not return in its former shape. Arendt thought a great deal about the past in an era when, in her words, the thread of tradition had been broken. She opens the collection Between Past and Future with a line by the poet René Char about an inheritance without a testament: the past has come down to us without instructions on what to do with it. In her essay on Walter Benjamin she describes a special relationship to the past — like that of a pearl diver, who dives into the depths not to revive what is gone in its entirety but to bring up to the surface individual precious fragments. Nostalgia can be lived the same way: not trying to bring the past back, but carefully retrieving from it what still shines and carrying that into today.",
+      "practice": "Choose one “pearl” from the time you miss — a habit, a word, a taste — and think about how to bring it into your present life.",
+      "quote": {
+        "text": "Our inheritance was left to us by no testament.",
+        "author": "René Char",
+        "source": "quoted by Hannah Arendt in the preface to Between Past and Future"
+      }
+    },
+    "craving": {
+      "text": "A craving — a sharp “I want it right now” — can be so strong that it seems the decision is being made for you. In her last book, The Life of the Mind, Arendt reflected at length on the will and drew on Augustine, who described how the will splits in two — one part of it wills, the other does not, and both are me. Arendt emphasized that such an inner split is not a sign of corruption but a property of the will itself. So a craving is not the whole of you: beside the “I want” another voice is speaking too. Her thought about thinking as a pause helps here as well: to “stop and think” means to interrupt an automatic movement. The wave of craving rises and falls; in that pause you can give the second voice a say, without condemning either of them.",
+      "practice": "When a craving rises, tell yourself: “One part of me wants it, the other doesn’t” — and let both speak, writing down one sentence from each.",
+      "quote": null
+    },
+    "addiction": {
+      "text": "Addiction is a long-standing cycle, and getting out of it is hard not because a person is “weak.” Arendt described a life organized around the cycle of needs, where one satisfaction immediately demands the next: in this cycle there is neither beginning nor end, only repetition. But perhaps the most important thing she can offer here is her thought about forgiveness and promise. Both of these capacities, she wrote, depend on the presence of other people: no one can forgive himself, and no one can really be bound by a promise made only to himself. Many attempts to get out alone are hard not for lack of will but because a promise needs a witness. Hence the value of places where people keep their word together and don’t turn away from one another after a relapse.",
+      "practice": "Think about who could be a witness to your small promise to yourself — someone close, or a mutual-help group where this is understood from the inside. Just name that person or place for yourself.",
+      "quote": null
+    },
+    "hangover": {
+      "text": "The morning after can be hard: your body aches, and anxiety, shame and blanks spin in your head — what did I say, what did I do? Arendt would call one of the main torments here “irreversibility”: what has been done cannot be undone. She considered this the common lot of all people who act, not a special vice. Her answer to irreversibility is forgiveness — but forgiveness, for Arendt, happens between people: you cannot issue it to yourself. That is why endless self-flagellation in the morning fixes nothing. It is more honest to calmly find out what really happened and, if necessary, talk to whoever it concerns. And in the meantime, take care of yourself and pass no verdicts: you are still someone capable of beginning anew.",
+      "practice": "Divide a page into two columns: “what I know for sure about last night” and “what I’m afraid of.” For now, simply set the second one aside.",
+      "quote": null
+    },
+    "euphoria": {
+      "text": "A burst of euphoria — as if everything is possible and the world has flung itself open. Arendt would not want to spoil this: her philosophy is precisely about the world truly being open to the new. The capacity to begin, which she called “natality,” makes the unexpected possible. But she also noted that action is by nature boundless: what has been begun goes out into the world and produces consequences that can be neither predicted nor taken back. That is why people have long set limits to action — laws, promises, boundaries. Euphoria can be lived in this spirit: rejoicing in the feeling of openness, but not rushing to turn every idea into an irreversible step. Let the high be a beginning, and let decisions wait until they can be discussed more calmly — with yourself and with someone you trust.",
+      "practice": "Write the ideas being born right now into a list of “beginnings.” Come back to it in a couple of days and choose one.",
+      "quote": null
+    },
+    "crash": {
+      "text": "The comedown after a high — a celebration, a success, excitement — can be especially bitter: as if you’ve been thrown down from a height. Arendt helps you see a rhythm in this rather than a defeat. She wrote that the life of the body moves in a cycle — exertion and exhaustion, rise and fall; that is how the very “labor” of life is arranged. The fall is part of the cycle, not a verdict on what was at the top. She also spoke of the “frailty of human affairs”: everything that arises between people — a celebration, a shared impulse, a success — cannot last forever on its own. What helps preserve it is not new highs but memory and storytelling. You can treat the comedown like an ebb tide: it doesn’t cancel the flood tide and says nothing about your worth.",
+      "practice": "Write down in three sentences what was good about the high — so that it stays in memory as more than just “and then it got bad.”",
+      "quote": null
+    },
+    "panic": {
+      "text": "Panic is very frightening: a wave of terror, your heart, your breath, the sense that something irreversible is about to happen. Such a wave usually peaks and recedes within a few minutes. Arendt did not write about panic, but she has an idea that unexpectedly helps here. In The Human Condition she notes that the things of the world — a table, a chair, walls — stabilize human life: we constantly change, but by returning to the same table and the same chair we find ourselves again. The world is more durable than our states. When there is a storm inside, you can lean on this durability: the things around you stay in their places; they hold you. You don’t need to defeat the panic — it is enough to hold on to the world while the wave passes.",
+      "practice": "Put your feet on the floor, breathe out slowly — longer than you breathed in — and name five things around you out loud: “table, mug, window…” Touch one of them.",
+      "quote": null
+    },
+    "dread": {
+      "text": "Existential dread — “what’s the point of it all, if everything ends” — is one of the hardest experiences, and there is nothing shameful in it. Arendt grew up in a philosophy where finitude was the central theme: her teacher Heidegger described the human being through “being-toward-death.” But Arendt deliberately shifted the emphasis. She wrote that human beings, though they must die, are not born in order to die but in order to begin. What became central for her was not mortality but “natality” — the capacity to bring something new into the world. This shift does not cancel finitude, but it changes the direction of your gaze: meaning doesn’t have to be derived from the abyss; it is created by beginnings, deeds, connections with others. The answer to such a question is not built alone or in a single night.",
+      "practice": "Recall one “beginning” in your life that changed something — a meeting, a decision, a first step. Write it down as a partial answer to the question “what for?”",
+      "quote": null
+    },
+    "fomo": {
+      "text": "The fear of missing out is the feeling that life is happening somewhere else, where other people are. Arendt would explain much of this through the difference between “the social” and a genuinely shared world. “Society” in her language is a space where everyone behaves alike, compares themselves with the norm and is afraid of falling behind. A genuinely shared world is a “space of appearance,” where a person shows themselves to others as a unique “who” through their words and deeds. The social media feed more often resembles the first: it offers a standard of the “interesting life” that no one actually matches. From this point of view, you are missing nothing where all that is required is conformity. What matters more is this: where can you yourself appear — say something, do something, begin something with the people around you?",
+      "practice": "Ask yourself: “If no one ever saw it, would I want to be there?” Write down your honest answer.",
+      "quote": null
+    },
+    "sleepless": {
+      "text": "Insomnia with three-in-the-morning thoughts is exhausting: your mind spins and there are no answers. Arendt thought a great deal about what thinking is, and her observation is comforting here. Thinking, she wrote in The Life of the Mind, does not produce results the way a craft does: it is like Penelope’s web, undoing every morning what it had finished the night before. That is, night thoughts don’t have to arrive at a decision — and when they don’t, it isn’t your fault. Besides, thinking for her is a dialogue with oneself, the “two-in-one.” At night this dialogue often turns into an interrogation. You can gently give it back a friendly tone: I don’t have to solve everything now; we’ll talk about this in the morning, in daylight and among other people.",
+      "practice": "Write the spinning thought on a slip of paper by your bed with the words “I’ll think about it in the morning,” and let it wait there.",
+      "quote": null
+    },
+    "betrayal": {
+      "text": "Betrayal wounds especially deeply because it destroys what you were relying on. Arendt would explain exactly what that was: a promise. In her understanding, the promise is the chief way people create a little reliability in an unpredictable world. A broken promise is not a trifle but a blow to the very foundation of life together, and your pain is proportionate to that. Arendt also spoke of forgiveness — as the capacity to release both yourself and the other from an endless chain of consequences. But forgiveness for her is a free act, a new beginning, not a debt that can be demanded. You can first simply acknowledge the scale of what was broken and give yourself time. Forgiveness, if it comes, will be your own beginning, not someone else’s demand.",
+      "practice": "Put into words exactly which promise — spoken aloud or silent — was broken. One precise sentence helps you see the wound more clearly.",
+      "quote": null
+    },
+    "jealousy": {
+      "text": "Jealousy is a mixture of love, fear of loss and pain. Arendt did not write about jealousy specifically, but from the standpoint of her thought something can be said. Recall the formula of Augustine that she cites: “I love you: I want you to be.” There is no “I want you to be mine” in it. Jealousy, though, often asks for guarantees and possession, while Arendt insisted that another person always remains a unique “who” who cannot be appropriated or fully predicted. This unpredictability is frightening, but it is also what keeps love alive. People respond to it not with control but with promises — free and mutual. You can listen to jealousy as a question: what would I like to come to an agreement about with the person I love?",
+      "practice": "Ask yourself: what am I afraid of losing right now? And is there a promise that could be calmly talked about?",
+      "quote": null
+    },
+    "resentment": {
+      "text": "A long-held grievance is like a weight you carry with you for years. Arendt explained why this happens: what has been done is irreversible, and without some kind of release we remain chained to a single deed — our own or someone else’s. Forgiveness, in her words, is the only reaction that does not merely re-act to an injury, repeating it, but begins something new and unexpected, freeing both the one who forgives and the one who is forgiven. Importantly, Arendt saw forgiveness as a free act, not an obligation. You may not forgive for now — and still notice that the grievance keeps you in the past, and ask yourself whether you would like to be free someday. That question alone already loosens the chain a little.",
+      "practice": "Write: “If this grievance ever let me go, I would …” — and finish the sentence. You don’t have to forgive in order to do this.",
+      "quote": {
+        "text": "The possible redemption from the predicament of irreversibility — of being unable to undo what one has done though one did not, and could not, have known what he was doing — is the faculty of forgiving.",
+        "author": "Hannah Arendt",
+        "source": "The Human Condition, “Action”"
+      }
+    },
+    "heartbreak": {
+      "text": "A broken heart is one of the sharpest pains, and it should not be rushed. Arendt observed that love, while it lasts, is “worldless”: it gathers the whole world into one person, and between two lovers everything else disappears. That is why after a breakup it feels as if the whole world has collapsed — it really was concentrated in a single point. Her thought suggests a way back: the world is still there — shared affairs, friends, places, things — and gradually it becomes visible again. Arendt also believed in the power of storytelling: the story of a relationship, told to someone, over time turns from an open wound into a part of your life. Not right away — but it happens.",
+      "practice": "Name one place, activity or person from the “wider world” you haven’t noticed in a long time, and take a small step toward them.",
+      "quote": null
+    },
+    "impostor": {
+      "text": "Impostor syndrome is the feeling that you are about to be exposed and it will turn out you are not who people take you for. Arendt has an unexpected thought about this. In The Human Condition she writes that “who” a person is shows itself in their words and deeds and is clearly visible to others, yet hidden from the person themselves — like the daimon of Greek belief, which accompanies a person over their shoulder and is visible to everyone except them. So your own judgment of yourself is not the most reliable source. People who value you see what is hard to make out from the inside. Self-doubt is natural, but it doesn’t prove you are a fraud: perhaps others simply see your “daimon” better than you do.",
+      "practice": "Recall what exactly someone who knows your work well said about you. Write down their words and treat them as testimony, not as a mistake.",
+      "quote": null
+    },
+    "self_hatred": {
+      "text": "Self-hatred and the inner critic cause real pain, and Arendt gave us a language to talk about it. Thinking, in her view, is a silent dialogue, the “two-in-one”: I talk with myself. Drawing on Socrates, she held that the main condition for living with yourself is to be at peace with this inner partner, to be its friend: after all, you can never get away from yourself. The inner critic is a partner who has turned into a prosecutor. Its voice is loud, but it is not the voice of truth or a final verdict. You can disagree with it and gradually give your inner partner back the role of a friend — someone who asks questions rather than passes sentence. You deserve such a companion.",
+      "practice": "Write down one of your inner critic’s phrases, and beneath it, how a kind friend who knows you well would answer it.",
+      "quote": null
+    },
+    "helplessness": {
+      "text": "Helplessness — the feeling that nothing depends on you — is draining, and it is understandable. Arendt offered an important distinction: strength belongs to an individual, but power arises only between people, when they act together. That is why a person left alone almost always feels powerless — and this is not a personal shortcoming but a feature of the situation she called isolation. An isolated person cannot act, but that does not mean action is impossible altogether. From this point of view, powerlessness says not “I am worthless” but “I am alone with this.” Even a small joining together — a conversation, a shared request, a joint step — changes the balance: where two people have come to an agreement, a little power appears.",
+      "practice": "Think: with whom could you share even a small part of what feels impossible to lift? Name one person.",
+      "quote": null
+    },
+    "procrastination": {
+      "text": "“I can’t get started” is a familiar and painful state. Arendt considered the capacity to begin the deepest feature of the human being and often recalled Augustine’s words: “That a beginning be made, man was created.” But she also understood why beginning is hard: a beginning is a step into the unknown, its consequences cannot be predicted, and it is easy to freeze on the threshold. From this point of view, procrastination is not laziness but a collision with the weight of beginning. It helps to shrink its scale: a beginning doesn’t have to be grand. Any small action — the first line, the first phone call — already brings something new into the world, and after that the task gradually begins to sustain itself.",
+      "practice": "Choose the smallest possible beginning — one line, one email, five minutes — and do it without thinking about what comes next.",
+      "quote": null
+    },
+    "uprooted": {
+      "text": "Arendt knew being cut off from home from the inside: in 1933 she fled Germany, lived for years as a refugee in France, then moved to the United States. In the essay “We Refugees” she described this loss: the home is lost, and with it the familiarity of daily life; the occupation is lost; the language is lost, in which reactions were natural. With bitter irony she also wrote about refugees’ attempts to become “like everyone else” as quickly as possible. But many years later, asked what remained of her former life, she said: the mother tongue remains. Some roots travel with us — language, memory, friendships, a way of thinking. The loss is real, and it can be mourned; but you have not been left entirely without ground.",
+      "practice": "List five things you have invisibly “brought” with you: words, songs, habits, people you stay in touch with.",
+      "quote": {
+        "text": "What remains? The language remains.",
+        "author": "Hannah Arendt",
+        "source": "interview with Günter Gaus (1964)"
+      }
+    },
+    "overload": {
+      "text": "Overload from the endless feed and informational noise is exhausting, and it is not about your weakness. Arendt believed that thinking requires a special step — a withdrawal from the world of appearances, from the continuous flow of impressions. She called it “stop and think.” Thinking, in her words, is always somewhat “out of order”: it interrupts ordinary activities. When the flow is never interrupted, there is no room left for the inner dialogue, and we merely react. Arendt also distinguished one’s own judgment, formed in conversation with oneself and with others, from a collection of other people’s ready-made opinions. Overload is a signal that the mind needs a pause — not as a luxury but as a condition for being yourself again.",
+      "practice": "Close the feed and ask yourself: “What of everything I saw today do I really want to think about?” Choose one thing and think about it for five minutes.",
+      "quote": null
+    },
+    "unreality": {
+      "text": "The feeling that everything is somehow not real is frightening and disorienting, and it deserves to be talked about gently. Arendt has an idea about where our confidence in reality comes from in the first place. In The Human Condition she writes that the reality of the world and of ourselves is assured by the presence of others — by the fact that others see what we see and hear what we hear. The shared sense of reality — “common sense” in the old meaning of the word — takes shape between people, and in loneliness, she noted, it can weaken. From this point of view, a feeling of unreality doesn’t necessarily mean something is “wrong” with you; sometimes what helps is a simple return to the shared world — a voice, a glance, a task done together.",
+      "practice": "Describe to someone — out loud or in a message — what you see around you right now, and ask them to reply. Notice how the world “meets” between you.",
+      "quote": null
+    },
+    "awe": {
+      "text": "Awe before something vast or beautiful is a rare and valuable feeling. Following Plato, Arendt held that philosophy begins with wonder — in Greek, thaumazein: amazement that anything exists at all. In The Life of the Mind she describes it as admiring wonder, out of which thinking grows. She also greatly valued the durability of the world: works of art, in her view, are the most “worldly” of things; they outlast generations and allow mortal people to encounter something permanent. Perhaps your awe is just such an encounter with something greater and more lasting than you. It doesn’t need explaining; it is enough to let it last and perhaps become the beginning of a thought.",
+      "practice": "Stay with this feeling for one more minute and write down one question it raises in you.",
+      "quote": null
+    },
+    "relief": {
+      "text": "Relief — as if what was holding you has let go. Arendt described something similar when she spoke of forgiveness: it releases us from the consequences of what was done and allows us to begin anew. In general, her philosophy is largely about such releases: irreversibility and unpredictability are hard conditions of human life, but people have ways of living with them. Relief may be a sign that one of these releases has happened: an uncertainty has been resolved, someone has kept their word, you have forgiven or been forgiven. This is worth noticing. There is no need to immediately look for the next worry to fill the space that has opened up. Let yourself simply stay in the moment when the chain of anxiety has broken and you can go on living.",
+      "practice": "Take a slow exhale and name what exactly has let you go. You can say it out loud: “That’s over.”",
+      "quote": null
+    },
+    "calm": {
+      "text": "Calm, peace — a time when you can be with yourself without hurrying. Arendt valued this state highly and called it solitude. Unlike loneliness, in solitude a person is not deserted: they are in the good company of themselves, and a quiet conversation goes on between them and themselves. It is here, for Arendt, that thinking is born. She ends The Human Condition with Cato’s words, as reported by Cicero: never is a man more active than when he does nothing, never is he less alone than when he is by himself. Your calm, from this point of view, is neither emptiness nor idleness but a special kind of activity: being present with yourself.",
+      "practice": "Sit for a few minutes in silence and ask yourself, as you would a friend: “What would you like to think about?” You don’t have to answer.",
+      "quote": null
+    },
+    "inspiration": {
+      "text": "Inspiration is the joyful feeling that something new is being born inside you. Arendt would see in it an expression of that very capacity to begin which she placed at the center of human life — “natality.” She also has a distinction that helps you understand where inspiration can lead. Work (fabrication) is the making of durable things: books, paintings, houses that remain in the world after us. Action is deeds and words among people that reveal “who” you are. Inspiration can find an outlet in either. Its value is that it brings into the world something that was not there before. You don’t need to know in advance how it will all end: a beginning, for Arendt, is never predictable anyway.",
+      "practice": "Write down what is inspiring you right now in the form of a first step: what can you do today so that the idea appears in the world?",
+      "quote": null
+    },
+    "schadenfreude": {
+      "text": "Schadenfreude — secret pleasure at someone else’s failure — is familiar to almost everyone, though it is rarely spoken of aloud. Hannah Arendt, drawing on Kant, thought a great deal about judgment — about how we assess what we see. She noticed an important criterion: genuine judgment is “communicable”; it can be voiced before others and can ask for their agreement. This requires an “enlarged mentality” — the ability to put yourself in other people’s places in thought. From Arendt’s point of view, one could say that schadenfreude is a pleasure that does not stand up well to this test: it is hard to share openly, especially with the person who failed. This is no reason to condemn yourself — the feeling itself arises involuntarily. But it hints that for now you are looking only from your own place. A step toward the other person takes nothing away from you.",
+      "practice": "Imagine telling the person who failed about this failure. What feeling remains when you look at it through their eyes?",
+      "quote": null
+    },
+    "contempt": {
+      "text": "Contempt arises when a person seems unworthy, foolish or pathetic. Hannah Arendt distinguished between the “what” and the “who” of a person. The “what” is a set of qualities: profession, mistakes, flaws, social role. The “who” is the unique person who is revealed in words and deeds and can never be reduced to a list of properties. Contempt, from this point of view, sees only the “what” — and confuses an act with the whole person. Arendt did not, however, call on us to give up judgment: she insisted that acts must be judged, and she herself judged harshly. But judgment concerns deeds; it does not cancel the person. This distinction helps: you can clearly reject what someone has done without turning them into something worthy only of contempt. That way you keep both your assessment and your own openness.",
+      "practice": "Separate: “What exactly they did that I don’t accept” and “What I know about them as a person, apart from that.”",
+      "quote": null
+    },
+    "disgust": {
+      "text": "Disgust is an instant, almost bodily reaction: “no, yuck.” In her lectures on Kant’s political philosophy, Hannah Arendt drew attention to something unexpected: Kant modeled the faculty of judgment on taste — the most personal of the senses, which immediately says “it pleases me” or “it doesn’t.” But judgment differs from mere taste in that reflection takes part in it: we step back, imagine other people’s points of view and ask whether they would share our reaction. From Arendt’s point of view, one could say that disgust is raw material, a first “I don’t like this,” and it is legitimate. But it can be turned into judgment if you ask: what exactly repels me, and how would someone else see it? Sometimes disgust is confirmed, sometimes it softens — and both are honest.",
+      "practice": "Write down what disgusts you. Then ask: “How would a calm, well-meaning observer describe this?”",
+      "quote": null
+    },
+    "revenge": {
+      "text": "The wish for revenge is a very human reaction to harm done to you. In The Human Condition, Hannah Arendt wrote about the place of vengeance among human actions. She called vengeance the natural, automatic reaction to a trespass — predictable, almost inevitable. The problem with revenge, for Arendt, is that it continues the chain: every response provokes a new response, and the participants end up bound to the original deed. She considered the opposite of vengeance to be forgiveness — the only action that does not merely react but begins something new, freeing the one who forgives as well. Arendt did not demand that everything be forgiven: she believed some deeds are unforgivable, and she granted punishment its place. But from her point of view it is important to see that revenge keeps you in the past. You have other answers too.",
+      "practice": "Write: “If I respond with revenge, then …” and “If I respond differently — for example, by protecting myself, refusing, making a fair demand — then …” Just compare.",
+      "quote": null
+    },
+    "anger_at_loved": {
+      "text": "Anger at the people closest to you — a partner, parents, children — may arise precisely because they are so close. Hannah Arendt wrote that between people there needs to be a “world” — a shared space that both connects and separates them, like a table people sit around. Love, as she observed, destroys this in-between: in closeness no gap remains. That is why clashes in close relationships are so sharp — there is no space where the tension could dissipate. From Arendt’s point of view, one could say that anger at loved ones does not cancel love but speaks of a lack of this “in-between.” Arendt valued respect — an almost friendly distance that lets you see the other as a separate person. Sometimes restoring a little space — stepping out, keeping quiet, talking later — means protecting both yourself and the relationship.",
+      "practice": "When anger rises, try to give it a “table” between you: say “I need five minutes” and step away before you speak.",
+      "quote": null
+    },
+    "ambivalence": {
+      "text": "Loving someone and at the same time being unable to stand them is an inner argument that is hard to bear. Hannah Arendt described thinking as a “dialogue of the two-in-one”: inside each of us there is a partner with whom we argue, agree, doubt. She considered this inner dialogue not a weakness but a condition of thinking and conscience. From her point of view, one could say that mixed feelings are also an inner conversation in which several voices are heard. There is no need to force one of them to be silent. Arendt also distinguished between the “what” and the “who” of a person: you may be unable to stand some of the “what” — traits, habits, deeds — and still love the “who,” the unique person. Mixed feelings are a sign that you see a person not in a simplified way but in all their complexity.",
+      "practice": "Give both voices a say: write a short dialogue between “the one who loves” and “the one who finds it hard.” Let each say one sentence.",
+      "quote": null
+    },
+    "guilty_relief": {
+      "text": "Relief after a breakup, a departure or the death of a seriously ill loved one is often accompanied by shame. In The Human Condition, Hannah Arendt wrote about “labor” — the endless, repetitive work of sustaining life: feeding, cleaning, caring. This labor never ends and leaves no visible result; it consumes strength the way biological necessity itself does. Caring for someone who is ill, or living through a drawn-out hard situation, is exactly this kind of labor, sometimes for years. From Arendt’s point of view, one could say that relief is a natural response to an endless cycle finally being broken. It does not cancel love: love and exhaustion existed side by side all that time. Arendt also spoke of the inner dialogue with oneself. In it you can honestly admit both feelings without choosing between them.",
+      "practice": "Write yourself two sentences: “I am very tired of …” and “I loved and I love …” Read them together.",
+      "quote": null
+    },
+    "indifference": {
+      "text": "Sometimes, where something “should” move you, it is quiet inside — and anxiety joins in: is this callousness? Hannah Arendt was skeptical of the demand for the “right” feelings. In On Revolution she showed how the demand for visible compassion and sincerity of feeling can turn into suspicion and a hunt for “hypocrites.” What mattered more to her was not what a person feels but how they think, judge and act. Solidarity, for Arendt, is a principle that guides actions, not an emotion you have to summon up in yourself. From her point of view, one could say that the absence of strong feeling does not make you a bad person. You can honestly admit, “Right now I don’t feel much,” and still think, judge and act as you believe is right.",
+      "practice": "Ask yourself not “What should I be feeling?” but “What do I think is right to do or think here?” Write down one thought.",
+      "quote": null
+    },
+    "escape": {
+      "text": "The wish to drop everything — your job, your city, your role — is familiar to those who are tired of monotony. In her essay on Lessing, Hannah Arendt called freedom of movement — the possibility of leaving and starting anew — historically the oldest and most elementary of freedoms. She herself was more than once forced to leave and start over in another country and another language. Her central concept is “natality”: every person’s capacity to begin something new, because each of us is born as a new beginning. From Arendt’s point of view, one could say that the wish to escape is the voice of this capacity to begin. It doesn’t necessarily mean you need to leave. Sometimes something new can be begun in the same place. But the impulse itself speaks of something important: you are not reducible to the role you have ended up in.",
+      "practice": "Complete: “If I could begin something new without leaving, it would be …” Write down at least one small idea.",
+      "quote": null
+    },
+    "forbidden_attraction": {
+      "text": "Attraction to someone who is unavailable or “wrong” can be strong and tormenting. Hannah Arendt devoted her dissertation to the concept of love in Augustine. She examined his idea of love as desire (Latin appetitus) — a striving toward a good we do not have. Such desire, as she read Augustine, is always accompanied by fear: we are afraid of not attaining what we desire, or of losing it. Arendt showed that desire is defined by its object — it pulls us out of ourselves toward what appears to be a good. From her point of view, one could say that forbidden attraction tells you what good seems necessary to you right now. It is neither a verdict nor a command. You can look at the desire itself with curiosity: what is it really calling you toward, and what good is missing from your life?",
+      "practice": "Ask yourself: “What good do I see in this attraction — attention, aliveness, understanding, freedom?” Write down one word.",
+      "quote": null
+    },
+    "social_anxiety": {
+      "text": "Fear of people and their judgment can be paralyzing. Hannah Arendt wrote that stepping out of private life into a space where others see you takes courage — she called courage the political virtue par excellence. She also spoke of the “space of appearance”: there, among people, “who” you are is disclosed. And here is what matters: this “who” is more visible to others than to yourself. Arendt compared it to the Greek image of the “daimon” that sits over a person’s shoulder and is visible to everyone but them. From her point of view, one could say that it is impossible to fully control the impression you make on others — and unnecessary. This is freeing: your task is not to look flawless but to appear and speak. The rest, as Arendt believed, is the shared business of everyone who sees you.",
+      "practice": "Before a meeting, tell yourself: “I don’t need to manage how I’m seen. It’s enough to show up and say one thought of my own.”",
+      "quote": null
+    },
+    "uncertainty": {
+      "text": "Uncertainty is unsettling: you don’t know what will happen, and you can’t prepare. Hannah Arendt considered unpredictability an ineradicable part of human life. Every action sets off a chain of consequences that cannot be fully foreseen, because we live among other free people, and each of them acts too. But Arendt also has an answer. She wrote that the remedy for unpredictability is the capacity to make and keep promises. A promise doesn’t make the future known, but it creates “islands of certainty” within it. From this point of view, one could say that uncertainty doesn’t mean there is nothing to lean on. You can lean on what you yourself can promise to yourself and others — however small. These islands won’t cancel the unknown, but they will give you solid ground under your feet.",
+      "practice": "Make yourself one small promise for this week that you can definitely keep. Write it down as an island of certainty.",
+      "quote": {
+        "text": "The remedy for unpredictability, for the chaotic uncertainty of the future, is contained in the faculty to make and keep promises.",
+        "author": "Hannah Arendt",
+        "source": "The Human Condition, “Action”"
+      }
+    },
+    "waiting": {
+      "text": "Waiting — for an answer, results, news — seems to suspend you between past and future. Hannah Arendt called one of her collections Between Past and Future. In the preface she examines Kafka’s parable of a man pressed by the past from one side and by the future from the other, standing in the gap between them. Arendt believed that it is precisely in this gap, in the present, that thinking lives. From her point of view, one could say that waiting is agonizing when we want to leap over the gap as quickly as possible. But this in-between time is not emptiness: in it you can think, reflect, prepare. Arendt did not promise that waiting would become easy. She showed that the present, even an anxious one, is the place where a person is able to think and remain themselves.",
+      "practice": "While you wait, write down one thought that came to you precisely during this period of waiting and wouldn’t have otherwise.",
+      "quote": null
+    },
+    "regret": {
+      "text": "Regret over what you did or didn’t do can return again and again. Hannah Arendt wrote about the “irreversibility” of action: what has been done cannot be undone, even if we did not and could not know what it would lead to. This is one of the hardest conditions of human life. But Arendt also pointed to the way out that human beings have — forgiveness. We can forgive others and accept forgiveness — and this frees us from the burden of the past, giving us the chance to begin again. Arendt also valued storytelling: the meaning of an act often reveals itself later, in the story that can be told about it. From her point of view, one could say that regret does not have to become a lifelong sentence. The past is irreversible, but the capacity to begin something new, according to Arendt, is given to every human being at birth.",
+      "practice": "Tell yourself this story in writing the way you would tell it about someone dear to you: with an understanding of what they didn’t know at the time.",
+      "quote": null
+    },
+    "longing": {
+      "text": "Longing for a particular person is pain for someone irreplaceable. Hannah Arendt insisted that every person is unique: the world is inhabited by people, not by “Man” in general. In her essay on Lessing she wrote that friendship creates a special shared world between people, which exists only as long as they are together. From her point of view, one could say that you long not only for the person but also for this shared world — the conversations, jokes and glances that were possible only with them. That is why no one else can fill this place. Arendt believed that memory and storytelling preserve such a world. By telling about the person, you hold on to what was between you. Longing is an acknowledgment that this person opened up a world for you that no one else did.",
+      "practice": "Write down one story or joke that existed only between the two of you. Keep it — it is part of your shared world.",
+      "quote": null
+    },
+    "world_pain": {
+      "text": "Pain for the world — from wars, injustice, grim news — can feel unbearable. Hannah Arendt knew dark times from the inside: she fled Nazism, was held in an internment camp, lived for years without citizenship. Her book Men in Dark Times is about those who kept their humanity when all around was bleak. Arendt valued the effort to understand: not to forgive or justify, but to understand how such things are possible — so as not to be left with horror alone. She also distinguished pity, which can be devastating, from solidarity — a principle that unites people for a common cause. From her point of view, one could say that you don’t have to contain all the pain of the world, but you can keep your own small light — understanding, a deed, a connection with people.",
+      "practice": "Choose one person or one cause with whom you can show solidarity this week. Write down what it will be.",
+      "quote": {
+        "text": "Even in the darkest of times we have the right to expect some illumination.",
+        "author": "Hannah Arendt",
+        "source": "Men in Dark Times, preface"
+      }
+    },
+    "rejection": {
+      "text": "Rejection hurts: you weren’t accepted, weren’t chosen, weren’t wanted. Hannah Arendt knew what it means to be an outsider: a refugee stripped of citizenship, for years she was “superfluous” to states and societies. She wrote about the “conscious pariah” — a person who, not being accepted, does not try at any cost to become an insider, but keeps the freedom of their own view. Arendt also valued “solitude” — the ability to be alone with yourself in conversation, as opposed to “loneliness,” when a person is lost even to themselves. From her point of view, one could say that rejection by one group or one person does not take away your ability to be your own companion and to appear among other people. “Who” you are, for Arendt, is not determined by whether you were accepted in a particular place.",
+      "practice": "Spend five minutes alone with yourself — take a walk or sit in silence — and ask: “What do I myself think of myself right now?”",
+      "quote": null
+    },
+    "abandonment": {
+      "text": "The fear of being abandoned is the fear of losing your footing in other people. In The Origins of Totalitarianism, Hannah Arendt described loneliness as the experience of “not belonging to the world at all” — one of the most painful human experiences. That is why the fear of being left alone is so strong: it concerns not only a particular person but your sense of your place in the world. Arendt also has an idea about how people create support for one another: through promises and mutual faithfulness. She acknowledged that another person is free and unpredictable — that is the price we pay for living among free people. But promises create islands of reliability. From her point of view, one could say that the fear of abandonment is not cured by complete control over another. Support comes from many connections — and from the promises we give and receive.",
+      "practice": "Recall one promise someone made to you and kept. Write it down — it is evidence that reliability has already existed in your life.",
+      "quote": null
+    },
+    "unrequited": {
+      "text": "Unrequited love wounds painfully. Hannah Arendt wrote a book about Rahel Varnhagen — a Berlin salon hostess at the turn of the 19th century who lived through several painful love affairs, including a broken engagement. Arendt showed how Rahel retreated into introspection — endless self-analysis in which the world and other people disappear and only one’s own feelings remain. Arendt considered this a trap: when the soul closes in on itself, it loses the world. Rahel’s way, for Arendt, lay in returning to reality, to people, to her own history. From her point of view, one could say that unrequited love easily turns into an endless conversation with yourself about the other person. The pain is legitimate. But the world is still here, and in it there are people ready to see you.",
+      "practice": "Do one thing today that brings you back into the world: a meeting, a walk, a conversation about something else. Notice what has changed.",
+      "quote": null
+    },
+    "humiliation": {
+      "text": "Humiliation wounds your dignity, as if you have been denied the right to be an equal. Hannah Arendt wrote about people stripped of citizenship after the First World War and formulated the idea of “the right to have rights”: human dignity turns out to be vulnerable if a person is not recognized as a member of the shared world. She emphasized that equality is not a given of nature but something people create among themselves when they recognize one another. From her point of view, one could say that humiliation speaks of a violation of this recognition, not of your worth. Arendt also said: if you are attacked for who you are, you must defend yourself as who you are. That means not agreeing with the humiliating image and keeping your “who” in your own eyes.",
+      "practice": "Write: “I was treated as if I were … But I am …” In the second part, name what is true about you.",
+      "quote": null
+    },
+    "body_shame": {
+      "text": "Dissatisfaction with your body is often tied to how we look in other people’s eyes. In The Life of the Mind, Hannah Arendt wrote about “appearance”: everything alive has an urge to show itself, to appear — and this is not a flaw but the very nature of the living. She drew on the biologist Adolf Portmann, who noticed that the shapes and colors of many animals serve not only survival but self-display. The world is arranged like a stage on which every living thing appears in its own unique form. From Arendt’s point of view, one could say that the body is your way of appearing to the world, and there is no “correct” shape for that. Moreover, “who” you are, for Arendt, is disclosed above all in words and deeds. The body is your presence in the world, not a scorecard.",
+      "practice": "Think about how you could appear to the world today through one of your actions or words rather than your looks. Do it.",
+      "quote": null
+    },
+    "illness": {
+      "text": "Illness — when the body lets you down — makes life narrower and harder. In The Human Condition, Hannah Arendt wrote that great bodily pain is the most intense feeling we know and at the same time the most private, almost incommunicable. Pain seems to cut a person off from the shared world: it is hard to show, and others cannot feel it for you. From Arendt’s point of view, one could say that illness threatens not only the body but also your connection with the world. That is why it matters so much that you keep the possibility of speaking and being heard. Arendt valued storytelling: by turning experience into a story, a person brings it back into the shared world. You don’t have to explain your pain fully, but you can share at least part of it — and so the illness becomes less lonely.",
+      "practice": "Describe to one person, or on paper, how your day with the illness went — without complaining or embellishing, just telling it.",
+      "quote": null
+    },
+    "pride": {
+      "text": "Pride in what you have done is a healthy feeling that doesn’t need hiding. In The Human Condition, Hannah Arendt distinguished “labor,” “work” and “action.” “Work” is the making of things that outlast us and make the world stable: a table, a book, a house. Work has a beginning and an end, and its result can be shown to others. Arendt wrote that homo faber — man the maker — sees the fruit of his effort and has the right to be proud of it. And in “action,” who you are is disclosed. From her point of view, one could say that healthy pride is the joy of having left something in the world that wasn’t there before. It is not superiority over others but participation in the shared world. Such a feeling can be shared — by showing people what you have made.",
+      "practice": "Show what you are proud of to one person who might find it interesting. Or at least describe how you did it.",
+      "quote": null
+    },
+    "melancholy": {
+      "text": "Bright sadness is a quiet feeling in which sorrow and tenderness toward the past are intertwined. In Men in Dark Times, Hannah Arendt wrote an essay about her friend, the philosopher Walter Benjamin, and recalled that he spoke of himself as born “under the sign of Saturn” — the traditional planet of melancholy. Arendt compared Benjamin to a “pearl diver”: he dove into the depths of the past and brought up to the surface individual precious fragments so that they could shine again. From her point of view, one could say that melancholy can be not decline but a special form of attention — to what passes, to the beauty of what has been lost. It needs neither treatment nor banishing. Bright sadness lets you see the “pearls” of your past — and carry them into the present.",
+      "practice": "Recall one “pearl” — a small moment from the past that still shines. Write it down in a few words.",
+      "quote": null
+    }
+  }
+}

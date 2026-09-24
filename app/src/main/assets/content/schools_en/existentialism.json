@@ -1,0 +1,393 @@
+{
+  "id": "existentialism",
+  "title": "Sartre and Beauvoir",
+  "tradition": "Existentialism",
+  "family": "phenomenology_existential",
+  "period": "20th century",
+  "sortYear": 1943,
+  "thinkers": [
+    "Jean-Paul Sartre",
+    "Simone de Beauvoir"
+  ],
+  "keyWorks": [
+    "Sketch for a Theory of the Emotions (1939)",
+    "Being and Nothingness (1943)",
+    "Existentialism Is a Humanism (1946)",
+    "The Ethics of Ambiguity (1947)",
+    "The Second Sex (1949)"
+  ],
+  "summary": "Existentialism holds that a human being has no predetermined “essence”: “existence precedes essence,” and we become ourselves through our own choices. Sartre emphasized radical freedom and responsibility; Simone de Beauvoir stressed that freedom is always embodied in a concrete situation and cannot be separated from the freedom of other people.",
+  "onEmotions": "In his Sketch for a Theory of the Emotions, Sartre described emotion as a “magical” transformation of the world: when the path of action is blocked, consciousness changes the very way it perceives the situation. For Sartre, an emotion is not something that simply “happens” to us but a way of relating to the world in which we take part. This doesn’t mean a feeling can be switched off by willpower — it means we have freedom in how we live with it. Beauvoir added that feelings are always embedded in a situation — the body, history, relationships — and reflect the “ambiguity” of human existence: we are free and limited at the same time.",
+  "entries": {
+    "anxiety": {
+      "text": "Anxiety is familiar to anyone who stands before a choice, and there is nothing shameful in it. Sartre distinguished fear — of an external threat — from anguish, or anxiety (angoisse): the feeling that arises when we become aware of our own freedom. No one and nothing will decide for you, no instruction manual guarantees the right path, and that can make your head spin. Sartre believed this anxiety is not an illness but a sign that you take your life seriously. Many people hide from it in “bad faith” (mauvaise foi) — the self-deception that there is no choice and everything has been decided for them. From this point of view, your anxiety is a form of honesty: you see that the future is open. You don’t need to decide everything at once; it is enough to make the next small choice.",
+      "practice": "What one small choice is waiting for you today? Write it down separately from all the big questions looming behind it.",
+      "quote": {
+        "text": "Man is condemned to be free.",
+        "author": "Jean-Paul Sartre",
+        "source": "Existentialism Is a Humanism (1946)"
+      }
+    },
+    "fear": {
+      "text": "Fear is a natural reaction, and Sartre by no means thought it shameful. In his Sketch for a Theory of the Emotions he described, for example, fainting from fear as “magical” behavior: when we cannot deal with a threat through action, consciousness tries, as it were, to abolish it by cancelling perception itself. This isn’t foolishness but an attempt at protection. Sartre suggested seeing an emotion not as a breakdown but as a way we answer the world. From this angle you can ask: what is this fear trying to do for me? And what actions, however small, are still open to me? Beauvoir would add that fear is always embedded in a situation: sometimes it accurately reflects a real vulnerability in your position — and that is not your personal weakness.",
+      "practice": "Ask yourself: “What is this fear trying to do for me?” And then: “What one small action is available to me right now?”",
+      "quote": null
+    },
+    "sadness": {
+      "text": "Sadness is a legitimate part of life. In his Sketch for a Theory of the Emotions, Sartre described passive sadness like this: when the world demands too much of us, consciousness seems to “dim” it, making everything gray and unimportant — so as to lift an unbearable task from our shoulders for a while. This isn’t pretense but a way of getting through a situation in which action seems impossible. From this point of view, sadness is not your failure but a response to a world that is too heavy right now. Beauvoir would remind you of human “ambiguity”: we are free and limited at once, we act and we undergo. Sadness is a moment when the second side is felt more strongly. You can live through it without giving up the first: your freedom hasn’t gone anywhere; it is simply waiting.",
+      "practice": "Ask yourself: “What task is my sadness giving me a break from right now?” Don’t change anything — just name it.",
+      "quote": null
+    },
+    "grief": {
+      "text": "Grief is one of the heaviest forms of human experience. Simone de Beauvoir wrote about it very personally in A Very Easy Death (1964), the book about her mother’s illness and death. She showed that no philosophy makes a loss “reasonable”: the death of someone close is felt as an intrusion and an injustice, even if from the outside it looks “natural.” This matters for existentialism: grief doesn’t need to be justified or explained. Beauvoir also showed that our relationships with others become part of who we are — so a loss changes us too. To accept grief means allowing yourself not to search for meaning in it right away. In time you will find your own way to carry this memory — and that will be your way of keeping the bond.",
+      "practice": "If you feel like it, write one sentence addressed to the person you have lost. Not for an answer — simply so the bond has a voice.",
+      "quote": null
+    },
+    "loneliness": {
+      "text": "Loneliness hurts, and existentialism doesn’t deny it. Sartre believed that in a certain sense everyone is alone before their own freedom: no one can choose for you. He spoke of “abandonment” — we have no ready-made answers handed down from above. But in The Ethics of Ambiguity Beauvoir stressed the other side: my freedom needs the freedom of others. The meanings worth living for are created together, not alone; a person locked inside themselves cannot be truly free. From this point of view, loneliness is not proof that you aren’t needed but an experience of how deeply you are a creature of connection. You can acknowledge this existential solitude — and still look for people with whom your freedom meets theirs.",
+      "practice": "Think of a person around whom you feel freer. What exactly do they do — or not do?",
+      "quote": {
+        "text": "To will oneself free is also to will others free.",
+        "author": "Simone de Beauvoir",
+        "source": "The Ethics of Ambiguity (1947)"
+      }
+    },
+    "anger": {
+      "text": "Anger is a strong feeling, and it has a right to exist. In his Sketch for a Theory of the Emotions, Sartre described anger as an attempt to change the world “magically” when the direct path is closed: the problem won’t get solved — and we get angry, as if the force of the feeling could replace action. This is not a reproach: it is how consciousness works at a dead end. But Sartre and Beauvoir saw something else too: anger can be a response to real injustice, to your freedom not being recognized. In The Second Sex Beauvoir showed how the feelings of those whose freedom is restricted are often written off as “temperament” or “nature,” while the situation that causes them goes unnoticed. From this point of view, your anger deserves a hearing: what dead end or what injustice is it pointing to? You have the right to be angry — and the right to decide what to do with that force.",
+      "practice": "Ask: “Where do I feel a dead end right now?” And: “If my anger could make one demand, what would it be?”",
+      "quote": null
+    },
+    "shame": {
+      "text": "Shame is one of the central feelings in Sartre’s philosophy. In Being and Nothingness he describes a man peeping through a keyhole who suddenly hears footsteps behind him. In that instant he sees himself through another’s eyes — as an object, as “the one who is peeping.” This is “the look of the Other”: another person can see me in a way I cannot see myself, and I have no control over that image. Shame, for Sartre, is the recognition that in some sense I really am the one the other sees. But this is important: you are not reducible to that look. It fixes a moment, while you are a freedom that goes on. Shame shows that you live among people, but it does not define you once and for all.",
+      "practice": "Recall a moment of shame and finish the sentence: “That look saw in me…, but I am also…”",
+      "quote": {
+        "text": "Shame is shame of oneself before the Other.",
+        "author": "Jean-Paul Sartre",
+        "source": "Being and Nothingness (1943)"
+      }
+    },
+    "guilt": {
+      "text": "Guilt is heavy, and existentialism takes responsibility very seriously. Sartre said we answer for our actions because we are free: they cannot be blamed entirely on character or circumstances. But it’s important to distinguish responsibility from self-flagellation. Sartre criticized “bad faith” (mauvaise foi) — a self-deception in which we either pretend to be completely unfree or, on the contrary, reduce ourselves rigidly to a single act: “I’m just a bad person.” That is an escape too: you are not a thing with fixed properties, you are an ongoing choice. From this point of view, guilt can become not a verdict but a point from which you decide how to live on. Acknowledging an act without reducing yourself to it — that is what honesty is.",
+      "practice": "Write two sentences: “This is what I did…” and “Now I choose…” — and notice the difference between the act and you.",
+      "quote": {
+        "text": "Man is nothing else but what he makes of himself.",
+        "author": "Jean-Paul Sartre",
+        "source": "Existentialism Is a Humanism (1946)"
+      }
+    },
+    "envy": {
+      "text": "Envy is unpleasant, but it is a very human feeling. Sartre described our relations with people through “the look”: another person easily becomes our yardstick, and we begin to see ourselves through their eyes. From this angle one might say envy is a moment when someone else’s life seems “real” and complete, and yours seems insufficient. But Sartre would remind you: the other person is not a thing with a ready-made essence either — they too doubt and choose, and you see only the façade. And your own life is not yet settled; it is still taking shape. Beauvoir would add that many of our desires are shaped by our situation and by society’s expectations. You can take envy as a hint: what here is truly your own project, and what is a yardstick imposed on you?",
+      "practice": "Write: “What I see in them is…” — and then: “What I myself want is…” Do these lines match?",
+      "quote": null
+    },
+    "emptiness": {
+      "text": "Emptiness and apathy are hard, and existentialism knows them firsthand. In Sartre’s novel Nausea, Antoine Roquentin suddenly sees the world stripped of any given meaning: things simply are, “superfluous,” there for nothing. It is an eerie experience, but the existentialists saw it as a starting point, not an end: if meaning isn’t given in advance, it can be created. “Existence precedes essence” — first we exist, and then we make someone of ourselves. Beauvoir stressed that meaning is born in “projects” — in what we do together with others and for the world. Emptiness doesn’t mean something is wrong with you; it means the ready-made meanings have stopped working. The new ones don’t have to be big: you can begin with something very small.",
+      "practice": "Choose one very small action for today that you will do not “because you have to” but because you decided to. Write it down.",
+      "quote": null
+    },
+    "confusion": {
+      "text": "Confusion is an honest state when there are no ready answers. Sartre described “abandonment”: there is no outside authority that will tell you how to live rightly. In his lecture Existentialism Is a Humanism he tells of a student who, during the war, didn’t know whether to leave and fight for the Free French or stay with his mother, for whom he was the only support. No moral system could decide for him, and all Sartre could do was hand him back his freedom. From this point of view, confusion is not a sign of stupidity but a sign that you are facing a real choice. Beauvoir would add that ambiguity is the normal condition of life, and you don’t need to wait for absolute clarity in order to act.",
+      "practice": "If there were no “right” answer, only yours — what would you choose now, even just for one day?",
+      "quote": {
+        "text": "You are free, therefore choose — that is to say, invent.",
+        "author": "Jean-Paul Sartre",
+        "source": "Existentialism Is a Humanism (1946)"
+      }
+    },
+    "fatigue": {
+      "text": "Fatigue and burnout are real states, not a lack of willpower. Existentialism is often associated with radical freedom, but Beauvoir clarified: freedom always exists in a “situation” — in a body, in circumstances, working conditions, relationships. The body is not an obstacle to freedom but its condition. From this point of view, fatigue speaks of the real limits of your situation, and acknowledging them is not weakness but honesty. If anything, it would be “bad faith” to pretend you are a tireless function. Sartre described a café waiter who plays “waiter” so diligently it is as if he were nothing but that role. You are not a role or a function. Allowing yourself to stop is also a free choice — perhaps the most honest one right now.",
+      "practice": "Which role are you “playing” hardest right now? Imagine for a minute taking it off like a uniform. What do you feel?",
+      "quote": null
+    },
+    "boredom": {
+      "text": "Boredom seems trivial, but the existentialists took it seriously. From Sartre’s point of view one could say that boredom arises when the world stops responding to our “projects” — to what we are reaching toward: things are there, but they call us to nothing. In Nausea, Roquentin spends long, monotonous days in a provincial town where time drags and his own life feels alien. But for existentialism this is not a verdict: if meaning isn’t built into the world in advance, boredom becomes a space in which you can ask what you yourself want. Beauvoir wrote of “transcendence” — the human capacity to go beyond what is given and reach toward something new. Perhaps boredom is a sign that it’s time to take a step somewhere else.",
+      "practice": "Ask yourself: “If I could do one small thing purely out of curiosity, with no use to it at all, what would it be?”",
+      "quote": null
+    },
+    "joy": {
+      "text": "Joy is a full-fledged experience, and the existentialists were by no means philosophers of gloom alone. In his Sketch for a Theory of the Emotions, Sartre described joy as a state in which we seem to possess what we desire immediately and entirely, without waiting for things to come together step by step. In The Ethics of Ambiguity Beauvoir argued against those who saw existentialism as a philosophy of despair: for her, freedom is not only a burden but also a source of the joy of existence, of creativity, friendship, the affirmation of life. From this point of view, joy doesn’t need to be downplayed or postponed “until better times” — it is a legitimate way of being in the world. You can let yourself be glad without checking whether you’ve earned it and without waiting for a catch.",
+      "practice": "What exactly is bringing you joy right now? Say it out loud or write it down — let the joy be noticed.",
+      "quote": null
+    },
+    "love": {
+      "text": "Love and tenderness are an important and difficult theme in existentialism. In Being and Nothingness Sartre described the contradiction of love: we want the other to choose us freely — and at the same time we want, as it were, to “possess” their freedom, which is impossible. Beauvoir looked for a way out of this impasse. In The Second Sex she wrote that authentic love should rest on the mutual recognition of two freedoms — a love in which neither dissolves into the other or becomes their shadow. From this point of view, tenderness is not a wish to appropriate but joy that the other is free and yet near. Love doesn’t cancel your freedom or demand that you sacrifice yourself. You can embrace it as a shared project of two people.",
+      "practice": "What do you love in another person precisely as a free being — in what they choose for themselves?",
+      "quote": null
+    },
+    "gratitude": {
+      "text": "Gratitude is a warm feeling, and it sits perfectly well with existentialism. Beauvoir stressed that no one is free alone: my freedom becomes possible thanks to others — those who raised me, taught me, supported me, opened the world to me. From this point of view, one might say gratitude is the recognition that your life is interwoven with other people’s freedoms and other people’s choices. This is not dependence or debt but the very “ambiguity” Beauvoir wrote about: we create ourselves and at the same time receive ourselves from others. Gratitude doesn’t diminish your independence. On the contrary, it shows what living connections your freedom grew out of — and lets you feel their warmth.",
+      "practice": "Recall one thing someone else did without which your life would have turned out differently. What do you feel toward that person right now?",
+      "quote": null
+    },
+    "hope": {
+      "text": "Hope is turned toward the future, and existentialism speaks about it honestly. Sartre warned against passive hope — waiting for everything to change by itself: a human being, he said, is their project and exists only to the extent that they realize themselves. But this isn’t a rejection of hope; it is an invitation to make it active. In his play The Flies, Orestes says that human life begins on the far side of despair: you don’t need guarantees in order to act. And in his last conversations in 1980, Sartre explicitly called hope part of what makes a human being human. From this point of view, hope is an open future in which your next step means something.",
+      "practice": "Name one thing you hope for, and one tiny step you can take toward it.",
+      "quote": null
+    },
+    "nostalgia": {
+      "text": "Nostalgia is a tender and complicated feeling. For Sartre, the past is part of our “facticity”: it happened, it can’t be changed, and in a sense it becomes what we “are.” But for Sartre the meaning of the past is not fixed forever: it is determined by how we live now and what we choose next. The same event can turn out to be the beginning of a loss or the beginning of a new path — depending on what follows. From this point of view, nostalgia is not a prison but a dialogue: you long for what was valuable, and you can decide how that value will continue in your present life. In her many volumes of memoirs, Beauvoir showed how returning to the past helps you understand who you are becoming.",
+      "practice": "What was valuable about the time you miss? How might that value be present in your life now — even in a new form?",
+      "quote": null
+    },
+    "craving": {
+      "text": "A craving is a sharp “I want it right now,” and there is nothing shameful in it. In Being and Nothingness Sartre gives a strikingly precise example: a gambler who has firmly resolved never to gamble again approaches the gaming table once more. And he discovers that yesterday’s resolution doesn’t work on its own — it lies in the past, and it has to be chosen anew, right now. Sartre saw in this the anguish (angoisse) of freedom. This doesn’t mean a craving is trivial and easy to defeat by willpower: Beauvoir reminded us that freedom always exists in a situation — with a body, a history, fatigue. But it does mean you don’t have to coincide with the wave of desire. In each new moment you decide again — and every “not now” is a real choice too, even if you have to repeat it a minute later.",
+      "practice": "Say out loud what you are choosing this minute instead of the craving — even something very simple: “Right now I choose to step outside for some air.”",
+      "quote": null
+    },
+    "addiction": {
+      "text": "Addiction is not a moral failure and not a verdict on your character. Sartre distinguished “facticity” — everything already given: the body, the past, habits, circumstances — from “transcendence,” the capacity to go beyond what is given. A long-standing cycle of addiction is part of your facticity, and it weighs a great deal. But for Sartre a person never coincides completely with anything in themselves: you are not “an addict” the way a stone is a stone. Beauvoir added something important: freedom is not heroic in isolation; it is always realized together with others, in a situation where some things hinder and some people help. From this point of view, leaving the cycle is not an act of a single super-will but the slow building of a different life “project” — one with room for people, support and time.",
+      "practice": "If you feel like it, think about who you could talk to about your cycle — someone close, or a mutual-help group where people understand it from the inside. Just write down one name or place.",
+      "quote": null
+    },
+    "hangover": {
+      "text": "A hangover is a heavy body, morning anxiety, and shame about what happened or what you can’t remember. All of this deserves compassion, not judgment. Sartre described shame as experiencing yourself under “the look of the Other”: suddenly it seems you have turned into an object of someone else’s assessment, into “the one who last night…” But Sartre also has another thought: a person is never reducible to one act or one evening. We are not a thing with properties fixed once and for all but an existence that goes on. Beauvoir would add that we are “ambiguous” beings: there is vulnerability and freedom in us at the same time, and one doesn’t cancel the other. From this point of view, the morning after is not a verdict but one more point from which to carry on: calmly, without self-flagellation, taking care of yourself.",
+      "practice": "Do one small thing today that looks after you rather than punishes you: a walk, a warm meal, a short honest message if one is needed.",
+      "quote": null
+    },
+    "euphoria": {
+      "text": "A burst of euphoria is a strong, vivid experience, and there’s no need to rush to devalue it. In his Sketch for a Theory of the Emotions, Sartre wrote that an emotion is a “magical” transformation of the world. In joy we seem to try to take possession of what we desire immediately and entirely, without waiting for the slow steps reality requires. Hence the feeling that everything is possible right now. Sartre didn’t consider this a mistake: this is how consciousness experiences the open fullness of the future. You can live through euphoria in all its brightness. And existentialism adds one thought that doesn’t spoil the moment but extends it: freedom lives not only in bursts but also in how the possibilities that opened up later become, step by step, your own projects.",
+      "practice": "Write down one possibility that opened up for you in this state. Don’t decide anything now — just keep it, so you can look at it calmly later.",
+      "quote": null
+    },
+    "crash": {
+      "text": "A sharp drop after a high is a hard feeling: a moment ago the world was wide open, and now it seems cramped and gray. This is not your fault and not proof that the high was fake. Sartre spoke of the “coefficient of adversity” of things: the world doesn’t bend to our wishes instantly; everything has weight, distance, slowness. In the high this resistance seems to vanish, and in the drop it returns all at once, and the contrast feels unbearable. From Sartre’s point of view, emotion “magically” transforms the world, but reality then returns with its obstacles. This is not a defeat but an encounter with the real situation — the one in which freedom actually operates. You don’t need to demand a new take-off from yourself. You can take one step that matches today’s weight of the world.",
+      "practice": "Choose one action of whatever size you can manage right now, however small, and do it. Notice: the world has moved by one step.",
+      "quote": null
+    },
+    "panic": {
+      "text": "Panic is a wave of terror when your heart pounds, you can’t get enough air, and it feels as though something irreparable is about to happen. It is genuinely frightening. In his Sketch for a Theory of the Emotions, Sartre described how, in intense fear, consciousness, finding no way out through action, seems to fall into a “magical” world where the threat is everywhere at once. He stressed that emotion seizes the whole body and that consciousness gets caught in a trap it has set for itself: it believes in its own experience. Sartre saw this not as weakness but as an extreme attempt at self-protection. From this point of view, you don’t have to fight the wave; you can gently return from the “magical” world to the real one — through simple actions and sensations. A wave of panic usually peaks and subsides within a few minutes.",
+      "practice": "Press your palms against the table or your knees and feel their warmth and weight. Breathe out more slowly than you breathe in, and silently name the colors around you.",
+      "quote": null
+    },
+    "dread": {
+      "text": "Existential dread — when the finitude of life suddenly opens up and the question “what’s the point of all this?” rises before you — is a heavy and honest experience. The existentialists didn’t deny it. But in her novel All Men Are Mortal (1946), Simone de Beauvoir showed an unexpected side of this thought. Her hero Fosca is immortal — and precisely because of this nothing has any weight for him: love, work, choices can all be postponed, repeated, forgotten. Endlessness turns out to be not salvation but emptiness. Meaning, in Beauvoir’s view, is born exactly from the fact that time is not infinite: our actions matter because they are ours and cannot be repeated. From this point of view, dread before the abyss is the flip side of how precious each particular life is, including yours. You don’t have to settle this question right away: you can let it remind you of what is dear to you.",
+      "practice": "Write down one thing that matters to you precisely because it won’t happen again: today’s conversation, this evening, someone’s face.",
+      "quote": null
+    },
+    "fomo": {
+      "text": "The fear of missing out is familiar to almost everyone: it seems real life is happening somewhere else, to other people, and you’re too late. Sartre stressed that freedom always means choice, and choice means renunciation: in choosing one thing, I inevitably don’t live another. This is not a flaw in your life but the condition of every human life. Sartre also wrote a great deal about “the look of the Other”: we begin to see ourselves through other people’s eyes and to measure our lives against the picture others display. His famous line from the play No Exit is often read as misanthropy, but Sartre himself explained: others become hell when we depend entirely on their judgment of us. From this point of view, the fear of missing out is not the truth about your life but captivity to someone else’s gaze. Your life is where you choose.",
+      "practice": "Recall one choice you made yourself and for which you value your life. Write it down next to the words “this is where I am.”",
+      "quote": {
+        "text": "Hell is other people.",
+        "author": "Jean-Paul Sartre",
+        "source": "No Exit (1944)"
+      }
+    },
+    "sleepless": {
+      "text": "Insomnia and 3 a.m. thoughts are exhausting, and this tiredness is not your fault. Sartre distinguished “pre-reflective” consciousness — when we simply live, act, see — from reflection, when consciousness turns back on itself. Within reflection he distinguished “pure” reflection, which simply sees clearly, from “impure” reflection, which starts to judge, pass verdicts, and mold a final image of oneself. At night, when you can’t act, reflection easily becomes “impure”: thoughts circle, past and future turn into sentences passed on you. From this point of view, nighttime conclusions are not the voice of truth but consciousness closed in on itself with no way out to the world. You don’t need to resolve them now: much of what seems final at night becomes an open question again by morning.",
+      "practice": "If a thought keeps circling, write it down in one line and set it aside with the words “I’ll look at this in daylight.” Then bring your attention back to the feel of the pillow and the blanket.",
+      "quote": null
+    },
+    "betrayal": {
+      "text": "Betrayal is one of the most painful wounds, and your anger, confusion and grief are justified. In The Ethics of Ambiguity, Beauvoir wrote that one person’s freedom is inseparable from the freedom of others: we build our lives by leaning on one another. Trust is a decision to let another person into your own project, to make them part of your world. This is exactly where betrayal wounds: the other took advantage of that openness and treated you as a thing rather than as a free person. From this point of view, your pain is not naivety but evidence that you took the other person seriously. And importantly: betrayal speaks of the other person’s choice, not of your worth. Sartre insisted that each person answers for their own actions — and this action is not yours.",
+      "practice": "Write down what the betrayal touched in you — which value or hope. That is something that still matters to you, regardless of what someone else did.",
+      "quote": null
+    },
+    "jealousy": {
+      "text": "Jealousy is agonizing, and the existentialists knew it from more than books. Simone de Beauvoir’s first novel, She Came to Stay (1943), is built around jealousy in a love triangle and draws heavily on her own experience. Its heroine, Françoise, painfully discovers that another person is just as much a center of the world as she is: they see everything in their own way and are beyond her control. In Being and Nothingness Sartre explained why this hurts so much: we want the beloved to choose us freely, always, but the other’s freedom by definition cannot belong to us. So jealousy is not a sign of “bad” love but a collision with the fact that the beloved remains separate. From this point of view, you can accept it as the pain of that separateness — and ask yourself what you are actually missing.",
+      "practice": "Finish the sentence: “When I’m jealous, what I’m really missing is…” Don’t judge the answer — just look at it.",
+      "quote": null
+    },
+    "resentment": {
+      "text": "Long-held resentment is a heavy burden, and it almost always has a real cause. Sartre and Beauvoir wrote a great deal about “recognition”: it is vital for a person that another acknowledge their freedom and dignity rather than treat them as a thing. From this point of view, one might say resentment is recognition withheld: the expectation that the one who hurt you will someday understand and say “I was wrong.” This expectation is legitimate, but it quietly keeps you tied to that particular person’s gaze. Existentialism suggests not giving up your truth but ceasing to make someone else’s acknowledgment the only key to it. Recognition can come from other people and, above all, from yourself: an injustice remains an injustice even if the person who did it never admits it.",
+      "practice": "Write yourself a short sentence of recognition: “What happened to me was unfair, and my pain makes sense.” Read it slowly.",
+      "quote": null
+    },
+    "heartbreak": {
+      "text": "A broken heart is one of the sharpest pains, and it shouldn’t be rushed. In The Second Sex, Beauvoir described how often in love a person — especially a woman, raised to do so — dissolves into the other: makes him the center of the world, sets aside her own projects, lives through his gaze. Then a breakup takes away not only the beloved but the very foundation of one’s own life. Beauvoir didn’t reproach anyone for loving this way — she showed how it is shaped by expectations and upbringing. But her thought also offers comfort: your self does not disappear along with the relationship. Beneath the pain remain your own desires, friendships and pursuits, which you may not have thought about in a long time. You can grieve for as long as you need — and little by little reclaim your world.",
+      "practice": "Recall one activity or place that was yours before this relationship. Think about how you might return to it, even for five minutes.",
+      "quote": null
+    },
+    "impostor": {
+      "text": "The feeling of “I’m about to be found out” is very common, and it often visits precisely those who take their work seriously. In Being and Nothingness Sartre describes a café waiter: his movements are a little too precise, his bows a little too eager — as if he were “playing” at being a waiter. Sartre shows that we all do this in one way or another: no one is their role the way a table is a table. A doctor, a teacher, a manager — each performs a role that never fully coincides with them. From this point of view, feeling like an impostor is not proof that you are worse than others but an honest sense of the gap between person and role that everyone has. The only difference is that you notice it. Your competence lives in your actions, not in perfectly coinciding with a role.",
+      "practice": "Write: “I don’t coincide with my role — and nobody does.” Then write one thing you did well in this role.",
+      "quote": null
+    },
+    "self_hatred": {
+      "text": "Self-hatred is a heavy state, and the inner critic often sounds so certain that its words feel like the truth. But existentialism offers an important objection. Sartre counted as “bad faith” (mauvaise foi), among other things, the attempt to define oneself once and for all, like a thing: “that’s just what I am,” “I’m worthless.” A human being, for Sartre, never coincides with anyone’s verdict — not even their own. In his book on the writer Jean Genet, Sartre showed how a boy whom adults branded a thief first accepted this alien word as his fate and then turned it into literature — made of it something his own. The critic’s voice is often a look from someone else, absorbed long ago. From this point of view, its verdict is not final: you are bigger than any label.",
+      "practice": "Write down one label your inner critic repeats, and next to it one thing you have done that doesn’t fit that label.",
+      "quote": {
+        "text": "What is important is not what people make of us, but what we ourselves make of what they have made of us.",
+        "author": "Jean-Paul Sartre",
+        "source": "Saint Genet: Actor and Martyr (1952)"
+      }
+    },
+    "helplessness": {
+      "text": "Helplessness is an agonizing feeling, and there’s no need to convince yourself it’s imaginary. Sartre is often portrayed as the champion of boundless freedom, but Beauvoir corrected this: freedom always exists in a situation — with a body, money, history, other people’s power. In The Ethics of Ambiguity she wrote that there are situations in which a person’s possibilities really are taken away, and this is not their fault but an injustice. From this point of view, your powerlessness may honestly reflect real constraints rather than personal weakness. But existentialism adds: even in a tight situation there remains the freedom of your stance — how to understand what has happened, what to lean on, whom to join with. Beauvoir stressed that freedom grows together with others: what is impossible alone sometimes becomes possible alongside someone.",
+      "practice": "Divide a page in half: on the left, what is currently beyond your control; on the right, one small thing where you still have a choice, even if only in how you relate to what is happening.",
+      "quote": null
+    },
+    "procrastination": {
+      "text": "“I can’t get started” is a familiar and agonizing state, and it almost never comes down to laziness. In his Sketch for a Theory of the Emotions, Sartre wrote that when the path of action seems too difficult, consciousness looks for a “magical” way out: instead of changing the world, it changes how the world is perceived. Like the fox in the fable who declares the grapes he can’t reach to be sour, we suddenly find the task boring, unimportant or frightening — and putting it off feels like relief. From this point of view, procrastination is not a vice but a form of self-protection when the task feels like a wall. For existentialism, a person creates themselves through actions, but that is not a sentence — it is an open possibility. You don’t have to choose to “do everything.” It is enough to choose a first step so small that the wall turns into a road.",
+      "practice": "Identify the smallest first step, one that will take no more than two minutes, and write it down. If you feel like it, do just that.",
+      "quote": null
+    },
+    "uprooted": {
+      "text": "Being cut off from home is a deep experience: after a move or emigration, your familiar supports disappear, and it’s as if you lose part of yourself. Sartre described human life through the notion of “situation”: place, language, surroundings are not scenery but that within which our projects take shape. When the situation changes abruptly, the familiar way of being yourself collapses too. Beauvoir would remind you that this is not only a personal trial: a move is often tied to circumstances beyond a person’s control, and feeling lost is an honest response to them. But Sartre stressed something else as well: the meaning of a place is not given in advance. It becomes “mine” through what I do in it, whom I connect with, where I go. From this point of view, your former home remains part of your story, while the new one is still being built — by your choices.",
+      "practice": "Name one thing you have already done in the new place by your own choice — even something small. That is the first brick of your new “here.”",
+      "quote": null
+    },
+    "overload": {
+      "text": "Overload, information noise and an endless feed are exhausting, and it isn’t a matter of your weakness. In his Critique of Dialectical Reason, the later Sartre described “seriality” — the condition of people who stand side by side, say, in a line for the bus, but are connected not by a shared undertaking, only by the same external object. Everyone there is interchangeable and alone among others. From this point of view, one might say the feed creates a similar seriality: millions of people look at the same thing, but each alone, and the rhythm is set by the stream rather than by their own projects. Being worn out by this is a normal reaction of a freedom that is left no room. Existentialism doesn’t ask you to renounce the world, but it reminds you: attention is also a choice, and you can take it back, even if only for a few minutes.",
+      "practice": "Ask yourself: “What do I myself want to learn or do right now?” — and spend two minutes on just that, without opening the feed.",
+      "quote": null
+    },
+    "unreality": {
+      "text": "The sense that everything around you, or you yourself, is somehow not quite real is a strange and unsettling experience, and it deserves gentle care. In Sartre’s novel Nausea, Roquentin experiences words suddenly coming loose from things: he looks at a seat on a tram, says “seat,” and the word stays on his lips without settling on the object. Things become alien, as if seen for the first time. Sartre described this without any diagnosis — as a moment when the familiar web of names and meanings loosens. It is frightening, but for Sartre it shows that the ordinary “normality” of the world rests on our participation: we are constantly giving things meaning. From this point of view, unreality is not the disappearance of the world but a temporary loosening of that bond, and it is restored through action and contact.",
+      "practice": "Pick up a simple object, name it out loud, and do something with it: pour water into a glass, move a book. Let the action make the thing familiar again.",
+      "quote": null
+    },
+    "awe": {
+      "text": "Awe before something vast or beautiful is a powerful, bright experience. The existentialists are often pictured as gloomy, but in her memoir The Prime of Life Beauvoir described with delight her long solitary hikes through the mountains of Provence, walking for hours, captivated by the open space. For her this was the joy of freedom meeting the world. In What Is Literature? Sartre wrote that the human being is the one through whom being is “revealed”: mountains and sea do not wait for us, yet it is in the human gaze that their grandeur unfolds. From this point of view, one might say awe is the moment when your freedom meets something greater than itself and feels not diminished but enlarged. It doesn’t need to be explained or put to use: it is enough to let yourself be a witness.",
+      "practice": "Write in one sentence what exactly struck you, starting with the words “I saw…”. You are a witness — and that is valuable in itself.",
+      "quote": null
+    },
+    "relief": {
+      "text": "Relief is one of the most longed-for feelings, and it’s worth living through rather than skipping past. In his Sketch for a Theory of the Emotions, Sartre described how an emotion changes the whole face of the world: in anxiety everything presses and threatens, and when the threat passes, the world again becomes a place where one can act. Relief is exactly such a transition — from “nothing is possible” to “it’s possible again.” From Beauvoir’s point of view one might add that relief always comes in a concrete situation, after a concrete strain, and honestly reflects how much you have endured. So relief is not a trifle, nor a cue to jump straight into the next thing. It is the moment when freedom feels space around itself again. Let yourself notice it and stay in it a little.",
+      "practice": "Notice what has become possible again now that the tension is gone. Write down one such thing.",
+      "quote": null
+    },
+    "calm": {
+      "text": "Calm and peace are precious states, and they need no justification. It might seem that a philosophy of freedom and responsibility leaves no room for rest. But in The Ethics of Ambiguity Beauvoir criticized “the serious man” — the one who subordinates life to abstract goals and never lets himself simply be. Freedom, in her view, exists not for the sake of an endless race but for the sake of life itself, with room in it for joy, play, unhurriedness. From this point of view, calm is neither an escape from responsibility nor “empty” time. It is one form of freedom: you allow yourself to live, not only to achieve. You don’t need to earn it — you can simply choose to stay in it.",
+      "practice": "Tell yourself: “Right now I choose not to achieve anything” — and stay like that for a couple of minutes, noticing what it feels like.",
+      "quote": null
+    },
+    "inspiration": {
+      "text": "Inspiration is a joyful, living state, and it’s worth cherishing. In What Is Literature? (1948) Sartre described creative work as an “appeal” to the freedom of another: the writer creates a text, but it comes alive only when a reader freely responds. From this point of view, inspiration is not a mysterious gift sent from outside but a moment when your freedom senses that it can address the world and other people. Beauvoir wrote all her life — novels, essays, memoirs — and saw writing as a way of making sense of her situation and sharing it with others. Inspiration doesn’t have to become a masterpiece to be real. It is an invitation: you can add to the world something that wouldn’t be there without you.",
+      "practice": "Write down who — even an imagined person — the thing you want to create is addressed to. Then write one first sentence addressed to that person.",
+      "quote": null
+    },
+    "schadenfreude": {
+      "text": "Schadenfreude is awkward to admit, but it is very human and says nothing final about you. Sartre described how we live under “the look of the Other”: others see us, assess us, and we constantly feel ourselves in their eyes. Under this strain, someone else’s success can feel like a threat, and someone else’s failure like a brief respite: for a moment, it’s not us being judged. From this point of view, schadenfreude is not an “evil essence” — all the more so since, for Sartre, a person has no essence in advance: we define ourselves by what we do. The feeling flared up — that’s a fact, but what you make of it is up to you. You can simply notice it and ask where you are currently feeling judged.",
+      "practice": "Finish the sentence: “Their failure made me feel better because I’m afraid of being judged as…”",
+      "quote": null
+    },
+    "contempt": {
+      "text": "Contempt is a cold feeling, and admitting it to yourself isn’t easy. Don’t rush to judge yourself. Sartre knew this feeling well: the hero of his novel Nausea contemptuously examines the smug townsmen depicted in the portraits in a museum and calls them “bastards.” But Sartre also saw the other side: in Anti-Semite and Jew he showed how contempt for others can serve as a way of avoiding one’s own freedom and uncertainty — leaning on someone else’s “baseness” in order to feel solid. From this point of view, it helps to ask: is the contempt protecting your worth — or helping you avoid looking at something in yourself? Both answers are possible, and both deserve an honest look.",
+      "practice": "Ask: “Looking at this person, what do I not want to be?” Write down the answer without judging it.",
+      "quote": null
+    },
+    "disgust": {
+      "text": "Disgust is a strong, almost bodily feeling, and it has a right to exist. Sartre’s novel Nausea is devoted entirely to a similar experience: the hero suddenly feels sick at the very existence of things — the root of a chestnut tree, a glass of beer, his own hand. Everything seems superfluous, viscous, obtrusively present. For Sartre this was a discovery: the world is not obliged to have a ready-made meaning, and disgust is an encounter with this naked contingency. From this point of view, disgust at a situation, at people or at yourself can be understood as a moment when familiar meanings fall away. It’s unpleasant, but it’s also honest. The novel ends not in despair but with a faint hope: the hero hears a song and thinks about creating something of his own.",
+      "practice": "Name an object or situation that disgusts you, and ask: “What meaning am I missing here?”",
+      "quote": {
+        "text": "The Nausea is not inside me: I feel it out there in the wall, in the suspenders, everywhere around me.",
+        "author": "Jean-Paul Sartre",
+        "source": "Nausea (1938)"
+      }
+    },
+    "revenge": {
+      "text": "The wish for revenge is understandable: you’ve been hurt, and a force rises in you demanding justice. In her essay “An Eye for an Eye” (1946), Simone de Beauvoir examined this feeling seriously, without condemning it. She wrote that there is a deep human meaning in revenge: we want the one who wronged us to recognize that we are free people, not things that can be treated any way at all. But Beauvoir also saw the tragedy of revenge: recognition cannot be wrested by force, and pain inflicted in return doesn’t give back what was taken. From this point of view, your wish is a demand for respect for your freedom. You can look for ways that affirm this freedom rather than multiply harm.",
+      "practice": "Write: “I want them to understand that I…” What recognition do you actually need?",
+      "quote": null
+    },
+    "anger_at_loved": {
+      "text": "Anger at the people closest to you — a partner, parents, children — is familiar to almost everyone, and so is the shame that follows. You are not a bad person because it flares up. In his Sketch for a Theory of the Emotions, Sartre described emotions as “magical” behavior: when a situation becomes unbearable and there is no direct way out, consciousness tries to change the world by the force of feeling. With loved ones this happens especially often, because it’s with them that we most often hit a dead end: fatigue, recurring conflicts, being unable to walk away. Beauvoir would add that freedom is always embodied in a concrete situation — in a shortage of strength, time, support. From this point of view, an outburst is a signal of a dead end, not the truth about your love.",
+      "practice": "After an outburst, ask: “What dead end was I in at that moment?” And: “What small way out do I have?”",
+      "quote": null
+    },
+    "ambivalence": {
+      "text": "Loving someone and at the same time being unable to stand them is hard, but deeply human. Simone de Beauvoir called her book The Ethics of Ambiguity: she believed ambiguity is not a defect but the very essence of human existence. We are free and limited at once, connected to others and separate, we love and we want independence. Beauvoir criticized attempts to flee this ambiguity — to make everything unequivocal, “correct,” settled once and for all. From this point of view, mixed feelings toward someone close are not a sign of false love but an honest reflection of the fact that relationships between two free people are inevitably double-edged. You don’t have to choose one feeling; you can live acknowledging both.",
+      "practice": "Finish one sentence: “I love you, and at the same time it’s hard for me when you…” Don’t send it — just write it for yourself.",
+      "quote": null
+    },
+    "guilty_relief": {
+      "text": "Relief after a breakup, a departure, or a loved one’s long illness can bring sharp guilt. But relief doesn’t cancel love. In A Very Easy Death (1964), Simone de Beauvoir described with rare honesty the last weeks of her mother’s life — and how contradictory her own feelings were: tenderness, exhaustion, anger, pity. She didn’t try to make them “proper.” Her “ethics of ambiguity” suggests that human feelings are rarely pure, and honesty matters more than meeting expectations. From this point of view, your relief is one of the voices inside you, alongside grief and love. It speaks of how much you were carrying, not of how little you loved.",
+      "practice": "Write down three feelings you have right now toward this person and this situation. Let all three stay on the page.",
+      "quote": null
+    },
+    "indifference": {
+      "text": "Sometimes, where you “ought” to be moved, there is only silence inside. It’s frightening, but it doesn’t make you heartless. Sartre and Beauvoir criticized what they called “the spirit of seriousness”: the belief that values and correct reactions are given in advance, like laws of nature, and that we are obliged to conform to them. For the existentialists there is no ready-made list of what one is “supposed” to feel. From this point of view, your indifference is not a broken rule but a fact of your state that can be honestly acknowledged. Sartre showed that emotions are ways of responding to a situation; sometimes silence is also a response — to exhaustion or overload, for example. Honestly acknowledging it is already a beginning. Meaning doesn’t have to appear on demand.",
+      "practice": "Write: “I was told I should feel…, but what I feel is…” Don’t correct the second part.",
+      "quote": null
+    },
+    "escape": {
+      "text": "The urge to drop everything — a job, a city, a familiar role — says a lot about you. Sartre held that “existence precedes essence”: you don’t have to coincide forever with the role of waiter, manager, “good daughter.” A role is not your nature but something you once chose or accepted. In the essay Pyrrhus and Cineas, Beauvoir tells of a king who plans to conquer the whole world so that he can rest afterward — and of an adviser who asks: why not rest right now? She shows that a human being always reaches beyond what is. From this point of view, the urge to escape is a sign of a freedom that doesn’t fit inside the frame. You don’t need to tear everything down at once: first you can ask where exactly that freedom is pulling you.",
+      "practice": "Finish the sentence: “I am not reducible to my role… There is more in me:…” What small step toward that is possible this week?",
+      "quote": null
+    },
+    "forbidden_attraction": {
+      "text": "Attraction to someone who is “off limits” can be confusing and frightening. But a feeling by itself decides nothing and doesn’t define you. In Being and Nothingness, Sartre describes a woman on a date who pretends not to notice that her companion has taken her hand: she acts as if nothing is happening so as not to face her own choice. Sartre called this kind of self-deception “bad faith.” From this point of view, it is more honest to acknowledge the attraction than to pretend it isn’t there. Acknowledging it doesn’t commit you to any action. It simply gives you back clarity: this is what I feel, and I am the one who decides how to live with it. Freedom begins with the truth about yourself.",
+      "practice": "Tell yourself without judgment: “Yes, I feel this.” Notice how the tension changes when you don’t have to pretend.",
+      "quote": null
+    },
+    "social_anxiety": {
+      "text": "Fear of people and their judgment is an exhausting feeling, and you are not alone in it. Sartre described “the look of the Other”: when we are looked at, we suddenly feel ourselves to be an object under assessment, and we can’t control how we are seen. This really is unsettling — Sartre didn’t pretend it was easy. But he also showed that the other sees only one side, a momentary snapshot, while you remain a freedom that goes on. Beauvoir would add that others live under someone’s gaze too — and that people’s freedoms are bound up with each other, not only set against each other. From this point of view, the person you feel shy in front of is most likely a little afraid of your gaze as well.",
+      "practice": "Before a meeting, remind yourself: “They’re being looked at too. We’re both a little nervous.” Notice how your breathing changes.",
+      "quote": null
+    },
+    "uncertainty": {
+      "text": "Uncertainty is draining: you long for something solid to stand on, and there isn’t anything. Sartre described “anguish” as the feeling that comes when we become aware of our freedom: nothing guarantees in advance what will happen, and no rule will decide for us. He didn’t pretend this was pleasant. But here, too, lies a possibility: since the future isn’t written, our actions truly mean something. Beauvoir stressed that freedom always exists in a concrete situation — with limitations that need to be honestly taken into account. From this point of view, uncertainty is not only a threat but also a space for choice. You don’t have to see the whole road: the next step, chosen by you, is enough.",
+      "practice": "Divide a page into two parts: “what I can’t know” and “what I can choose today.” Pick one thing from the second column.",
+      "quote": null
+    },
+    "waiting": {
+      "text": "Waiting — for results, an answer, news — can stretch out agonizingly. Sartre described the human being as a creature always reaching forward, toward its possibilities: we live by “projecting” ourselves into the future. That’s why waiting is so hard: the future we reach toward depends on someone else’s decision, and we freeze. In Pyrrhus and Cineas, Beauvoir reflected that a person cannot live only for what will come “later”: the present must have meaning too. From this point of view, you don’t have to hand all your time over to waiting. Until the decision arrives, you remain a freedom that can choose how to live today.",
+      "practice": "Choose one small thing for today that is meaningful regardless of the answer you are waiting for.",
+      "quote": null
+    },
+    "regret": {
+      "text": "Regret over what you did or didn’t do can hold on for a long time. It speaks of what matters to you. Sartre held that the past is part of our “facticity”: it happened, and it can’t be changed. But for Sartre the meaning of the past is not closed. It is determined by what we do now: the same event can become the end of a road or a turn toward something new — depending on what you choose today. From this point of view, regret is not only a verdict but also material. You don’t have to be the person who once made a mistake: you are choosing yourself anew all the time. You can ask not “why did I do that?” but “what will I make of it now?”",
+      "practice": "Finish the sentence: “I regret…, and now I can make of it…” One line is enough.",
+      "quote": null
+    },
+    "longing": {
+      "text": "Longing for a particular person is a deep feeling, and there is nothing shameful in it. In Being and Nothingness, Sartre describes arriving at a café where he has arranged to meet his friend Pierre — and Pierre isn’t there. The whole café — the tables, the faces, the smoke — becomes a background for this absence: he sees not the café but “not-Pierre.” Sartre showed that absence is not emptiness but a special kind of presence that colors the whole world. From this point of view, longing is the way a beloved person goes on being in your world: through their absence. This is not weakness but a sign of how much they have become part of your meanings. You don’t have to drive this feeling away; you can carry it gently.",
+      "practice": "Notice where today this person’s absence colors your world most strongly. Name that place or moment.",
+      "quote": null
+    },
+    "world_pain": {
+      "text": "Pain for the world — from grim news, violence, injustice — speaks of your capacity for compassion. Sartre wrote that in choosing ourselves we are, in a sense, choosing an image of humanity as a whole, and so we are responsible not only for ourselves. That can seem like an unbearable weight. But Beauvoir clarified: freedom is always concrete and embodied in a situation. We cannot carry the whole world, but we can act where we are — support a person nearby, do what is within our power. From this point of view, your pain is not weakness but a sign of your connection with others. It can be turned into concrete care without drowning in an endless stream of news. Protecting your strength is also part of responsibility.",
+      "practice": "Choose one concrete thing to do this week that is within your means. After that, allow yourself an hour without news.",
+      "quote": null
+    },
+    "rejection": {
+      "text": "Rejection wounds deeply, and that is natural. Sartre described in detail how we depend on the look of the Other: another person can see in us what we don’t see in ourselves, and we have no power over their judgment. That is exactly why rejection hits so hard: another freedom has said “no,” and we can’t talk it round. But there is also a liberating thought here: someone else’s view is their choice, not the final truth about you. You are not reducible to how one person saw you. For Sartre, a human being has no ready-made essence that someone could conclusively assess. You go on creating yourself through your actions.",
+      "practice": "Finish the sentence: “They saw in me…, but they didn’t see that I am also…”",
+      "quote": null
+    },
+    "abandonment": {
+      "text": "The fear of being abandoned is a deep feeling, and it deserves gentleness. Interestingly, Sartre used the word “abandonment” to describe the position of every human being: there are no ready instructions from above, and we decide for ourselves how to live. It sounds cold, but Beauvoir added something important: one person’s freedom is always bound up with the freedom of others; we need each other for our lives to have meaning. The fear of being abandoned is an acute experience of that dependence. From this point of view, you can acknowledge: the other person is free, and their presence can’t be guaranteed. That hurts. But a bond that rests on freedom rather than control is the most valuable kind. And you are not defenseless: you too have the freedom to build connections.",
+      "practice": "Name one connection you can strengthen today with a small step — a message, a call, a thank-you.",
+      "quote": null
+    },
+    "unrequited": {
+      "text": "Unrequited love hurts badly, and your pain is real. Sartre was rather bleak in his account of love: in Being and Nothingness he showed that the lover wants to become everything to the other, but the other’s freedom always slips away — it can’t be appropriated. Beauvoir saw it differently: in The Second Sex she wrote that authentic love is built on the mutual recognition of two freedoms. From this point of view, love going unreturned is not your failure but an encounter with another person’s freedom, which no strength of feeling can change. You haven’t become any less because you weren’t chosen. Your capacity to love is yours, and it stays with you.",
+      "practice": "Write: “They are free not to love me. I am free to remain myself.” Reread it slowly.",
+      "quote": {
+        "text": "Genuine love ought to be founded on the mutual recognition of two liberties.",
+        "author": "Simone de Beauvoir",
+        "source": "The Second Sex (1949)"
+      }
+    },
+    "humiliation": {
+      "text": "Humiliation is one of the most painful experiences, and it is not your fault that you went through it. Sartre described how the look of the Other can turn us into an object — a “frozen” image over which we have no power. Humiliation is the extreme form of this: you are not merely seen but reduced to something low. All her life Beauvoir wrote about how people are deprived of freedom by being made “other,” made into objects. From this point of view, humiliation is not the truth about you but an act by someone who refused you recognition. Sartre wrote that what matters is not what has been made of us but what we make of it. Your freedom hasn’t disappeared — it is wounded, but it goes on.",
+      "practice": "Ask yourself: “What do I want to make of what was done to me?” Write down one word.",
+      "quote": null
+    },
+    "body_shame": {
+      "text": "Dissatisfaction with your body is a very common and painful feeling. In The Second Sex, Simone de Beauvoir showed that our relationship to our body is largely created by society: by looks, standards and expectations we absorb from childhood. Her thought “one is not born, but rather becomes, a woman” applies here too: the image of the “right” body is not nature but a cultural script. Sartre would add that we experience the body as a “body-for-others”: we see ourselves through other people’s eyes. From this point of view, shame about your body is not the truth about you but a reflection of someone else’s gaze. Little by little, you can reclaim your body as your way of living rather than an object of assessment.",
+      "practice": "Ask yourself: “Whose voice says my body is ‘not right’?” Write down where it came from.",
+      "quote": {
+        "text": "…the body is not a thing, it is a situation.",
+        "author": "Simone de Beauvoir",
+        "source": "The Second Sex (1949)"
+      }
+    },
+    "illness": {
+      "text": "Illness, when your body lets you down, knocks the ground out from under you. It is hard, and you have every right to grieve. In Being and Nothingness, Sartre described the body not as an object we own but as that through which we are in the world at all. He gave an example: a person’s eyes ache while reading — and the pain is not separate from the reading; it colors the very lines on the page. In the same way, illness changes the whole world. Beauvoir stressed that freedom always exists in a situation, and illness is a situation too, not the end of freedom. From this point of view, you remain a person who chooses how to live these days, even if the range of choice has narrowed. Sometimes freedom lies simply in how you treat yourself today.",
+      "practice": "Name one small decision you can make yourself today: what to read, whom to talk to, how to rest.",
+      "quote": null
+    },
+    "pride": {
+      "text": "Pride in what you have done is a healthy and well-earned feeling. Sartre held that a person is what they do, the sum of their actions. From this point of view, one might say pride in an outcome is recognizing yourself in your own action: this is what I chose, this is what I created. It is the opposite of “bad faith,” in which we hide from our freedom. Beauvoir warned against only one thing — turning achievements into a frozen idol, into “the spirit of seriousness,” where the result becomes more important than the living person. But pride as joy in what you have done is an acknowledgment of your own freedom in action. Let yourself enjoy this moment.",
+      "practice": "Say out loud what you did and what choice lay behind it. Say: “This is mine.”",
+      "quote": null
+    },
+    "melancholy": {
+      "text": "Bright sadness is a quiet feeling in which sorrow is mixed with tenderness. It doesn’t need “fixing.” Sartre’s novel Nausea ends with a remarkable scene: the hero, worn out by meaninglessness, sits in a café listening to an old jazz song, “Some of These Days.” The melody is sad, but it has a purity and necessity that the chaos of things lacks. The hero feels a faint hope: perhaps he, too, could create something like it. From this point of view, melancholy may be not a decline but a special sensitivity to the beauty of what passes. Sartre and Beauvoir held that we create meaning ourselves — and bright sadness often becomes the beginning of such creation.",
+      "practice": "Listen to one song that matches your mood. Write one line about what it awakens in you.",
+      "quote": null
+    }
+  }
+}

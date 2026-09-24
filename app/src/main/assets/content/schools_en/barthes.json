@@ -1,0 +1,395 @@
+{
+  "id": "barthes",
+  "title": "Roland Barthes",
+  "tradition": "Poststructuralism: semiology and writing the self",
+  "family": "poststructuralism",
+  "period": "1950s–1980s",
+  "sortYear": 1977,
+  "thinkers": [
+    "Roland Barthes"
+  ],
+  "keyWorks": [
+    "Mythologies (1957)",
+    "The Death of the Author (1967)",
+    "Empire of Signs (1970)",
+    "The Pleasure of the Text (1973)",
+    "A Lover's Discourse: Fragments (1977)",
+    "The Neutral (lectures, 1977–1978)",
+    "Camera Lucida (1980)",
+    "Mourning Diary (notes 1977–1979, published 2009)"
+  ],
+  "summary": "Roland Barthes began as a student of signs: he showed how mass culture passes off its conventions as \"nature\" — he called this \"myth.\" Later he came to a very personal kind of writing — about love, pleasure, photography and grief for his mother. Barthes teaches us to see which borrowed scripts we are living out, and to carefully keep what belongs to us alone.",
+  "onEmotions": "For Barthes, feelings are always partly spoken in ready-made language: we love, feel jealous and pine according to patterns taken from novels, songs and advertising. But he doesn't debunk feelings as \"not real.\" In A Lover's Discourse he describes them as \"figures\" — recognizable little scenes that everyone lives through — and in doing so gives them back their dignity. In his late books he defends what cannot be reduced to any code: the \"punctum,\" the detail that wounds you in particular, and a grief that refuses to be called \"mourning.\" Barthes proposes a double movement: notice the borrowed script — and keep what is your own, singular.",
+  "entries": {
+    "anxiety": {
+      "text": "Anxiety is exhausting: it runs ahead and lives through a catastrophe that hasn't happened yet. It is an honest response to uncertainty, not a weakness. In A Lover's Discourse Barthes describes anxiety as one of the \"figures\" — recurring scenes in which we recognize ourselves: you're waiting for a call, and your imagination is already painting the worst. Drawing on the psychoanalyst Winnicott, he notes that a lover's anxiety is the fear of a loss that has perhaps already happened, long ago, in the past. That is, anxiety often speaks not of tomorrow but of an old wound. Barthes doesn't \"treat\" anxiety; he describes it — and there is relief in that: your experience has a form, others have lived in it before, it doesn't make you \"wrong.\" To name the figure is to step back from it a little and see a script, not a verdict.",
+      "practice": "Describe your anxiety as a scene from a novel, in the third person: \"She is waiting, and it seems to her that…\" What changes when you look at this scene from a little way off?",
+      "quote": null
+    },
+    "fear": {
+      "text": "Fear can be very bodily and ancient, and it has a right to a place in your life. Barthes treated it without shame: as the epigraph to The Pleasure of the Text he took Hobbes's words that the only passion of his life had been fear. This is not a confession of cowardice but honesty: fear accompanies anyone who lives attentively. In Mythologies Barthes showed how culture supplies us with ready-made images of threat and rescue. So from his point of view it's useful to ask: what part of my fear is my own, and what came from other people's plots — the news, advertising, family stories? Separating them doesn't cancel the fear. But your own fear, separated from the \"myth,\" usually turns out smaller, more concrete and more bearable.",
+      "practice": "Write in one sentence exactly what you're afraid of. Then ask: where do I know this picture from — my own experience, or other people's stories?",
+      "quote": null
+    },
+    "sadness": {
+      "text": "Sadness often arrives unannounced — from a song, a smell, someone's gesture — and it doesn't have to explain itself. In his book on photography, Camera Lucida, Barthes distinguishes two ways of looking. The \"studium\" is a calm, general interest: we understand what is shown and assess it. The \"punctum\" (from the Latin for \"prick\") is a chance detail that suddenly wounds you in particular: someone's hands, a shoe strap, the expression of the eyes. The punctum can't be predicted and can't be handed on to someone else. From Barthes's point of view, one might say that sadness is often built like a punctum too: it catches on a small thing because that small thing holds what is dear to you. Such sadness doesn't need to be \"justified\" to others. It's enough to acknowledge: this touched me — so it matters to me.",
+      "practice": "Find the \"prick\" of your sadness — the specific detail it started with. Name it to yourself without explanation and simply stay with it for a minute.",
+      "quote": null
+    },
+    "grief": {
+      "text": "Grief is not a problem to be solved but a form of love for someone or something that is no longer here. After his mother's death in 1977, Barthes spent almost two years writing down his states on index cards; later these notes were published as Mourning Diary. He resisted ready-made words: the notion of \"mourning,\" with its stages and \"grief work,\" seemed to him too general, turning living pain into a process that is supposed to \"pass\" on schedule. He noticed that his sorrow didn't diminish evenly but came in waves. In Camera Lucida he goes through photographs of his mother and truly recognizes her only in one picture, where she is still a child — the \"Winter Garden\" photograph. Barthes grants the right to grieve in your own way, without a timetable, and reminds us: small, precise words about your loss are worth more than any general ones.",
+      "practice": "Write one short sentence about your loss on a card — not a general one, but a precise one, as Barthes did. Just one for today.",
+      "quote": {
+        "text": "Not say mourning. It's too psychoanalytic. I'm not mourning. I'm suffering.",
+        "author": "Roland Barthes",
+        "source": "Mourning Diary (note from 1977)"
+      }
+    },
+    "loneliness": {
+      "text": "Loneliness hurts partly because it seems that only you feel this way. Barthes opens A Lover's Discourse with an admission: the language of love today is extremely solitary. Perhaps thousands of people speak it, but no one supports it — serious scholarship ignores it, fashion mocks it as \"sentimental.\" And Barthes decides to let this voice speak. His book is made of \"figures\" — recognizable moments that each person has lived through alone: waiting, jealousy, the feeling of \"I'm not needed.\" The paradox is that the most private experience turns out to be shared: many have lived it, only in silence. From Barthes's point of view, loneliness can be not only endured but also heard as speech that lacks a listener — and sometimes that listener becomes a book, a letter, a note.",
+      "practice": "Describe your loneliness in two or three sentences as if writing to a stranger who feels the same. What would you like to tell them?",
+      "quote": {
+        "text": "The lover's discourse is today of an extreme solitude.",
+        "author": "Roland Barthes",
+        "source": "A Lover's Discourse: Fragments (1977), preface"
+      }
+    },
+    "anger": {
+      "text": "Anger is a signal that something important to you has been touched, and it has a right to exist. Barthes closely observed how anger turns into language. A Lover's Discourse contains the figure \"Scene\" — a quarrel in which two people exchange lines and each tries to have the last word. Barthes notes that a scene almost never resolves the dispute; it is driven by the desire to win in speech. In his lectures on \"the Neutral\" he looked for ways out of such rigid confrontations where there must be a winner and a loser. From his point of view, anger doesn't need to be suppressed — you can refuse the fight for the last word: acknowledge your feeling but not turn it into an endless duel. Then the anger stays yours, instead of steering you.",
+      "practice": "Recall your last argument. Did you want to have the last word? Write in one sentence what you actually wanted the other person to understand.",
+      "quote": null
+    },
+    "shame": {
+      "text": "Shame is one of the heaviest feelings: you want to vanish, to hide from others' eyes. That doesn't mean something is wrong with you. In Mythologies Barthes showed how culture turns its norms — which body is beautiful, which life is successful — into something \"natural,\" self-evident; this is what he called \"myth.\" From this angle, part of shame is not your \"defect\" but a collision with a myth that passes itself off as nature. In the Fragments Barthes also writes about the \"obscenity\" of love: today what's awkward is not the explicit but the sentimental, and the lover is most ashamed of their tenderness. Barthes doesn't feel ashamed along with them — he defends the right to \"ridiculous\" feelings. And he suggests a question: who decided this is shameful?",
+      "practice": "Put into words the rule you supposedly broke. Then ask: is this rule nature, or someone's agreement?",
+      "quote": null
+    },
+    "guilt": {
+      "text": "Guilt says that you care how your actions affect others. In A Lover's Discourse Barthes describes the figure \"Faults\": the lover feels guilty over trifles — being late, looking at someone the wrong way, seeming tired — and this petty guilt swells because behind it stands an enormous concern for the other. Barthes shows this mechanism without mockery: here guilt is a by-product of attachment. From Barthes's point of view, one might say it helps to distinguish a real mistake, which can be admitted and corrected, from the \"figure\" of guilt that spins on its own and feeds on anxious love. The first can be named and let go. The second can be seen as a sign of your attachment, not as proof that you're a bad person.",
+      "practice": "Divide a page into two columns: \"what I actually did\" and \"what I'm imagining.\" What ended up in each?",
+      "quote": null
+    },
+    "envy": {
+      "text": "Envy is unpleasant and often embarrassing, but it simply shows what you want. In A Lover's Discourse Barthes describes the figure \"Induction\": we often begin to desire someone because others have shown us that they are desirable. Desire is contagious; it is passed on through someone else's gaze. And in Mythologies Barthes analyzed how magazines and advertising turn a certain way of life into a standard, as if it were a natural norm. From Barthes's point of view, one might say that envy is partly the effect of someone else pointing, not a measure of your failure. That doesn't make it fake. But if you ask who taught you to want exactly this, you can separate a borrowed desire from your own — and your own will turn out quieter, but truer.",
+      "practice": "Write down what you envy, and add: \"I was shown that this is desirable by…\" — who or what showed you? What part of it remains truly yours?",
+      "quote": null
+    },
+    "emptiness": {
+      "text": "Emptiness and apathy are frightening: it seems there's nothing inside and it will always be this way. This state is real and deserves gentleness. Barthes wrote a book about Japan — Empire of Signs — in which he admiringly described an emptiness that doesn't mean lack. He notes that at the center of Tokyo lies the closed imperial palace, invisible to the city's residents: the city revolves around an empty place, and that doesn't make it meaningless. A haiku, for Barthes, interprets nothing and teaches nothing — it simply points: \"like this.\" From Barthes's point of view, one might say that emptiness can be a pause in the endless production of meanings, a rest from constant explanation. It doesn't need to be filled immediately. Sometimes it's enough to notice something simple — a light, a sound, a taste — without conclusion or moral.",
+      "practice": "Write three lines in the spirit of a haiku about what you see right now — without judgment or explanation, just \"like this.\"",
+      "quote": null
+    },
+    "confusion": {
+      "text": "Confusion arises when familiar explanations stop working and there is no single right answer. In the essay \"The Death of the Author\" Barthes argued that a text's meaning isn't hidden in the head of the author, who alone knows the \"correct\" interpretation. A text is a tissue of quotations from many sources, and it comes together in the reader. From Barthes's point of view, one might say the same about life: we are surrounded by contradictory voices — parents, books, culture — and none of them owns the final truth about you. Then confusion is not a malfunction but the moment when you stop being the performer of someone else's script and become the reader of your own life. You don't have to rush toward a \"final\" meaning; you can let several interpretations exist side by side for a while.",
+      "practice": "Write down two or three opposing interpretations of your situation. Don't pick any of them — just read them side by side, like a \"tissue of quotations.\"",
+      "quote": {
+        "text": "The birth of the reader must be at the cost of the death of the Author.",
+        "author": "Roland Barthes",
+        "source": "The Death of the Author (1967)"
+      }
+    },
+    "fatigue": {
+      "text": "Tiredness is not laziness or defeat but an honest signal from body and soul. Barthes took it seriously: his lecture course The Neutral (1978) has a separate fragment on fatigue. He saw in it not only exhaustion but also a quiet refusal of the constant need to take a position, argue, choose a side, \"produce\" opinions. The \"Neutral\" for Barthes is not indifference but a desire to step out of an imposed confrontation, the right not to answer every challenge. From this angle, tiredness can be understood as a legitimate demand for a pause, not as a personal defect. The world expects continuous clarity and activity from you. Barthes reminds us: you can for a while have no opinion, not decide, not choose — and there is dignity in that too.",
+      "practice": "Choose one topic for today on which you allow yourself to have no opinion. Notice how this small freedom feels.",
+      "quote": null
+    },
+    "boredom": {
+      "text": "Boredom is often considered a waste of time, but there is nothing shameful in it. In The Pleasure of the Text Barthes distinguishes two experiences: \"pleasure\" — cozy, familiar, confirming who you are — and \"bliss\" (in French jouissance) — a jolt that knocks out your usual bearings. Boredom, for him, turns out to be unexpectedly close to bliss: what seems boring sometimes simply hasn't opened up yet, because it asks for a different kind of attention. From Barthes's point of view, boredom can be a threshold — a sign that your usual ways of getting pleasure are exhausted and that you are ready for something you don't yet recognize. You don't have to flee from it straight into your news feed. You can linger and see what lies behind it.",
+      "practice": "When you get bored, stay with it for two minutes without filling the pause. What did you notice that you wouldn't have noticed in a hurry?",
+      "quote": {
+        "text": "Boredom is not far from bliss: it is bliss seen from the shores of pleasure.",
+        "author": "Roland Barthes",
+        "source": "The Pleasure of the Text (1973)"
+      }
+    },
+    "joy": {
+      "text": "Joy needs no justification — you can simply accept it. Barthes was one of the few theorists who wrote seriously about pleasure. In The Pleasure of the Text he notes that almost all philosophies and ideologies have treated pleasure with suspicion: moralists considered it frivolous, strict intellectuals naive. Barthes wanted to restore its dignity. He distinguished calm pleasure from sudden \"bliss,\" which knocks you out of your habitual self. From Barthes's point of view, joy doesn't have to be useful, explainable or \"earned.\" It often comes through small things — a phrase, a taste, a gesture. Let it stay exactly like that: don't immediately turn it into a lesson, a report or an occasion for comparison.",
+      "practice": "Write down one small thing that made you glad today, as concretely as possible — without explaining why it's \"important.\"",
+      "quote": null
+    },
+    "love": {
+      "text": "Love and tenderness are perhaps Barthes's central subject. A Lover's Discourse is written from inside being in love, not from a cold distance. Barthes calls the beloved by the Greek word \"atopos\" — \"without a place\": they can't be classified, reduced to a type, explained. The phrase \"I love you,\" for Barthes, communicates nothing — it is not information but an act, performed anew each time. He describes tenderness as a joy mixed with anxiety: a tender gesture gives, but it also reminds you that it may not be meant for you alone. Barthes doesn't turn love into a diagram and doesn't shame its \"sentimentality.\" He shows that your feeling is unique — and at the same time speaks a language common to all lovers.",
+      "practice": "Try to describe the person you love in one word — and notice that no word fits. What does that say about your feeling?",
+      "quote": null
+    },
+    "gratitude": {
+      "text": "Gratitude is a warm feeling that holds an acknowledgment: I was given something, and I noticed it. Barthes hardly wrote about gratitude as such, but in Camera Lucida he recalls his mother's kindness with immense appreciation — not grand virtues but gentleness, the fact that in all their life together she never once made a \"remark\" to him. In his lectures on the Neutral he valued \"tact\" — attention to fine differences, a refusal to press. From Barthes's point of view, one might say that gratitude is best expressed in a precise detail, not in general words. \"Thank you for everything\" says less than \"thank you for the way you kept quiet that time.\" Gratitude, like the punctum, lives in the particular and the concrete.",
+      "practice": "Thank someone — silently or out loud — for one very specific small thing. Which detail did you choose?",
+      "quote": null
+    },
+    "hope": {
+      "text": "Hope is a waiting that carries trust in the future, even if the future isn't guaranteed. In A Lover's Discourse Barthes describes the figure \"Waiting\" in detail: time stretches, every minute fills with imagined scenarios, and the person seems to become waiting itself. Barthes doesn't mock this state; he sees in it a sign of attachment: we wait only for what is precious to us. From Barthes's point of view, one might say that hope is also a form of waiting, and there's no need to be ashamed of it as \"naive.\" Waiting can be lived, not only endured: you can notice what it tells you about your desires. Hope shows that an openness toward another and toward the future is still alive in you.",
+      "practice": "Finish the sentence: \"I'm waiting for… because what matters to me is…\" What did you learn about your desires?",
+      "quote": {
+        "text": "Am I in love? — Yes, since I'm waiting.",
+        "author": "Roland Barthes",
+        "source": "A Lover's Discourse: Fragments (1977), figure \"Waiting\""
+      }
+    },
+    "nostalgia": {
+      "text": "Nostalgia is sweet and bitter: a longing for what was and won't come again. Barthes understood this feeling deeply. In Camera Lucida he writes that the essence of photography is expressed in the formula \"that-has-been\": a picture irrefutably testifies that this moment really existed — and that it has already passed. Hence the aching power of old photographs. In Roland Barthes by Roland Barthes he tenderly examines pictures from his childhood and writes down \"anamneses\" — short flashes of memory, with no conclusions and no embellishment. From Barthes's point of view, nostalgia need not be driven away, nor turned into a myth of a \"golden age.\" It is an acknowledgment: what was, really was — and therefore has value.",
+      "practice": "Take one memory and write it down as an \"anamnesis\": two or three sentences, only details, without the judgment \"things were better then.\"",
+      "quote": null
+    },
+    "craving": {
+      "text": "A craving — a sharp \"I want it right now\" — can sweep over you, and there's nothing shameful in it. In Mythologies Barthes wrote an essay, \"Wine and Milk,\" about how wine became a \"totem-drink\" in France: drinking it means belonging, being normal and sociable, while refusing it almost requires an explanation. Barthes shows that behind this \"naturalness\" there is a myth — a cultural script passed off as nature, concealing a lot that is inconvenient, economics included. From Barthes's point of view, one might say that a craving is not only a bodily impulse but also a script: \"after work you're supposed to,\" \"this is how people unwind,\" \"I'll just check in case I missed something.\" Noticing someone else's borrowed script in your craving gives you a little distance while the wave rises and subsides.",
+      "practice": "When the craving comes, finish the sentence: \"The script tells me that right now I'm supposed to…\" Notice whose voice it is, and wait a few minutes while the wave shifts.",
+      "quote": null
+    },
+    "addiction": {
+      "text": "Addiction — a long-running loop in which your whole life adjusts to a single rhythm — is not a moral failure or a weakness of character. In his lecture course How to Live Together (1976–1977) Barthes introduced the word \"idiorrhythmy\" — from the Greek for \"one's own rhythm.\" He took it from the monks of Mount Athos, who lived side by side but each in his own rhythm. Barthes was looking for a form of life in which a person neither dissolves into someone else's rigid routine nor is left completely alone. From Barthes's point of view, one might say that addiction is a rhythm imposed by a single object: it decides when to get up, where to go, whom to see. The way out is not a heroic leap but a gradual return of your own rhythm, often alongside others who are looking for the same.",
+      "practice": "Describe your ordinary, unheroic day lived \"in your own rhythm.\" If you'd like, find people walking a similar path: a mutual-help group can also be a community where each person lives in their own rhythm, but not alone.",
+      "quote": null
+    },
+    "hangover": {
+      "text": "The morning after — heaviness, anxiety, shame, gaps in memory — is agonizing, and you deserve gentleness. In Roland Barthes by Roland Barthes he writes a lot about the \"image-repertoire\" (the imaginary) — the stock of images we build of ourselves and that, it seems to us, others see in us. The \"moral hangover\" can be described in his language: in the morning the image-repertoire shows the worst footage — I was ridiculous, I ruined everything, everyone saw. In that book Barthes himself looks at himself from a little way off and writes about himself in the third person — with irony and tenderness. From Barthes's point of view, one might say that images of shame are not the whole truth about you but a montage spliced together by anxiety. You can notice them as frames without accepting them as a verdict.",
+      "practice": "Describe last night in the third person, in two or three calm sentences, like a chronicler, without judgment. Then drink some water and let your body rest.",
+      "quote": null
+    },
+    "euphoria": {
+      "text": "A burst of euphoria — a sharp high when everything seems possible — is a real and vivid experience, and you can treasure it. In The Pleasure of the Text Barthes distinguishes two joys. \"Pleasure\" (plaisir), in his words, fills you, brings euphoria, a sense of being in accord with yourself and the world. \"Bliss\" (jouissance) is sharper, almost dizzying: it knocks you out of the familiar and unsettles you. Barthes doesn't rank one above the other or moralize. He only notes that bliss is hard to put into words — it slips away from language. From Barthes's point of view, one might say that euphoria doesn't need to be explained or immediately put to use. You can simply live it, and then carefully find a few words of your own for it.",
+      "practice": "Find three words of your own for this high — not borrowed ones, not from advertising — and write them down, so you can remember the taste of this moment later.",
+      "quote": null
+    },
+    "crash": {
+      "text": "A sharp drop after a high — a celebration, a success, a substance — can feel like a fall, as if everything good had been a trick. This is an understandable reaction, not the truth about you. In A Lover's Discourse Barthes deliberately arranged the \"figures\" — rapture, waiting, anxiety, despondency — in alphabetical order rather than in the order of a plot. He explained that he didn't want to build a story with a setup, a climax and an inevitable collapse: the figures come and go in any order. From Barthes's point of view, one might say that the drop is one of the figures, not the last chapter. An anxious mind immediately composes a plot: \"here comes the payback, it will only get worse from here.\" But life doesn't have to follow that script, and the joy that was there does not become unreal because of the drop.",
+      "practice": "Name your state as a \"figure\" — one word with a capital letter: \"Comedown,\" \"The Quiet After.\" Notice: it is a fragment, not the whole novel.",
+      "quote": null
+    },
+    "panic": {
+      "text": "Panic — a wave of terror, a pounding heart, the thought \"I'm about to die or go mad\" — is one of the most frightening experiences, and you really are scared. Barthes didn't write about panic directly, but his thinking about language can help. In his early book Writing Degree Zero he described a \"blank,\" neutral writing that refuses dramatic effects and simply records what is happening. From Barthes's point of view, one might say that panic speaks the language of catastrophe: it instantly turns every sensation into a tragic plot. The counterweight is to shift to \"degree zero\": to name things simply, without continuing the story. A wave of panic usually peaks and subsides within a few minutes; simple words help you wait it out.",
+      "practice": "Put your feet on the floor and breathe out longer than you breathe in. Name out loud what you see in \"zero-degree\" words: \"table. window. blue mug.\"",
+      "quote": null
+    },
+    "dread": {
+      "text": "Existential dread — \"what is all this for,\" finitude, the abyss — is a heavy feeling, and a great many people have known it. Barthes wrote Camera Lucida after his mother's death. He calls the most piercing thing in a photograph the \"punctum\" — the detail that wounds you in particular — and notes that old pictures also prick us with time itself: everything in them has already passed. But Barthes draws from this a conclusion not about meaninglessness but about love: he searched among the photographs for one in which his mother would be recognizable as unique — and found it, a childhood photograph in the Winter Garden. From Barthes's point of view, one might say that finitude makes every being irreplaceable. The abyss is the other side of the fact that every life, including yours, is singular and precious.",
+      "practice": "Find one photograph — of yourself or someone close — and name a detail that moves you. Write down what makes this person unique.",
+      "quote": null
+    },
+    "fomo": {
+      "text": "The fear of missing out — the feeling that life is happening somewhere else — is familiar to many. In Mythologies Barthes analyzed the \"Blue Guide,\" a popular travel handbook. He showed how the guidebook decides in advance what is \"worth seeing\" — monuments, views, sights — and makes the people and the ordinary life of a country invisible. \"Myth,\" for Barthes, is a cultural convention passed off as the natural order of things. From Barthes's point of view, one might say that a social media feed is a huge guidebook: it decides which life is \"worth it\" and passes off selected frames as the norm. Noticing this means reclaiming your right to the unremarkable moments, marked in no guide, that your life is actually made of.",
+      "practice": "Describe one ordinary moment of your day the way a guidebook would describe a landmark. Notice how much there is in it that can't be seen from outside.",
+      "quote": null
+    },
+    "sleepless": {
+      "text": "Insomnia and three-in-the-morning thoughts are exhausting: they spin, come back, won't let you sleep. In the preface to A Lover's Discourse Barthes reminds us that the word \"discourse\" goes back to the Latin discursus — \"running to and fro,\" \"dashing about.\" That's how he describes the lover's speech, which dashes from one scene to another. From Barthes's point of view, one might say that night thoughts are the same running to and fro: not reasoning that leads to a conclusion, but fragments that surface on their own. Barthes didn't demand that fragments add up to a system. At night you don't need to resolve every question or think every thought through to the end: you can recognize that this is discursus, dashing about, and not the truth about your life.",
+      "practice": "Write down the fragments that surface in short lines, with no connections or conclusions, the way Barthes wrote down his \"figures.\" Put the page aside: in the morning they may look different.",
+      "quote": null
+    },
+    "betrayal": {
+      "text": "Betrayal wounds deeply: the image of a person you trusted suddenly collapses. Your pain is legitimate. A Lover's Discourse contains the figure \"Alteration\" (altération): the image of the beloved, whole and bright until now, is suddenly spoiled — by a single word, a gesture, a detail through which something alien shows. Barthes describes how this is experienced: as if you had glimpsed the underside. From Barthes's point of view, one might say that in betrayal what collapses is not only your bond with the person but also the image you had carefully built. It is a double loss, and you may grieve each one separately. And the fact that you trusted this image speaks of your capacity to love and to see the good, not of foolishness.",
+      "practice": "Write two short sentences: \"I am losing a person: …\" and \"I am losing an image: …\" Allow yourself to grieve each one separately.",
+      "quote": null
+    },
+    "jealousy": {
+      "text": "Jealousy torments you, and on top of that it's often embarrassing. In A Lover's Discourse Barthes devotes a separate figure to it and describes it with rare honesty. He notes that the jealous person suffers several times at once: from the jealousy itself, from reproaching themselves for it, from the fear of wounding the other, and from the sense of having given in to something banal. From Barthes's point of view, one might say that most of the torment is not the jealousy itself but the layers of shame and self-condemnation around it. Barthes doesn't shame the jealous person or treat them — he shows that this is a common, recognizable \"figure\" that lovers pass through, both in books and in life. Recognizing it already removes a layer or two of suffering.",
+      "practice": "Break your jealousy down into layers: \"I'm jealous,\" \"I scold myself for it,\" \"I'm afraid of hurting them,\" \"I'm ashamed.\" Which layer could you let go of first?",
+      "quote": {
+        "text": "As a jealous man, I suffer four times over: because I am jealous, because I blame myself for being so, because I fear that my jealousy will wound the other, because I allow myself to be subject to a banality.",
+        "author": "Roland Barthes",
+        "source": "A Lover's Discourse: Fragments (1977), figure \"Jealousy\""
+      }
+    },
+    "resentment": {
+      "text": "An old resentment you carry around is heavy: it comes back in your thoughts and replays the old scene again and again. A Lover's Discourse contains the figure \"Scene\" — a quarrel in which each wants the last word to be theirs. Barthes notes that a scene can in principle go on forever: there is an answer to every last word. From Barthes's point of view, one might say that an old resentment is a scene that continues inside you: you are still looking for that one line that will set everything right. Your resentment speaks of a real wound, and Barthes doesn't demand that you \"let it go.\" But you can notice: there is no last word, and your dignity doesn't depend on whether it is ever spoken.",
+      "practice": "Write down that \"last line\" you still keep saying in your head. Read it — and set it aside: let it be spoken, at least on paper.",
+      "quote": null
+    },
+    "heartbreak": {
+      "text": "A broken heart hurts almost physically, and it is one of the most human of wounds. In A Lover's Discourse Barthes describes the figure \"Absence\": the other leaves, and I remain — and the discourse of absence is always carried on by the one who stays. The lover endlessly addresses the one who has gone, \"talks\" with them in their head, and Barthes doesn't consider this weakness or foolishness. He describes it as an ancient, shared form of the lover's speech, familiar to the heroes of novels and to everyone who has loved. From Barthes's point of view, one might say that your inner speech to the one who left is not an obsession but the work of a love that still needs to speak itself out. In time this speech will grow quieter on its own.",
+      "practice": "Write a short letter to the person who left, one you won't send. Let the speech say itself out on paper.",
+      "quote": null
+    },
+    "impostor": {
+      "text": "The fear of being exposed any minute is familiar to many people who can do more than they think. Barthes opens Roland Barthes by Roland Barthes with an instruction to read everything as the words of a character in a novel. He writes about himself in the third person, in fragments, and shows that the \"I\" is not a fixed essence that can be caught and exposed, but a changeable image assembled from roles, languages and other people's words. From Barthes's point of view, one might say that \"impostor syndrome\" stems from a myth of the \"real expert\" that others supposedly are from within, by nature. But everyone plays roles they once learned. This is not deception — it's how any professional life works.",
+      "practice": "Describe yourself at work in the third person, like a character: \"This person is learning…, knows how to…, doesn't yet know…\" Notice that the character changes — and that's normal.",
+      "quote": {
+        "text": "It must all be considered as if spoken by a character in a novel.",
+        "author": "Roland Barthes",
+        "source": "Roland Barthes by Roland Barthes (1975), epigraph"
+      }
+    },
+    "self_hatred": {
+      "text": "Self-hatred and the voice of the inner critic are exhausting, and that voice does not tell the truth about you. In Mythologies Barthes showed how myth turns history into nature: what came about by chance and by someone's will begins to sound like an eternal \"that's how it is.\" From Barthes's point of view, one might say that the inner critic speaks precisely the language of myth: \"you're like that,\" \"you always,\" \"you never.\" These phrases pass themselves off as a description of your nature, though they were put together from other people's words, judgments and stories. Barthes called the common opinion that seems self-evident \"doxa,\" and all his life he resisted its power. The critic is your personal doxa. You don't have to refute it; you can see in it what Barthes saw: a constructed phrase, not the truth.",
+      "practice": "Write down one of the critic's phrases and ask: \"Where did this phrase come into my life from?\" Note: this is history, not nature.",
+      "quote": null
+    },
+    "helplessness": {
+      "text": "Helplessness — the sense that nothing depends on you — is heavy and often reflects real circumstances. In his lecture course The Neutral (1977–1978) Barthes defined \"the neutral\" as that which evades an imposed choice between two options. The neutral for him is neither indifference nor weakness but a special, quiet form of strength: a refusal of pressure, of obligatory victory, of \"all or nothing.\" From Barthes's point of view, one might say that helplessness is often born of a rigid pair: either I change everything, or I'm powerless. The neutral offers a third way: not to battle with what is beyond your power, while remaining attentive, gentle and alive — toward yourself and others. That too is a way of being present.",
+      "practice": "Instead of \"all or nothing,\" name one \"neutral\" action: one that doesn't solve the problem but is kind — tea, a call, a walk.",
+      "quote": null
+    },
+    "procrastination": {
+      "text": "\"I can't get started\" is an exhausting state, and it doesn't mean laziness. Barthes devoted the last two years of his lectures at the Collège de France to a course called The Preparation of the Novel: in detail, honestly and with humor, he examined his own wish to write a novel — the dream of it, the doubts, the daily routine, the notes. The novel was never written, but the course itself became an important book. Barthes showed that the wish to write is already part of the work, and that a long preparation lies between an idea and the first word. From Barthes's point of view, one might say that procrastination often feeds on a fantasy of a too-perfect result. Sometimes it helps to do what Barthes did: notes, fragments, \"preparation\" — without demanding a finished whole from yourself.",
+      "practice": "Don't start the task — \"prepare\" it: five minutes of notes, fragments, questions, with no obligation that a whole will come out of it right away.",
+      "quote": null
+    },
+    "uprooted": {
+      "text": "Being cut off from home — emigration, a move, the loss of familiar ground — is a real loss of language, people, small things. In Empire of Signs Barthes describes Japan, whose language he didn't understand. Unexpectedly, he finds in this not only disorientation but also rest: the murmur of an unknown language, he writes, envelops the traveler like a protective membrane and frees him from the endless stream of meanings that at home press in from all sides. Barthes didn't deny the difficulties — he suggested noticing something else too: in a foreign language you are for a while free of doxa, of the ready-made opinions of your own milieu. From Barthes's point of view, one might say that uprootedness is both a loss and a strange freedom to see everything anew.",
+      "practice": "Write down one word or gesture from your new surroundings that you like, and one word from your native language that you want to keep. Both are yours.",
+      "quote": null
+    },
+    "overload": {
+      "text": "Overload — the feed, the noise, the endless messages — wears out a great many people, and it is not your weakness. In Camera Lucida Barthes distinguished two levels in a photograph. The \"studium\" is general interest: we politely examine a picture and take in information. The \"punctum\" is a detail that suddenly \"pricks\" you in particular. Barthes noted that to really see, you sometimes need to close your eyes and let the image speak in silence. From Barthes's point of view, one might say that the feed is an endless studium: everything is moderately interesting, nothing touches you. That's what makes you tired. Relief comes not from one more scroll but from a pause in which you can notice your punctum — the few things that truly concern you.",
+      "practice": "Close the feed and your eyes for a minute. What one thing you saw today did \"prick\" you after all? The rest you can let go.",
+      "quote": null
+    },
+    "unreality": {
+      "text": "The sense that everything around you, or you yourself, is somehow not quite real can be strange and unsettling, and it deserves gentle care. In his essay \"The Reality Effect\" (1968) Barthes asks: why do novels contain so many superfluous details? In Flaubert's story \"A Simple Heart\" a barometer is mentioned that means nothing for the plot. Barthes answers: such useless details are exactly what create the sense of reality — they say \"this really exists.\" From Barthes's point of view, one might say that in moments of unreality the world seems to lose precisely these small, insignificant details. And you can return to the sense of the real by the same path — through the most ordinary things: a scratch on the table, the hum of the fridge, the weight of keys in your hand.",
+      "practice": "Find three \"barometers\" around you — utterly insignificant details — and describe each in one sentence.",
+      "quote": null
+    },
+    "awe": {
+      "text": "Awe before something vast or beautiful is a rare, precious feeling, and you can simply enjoy it. Barthes wrote an essay, \"The Eiffel Tower\" (1964). He noticed that the tower is both an object looked at from all over Paris and a place from which the whole city is looked at. From its height Paris becomes a panorama: familiar streets suddenly come together into a whole that can't be seen from below. Barthes describes this as a special pleasure — seeing and understanding at the same time. From Barthes's point of view, one might say that awe is a shift from your usual point of view to a panoramic one: your world suddenly turns out to be larger than you thought, and you a part of it. It doesn't need explaining — you can simply stay at this height for a while.",
+      "practice": "Describe in two sentences how your ordinary world looks \"from the height\" of this moment: what comes together into a whole?",
+      "quote": null
+    },
+    "relief": {
+      "text": "Relief — when things let go and you can breathe out — is worth noticing and living through. In A Lover's Discourse Barthes describes the figure \"Waiting\": the lover waits for a call or a meeting, and in the minutes of waiting a whole play unfolds in their head — anxiety, reproaches, imagined catastrophes. And then the other arrives — and the whole theater falls apart. From Barthes's point of view, one might say that relief is the moment when the play of the imagination ends and reality begins, usually far simpler. There's a gentle lesson in this too: many scenes we lived through in tension were never actually performed. Relief needs no justification — you can simply breathe with it.",
+      "practice": "Write down one \"scene\" you replayed in tension that never actually happened. Take three slow exhales.",
+      "quote": null
+    },
+    "calm": {
+      "text": "Peace and tranquility are not emptiness or inaction but a special, quiet state. It's good simply to be in it. In his lectures on the Neutral Barthes tenderly described things rarely valued in a world that demands you constantly take a position, argue, win: silence, tact, delicacy, stepping aside, sleep. The \"Neutral\" for him is a desire to step out for a while from the battle of meanings, from the duty to have an opinion about everything. He stressed that this is not indifference but a subtle, living sensitivity. From Barthes's point of view, one might say that calm is the Neutral lived through the body: a moment when you are proving nothing to anyone. It doesn't need to be justified by productivity.",
+      "practice": "Sit for a minute without forming an opinion about anything. If an opinion appears, just label it \"opinion\" — and return to the quiet.",
+      "quote": null
+    },
+    "inspiration": {
+      "text": "Inspiration — when thoughts and images suddenly start connecting — is one of the most joyful states. In \"The Death of the Author\" Barthes argues against the image of the lone genius from whom everything springs \"from within.\" A text, for Barthes, is woven from many other voices, quotations, cultural echoes; the writer doesn't create from nothing but combines, mixes, interweaves. This is not a belittling but a liberation: inspiration doesn't have to arise from a void. From Barthes's point of view, one might say that inspiration is the moment when many things you've read, heard and seen suddenly begin talking to each other through you. There's no need to fear that it's \"not yours\": your unrepeatable pattern lies in the weaving itself.",
+      "practice": "Write down the idea that came, and next to it three voices it may be woven from: a book, a conversation, a place.",
+      "quote": {
+        "text": "The text is a tissue of quotations drawn from the innumerable centres of culture.",
+        "author": "Roland Barthes",
+        "source": "The Death of the Author (1967)"
+      }
+    },
+    "schadenfreude": {
+      "text": "A sudden joy at someone else's failure is familiar to everyone, and it says little about what kind of person you are. Mythologies contains the essay \"The World of Wrestling\": Barthes describes how the audience exults when the \"bastard\" in the ring finally gets beaten. He notes that spectators come not for sport but for the spectacle of Justice: they need to see villainy get what it deserves, clearly and visibly. From Barthes's point of view, one might say that schadenfreude is often built the same way: for a moment you look at life as a ring where the upstart, the offender or the \"too lucky\" one gets what's coming. It is an understandable thirst for simple justice in a world where there's so little of it. But life isn't wrestling, and the \"villain\" almost always has a story of their own that can't be seen from the stands.",
+      "practice": "Ask yourself: \"In what show is this person playing the villain for me?\" Write down what injustice toward yourself you remembered at that moment.",
+      "quote": null
+    },
+    "contempt": {
+      "text": "Contempt seems calm and confident, but behind it there often hides a fear of the unlike. In the essay \"Myth Today\" Barthes describes the rhetorical devices by which \"myth\" defends itself against the other. One of them is \"identification\": the petty bourgeois is unable to imagine the Other, and if the Other does appear, he is either ignored or remade into a likeness of oneself. Another device is \"exoticism\": the stranger is turned into an amusing curiosity, a clown, an object. From Barthes's point of view, one might say that contempt is one such way of not truly meeting another person: they have been put in a labeled box in advance. The feeling may have a real cause, and there's no need to be ashamed of it. But it helps to notice the moment when a living person turns into a \"type\" for you — and for a second give them back their face.",
+      "practice": "Describe the person you feel contempt for without evaluative words — only through actions and facts. What changes in the description?",
+      "quote": null
+    },
+    "disgust": {
+      "text": "Disgust is a sharp, bodily \"no,\" and there's nothing shameful in it: this is how body and soul mark a boundary. Barthes admitted that what made him feel almost physically nauseous was \"doxa\" — ready-made public opinion, the stereotype, the phrase repeated a thousand times. He learned to recognize this feeling and to ask what exactly it was reacting to. From Barthes's point of view, one might say that disgust at people, a situation or yourself is often directed not at a living person but at a frozen image: the stereotype of \"people like that,\" a scene that sets your teeth on edge, other people's words about you. Disgust honestly points to what you find unbearable. But it's worth checking whom it concerns — the person, or the cliché that they, or you, turned into for a moment.",
+      "practice": "Finish: \"What disgusts me is not so much… as…\" Try to separate the living person (or yourself) from the image the feeling is reacting to.",
+      "quote": null
+    },
+    "revenge": {
+      "text": "The wish for revenge is understandable: you were hurt, and the hurt inside demands an outlet. There's no need to deny it. In his lectures on the Neutral Barthes speaks of the \"paradigm\" — a rigid pair of opposites in which you must choose one of the two: yes or no, attack or defeat, blow or counterblow. He understood the Neutral not as limpness but as a subtle art of stepping out of this forced pair. From Barthes's point of view, one might say that revenge is a classic paradigm: \"he struck — I must answer,\" and the choice seems reduced to two squares. But there are third moves too: stepping back, naming your pain, refusing to play by imposed rules. Refusing revenge then is not capitulation but your freedom not to be locked into someone else's script.",
+      "practice": "Write down the \"blow\" and \"counterblow\" spinning in your head. Then come up with a third option that is neither one nor the other.",
+      "quote": {
+        "text": "I call Neutral everything that baffles the paradigm.",
+        "author": "Roland Barthes",
+        "source": "The Neutral, lecture course at the Collège de France (1977–1978)"
+      }
+    },
+    "anger_at_loved": {
+      "text": "Anger at someone close — a partner, a parent, a child — often flares up more strongly than at strangers, and afterward you feel ashamed of it. That doesn't mean you love badly. In A Lover's Discourse Barthes describes the figure \"The Unbearable\": small hurts, irritations and things left unsaid accumulate unnoticed until one day they explode in the feeling \"this can't go on.\" Barthes shows that this explosion is not a sudden change of heart but the result of a long, silent accumulation. From Barthes's point of view, one might say that a flash of anger at someone close often speaks not of today's trifle but of many unspoken \"trifles\" before it. Anger doesn't give you the right to wound, but it does give you a reason to notice what has long been asking to be said — more calmly, and sooner than the next explosion.",
+      "practice": "Write down three small things that built up before the flare-up. Choose one you could calmly mention to your loved one at a good moment.",
+      "quote": null
+    },
+    "ambivalence": {
+      "text": "Loving someone and not being able to stand them at the same time is a hard but very common state. In A Lover's Discourse Barthes describes the figure \"Alteration\": the image of the beloved suddenly cracks over some small thing — a rude word, a foreign intonation, a gesture — and through the ideal image someone else shows through, alien and even unpleasant. Barthes doesn't conclude from this that the love was a mistake. The crack shows that before you is not a picture but a living person who doesn't coincide with your image of them. From Barthes's point of view, one might say that mixed feelings are the price of meeting a real other rather than an ideal. \"I can't stand\" and \"I love\" can refer to the same person, because they are larger than any picture you have of them.",
+      "practice": "Recall the last moment of \"cracking.\" Write down: what broke in that moment — the person themselves, or my image of them?",
+      "quote": null
+    },
+    "guilty_relief": {
+      "text": "Relief after a breakup, a departure or the death of a gravely ill loved one can be frightening: it seems you have no right to it. But relief and love can live side by side. After the death of his mother, with whom he had lived almost all his life and whom he had cared for during her illness, Barthes kept notes later published as Mourning Diary. Grief in them comes unevenly, in waves; between them are hours of ordinary life, work, even lightness. Barthes doesn't arrange these states into a \"proper\" scheme and doesn't discard those that seem unseemly. From Barthes's point of view, one might say that relief is one of these unevennesses, not a confession of not loving. Long caregiving and long anxiety come to an end, and the body breathes out. That exhale doesn't cancel the love that was there and remains.",
+      "practice": "Write on a card, as Barthes did, one honest sentence about your relief — and one about what you continue to love or value.",
+      "quote": null
+    },
+    "indifference": {
+      "text": "Sometimes what \"should\" move you leaves you indifferent — and guilt follows. In Camera Lucida Barthes distinguishes two ways of looking at a photograph. The \"studium\" is a polite, general interest: we understand that the picture is important and acknowledge its significance, but it doesn't wound us. The \"punctum\" is a detail that suddenly \"pricks\" you in particular, often unexpected and unrelated to what \"should\" stir you. Barthes stresses that the punctum can't be summoned on demand; it either happens or it doesn't. From Barthes's point of view, one might say that indifference where you're \"supposed\" to be moved is simply a state of studium. It is not proof of your callousness. Response comes by its own paths and in its own time; sometimes you'll be touched by something entirely different from what was prescribed — and that is honest too.",
+      "practice": "Recall what did \"prick\" you over the past few days, even a small thing. Write down that detail: it shows that your sensitivity is alive.",
+      "quote": null
+    },
+    "escape": {
+      "text": "The wish to drop everything and leave — a job, a city, a role — says that life has become cramped. It is an important signal, not a whim. Barthes's lecture course How to Live Together begins with his own dream — of the monasteries of Mount Athos, where each monk lived in his own rhythm while remaining part of the community. Barthes called this \"idiorrhythmy\" — living in your own rhythm alongside others. He honestly called it a fantasy, but believed the fantasy was worth exploring: it points to a real need. From Barthes's point of view, one might say that the dream of escape often says not \"vanish from here\" but \"live in my own rhythm.\" Perhaps the point is not to drop everything but to reclaim a little of your own rhythm right where you are.",
+      "practice": "Describe your \"Athos\": what would one day in your own rhythm look like? Choose one small thing from that day that you could do this week.",
+      "quote": null
+    },
+    "forbidden_attraction": {
+      "text": "Attraction to someone unavailable or \"wrong\" can be confusing and frightening. But a feeling in itself is not an action. In A Lover's Discourse Barthes describes the figure \"Ravishment\" — the moment when we are \"captured\" by the image of another. He cites a scene from Goethe: Werther sees Charlotte for the first time as she cuts bread for the children — and that image turns out to be enough. Barthes shows that capture often happens because of a detail, a scene, rather than the whole person. From Barthes's point of view, one might say that a forbidden attraction is a strong reaction to an image in which you recognized something you very much need. It is neither a verdict nor a command. You can look with curiosity at the scene that captured you and ask what it's telling you.",
+      "practice": "Describe the \"scene\" that captured you like a frame from a film: where, what gesture, what light. What in this frame is missing from your own life right now?",
+      "quote": null
+    },
+    "social_anxiety": {
+      "text": "Fear of people and their judgment is exhausting: as if you're always on stage and everyone is watching. In Camera Lucida Barthes admits that when he is photographed he immediately begins to \"pose,\" involuntarily turning into an image. He feels several \"I\"s colliding in him: the one he thinks he is, the one he wants to appear to be, the one the photographer sees. Barthes describes this without shame, with irony — as a discomfort common to everyone. From Barthes's point of view, one might say that social anxiety is a constant sense of the lens: in every encounter you see yourself from outside. It helps to know that almost everyone feels this tension: others are busy with their own poses too. You can gently move your attention from how you look to the person you're talking with.",
+      "practice": "In your next conversation, notice one detail about the other person: the color of their eyes, their intonation, a gesture. This brings your attention back from the \"lens\" to the encounter.",
+      "quote": {
+        "text": "In front of the lens, I am at the same time: the one I think I am, the one I want others to think I am, the one the photographer thinks I am, and the one he makes use of to exhibit his art.",
+        "author": "Roland Barthes",
+        "source": "Camera Lucida (1980)"
+      }
+    },
+    "uncertainty": {
+      "text": "Uncertainty is hard: it's unclear how things will end, and the mind dashes between options. In S/Z Barthes distinguishes two kinds of text. The \"readerly\" text is familiar, with a clear plot, where the reader only consumes a ready-made meaning. The \"writerly\" text is open: it holds many meanings, and the reader takes part in creating them. Barthes considered the second kind more alive, even though it demands more effort. From Barthes's point of view, one might say that in a period of uncertainty your life becomes a \"writerly\" text: the ending isn't written in advance, and you take part in creating it. That's unsettling, but there's freedom in it too. You don't need to know the whole plot to write the next paragraph.",
+      "practice": "Write two or three lines of the \"next paragraph\" of your story for the coming week — only what depends on you.",
+      "quote": null
+    },
+    "waiting": {
+      "text": "Waiting for an answer, results or news stretches time out, and it's hard to live in. In A Lover's Discourse Barthes describes waiting as a little play in several acts: first, calculations and guesses (\"maybe he's late because…\"), then irritation and reproaches, then anxiety and a sense of abandonment. All of it is staged inside while outwardly nothing happens. Barthes shows that this play is put on by the waiting itself, not by real events. From Barthes's point of view, one might say that once you recognize the acts of this play, you gain a little more freedom: you can notice \"we're in the second act now\" and not take every line of the inner play for the truth about the world. The waiting remains, but it becomes a little less commanding.",
+      "practice": "Work out which \"act\" of waiting you're in now: calculations, irritation or anxiety. Name it out loud — and take three slow exhales.",
+      "quote": null
+    },
+    "regret": {
+      "text": "Regret over something done or undone can return for years: \"if only back then…\" In the lecture \"Longtemps, je me suis couché de bonne heure\" (1978) Barthes speaks of the \"middle of life\" — in Dante's words, \"midway upon the journey of our life.\" He describes the moment when a person suddenly realizes that time is limited and something needs to change. Barthes calls his dream \"Vita Nova\" — \"new life\": not a renunciation of the past but a decision to use the remaining time in a new way. From Barthes's point of view, one might say that regret is the painful awareness that time is finite and that the choice mattered. But it can also become the start of a \"new life\": not correcting the past, but paying attention to what you want to do now.",
+      "practice": "Write in one sentence what you regret. Then add: \"My 'new life' on this could begin with…\"",
+      "quote": null
+    },
+    "longing": {
+      "text": "Longing for a particular person is especially sharp because they can't be replaced. After his mother's death, as he recounts in Camera Lucida, Barthes went through her photographs and in none of them truly recognized her: there was a woman who looked like her, but not her. And only in one picture, where she stands as a child in a winter garden, did he suddenly see her — her kindness, her particular essence. He chose not to publish this picture: it matters only to him. From Barthes's point of view, one might say that longing is always directed at something singular — not at \"a good person in general\" but at what exists only in them. Your longing is a sign of this singularity, and it doesn't need to be replaced by consolations like \"you'll find someone else.\"",
+      "practice": "Recall a detail in which this person is \"all there\": an intonation, a gesture, a habit. Describe it in a few words — just for yourself.",
+      "quote": null
+    },
+    "world_pain": {
+      "text": "Pain for the world — from grim news, wars, injustice — can crush you, and it speaks of your capacity for compassion. Mythologies contains the essay \"Shock-Photos.\" Barthes notes that pictures deliberately constructed to shock often fail to move us: the photographer seems to have screamed for us, and all we can do is agree. More restrained pictures, with a simple detail, leave room for our own feeling and thought. From Barthes's point of view, one might say that a stream of shocking images doesn't make us more compassionate — it deafens us. Pain for the world can be carried more gently if you give yourself not an avalanche of pictures but time to respond: to pause on one story, one face, one cause where your involvement is possible.",
+      "practice": "Choose one news story and switch off the rest of the stream. Ask yourself: what small response — a thought, a word, help — can I offer in return?",
+      "quote": null
+    },
+    "rejection": {
+      "text": "Rejection wounds painfully, and this pain is real. In A Lover's Discourse Barthes describes the figure \"Image\": in love, the deepest wounds come not from what we know but from what we see. We see a scene in which we are absent: the other laughing with someone, living a life that has no place for us. This image is incredibly powerful: it seems to declare once and for all that you are excluded. From Barthes's point of view, one might say that the pain of rejection is largely sustained by such images — they replay again and again before the inner eye. But an image is not yet the whole truth about you and your worth. You can notice that you're watching a \"movie\" in which you've been cast as the outcast, and remind yourself that outside this frame you have a life of your own.",
+      "practice": "Name the image that comes back to you most often. Then name a scene from your life where, on the contrary, you are a welcome participant.",
+      "quote": null
+    },
+    "abandonment": {
+      "text": "The fear of being abandoned is exhausting: you catch every sign, every pause before a reply. This fear often grows from old wounds and deserves gentleness. In A Lover's Discourse Barthes describes the figure \"Dependency\": the lover depends entirely on small things — a call, an intonation, a delay — and this seems humiliating to them. But Barthes describes such dependency without mockery, as part of human love, common to many. He shows that the more the other means to us, the more vulnerable we are to their absence. From Barthes's point of view, one might say that the fear of abandonment is the other side of deep attachment. That doesn't make the fear any more pleasant, but it lets you not despise yourself for it. It helps to remind yourself that each pause is a pause, not a verdict.",
+      "practice": "When a pause before a reply frightens you, write down three possible harmless reasons for it. Then do something nice for yourself without waiting for the reply.",
+      "quote": null
+    },
+    "unrequited": {
+      "text": "Unrequited love wounds painfully: a feeling with no answer seems superfluous, in vain. In A Lover's Discourse Barthes describes a figure he calls \"non-will-to-possess,\" borrowing an image from Taoism. It is not a renunciation of love but a special state of it: to go on loving while ceasing to demand, hold on, pursue. Barthes admits this is hard and almost impossible, but he sees in this movement a gentle release — both for yourself and for the other. From Barthes's point of view, one might say that unrequited love can become not only a wound but also an experience of \"not grasping\": loving while letting the other be free. This is not an obligation but a possibility, one that sometimes brings quiet where there was constant strain.",
+      "practice": "Say to yourself: \"I feel what I feel, and I let go of the need to get an answer.\" Notice what happens in your body as you say it.",
+      "quote": null
+    },
+    "humiliation": {
+      "text": "Humiliation is one of the most painful experiences: you want the ground to swallow you, to forget the scene. It's hard, and you're not the only one who feels this way. In his lectures on the Neutral Barthes analyzes \"arrogance\" — a manner of speaking that leaves the other no room: it talks down, knows everything, delivers final judgments. He sets delicacy and tact against it. From Barthes's point of view, one might say that in humiliation you came up against another person's arrogance: their speech tried to make you small, leaving you no voice. But arrogance says more about the speaker than about the one it's aimed at. A humiliating scene doesn't define your worth. You can refuse to accept someone else's verdict as your own and answer yourself with the tact you weren't given.",
+      "practice": "Write down what was said or done to you. Next to it, write how a tactful person who respects you would have said it.",
+      "quote": null
+    },
+    "body_shame": {
+      "text": "Dissatisfaction with your body can be quiet and constant, and it deserves gentleness. Mythologies contains the essay \"The Face of Garbo.\" Barthes compares two famous faces. Greta Garbo's face, he says, is an \"Idea\": a flawless, almost abstract mask of beauty. Audrey Hepburn's face is an \"Event\": alive, unrepeatable, particular. Barthes doesn't say one is better than the other, but he shows how culture creates ideal standards that no living person can coincide with. From Barthes's point of view, one might say that your body is not a failed Idea but an Event: it has its own history, its own features, its own way of being in the world. Comparing an event with an abstraction is unfair. You can see yourself as an unrepeatable event rather than a failed copy.",
+      "practice": "Find one feature of your appearance that makes you recognizable — an \"event,\" not an \"idea.\" Describe it with one kind word.",
+      "quote": null
+    },
+    "illness": {
+      "text": "When the body lets you down, the world narrows: you have to cancel plans and live by someone else's rhythm of treatment and restrictions. Barthes knew this firsthand: as a young man he spent several years in sanatoriums because of tuberculosis. There he read a great deal and wrote his first texts. Later, in the course How to Live Together, he recalled the sanatorium in Thomas Mann's novel The Magic Mountain and reflected on \"idiorrhythmy\" — the possibility of living in your own rhythm even amid shared rules. From Barthes's point of view, one might say that illness imposes its rhythm, but within it small islands of your own still remain: a morning hour, a book, a thought, a conversation. You can protect them. This doesn't replace health, but it gives back a little of yourself on days when the body has so much say.",
+      "practice": "Find one \"idiorrhythmic\" island in your day — an activity entirely in your own rhythm, even for five minutes. Mark it in your calendar.",
+      "quote": null
+    },
+    "pride": {
+      "text": "Pride in what you've done is a healthy, well-earned feeling worth living through without embarrassment. In the preface to Sade, Fourier, Loyola Barthes coined the word \"biographeme\": he wished that someday, in the eyes of a friendly biographer, his life might be reduced not to big facts but to a few beloved small things — tastes, gestures, details. From Barthes's point of view, one might say that pride is also attention to the biographeme: not only to the result, but to the detail that makes what you did distinctly yours. Maybe it's a decision you made at a difficult moment, or a small touch that no one noticed but you. Pride grows warmer when you see that detail.",
+      "practice": "Write down one small detail of what you did that especially delights you. That is your biographeme.",
+      "quote": null
+    },
+    "melancholy": {
+      "text": "Gentle sadness is a quiet, tender feeling with nothing wrong in it. It doesn't need fixing. In The Pleasure of the Text Barthes distinguishes two kinds of pleasure: \"plaisir\" — calm, tied to culture, habit, the coziness of reading — and \"jouissance\" — bliss that shakes you and throws you off course. He defends the right to both and doesn't consider quiet pleasure the lesser. From Barthes's point of view, one might say that melancholy is a special kind of plaisir: not stormy rapture but a calm, slightly sad enjoyment of an autumn day, an old song, a book you read in your youth. You can savor it like a good text, without demanding that it turn into either joy or grief.",
+      "practice": "Choose one thing that brings you gentle sadness — a song, a place, a book. Give it a few minutes, simply enjoying it.",
+      "quote": null
+    }
+  }
+}

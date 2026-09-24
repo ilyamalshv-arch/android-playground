@@ -1,0 +1,394 @@
+{
+  "id": "wittgenstein",
+  "title": "Wittgenstein",
+  "tradition": "Analytic philosophy, philosophy of language",
+  "family": "analytic",
+  "period": "20th century",
+  "sortYear": 1921,
+  "thinkers": [
+    "Ludwig Wittgenstein"
+  ],
+  "keyWorks": [
+    "Tractatus Logico-Philosophicus (1921)",
+    "Philosophical Investigations (1953, posthumous)",
+    "On Certainty (1969, posthumous)"
+  ],
+  "summary": "Wittgenstein was an Austrian-British philosopher and one of the most influential thinkers of the 20th century. In his early work he tried to draw the limits of what can be said clearly; in his later work he showed that the meaning of words lies in how we use them in living “language-games.” He understood philosophy as therapy: not building theories but untangling the knots our language ties us in.",
+  "onEmotions": "Wittgenstein wrote no theory of feelings, but he changed a great deal about how we think of them. He showed that words for feelings are not labels on objects locked in the “box” of the soul but part of a shared life: we learn to say “it hurts” in place of a cry, and that is why feelings can be shared. He distinguished what is said from what is shown: the most important things — ethics, the meaning of life, beauty — cannot be put into words but show themselves in how a person lives. His philosophy is therapy: he compared many torments of the mind to a fly in a fly-bottle, which needs not new knowledge but to be shown the way out.",
+  "entries": {
+    "anxiety": {
+      "text": "Anxiety often sounds like an endless string of “what if…?” questions. Wittgenstein believed that many tormenting questions — in philosophy and in life — arise not because the world is mysterious but because the forms of our language lead us astray. He called this the “bewitchment” of our intelligence by language. A question looks as if it has an answer, and the mind beats against the glass again and again, like a fly in a fly-bottle. Wittgenstein saw the task of philosophy as therapy: not to solve such a question but to see how it is built — and then it loses its power. From this point of view, one could say: not every “what if…” demands an answer. Sometimes it's enough to notice that it's a trap, and that the way out was right there.",
+      "practice": "Write down your anxious question and ask yourself: does it have an answer that can be known right now? If not, label it: “a fly-bottle question.”",
+      "quote": {
+        "text": "What is your aim in philosophy? — To shew the fly the way out of the fly-bottle.",
+        "author": "Ludwig Wittgenstein",
+        "source": "Philosophical Investigations, § 309"
+      }
+    },
+    "fear": {
+      "text": "Fear is a natural and strong feeling; there is nothing shameful in it. Wittgenstein drew attention to an interesting thing: the words “I am afraid” are not always a report on an inner state, like “it's raining outside.” Often they are more like a cry, an expression of the fear itself, like flinching. He wrote that we learn to say words for sensations in place of immediate exclamations and gestures. This is an important observation: when you say “I'm scared,” you are not just reporting a fact, you are also doing something with your fear — bringing it outward, into the shared world, where it can be heard. From this point of view, naming fear is already a small step toward not being alone with it.",
+      "practice": "Say out loud, or write to someone: “I'm scared right now.” Notice what changes when the fear is put into words.",
+      "quote": null
+    },
+    "sadness": {
+      "text": "Sadness can color everything around you, and that's understandable. In the Tractatus Wittgenstein made an unusual remark: a good or bad will changes not the facts of the world but its limits, so that the world as a whole, as it were, waxes or wanes. Sadness works in a similar way: objects and events stay the same, but the whole world looks different, as if the lighting had changed. From this point of view, one could say: sadness is not one more fact to be fixed but the color in which everything is seen right now. Such a view lifts the pressure to “find the cause and eliminate it.” You can acknowledge that the world is colored this way right now, and wait for the light to change.",
+      "practice": "Describe in one sentence what “color” your world is right now. Don't look for reasons — just name it.",
+      "quote": {
+        "text": "The world of the happy man is a different one from that of the unhappy man.",
+        "author": "Ludwig Wittgenstein",
+        "source": "Tractatus Logico-Philosophicus, 6.43"
+      }
+    },
+    "grief": {
+      "text": "Grief is enormous and often finds no words. Wittgenstein noticed that grief is not a sensation that lasts a minute but a pattern that recurs, with different variations, in the weave of our life. It returns in familiar places, in words, in rituals. This helps explain why grief doesn't “pass” on schedule: it is woven into life. In the Tractatus Wittgenstein distinguished what can be said from what can only show itself. The silence he speaks of is not emptiness but respect for what is larger than words. If you can't manage to express your grief, it doesn't mean you are doing something wrong. Sometimes love shows itself precisely in silence.",
+      "practice": "Find an object or place connected with the person you lost, and stay beside it for a minute in silence.",
+      "quote": {
+        "text": "What we cannot speak about we must pass over in silence.",
+        "author": "Ludwig Wittgenstein",
+        "source": "Tractatus Logico-Philosophicus, 7"
+      }
+    },
+    "loneliness": {
+      "text": "Loneliness sometimes feels as though your experiences are locked inside and no one can understand them. Wittgenstein challenged exactly this picture. In the Philosophical Investigations he proposes a thought experiment: everyone has a box with a “beetle” in it, and no one can look into anyone else's box. If words for feelings referred to such locked-away objects, we couldn't talk about them at all. But we do talk — and understand one another. For Wittgenstein, the language of feelings belongs to a shared life; it grew out of how people respond to each other's pain and joy. From this point of view, your feeling is not locked in an inaccessible box: it already has a shared language, and it can be shared.",
+      "practice": "Write one sentence about your feeling as if you were explaining it to someone close. If you want to, send it.",
+      "quote": null
+    },
+    "anger": {
+      "text": "Anger is a strong feeling that often signals a crossed boundary. In his later work Wittgenstein thought a lot about “seeing an aspect.” The famous duck-rabbit picture is a single drawing that can be seen now as a duck, now as a rabbit. Nothing in the lines changes, but what we see changes. From Wittgenstein's point of view, one could say: anger often holds on to one picture of a situation and won't let you see another. This doesn't mean your anger is wrong. But it's useful to notice that there are other aspects too — and sometimes that noticing alone loosens the grip a little. Wittgenstein urged, “don't think, but look!” — and that can be applied here.",
+      "practice": "Describe the situation that angers you in one sentence. Then try to describe it the way an outside observer would see it.",
+      "quote": null
+    },
+    "shame": {
+      "text": "Shame makes us hide, and it is one of the heaviest feelings. Wittgenstein knew it well. He was hard on himself, and at one point, in 1937, he decided to do something he greatly feared: he wrote a “confession” and read it to close friends, admitting to acts he was ashamed of, including untruths about himself. For him this was a way to stop living with a secret. From Wittgenstein's point of view, one could say: shame that stays unspoken gathers strength. Spoken, it becomes part of the shared human world. This doesn't mean you need to tell everyone. But even one honest admission — to yourself or someone close — can set you free.",
+      "practice": "Write on paper, in one sentence, what you're ashamed of. No one needs to see it — just let the words exist.",
+      "quote": null
+    },
+    "guilt": {
+      "text": "Guilt shows that it matters to you how you've treated others. Wittgenstein knew this feeling from the inside. As a young man he spent several years as a village schoolteacher in Austria and was at times harsh and rough with his pupils. Years later he went back to that village to ask some of them for forgiveness in person. This act shows how he understood guilt: not as endless self-flagellation but as a reason to do something concrete. For Wittgenstein, ethics can't be described in words; it shows itself in life — in how a person acts. From this point of view, guilt can turn from a tormenting feeling into action: admission, apology, change.",
+      "practice": "Write down one concrete action that could be your way of “showing” remorse: a word, a letter, some help. You don't have to do it today.",
+      "quote": null
+    },
+    "envy": {
+      "text": "Envy arises when we measure ourselves by someone else's yardstick. Wittgenstein proposed the notion of “family resemblance”: the word “game” has no single common essence — chess, football and hide-and-seek resemble one another the way members of a family do: one has the nose, another the walk. From this point of view, one could say: “a good life” or “success” also has no single essence, no single ruler along which everyone can be lined up. When it seems that someone else “has what I don't,” we seem to assume there is only one measure. Wittgenstein would show that this is just a picture that holds us captive. Your life can be good in a completely different way.",
+      "practice": "Write: “For me, a good life looks like…” — and list three features that matter to you in particular, not to anyone else.",
+      "quote": null
+    },
+    "emptiness": {
+      "text": "Emptiness can be very heavy: as if meaning has disappeared and nothing moves you. In the Tractatus Wittgenstein made a striking observation: people to whom, after long doubting, the meaning of life has become clear often could not say what that meaning consists in. For him, meaning doesn't lie in the world as one more fact that can be found and put into words. It shows itself in how we live. From this point of view, one could say: emptiness does not prove there is no meaning. Perhaps it simply can't be found as the answer to a question. It may appear gradually — in small actions, in attention to things, in how you live this day.",
+      "practice": "Do one small task slowly and attentively: brew tea, water a plant. Don't look for meaning in it — just do it.",
+      "quote": null
+    },
+    "confusion": {
+      "text": "Confusion is the state in which you don't know how to go on, and everything seems tangled. Wittgenstein wrote that a philosophical problem has the form “I don't know my way about.” He believed that muddle often arises not from a lack of information but from not seeing the whole. His answer is the “perspicuous representation”: arranging familiar things so as to see the connections between them. Nothing new needs to be added; what's already there needs to be put in a new order. From this point of view, confusion is not a sign of stupidity but the beginning of clarification. The most important things, Wittgenstein wrote, are hidden from us by their simplicity and familiarity.",
+      "practice": "Write out everything that's confusing you right now on separate lines. Then try grouping these lines by theme — without deciding anything.",
+      "quote": null
+    },
+    "fatigue": {
+      "text": "Tiredness and burnout are a signal that your strength is running out. In the Philosophical Investigations Wittgenstein observed: if I have exhausted the justifications, I have reached bedrock, and my spade is turned. Then I am inclined to say: “This is simply what I do.” From this point of view, one could say: not everything needs endless justification. Sometimes tiredness comes from constantly explaining and proving — to yourself and others — your right to something. Wittgenstein shows that the chain of justifications has an end, and that's normal. You can tell yourself, “Right now I need rest,” and add no proof to it.",
+      "practice": "Tell yourself: “I need rest” — and stop there, without adding any “because” or “but.”",
+      "quote": null
+    },
+    "boredom": {
+      "text": "Boredom is when everything seems familiar and uninteresting. Wittgenstein made an observation that turns this view around: the aspects of things that are most important for us are hidden because of their simplicity and everydayness. We fail to notice something because it is always before our eyes. He urged: “Don't think, but look!” From this point of view, one could say: boredom is not an absence of anything interesting but a habit of looking without seeing. Wittgenstein also described the “dawning of an aspect” — the moment when a familiar thing is suddenly seen anew. Such moments can't be summoned by effort, but you can open the door to them by looking at the familiar attentively, unhurriedly, without expecting that it's now supposed to become interesting.",
+      "practice": "Choose an object you see every day and study it for a minute as if seeing it for the first time. Write down one new detail.",
+      "quote": null
+    },
+    "joy": {
+      "text": "Joy is a wonderful state that needs no justification. In the Tractatus Wittgenstein wrote that the world of the happy man is a different world from that of the unhappy man. In his notebooks from the First World War, which he spent at the front, there is a thought he kept returning to: the happy life is good in itself. For Wittgenstein, ethics and aesthetics are one: the good and the beautiful cannot be reduced to facts; they can only be seen. From this point of view, joy is not something that has to be explained or earned. It is a moment when the whole world opens up differently. You can simply live it, without trying to analyze it or hold on to it.",
+      "practice": "Let yourself stay in the joy without naming its causes. Simply notice how the world around you looks right now.",
+      "quote": null
+    },
+    "love": {
+      "text": "Love and tenderness are among the deepest experiences. Wittgenstein made an unexpected remark about love: love is not a feeling in the sense that pain is a feeling. Love is put to the test; pain is not. You can't say, “That wasn't real pain, since it passed so quickly,” but people do say this about love. For Wittgenstein, love is not a fleeting sensation but something woven into life: into actions, into care, into how you treat a person over time. From this point of view, the tenderness you feel right now is part of a larger pattern, and its genuineness doesn't depend on how vividly you feel it at this particular minute.",
+      "practice": "Recall one action by which you showed love for someone — not a feeling, but a deed. Write it down.",
+      "quote": null
+    },
+    "gratitude": {
+      "text": "Gratitude makes life warmer. Wittgenstein lived a difficult life: war, loneliness, severity toward himself, doubts about his work. Yet according to his friend Norman Malcolm, at the end of his life he asked that a short sentence about his life be passed on to his friends. Those words surprised many who knew how hard things had sometimes been for him. From Wittgenstein's point of view, one could say: gratitude doesn't require life to be easy. It is a way of seeing life whole — “sub specie aeterni,” as he put it in the Tractatus — and noticing what was good in it. Such a view doesn't cancel the difficulties, but it keeps them from blocking out everything else.",
+      "practice": "Write down one hard thing from your life, and next to it one good thing that was also part of it. Let them sit side by side.",
+      "quote": {
+        "text": "Tell them I've had a wonderful life.",
+        "author": "Ludwig Wittgenstein",
+        "source": "Last words, 1951 (as recalled by Norman Malcolm)"
+      }
+    },
+    "hope": {
+      "text": "Hope helps you keep going when the present is hard. In the Philosophical Investigations Wittgenstein asked: can a dog hope? We can imagine a dog believing its master is at the door. But can it believe its master will come the day after tomorrow? Only those who have mastered language, for Wittgenstein, can hope — it takes the whole complex form of human life. Hope, for Wittgenstein, is not just a sensation inside but part of how we live with others: how we speak, make plans, wait. From this point of view, one could say: hope is not a fragile feeling that must be guarded alone. It is rooted in language and in relationships, and it can be sustained together with other people.",
+      "practice": "Tell someone out loud what you hope for, or write it down as a letter. Hope put into words grows sturdier.",
+      "quote": null
+    },
+    "nostalgia": {
+      "text": "Nostalgia is a warm sadness for the past. Wittgenstein taught that the meaning of a word is its use in the language, and language is woven into a “form of life” — a whole of habits, activities and relationships. From this point of view, one could say: words like “home,” “summer,” “our street” were learned within a particular form of life. When it changes, the words remain, but they sound different now. Nostalgia is perhaps a longing for the form of life in which these words sounded in full. This view helps explain why nostalgia is so strong: you miss not just events but a whole world in which you lived and spoke.",
+      "practice": "Choose one word that makes you nostalgic. Write down what it meant then and what it means now.",
+      "quote": null
+    },
+    "craving": {
+      "text": "A craving is a sharp “I want it right now,” and it can be very strong. It's not a weakness but a wave that rolls in and takes hold. In the Philosophical Investigations Wittgenstein noticed a strange thing: it seems as if a wish already knows what will satisfy it. It seems to carry within it a picture of the answer. From this point of view, one could say: a craving paints a very convincing picture — “this is what will help me.” But the picture is not the same as reality. Wittgenstein warned that a picture can hold us captive. You can notice this picture, acknowledge its power — and not hurry to obey. The wave of craving rises, but like any wave, it then subsides.",
+      "practice": "Describe the picture your craving paints: what exactly does it promise? Then wait five minutes and note how its strength has changed.",
+      "quote": null
+    },
+    "addiction": {
+      "text": "Addiction is not a moral failure but a cycle that over time becomes very strong. Wittgenstein wrote about how a picture can hold us captive, and we can't get out because it lies in the very language we think in. He also compared philosophical confusion to a fly in a fly-bottle that beats against the walls again and again, not seeing that the way out is right there. From this point of view, one could say: addiction is also a stable form of life with its own habits, words and rituals. The way out is rarely found by willpower alone. More often it comes through a fresh view from outside, and through people who see the trap from the outside and can show the way.",
+      "practice": "If you like, think about whom you could talk to about this without being judged: a friend, a professional, or a mutual-help group. Just write down one name or place.",
+      "quote": null
+    },
+    "hangover": {
+      "text": "The morning after means feeling physically unwell, and anxiety, and shame, and gaps in memory. All of this is understandable. In his late work On Certainty Wittgenstein reflected on what we know and what we can doubt. He noted that doubt makes sense only against the background of what we are certain of. From this point of view, one could say: there's no point filling the gaps in memory with the worst guesses — that is not knowledge but imagination. Better to lean on what you know for sure and treat the rest as an open question. Wittgenstein also valued honest silence where nothing definite can be said. There's no need to pass sentence on yourself while there are no facts.",
+      "practice": "Drink some water and write down three things you know for sure. Mark the rest simply: “don't know yet.”",
+      "quote": null
+    },
+    "euphoria": {
+      "text": "Euphoria is a bright high in which everything seems possible. In the Tractatus Wittgenstein distinguished “logical space” — everything that is possible — from the world, that is, everything that is the case. In euphoria it's as if the whole of logical space opens at once: possibilities shine, and they are real as possibilities. From this point of view, you can enjoy this expanse without spoiling it with doubts. Wittgenstein, however, would remind you that a possibility is not the same as a fact. This isn't a reproach but a gentle clarification: let the high be, let it fill you, but big decisions are better made once you're standing on the ground of facts again.",
+      "practice": "Write down the ideas and possibilities that seem bright right now. Set them aside for a few days before acting on them.",
+      "quote": null
+    },
+    "crash": {
+      "text": "A sharp drop after a high can be very unpleasant: what shone yesterday seems gray today. In the Philosophical Investigations Wittgenstein described the duck-rabbit drawing: the same lines can be seen in different ways, and nothing in the drawing changes — the aspect changes. From this point of view, one could say: after a high, the world can “switch” to another aspect, though the facts remain the same. This doesn't mean that now you see the truth and before you were deceived. Both aspects are ways of seeing the same drawing. This understanding helps you avoid hasty conclusions about your life as a whole while you're looking at it from the low point.",
+      "practice": "Write: “Right now I see this as…, but it's one of the aspects.” Put off serious conclusions for a couple of days.",
+      "quote": null
+    },
+    "panic": {
+      "text": "A panic attack is a very frightening experience: your heart pounds, you can't get enough air, it seems something terrible is about to happen. Wittgenstein distinguished words that describe facts from words that express a feeling, like a cry. From this point of view, one could say: the thought “I'm about to die” or “I'm going mad” is above all an expression of terror, its voice, not a description of what will happen. This doesn't mean the terror isn't real — it is very real. But such waves usually peak and subside within a few minutes. It helps to return to simple language that everyone shares: naming objects, feeling the ground under your feet.",
+      "practice": "Put your feet on the floor and take a long exhale. Name out loud five objects around you and their colors.",
+      "quote": null
+    },
+    "dread": {
+      "text": "Existential dread is when the question “what's it all for?” rises up and it seems there's an abyss beneath your feet. Wittgenstein thought about this seriously. In the Tractatus he wrote that even if science answered all its questions, the problems of life would remain completely untouched. The meaning of life, in his view, doesn't lie within the world as a fact but shows itself in how we live. He also wrote that eternal life belongs to those who live in the present. From this point of view, one could say: the question “what for?” doesn't necessarily demand a verbal answer. Meaning may show itself in the very living of this day, in being present here and now.",
+      "practice": "Do one simple thing and be fully present in it: feel the weight of the cup, the sound of your steps, your breath.",
+      "quote": null
+    },
+    "fomo": {
+      "text": "The fear of missing out is the feeling that life is happening somewhere else. Wittgenstein taught that the meaning of words depends on the “language-game” in which they are used. From this point of view, one could say: words like “an interesting life” or “being where it's at” belong to particular games — for instance, the game of displaying your life in a feed. In this game someone always looks happier. But these are the rules of a game, not a description of reality. Wittgenstein would show that you can step out of the game by seeing it as a game. Your own life isn't losing the competition, because it doesn't have to take part in it at all. Its meaning is made of your own language-games — conversations, work, attachments that never make it into the feed.",
+      "practice": "Ask yourself: in what “game” am I comparing myself with others right now? Write down its rules in one line.",
+      "quote": null
+    },
+    "sleepless": {
+      "text": "Insomnia is hard: thoughts go round and round, and at night everything seems scarier. Wittgenstein wrote that philosophical confusions arise when language is “idling,” like an engine that turns over but drives nothing. From this point of view, one could say: nighttime thoughts are often exactly this kind of idling. They look like reflections on important matters, but they resolve nothing and can't resolve anything at three in the morning. This doesn't mean your worries are unimportant — just that night is not the place for them. Wittgenstein would show that noticing the mind is idling is already a way of loosening it a little. In the morning the same worries can be looked at, when language is “working” again, that is, connected to things that can be done.",
+      "practice": "If your thoughts are spinning, tell yourself: “This is idling.” Write one thought down on paper and set it aside until morning.",
+      "quote": null
+    },
+    "betrayal": {
+      "text": "Betrayal wounds because it destroys trust. In On Certainty Wittgenstein wrote that our whole life rests on things we don't doubt — like a door that turns on its hinges. Trust in those close to us is one of these supports. It's impossible not to trust at all: must I not begin to trust somewhere? From this point of view, one could say: betrayal hurts so much because one of the hinges your life turned on has been torn off. This doesn't mean you were naive. Trust is not a mistake but a necessary condition of life. It will take time to find new supports, and there's no need to rush yourself into deciding whom to trust again, and when.",
+      "practice": "Write down whom and what in your life you can still trust. Even if the list is short, it matters.",
+      "quote": null
+    },
+    "jealousy": {
+      "text": "Jealousy is an agonizing feeling in which love, fear and imagined pictures are mixed together. Wittgenstein criticized the idea of the soul as a locked “box” no one can look into. From this point of view, one could say: jealousy often rests on exactly that picture — as if somewhere inside the other person a secret truth were hidden that we must uncover. But for Wittgenstein, the inner shows itself in the outer: in words, actions, the way someone treats you. You can rely on what is seen and said, rather than on the imagined contents of someone else's “box.” This doesn't cancel jealousy or make it shameful — it shows how dear the person is to you. But relying on what is visible makes it a little less all-powerful.",
+      "practice": "Write down what you actually saw and heard, separately from what you suppose. Look at both parts.",
+      "quote": null
+    },
+    "resentment": {
+      "text": "Long-held resentment is hard to carry — as if it had moved in and settled inside. Wittgenstein wrote about a picture that holds us captive: we can't get outside it, because it lies in our language, and language seems to repeat it to us relentlessly. From this point of view, one could say: resentment is often stored as a sentence we repeat to ourselves again and again. Each repetition makes it sturdier. This doesn't mean the resentment is unjustified — you really were hurt. But you can notice that you carry around not only the event but also certain words about it. Sometimes changing the words helps loosen the grip a little.",
+      "practice": "Write down the sentence you usually use to retell the hurt to yourself. Try rephrasing it more neutrally, without denying the pain.",
+      "quote": null
+    },
+    "heartbreak": {
+      "text": "A broken heart is one of the sharpest pains. Wittgenstein taught that words live within a “form of life”: habits, activities, relationships. From this point of view, one could say: in the relationship you had a shared language — the words “we” and “ours,” special jokes and names. After a breakup these words lose their game: there's no one to share them with. This is one of the reasons a breakup hurts so much — part of your language leaves along with the person. This understanding doesn't lessen the pain, but it explains it: you're losing not only a person but a whole world of meanings. In time a new language will appear, but grieving the old one is natural.",
+      "practice": "Write down one word or expression that belonged only to the two of you. Let yourself feel sad about it.",
+      "quote": null
+    },
+    "impostor": {
+      "text": "Impostor syndrome is the feeling that you don't actually understand anything and are about to be found out. Wittgenstein offered a view that may help: understanding is not a special inner state or sensation. He wrote that we shouldn't think of understanding as a “mental process.” Understanding shows itself in knowing how to go on — in what you do, apply, solve. From this point of view, one could say: you don't need to feel like a “real expert” in order to be one. Your competence is visible in your work, not in whether you have confidence inside. The absence of that feeling says nothing about your skill.",
+      "practice": "Write down three things you can do — not how you feel, but what you have actually done recently.",
+      "quote": null
+    },
+    "self_hatred": {
+      "text": "The inner critic can be cruel, and its voice is hard to hear. Wittgenstein, who was himself very hard on himself, taught us to distinguish how different sentences work. Some describe facts; others are moves in a game: judgments, verdicts, orders. From this point of view, one could say: the sentence “I'm worthless” looks like the description of a fact, but in reality it is a move in a particular game — the game of self-condemnation. It is not the truth about you but a verdict handed down according to rules you can examine from the outside. Once you notice this, you can step back a little from the critic's voice. It speaks loudly, but that doesn't make its words true.",
+      "practice": "Write down one sentence from your inner critic. Next to it, note: “This is not a description but a verdict.” Look at it again.",
+      "quote": null
+    },
+    "helplessness": {
+      "text": "Helplessness is a heavy feeling, when it seems you can't change anything. In the Tractatus Wittgenstein wrote that the world is independent of my will. This may sound grim, but he carries the thought further: the will doesn't change the facts of the world, but it can change its limits — how the world is seen as a whole. From this point of view, one could say: even if outward circumstances are beyond your power, your attitude toward them, the way you meet them, remains yours. This doesn't mean you should simply resign yourself. But the experience of helplessness doesn't cancel the fact that you still have inner freedom — in how you see, and in small actions.",
+      "practice": "Write down one small thing that is in your power right now — even if it's only how you breathe or what you look at.",
+      "quote": null
+    },
+    "procrastination": {
+      "text": "When you can't get started, it seems you first need to understand and plan everything. In On Certainty Wittgenstein quotes Goethe: “In the beginning was the deed.” He also showed that understanding a rule shows itself not in holding it in your head but in beginning to act and being able to go on. From this point of view, one could say: you don't need to fully understand how to do the task before you begin. Understanding comes along the way. The first step, even an unsure one, is already part of understanding. Wittgenstein described the moment when a person suddenly says, “Now I know how to go on!” — and that moment often comes only after you've begun.",
+      "practice": "Take the smallest first step — open the file, write one sentence. Don't plan; just begin.",
+      "quote": null
+    },
+    "uprooted": {
+      "text": "Being cut off from home is a deep experience, especially when you have to live in a foreign language. Wittgenstein himself moved a great deal: Vienna, Manchester, Cambridge, Norway, Ireland. He wrote in German while living surrounded by English. For him, language is not just a set of words but part of a “form of life.” From this point of view, one could say: when you move, you lose not only a place but a whole world of meanings, of language-games in which you belonged. This explains why emigration is so hard. But Wittgenstein also shows something else: new forms of life can be mastered, new games can be learned — gradually, step by step — and your world will grow wider.",
+      "practice": "Write down one new word or expression from where you are now that you've come to like, and one from your old home that you treasure.",
+      "quote": {
+        "text": "The limits of my language mean the limits of my world.",
+        "author": "Ludwig Wittgenstein",
+        "source": "Tractatus Logico-Philosophicus, 5.6"
+      }
+    },
+    "overload": {
+      "text": "When there is too much information and too many demands, the mind gets overloaded. Wittgenstein valued clarity. In the preface to the Tractatus he wrote that what can be said at all can be said clearly. For his own work, he withdrew to a small hut in Norway, by a fjord, far from the noise. From this point of view, one could say: overload is a sign that there's too much that is unclear and superfluous in your head. Wittgenstein would show that not everything needs to be let in, and that what matters can be seen once the superfluous is set aside. Sometimes clarity comes not from new information but from silence and simplicity — from ceasing to let in the new and looking at what is already there.",
+      "practice": "Turn off all screens for five minutes. Sit in silence and let your thoughts simply settle.",
+      "quote": null
+    },
+    "unreality": {
+      "text": "The feeling that everything is somehow not real can be very strange and unsettling. In On Certainty Wittgenstein reflected on doubt and certainty. He wrote that someone who tried to doubt everything would not even get as far as doubting, because the very game of doubting presupposes certainty. There are things we lean on without even noticing. From this point of view, one could say: even when the world seems unreal, your body, your language and your familiar actions go on leaning on the world. This feeling doesn't make you strange. You can gently return to simple supports — objects, sounds, words — not arguing with the feeling, just touching again and again what you lean on.",
+      "practice": "Touch something with a noticeable texture and name out loud what it is and how it feels. Repeat with two or three objects.",
+      "quote": null
+    },
+    "awe": {
+      "text": "Awe before something vast or beautiful is a rare and valuable feeling. Wittgenstein knew it. In his “Lecture on Ethics” he described the experience of wonder at the very existence of the world — not at what it is like, but that it exists at all. For him this feeling went beyond what can be put into words and belonged to what he called “the mystical.” This is not superstition but an acknowledgment that there are things that show themselves but can't be described. From this point of view, awe doesn't need explaining. You can simply live it, letting yourself wonder that all this exists. In the same lecture Wittgenstein called this wonder his chief example of what he considered absolute value.",
+      "practice": "Let your gaze rest on whatever filled you with awe for one more minute. Tell yourself: “How remarkable that this exists.”",
+      "quote": {
+        "text": "Not how the world is, is the mystical, but that it is.",
+        "author": "Ludwig Wittgenstein",
+        "source": "Tractatus Logico-Philosophicus, 6.44"
+      }
+    },
+    "relief": {
+      "text": "Relief is a warm wave when the heaviness lifts. Wittgenstein described the aim of philosophy as helping the fly out of the fly-bottle. Imagine what the fly feels at the moment it finally flies out into freedom. From this point of view, one could say: relief is the moment when what seemed unsolvable suddenly comes untied. Interestingly, for Wittgenstein the way out often turns out to be simple and was nearby all along — it just couldn't be seen from inside the trap. Relief is not just the absence of heaviness but a small liberation, and there's nothing in it that has to be analyzed or earned right away. Don't rush on to the next worry: this moment is worth noticing and living fully.",
+      "practice": "Take a deep breath and a slow exhale. Tell yourself: “It's easier now” — and stay with that for another minute.",
+      "quote": null
+    },
+    "calm": {
+      "text": "Calm is a precious state. Wittgenstein wrote that the real discovery is the one that gives philosophy peace, so that it is no longer tormented by questions that bring itself into question. He also said that philosophy “leaves everything as it is” — it doesn't change the world but helps us see it clearly. From this point of view, calm is not the absence of thoughts but a moment when thoughts no longer pull in different directions. In the Tractatus he linked true life with living in the present. You can simply be in this calm without trying to analyze it or asking how long it will last. Wittgenstein would probably say that calm needs no explanation: it shows itself.",
+      "practice": "Stay in this state a little longer. Notice how your body feels, without trying to change anything.",
+      "quote": null
+    },
+    "inspiration": {
+      "text": "Inspiration is a moment when thoughts come freely and you want to act. Wittgenstein knew such moments. He described how a person suddenly exclaims, “Now I know how to go on!” — when before, something wasn't working. He also described the “dawning of an aspect”: a familiar thing is suddenly seen anew. Wittgenstein himself wrote in short remarks in which thoughts branch off and return. From this point of view, inspiration is a moment when you see a new aspect, a new connection. You can catch it by writing it down at once and put it in order later. Wittgenstein didn't wait for final clarity before writing: his Philosophical Investigations is a collection of such caught moments, which he rearranged and polished for years. You can start with a rough note.",
+      "practice": "Write down the thought that has come to you right now, just as it is. Don't edit — just capture it.",
+      "quote": null
+    },
+    "schadenfreude": {
+      "text": "Schadenfreude is a feeling that's awkward to admit even to yourself, and yet it is very human. Tellingly, Wittgenstein's native language has a separate word for it — Schadenfreude, literally “joy in harm.” Wittgenstein taught that the meaning of a word lies in its use, in how it is woven into our shared life, which he called a “form of life.” From this point of view, one could say: since language has found a name for this feeling, people must have known it for a long time — it's not your personal monstrousness but a recognizable pattern of human life. Wittgenstein also stressed that feelings show themselves in what a person does. A fleeting spark of schadenfreude says nothing about you yet. What matters more is what you do next.",
+      "practice": "Name the feeling to yourself calmly, as you would the weather: “this is schadenfreude.” Then ask: what hurt of my own responded here?",
+      "quote": null
+    },
+    "contempt": {
+      "text": "Contempt can be cold and even pleasant: it places us above others. Wittgenstein knew it from the inside — he was sharp in his judgments and could demolish someone in a single sentence, and in his diaries he repeatedly reproached himself for vanity and arrogance. His philosophy offers an unexpected key. He wrote about “pictures” that hold us captive: one image starts to seem like the whole truth. Contempt is exactly such a picture: “he's simply a nobody.” Wittgenstein also taught us to notice “aspects”: in one drawing you can see now a duck, now a rabbit. From this point of view, one could say that contempt is a frozen gaze in which a person is seen from one side only. You don't need to force yourself to respect them. It's enough to notice that this is an aspect, not the whole person — and to ask what this contempt is protecting in you.",
+      "practice": "Think of someone you feel contempt for and find in them one trait that can be seen differently — not better, just differently, like the duck and the rabbit in one drawing.",
+      "quote": {
+        "text": "A picture held us captive.",
+        "author": "Ludwig Wittgenstein",
+        "source": "Philosophical Investigations, § 115"
+      }
+    },
+    "disgust": {
+      "text": "Disgust is a strong, bodily feeling: you want to turn away, to move back. It can concern people, a situation, even yourself, and in every case it is legitimate. Wittgenstein would note that the word “disgust” is used here in different ways. Disgust at a smell, at hypocrisy and at yourself are different “language-games,” that is, different ways of using the word in life, linked only by “family resemblance.” Mixing them up, it's easy to get confused. Disgust at a situation can be an honest signal: something here is unacceptable to you. But self-disgust often merely borrows the language of bodily revulsion to pass a verdict. From Wittgenstein's point of view, it's useful not to argue with the feeling but to clarify which game it is sounding in right now. Clarity alone lifts part of the weight.",
+      "practice": "Complete the sentence: “It disgusts me because…” — and see what it's really about: the body, your values, or a judgment on yourself.",
+      "quote": null
+    },
+    "revenge": {
+      "text": "The desire for revenge is a natural response to pain inflicted on you: it says you were treated unjustly, and that is important to acknowledge. In his “Remarks on Frazer's Golden Bough,” Wittgenstein examined ritual actions — for example, when a person burns an effigy of an enemy or kisses a picture of a loved one. He believed such actions are not based on a false theory that they will affect the person themselves: they express a feeling, and in that lies their satisfaction. From this point of view, one could say that the desire for revenge is often, above all, a need to express that what happened was wrong. This need can be respected and satisfied through expression without harming anyone — through words, a letter you won't send, acknowledging the pain before someone who will understand.",
+      "practice": "Write a letter to the person who hurt you that you will not send. Say everything in it — and then keep it or tear it up.",
+      "quote": null
+    },
+    "anger_at_loved": {
+      "text": "Anger at loved ones is one of the most common and most shameful feelings: snapping at someone you love and then being tormented by it. Wittgenstein objected to the habit of thinking that behind a word there is one hidden essence that can be checked at any single moment. He noted that love is not a sensation like pain: it is tested by life. From this point of view, one could say: love shows itself in the whole pattern of life with a person, over time, and a flash of anger is an episode in that pattern, not a refutation of love. Wittgenstein himself could be quick-tempered and harsh with close friends, but he knew how to come back and admit he was wrong. Anger often shows where you feel cramped or hurt. It doesn't need to be turned against the person you love — it can be understood and named.",
+      "practice": "When the anger has subsided, finish the sentence: “I got angry because I needed…” Perhaps you can calmly say this to the person close to you.",
+      "quote": null
+    },
+    "ambivalence": {
+      "text": "To love and to be unable to stand the same person is an agonizing but very common state. You want to understand what you “really” feel. Wittgenstein showed that such a question can be a trap. He gave the duck-rabbit drawing: the same picture is seen now as a duck, now as a rabbit, and neither way of seeing is the only correct one. He called this “seeing aspects.” From this point of view, one could say: a person close to you can evoke both tenderness and irritation, and both feelings are true — they are different aspects of the same relationship. The demand that only one remain is a “picture” that holds you captive. Allowing yourself both feelings, you stop being at war with yourself.",
+      "practice": "Write two short sentences: “What I love in you is…” and “It's hard for me with you when…” Don't choose between them — let both be true.",
+      "quote": null
+    },
+    "guilty_relief": {
+      "text": "Relief after a hard ending — a breakup, the end of a loved one's long illness — often comes with shame: “how can I feel relief?” This is understandable, and it doesn't cancel your love. Wittgenstein noticed that words for feelings don't work like labels on separate objects: “grief,” he wrote, describes a pattern that recurs, with different variations, in the weave of life. From this point of view, one could say: grief, love, tiredness and relief can be interwoven in a single pattern. Relief means that a long strain has ended, not that you didn't love. Wittgenstein warned against a “one-sided diet” — the habit of nourishing thought with examples of only one kind. Your experience is wider than the single sentence “if I feel relieved, I must be a bad person.”",
+      "practice": "Tell yourself: “I feel lighter — and I loved.” Stay with the fact that both statements can be true at once.",
+      "quote": null
+    },
+    "indifference": {
+      "text": "Sometimes you're not moved by what “should” move you: someone else's grief, a celebration, important news. And anxiety is added to the indifference: is something wrong with me? Wittgenstein criticized the idea that every word for a feeling must have an inner “flash” that can be checked by looking inside yourself. He wrote that an “inner process” stands in need of outward criteria. From this point of view, one could say: the absence of a vivid sensation at this minute doesn't yet mean you don't care. Care can live in actions, in memory, in attention. And sometimes indifference is simply tiredness, or protection when there have been too many feelings. The “should” here is someone else's grammar. You don't have to feel on schedule.",
+      "practice": "Recall one small action by which you recently took care of someone or something. Notice: care can be quiet.",
+      "quote": {
+        "text": "An “inner process” stands in need of outward criteria.",
+        "author": "Ludwig Wittgenstein",
+        "source": "Philosophical Investigations, § 580"
+      }
+    },
+    "escape": {
+      "text": "The wish to drop everything — to change jobs, cities, roles — is familiar to many, and it says something important. Wittgenstein himself did this more than once. After the First World War he gave away an enormous inheritance and became a teacher in Austrian villages, worked as a gardener's assistant at a monastery, lived for long stretches in his hut in Norway, and later left his professorship at Cambridge. This was not a flight from life but a search for a place where he could live and think honestly. From his point of view, one could say: sometimes a difficulty can't be resolved within the old “language-game,” and the game itself — the form of life — needs to change. But it's useful to ask what exactly you want to leave and what you want to come to. Sometimes a small change is enough, sometimes a big step is needed — and there's no need to hurry.",
+      "practice": "Complete two sentences: “I want to get away from…” and “I want to come to…” The second often tells you more than the first.",
+      "quote": null
+    },
+    "forbidden_attraction": {
+      "text": "Attraction to someone unavailable or “wrong” is disorienting: the feeling is there, but there's no place for it. This doesn't make you a bad person. Wittgenstein distinguished what can be said from what only shows itself. He also doubted that by looking inside yourself you could simply “read” your desire, like an inscription on a sign. From this point of view, one could say: attraction is neither a verdict nor a command. It may show something about you: a longing for aliveness, for attention, for another life. The question is not only “whom do I want?” but also “what does this desire mean to me?” Wittgenstein wouldn't pass judgment — he would suggest looking attentively, without hurrying to conclusions and without demanding immediate clarity of yourself.",
+      "practice": "Ask yourself without judgment: what in my life does this attraction seem to be asking for — attention, lightness, risk, tenderness? Write down one word.",
+      "quote": null
+    },
+    "social_anxiety": {
+      "text": "Fear of people and their judgment can freeze you so that it's hard to get a word out. It's a common and very understandable feeling. Wittgenstein himself was not easy to be around and often felt like an outsider in academic circles. His philosophy contains a thought that may help. He wrote: “My attitude towards him is an attitude towards a soul.” We see one another not as machines handing out grades but as living people with fears of their own. The fear of judgment paints a one-sided “picture”: as if everyone around were a judge. From Wittgenstein's point of view, one could say that this picture holds you captive, but it isn't the only one. The people nearby are most likely a little afraid too — and also in need of a kindly gaze.",
+      "practice": "At your next gathering, choose one person and quietly notice something alive in them: a gesture, tiredness, a smile. It isn't only you being looked at — you are looking too.",
+      "quote": null
+    },
+    "uncertainty": {
+      "text": "Uncertainty is exhausting: it's unclear what will happen, and there's nothing to lean on. Wittgenstein devoted his last work, On Certainty, to a similar question. He noticed that doubt is possible only against the background of what we don't doubt. He compared such foundations to a riverbed: the water of changing opinions flows along it, and the bed itself can gradually shift too, but not all at once. From Wittgenstein's point of view, one could say: even amid great uncertainty, much remains solid — your hands, your language, the people you know, the simple skills of living. The future is unclear, but you are not standing in a void. Noticing the riverbed makes it easier to withstand the current.",
+      "practice": "Write down the five simplest things you don't doubt right now. This is your riverbed.",
+      "quote": {
+        "text": "If you tried to doubt everything you would not get as far as doubting anything. The game of doubting itself presupposes certainty.",
+        "author": "Ludwig Wittgenstein",
+        "source": "On Certainty, § 115"
+      }
+    },
+    "waiting": {
+      "text": "Waiting — for an answer, results, news — stretches time out and can become agonizing. Wittgenstein thought a lot about what waiting is. He noticed that it is not one inner sensation lasting the whole time. When you're expecting a guest, you look at the clock, put the kettle on, listen for footsteps: expectation is woven into the situation and into actions. From this point of view, one could say: waiting is not only torment inside but also what you do while you wait. And that, at least in part, can be chosen. Waiting doesn't require you to hold the question in your head constantly: the answer will come even if, for a while, you turn to something else.",
+      "practice": "Choose one small task for the next hour that has nothing to do with the waiting, and do it slowly.",
+      "quote": {
+        "text": "An expectation is embedded in a situation, from which it arises.",
+        "author": "Ludwig Wittgenstein",
+        "source": "Philosophical Investigations, § 581"
+      }
+    },
+    "regret": {
+      "text": "Regret over something done or left undone can return again and again. Wittgenstein knew it well. In the 1920s, working as a village schoolteacher, he was sometimes cruel to his pupils and struck them. Years later he returned to the village and personally asked some of his former pupils for forgiveness. It was very hard for him, but he considered it necessary. From Wittgenstein's point of view, one could say: regret is not only a gnawing thought; it can show itself in an act. The past can't be changed, but you can change what you do with it today. And a big gesture isn't always needed: sometimes it's enough to honestly admit the mistake and act differently next time.",
+      "practice": "Write down what you regret, and next to it one small action you could take today. Even if it's simply admitting it to yourself.",
+      "quote": null
+    },
+    "longing": {
+      "text": "Longing for a particular person hurts in a special way: it's precisely their voice, their habits you miss. Wittgenstein asked a question that seems strange at first: could someone feel ardent love or hope for just one second — regardless of what came before or after? His answer: no. Such feelings make sense only within a whole story, surrounded by a life. From this point of view, one could say: your longing is not just an unpleasant sensation you'd like to switch off. It is a sign of how deeply this person is woven into your life. Longing speaks of connection. You can carry it as part of that story, not as a mistake that needs fixing.",
+      "practice": "Recall one concrete detail of this person — a gesture, a phrase, a scent. Let yourself simply remember it.",
+      "quote": null
+    },
+    "world_pain": {
+      "text": "Pain for the world — from hard news, wars, injustice — can be almost unbearable. It is a sign that you care. Wittgenstein went through the First World War as a volunteer, was on the front line and in captivity; it was in his wartime notebooks that the Tractatus took shape. He wrote that the sense of the world lies outside the world of facts, and that ethics cannot be put into words but shows itself. From this point of view, one could say: you don't have to find words that explain the world's suffering — there may be none. But your attitude toward the world shows itself in how you live: in kindness to those near you, in honesty, in whatever help you can give. That is no small thing. It is exactly what cannot be said but can be shown.",
+      "practice": "Choose one small act of kindness today — for someone close or a stranger. Not as a solution to the world's problems, but as your response to them.",
+      "quote": null
+    },
+    "rejection": {
+      "text": "Rejection wounds deeply: it seems a verdict has been passed on you. Wittgenstein taught us to notice how language leads us astray. The phrase “I was rejected” sounds like a statement about you, as if someone had measured your worth. But for Wittgenstein, the meaning of words lies in their use. When you weren't chosen, that was another person's action in a particular situation, within their “language-game” — with its own rules, needs and history. It is not a description of who you are. If you didn't get the job, or someone didn't return your feelings, that speaks of an encounter, not of your essence. You can let yourself grieve without turning the grief into a final verdict on yourself.",
+      "practice": "Rewrite the phrase “I was rejected” more precisely: “This person, in this situation, decided…” Notice how its weight changes.",
+      "quote": null
+    },
+    "abandonment": {
+      "text": "The fear of being abandoned can be very strong, especially if you have been left before. In On Certainty Wittgenstein wrote that a child learns by trusting adults: doubt comes after belief. Trust is not a conclusion drawn from evidence but the ground on which anything becomes possible at all. From this point of view, one could say: the fear of abandonment is a crack in that ground. That is why trying to prove to yourself that you won't be left often doesn't help: no proof can replace trust. But trust can be grown again, step by step, in relationships with people who stay. Your fear is understandable, and it doesn't mean you will necessarily be left.",
+      "practice": "Think of a person who stayed by your side even though they could have left. Write down one thing they did for you.",
+      "quote": null
+    },
+    "unrequited": {
+      "text": "Unrequited love is a pain that is hard to share: the feeling is enormous, and there is no answer. Wittgenstein wrote that love is not a sensation like pain: it is tested by life, by actions, by time. He also showed that language is a shared practice: words take on meaning in a game in which at least two take part. From this point of view, one could say: your love is real, but the shared “game” in which it would have been answered didn't come together. This doesn't mean you loved wrongly or that you are unworthy of love. It means that reciprocity takes two — and that is not in your power. You can respect your feeling and at the same time allow it, in time, to find another form.",
+      "practice": "Write down what this love taught you about yourself — one thing that will stay with you.",
+      "quote": null
+    },
+    "humiliation": {
+      "text": "Humiliation leaves a deep mark: you were made to look worthless, and it seems everyone saw it. Wittgenstein showed that words and gestures take on meaning within “language-games” — shared rules by which people act. Humiliation is a game in which one person claims the right to decide who is worth what. From Wittgenstein's point of view, one could say: you didn't set the rules of this game, and you don't have to accept them as a description of reality. The fact that you were humiliated speaks of the game you were drawn into, not of your essence. Wittgenstein saw the task of philosophy as showing the fly the way out of the fly-bottle. Sometimes it's enough to see that you've been caught in the trap of someone else's rules in order to start getting out.",
+      "practice": "Write down the “rules” by which you were humiliated. Then write a rule by which you yourself would like people to treat one another.",
+      "quote": null
+    },
+    "body_shame": {
+      "text": "Dissatisfaction with your body can be a constant background: the mirror, photos, other people's glances. It's a very common feeling, and there is nothing shameful in it. Wittgenstein has a striking sentence saying that the human body is the best picture of the human soul. He meant that we see joy, sadness and attention right in a face and in gestures: the body is not a shell but the place where the soul becomes visible. From this point of view, one could say: judging the body only as appearance, by the standards of advertising, means looking at it through one narrow “picture.” Your body is how you laugh, hug, get tired, hold a cup. It is a living expression of you, not an object for an exam.",
+      "practice": "Recall one movement of your body that expresses you — a gesture, your walk, your laugh. Stay with this image for a minute.",
+      "quote": {
+        "text": "The human body is the best picture of the human soul.",
+        "author": "Ludwig Wittgenstein",
+        "source": "Philosophical Investigations, Part II, section iv"
+      }
+    },
+    "illness": {
+      "text": "Illness changes a great deal: the body you relied on suddenly lets you down. It's frightening and wearing, and your feelings here are legitimate. In the last years of his life Wittgenstein was seriously ill, yet he kept working as much as his strength allowed. During that time he wrote the notes that later became the book On Certainty. He reflected on what remains certain when much is shaking: on the simple things life rests on. From Wittgenstein's point of view, one could say: illness doesn't reset your life to zero; it changes its “game,” its rules. But even in the new game there is room for meaning, thought, connection with people. Wittgenstein made of his illness neither a tragedy nor a feat — he went on living and thinking as best he could.",
+      "practice": "Note one thing you managed to do today, even a very small one. It too is part of your life.",
+      "quote": null
+    },
+    "pride": {
+      "text": "Pride in what you've done is a healthy, good feeling. You have accomplished something, and that deserves acknowledgment. Wittgenstein had plenty to be proud of: his Tractatus immediately became an event in philosophy. But he was demanding of himself and later revised many of its ideas. In the preface to the Philosophical Investigations he openly admitted the “grave mistakes” of his first book — and yet he didn't disown it, suggesting that the two books be read side by side. From Wittgenstein's point of view, one could say: healthy pride doesn't require the result to be final and flawless. You can be proud of what you've done and remain open to growing further. One doesn't cancel the other. Let yourself be glad: this is yours.",
+      "practice": "Write in one or two sentences what you did and what you're proud of. Reread it and simply be glad.",
+      "quote": null
+    },
+    "melancholy": {
+      "text": "Gentle sadness is a subtle feeling in which sorrow lives alongside tenderness and beauty. Wittgenstein loved music deeply — Schubert, Brahms, Beethoven — and was convinced that its meaning couldn't be retold in words. He distinguished what can be said from what only shows itself. From this point of view, one could say: melancholy is one of those feelings that are hard to explain but show themselves clearly in a melody, in autumn light, in a memory. It doesn't need to be “solved” or fixed. Wittgenstein wrote that philosophy “leaves everything as it is.” Sometimes a feeling, too, is best allowed to be just as it is — quiet, a little sad, and alive.",
+      "practice": "Put on music that resonates with this mood and simply listen, without trying to change anything.",
+      "quote": null
+    }
+  }
+}
