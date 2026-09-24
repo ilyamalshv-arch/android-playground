@@ -5,6 +5,8 @@
   "main": "worker/worker.js",
   "compatibility_date": "2025-09-01",
   "workers_dev": true,
-  "ai": { "binding": "AI" }
+  "ai": { "binding": "AI" },
+  // The web version (PWA) is served from the same address; build it with tools/build_web.py.
+  "assets": { "directory": "./web/dist" }
   // The APP_TOKEN secret is set in the dashboard (Settings → Variables and Secrets), never here.
 }

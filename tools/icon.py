@@ -114,6 +114,11 @@ if __name__ == "__main__":
         '    <background android:drawable="@mipmap/ic_launcher_background" />\n'
         '    <foreground android:drawable="@mipmap/ic_launcher_foreground" />\n'
         '</adaptive-icon>\n')
+    # Web/PWA icons: the full adaptive composite (maskable-safe: the S sits in the inner 60 %).
+    web = pathlib.Path(__file__).resolve().parent.parent / "web/icons"
+    web.mkdir(parents=True, exist_ok=True)
+    for size in (192, 512):
+        full.resize((size, size), Image.LANCZOS).convert("RGB").save(web / f"icon-{size}.png")
     # Preview: the icon as a launcher would mask it (circle).
     prev = full.resize((512, 512), Image.LANCZOS)
     mask = Image.new("L", (512, 512), 0)
