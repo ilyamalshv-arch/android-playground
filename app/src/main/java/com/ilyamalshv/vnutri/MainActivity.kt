@@ -11,6 +11,7 @@ import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.material3.AlertDialog
 import androidx.compose.material3.CircularProgressIndicator
+import androidx.compose.material3.LocalContentColor
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Surface
 import androidx.compose.material3.Text
@@ -76,9 +77,11 @@ class MainActivity : ComponentActivity() {
             feedback.view = LocalView.current
             VnutriTheme {
                 CompositionLocalProvider(LocalFeedback provides feedback) {
-                    Box(Modifier.fillMaxSize()) {
-                        VelvetBackground()
-                        App(settings, ambient, feedback)
+                    CompositionLocalProvider(LocalContentColor provides MaterialTheme.colorScheme.onBackground) {
+                        Box(Modifier.fillMaxSize()) {
+                            VelvetBackground()
+                            App(settings, ambient, feedback)
+                        }
                     }
                 }
             }

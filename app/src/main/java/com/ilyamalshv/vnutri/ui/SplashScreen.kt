@@ -75,15 +75,17 @@ fun pickSplashQuote(library: Library): Quote? =
  * pushing ridges aside, and it slowly flows back when left alone. Underneath: a red room.
  * The mass is a height field simulated on a grid and lit per pixel (diffuse + specular).
  */
-private const val RIDGE = 0f
-
+/**
+ * The mass works like paint under an eraser: its glossy relief is fixed (lit once from the resting surface),
+ * and the finger only thins it, so there are no carved grooves with light and dark rims.
+ */
 private class Mass(val w: Int, val h: Int) {
     var height = FloatArray(w * h)
     private var scratch = FloatArray(w * h)
     private val rest = FloatArray(w * h)
+    private val baseColor = IntArray(w * h)
     val pixels = IntArray(w * h)
     val bitmap: Bitmap = Bitmap.createBitmap(w, h, Bitmap.Config.ARGB_8888)
-    var melting = false
 
     /** Frames since the finger last touched; the mass only starts flowing back after a pause. */
     var idleFrames = 0
@@ -97,9 +99,31 @@ private class Mass(val w: Int, val h: Int) {
             rest[y * w + x] = v
             height[y * w + x] = v
         }
+        // Light the resting relief once: diffuse + a wet specular highlight.
+        val lx = -0.45f; val ly = -0.62f; val lz = 0.64f
+        val hzv = lz + 1f
+        val hn = sqrt(lx * lx + ly * ly + hzv * hzv)
+        val hx = lx / hn; val hy = ly / hn; val hz = hzv / hn
+        for (y in 0 until h) for (x in 0 until w) {
+            val i = y * w + x
+            val l = rest[if (x > 0) i - 1 else i]; val r = rest[if (x < w - 1) i + 1 else i]
+            val u = rest[if (y > 0) i - w else i]; val d = rest[if (y < h - 1) i + w else i]
+            val nx = (l - r) * 5f; val ny = (u - d) * 5f
+            val inv = 1f / sqrt(nx * nx + ny * ny + 1f)
+            val nX = nx * inv; val nY = ny * inv; val nZ = inv
+            val diffuse = max(0f, nX * lx + nY * ly + nZ * lz)
+            var s = max(0f, nX * hx + nY * hy + nZ * hz)
+            s *= s; s *= s; s *= s; s *= s; s *= s
+            val cavity = ((l + r + u + d) * 0.25f - rest[i]) * 1.2f
+            val shade = 0.52f + 0.52f * diffuse - cavity
+            val rr = (0.95f * shade + 0.75f * s).coerceIn(0f, 1f)
+            val gg = (0.925f * shade + 0.75f * s).coerceIn(0f, 1f)
+            val bb = (0.885f * shade + 0.78f * s).coerceIn(0f, 1f)
+            baseColor[i] = ((rr * 255).toInt() shl 16) or ((gg * 255).toInt() shl 8) or (bb * 255).toInt()
+        }
     }
 
-    /** Wipe along a segment; removed material piles up in a ridge around the brush. */
+    /** Thin the mass along a segment with a soft round brush; a couple of passes clear it. */
     fun wipe(x0: Float, y0: Float, x1: Float, y1: Float, radius: Float) {
         idleFrames = 0
         val len = hypot(x1 - x0, y1 - y0)
@@ -111,88 +135,44 @@ private class Mass(val w: Int, val h: Int) {
     }
 
     private fun stamp(cx: Float, cy: Float, r: Float) {
-        val outer = r * 1.45f
-        val minX = max(1, (cx - outer).toInt()); val maxX = min(w - 2, (cx + outer).toInt() + 1)
-        val minY = max(1, (cy - outer).toInt()); val maxY = min(h - 2, (cy + outer).toInt() + 1)
-        var removed = 0f
-        var ringWeight = 0f
+        val minX = max(0, (cx - r).toInt()); val maxX = min(w - 1, (cx + r).toInt() + 1)
+        val minY = max(0, (cy - r).toInt()); val maxY = min(h - 1, (cy + r).toInt() + 1)
         for (y in minY..maxY) for (x in minX..maxX) {
             val d = hypot(x - cx, y - cy) / r
-            if (d < 1.35f) {
-                // Wide, gentle falloff so the stroke has soft shoulders instead of a cliff.
-                val q = (1f - (d / 1.35f) * (d / 1.35f)).coerceIn(0f, 1f)
-                val k = q * q * q * 0.95f
+            if (d < 1f) {
+                val q = 1f - d * d
                 val i = y * w + x
-                val take = height[i] * k
-                height[i] -= take
-                removed += take
-            } else if (d < 1.45f) {
-                ringWeight += 1f - abs(d - 1.2f) / 0.25f
+                height[i] -= height[i] * q * q * 0.35f
             }
-        }
-        // No ridge: pushed-aside material read as a dark rim around the stroke. The mass simply thins out.
-        if (ringWeight <= 0f || RIDGE <= 0f) return
-        val share = removed * RIDGE / ringWeight
-        for (y in minY..maxY) for (x in minX..maxX) {
-            val d = hypot(x - cx, y - cy) / r
-            if (d in 1f..1.45f) height[y * w + x] += share * (1f - abs(d - 1.2f) / 0.25f)
         }
     }
 
-    /** Very slow viscous smoothing; after a pause the mass creeps back, or melts away once opened. */
+    /** A trace of viscosity; after a pause the mass slowly creeps back. */
     fun step() {
         idleFrames++
-        // ~3 s of stillness before it starts to return, then it takes about a minute.
         val heal = if (idleFrames > 180) 0.00025f else 0f
         val src = height; val dst = scratch
         for (y in 0 until h) for (x in 0 until w) {
             val i = y * w + x
             if (x == 0 || y == 0 || x == w - 1 || y == h - 1) { dst[i] = src[i]; continue }
             val lap = src[i - 1] + src[i + 1] + src[i - w] + src[i + w] - 4f * src[i]
-            var v = src[i] + 0.015f * lap
-            v = if (melting) v * 0.93f else v + (rest[i] - v) * heal
-            dst[i] = max(0f, v)
+            val v = src[i] + 0.006f * lap
+            dst[i] = max(0f, v + (rest[i] - v) * heal)
         }
         height = dst; scratch = src
     }
 
     fun coverage(): Float {
         var covered = 0
-        for (v in height) if (v > 0.25f) covered++
+        for (i in height.indices) if (height[i] > rest[i] * 0.3f) covered++
         return covered / height.size.toFloat()
     }
 
     fun render() {
-        val hf = height
-        // Light from the upper left, viewer straight on; half vector precomputed.
-        val lx = -0.45f; val ly = -0.62f; val lz = 0.64f
-        val hxv = lx; val hyv = ly; val hzv = lz + 1f
-        val hn = sqrt(hxv * hxv + hyv * hyv + hzv * hzv)
-        val hx = hxv / hn; val hy = hyv / hn; val hz = hzv / hn
-        for (y in 0 until h) for (x in 0 until w) {
-            val i = y * w + x
-            val v = hf[i]
-            // A wide translucent zone: thin mass lets the room show through, like thinned paint.
-            val a = ((v - 0.02f) / 0.55f).coerceIn(0f, 1f).let { it * it * (3 - 2 * it) }
-            val a3 = a * a * a
-            if (a <= 0f) { pixels[i] = 0; continue }
-            val l = hf[if (x > 0) i - 1 else i]; val r = hf[if (x < w - 1) i + 1 else i]
-            val u = hf[if (y > 0) i - w else i]; val d = hf[if (y < h - 1) i + w else i]
-            val relief = 5f * a3 // thin edges are lit flat, so the stroke's border melts instead of outlining
-            val nx = (l - r) * relief; val ny = (u - d) * relief
-            val inv = 1f / sqrt(nx * nx + ny * ny + 1f)
-            val nX = nx * inv; val nY = ny * inv; val nZ = inv
-            val diffuse = max(0f, nX * lx + nY * ly + nZ * lz)
-            var s = max(0f, nX * hx + nY * hy + nZ * hz)
-            s *= s; s *= s; s *= s; s *= s; s *= s // ^32: a wet, glossy highlight
-            s *= a * a // no glints on the thin edge
-            val cavity = ((l + r + u + d) * 0.25f - v) * 0.5f * a3 // valleys a touch darker, never at the edge
-            val shade = 0.52f + 0.52f * diffuse - cavity
-            val warm = (v - 1f) * 0.06f
-            val rr = (0.95f * shade + 0.75f * s + warm).coerceIn(0f, 1f)
-            val gg = (0.925f * shade + 0.75f * s).coerceIn(0f, 1f)
-            val bb = (0.885f * shade + 0.78f * s - warm).coerceIn(0f, 1f)
-            pixels[i] = ((a * 255).toInt() shl 24) or ((rr * 255).toInt() shl 16) or ((gg * 255).toInt() shl 8) or (bb * 255).toInt()
+        for (i in pixels.indices) {
+            val frac = (height[i] / rest[i]).coerceIn(0f, 1f)
+            val a = ((frac - 0.04f) / 0.6f).coerceIn(0f, 1f).let { it * it * (3 - 2 * it) }
+            pixels[i] = if (a <= 0f) 0 else ((a * 255).toInt() shl 24) or baseColor[i]
         }
         bitmap.setPixels(pixels, 0, w, 0, 0, w, h)
     }
@@ -239,7 +219,7 @@ fun SplashScreen(quote: Quote?, lang: String, onLang: (String) -> Unit, onEnter:
                 val m = mass ?: return@pointerInput
                 val sx = m.w / size.width.toFloat()
                 val sy = m.h / size.height.toFloat()
-                val radius = m.w * 0.075f
+                val radius = m.w * 0.045f
                 awaitEachGesture {
                     val down = awaitFirstDown()
                     var prev = down.position
