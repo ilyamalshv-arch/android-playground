@@ -28,6 +28,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.platform.LocalView
 import com.ilyamalshv.vnutri.data.AiClient
+import com.ilyamalshv.vnutri.data.EmotionGuess
 import com.ilyamalshv.vnutri.data.EmotionMark
 import com.ilyamalshv.vnutri.data.JournalEntry
 import com.ilyamalshv.vnutri.data.JournalStore
@@ -169,13 +170,22 @@ private fun App(settings: Settings, ambient: Ambient, feedback: Feedback) {
             note = note,
             onNote = { note = it },
             onSubmit = {
-                val entry = JournalEntry(id = System.currentTimeMillis(), emotions = marks.toList(), note = note.trim())
-                upsert(entry)
+                // Text alone is enough: fall back to feelings recognised in it.
+                val chosen = marks.toList().ifEmpty { EmotionGuess.guess(note).map { EmotionMark(it, 2) } }
                 val crisis = Safety.isCrisis(note)
+                val entry = JournalEntry(id = System.currentTimeMillis(), emotions = chosen, note = note.trim())
+                upsert(entry)
                 feedback.confirm()
                 marks.clear()
                 note = ""
-                push(if (crisis) Screen.Crisis(fromText = true, continueTo = entry.id) else Screen.Result(entry.id))
+                val next = entry.id.takeIf { chosen.isNotEmpty() }
+                push(
+                    when {
+                        crisis -> Screen.Crisis(fromText = true, continueTo = next)
+                        next != null -> Screen.Result(next)
+                        else -> Screen.Home
+                    },
+                )
             },
             onJournal = { push(Screen.Journal) },
             onLibrary = { push(Screen.Library) },

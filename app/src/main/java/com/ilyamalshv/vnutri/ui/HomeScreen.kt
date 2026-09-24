@@ -26,11 +26,14 @@ import androidx.compose.material3.Text
 import androidx.compose.material3.TextButton
 import androidx.compose.material3.TopAppBar
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.remember
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
+import com.ilyamalshv.vnutri.data.EmotionGuess
 import com.ilyamalshv.vnutri.data.EmotionMark
 import com.ilyamalshv.vnutri.data.Emotions
+import com.ilyamalshv.vnutri.data.Safety
 import com.ilyamalshv.vnutri.data.intensityLabel
 
 @OptIn(ExperimentalMaterial3Api::class, ExperimentalLayoutApi::class)
@@ -107,25 +110,52 @@ fun HomeScreen(
             OutlinedTextField(
                 value = note,
                 onValueChange = onNote,
-                label = { Text("Своими словами (необязательно)") },
+                label = { Text("Своими словами") },
                 placeholder = { Text("Что происходит? Что вы замечаете в себе?") },
                 minLines = 3,
                 modifier = Modifier.fillMaxWidth().padding(top = 16.dp),
             )
 
+            val suggestions = remember(note, selectedIds) {
+                EmotionGuess.guess(note).filter { it !in selectedIds }
+            }
+            if (suggestions.isNotEmpty()) {
+                Text(
+                    if (marks.isEmpty()) "Похоже на это — нажмите, чтобы отметить:" else "Возможно, ещё:",
+                    style = MaterialTheme.typography.bodySmall,
+                    color = MaterialTheme.colorScheme.onSurfaceVariant,
+                    modifier = Modifier.padding(top = 8.dp),
+                )
+                FlowRow(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
+                    suggestions.forEach { id ->
+                        SoftChip(selected = false, label = "+ " + Emotions.name(id), onClick = { onToggle(id) })
+                    }
+                }
+            }
+
+            val crisis = remember(note) { Safety.isCrisis(note) }
+            val canSubmit = marks.isNotEmpty() || suggestions.isNotEmpty() || crisis
             Spacer(Modifier.height(16.dp))
             val (submitInteraction, submitPress) = rememberSoftPress(0.96f)
             Button(
                 onClick = onSubmit,
-                enabled = marks.isNotEmpty(),
+                enabled = canSubmit,
                 interactionSource = submitInteraction,
                 modifier = Modifier.fillMaxWidth().then(submitPress),
             ) {
                 Text("Осмыслить")
             }
-            if (marks.isEmpty() && note.isNotBlank()) {
+            if (!canSubmit) {
                 Text(
-                    "Отметьте хотя бы одно чувство, чтобы подобрать взгляды философов.",
+                    if (note.isBlank()) "Отметьте чувство или опишите, что происходит."
+                    else "Не получилось узнать чувство по тексту — отметьте его выше, и я подберу взгляды философов.",
+                    style = MaterialTheme.typography.bodySmall,
+                    color = MaterialTheme.colorScheme.onSurfaceVariant,
+                    modifier = Modifier.padding(top = 6.dp),
+                )
+            } else if (marks.isEmpty() && suggestions.isNotEmpty()) {
+                Text(
+                    "Возьму чувства из подсказки: " + suggestions.joinToString(", ") { Emotions.name(it).lowercase() } + ".",
                     style = MaterialTheme.typography.bodySmall,
                     color = MaterialTheme.colorScheme.onSurfaceVariant,
                     modifier = Modifier.padding(top = 6.dp),
