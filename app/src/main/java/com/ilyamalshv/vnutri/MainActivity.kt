@@ -22,12 +22,14 @@ import androidx.compose.runtime.mutableStateListOf
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.produceState
 import androidx.compose.runtime.remember
+import androidx.compose.runtime.rememberCoroutineScope
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.platform.LocalView
 import com.ilyamalshv.vnutri.data.AiClient
+import com.ilyamalshv.vnutri.data.AiReply
 import com.ilyamalshv.vnutri.data.EmotionGuess
 import com.ilyamalshv.vnutri.data.EmotionMark
 import com.ilyamalshv.vnutri.data.JournalEntry
@@ -49,6 +51,7 @@ import com.ilyamalshv.vnutri.ui.ResultScreen
 import com.ilyamalshv.vnutri.ui.SchoolScreen
 import com.ilyamalshv.vnutri.ui.VnutriTheme
 import kotlinx.coroutines.Dispatchers
+import kotlinx.coroutines.launch
 import kotlinx.coroutines.withContext
 
 class MainActivity : ComponentActivity() {
@@ -116,6 +119,22 @@ private fun App(settings: Settings, ambient: Ambient, feedback: Feedback) {
     val stack = remember { mutableStateListOf<Screen>(if (settings.intro) Screen.Intro else Screen.Home) }
     val marks = remember { mutableStateListOf<EmotionMark>() }
     var note by remember { mutableStateOf("") }
+    var aiIds by remember { mutableStateOf<List<String>?>(null) }
+    var aiLoading by remember { mutableStateOf(false) }
+    var askConsent by remember { mutableStateOf(false) }
+    val scope = rememberCoroutineScope()
+
+    fun classify() {
+        aiLoading = true
+        scope.launch {
+            when (val r = ai.classify(note)) {
+                is AiReply.States -> aiIds = r.ids.ifEmpty { null }
+                AiReply.Crisis -> stack.add(Screen.Crisis(fromText = true, continueTo = null))
+                else -> Unit
+            }
+            aiLoading = false
+        }
+    }
 
     fun push(s: Screen) = stack.add(s)
     fun pop() { if (stack.size > 1) stack.removeAt(stack.lastIndex) }
@@ -168,16 +187,17 @@ private fun App(settings: Settings, ambient: Ambient, feedback: Feedback) {
                 feedback.tap()
             },
             note = note,
-            onNote = { note = it },
-            onSubmit = {
-                // Text alone is enough: fall back to feelings recognised in it.
-                val chosen = marks.toList().ifEmpty { EmotionGuess.guess(note).map { EmotionMark(it, 2) } }
+            onNote = { note = it; aiIds = null },
+            onSubmit = { suggested ->
+                // Text alone is enough: fall back to the suggestions shown under the text field.
+                val chosen = marks.toList().ifEmpty { suggested.map { EmotionMark(it, 2) } }
                 val crisis = Safety.isCrisis(note)
                 val entry = JournalEntry(id = System.currentTimeMillis(), emotions = chosen, note = note.trim())
                 upsert(entry)
                 feedback.confirm()
                 marks.clear()
                 note = ""
+                aiIds = null
                 val next = entry.id.takeIf { chosen.isNotEmpty() }
                 push(
                     when {
@@ -186,6 +206,16 @@ private fun App(settings: Settings, ambient: Ambient, feedback: Feedback) {
                         else -> Screen.Home
                     },
                 )
+            },
+            aiAvailable = settings.aiConfigured,
+            aiIds = aiIds,
+            aiLoading = aiLoading,
+            onAiClassify = {
+                if (!settings.aiConsent) {
+                    askConsent = true
+                } else {
+                    classify()
+                }
             },
             onJournal = { push(Screen.Journal) },
             onLibrary = { push(Screen.Library) },
@@ -243,6 +273,27 @@ private fun App(settings: Settings, ambient: Ambient, feedback: Feedback) {
     }
 
     if (current !is Screen.Intro) WelcomeDialog()
+
+    if (askConsent) {
+        AlertDialog(
+            onDismissRequest = { askConsent = false },
+            title = { Text("ИИ прочитает текст") },
+            text = {
+                Text(
+                    "Чтобы распознать состояния точнее, ваш текст будет отправлен на ваш сервер Cloudflare и обработан открытой моделью ИИ. " +
+                        "Сервер ничего не сохраняет. Лучше не писать имён, адресов и других личных данных.",
+                )
+            },
+            confirmButton = {
+                TextButton(onClick = {
+                    settings.aiConsent = true
+                    askConsent = false
+                    classify()
+                }) { Text("Согласен(на)") }
+            },
+            dismissButton = { TextButton(onClick = { askConsent = false }) { Text("Отмена") } },
+        )
+    }
 }
 
 @Composable

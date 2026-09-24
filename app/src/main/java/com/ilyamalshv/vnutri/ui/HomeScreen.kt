@@ -12,9 +12,11 @@ import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.consumeWindowInsets
 import androidx.compose.foundation.layout.imePadding
 import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.verticalScroll
 import androidx.compose.material3.Button
+import androidx.compose.material3.CircularProgressIndicator
 import androidx.compose.material3.ExperimentalMaterial3Api
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.Settings
@@ -46,7 +48,11 @@ fun HomeScreen(
     onIntensity: (String, Int) -> Unit,
     note: String,
     onNote: (String) -> Unit,
-    onSubmit: () -> Unit,
+    onSubmit: (suggested: List<String>) -> Unit,
+    aiAvailable: Boolean,
+    aiIds: List<String>?,
+    aiLoading: Boolean,
+    onAiClassify: () -> Unit,
     onJournal: () -> Unit,
     onLibrary: () -> Unit,
     onHelp: () -> Unit,
@@ -120,8 +126,16 @@ fun HomeScreen(
                 modifier = Modifier.fillMaxWidth().padding(top = 16.dp),
             )
 
-            val suggestions = remember(note, selectedIds) {
-                EmotionGuess.guess(note).filter { it !in selectedIds }
+            val suggestions = remember(note, selectedIds, aiIds) {
+                (aiIds ?: EmotionGuess.guess(note)).filter { it !in selectedIds }
+            }
+            if (aiAvailable && note.trim().length >= 30) {
+                Row(verticalAlignment = Alignment.CenterVertically) {
+                    TextButton(onClick = onAiClassify, enabled = !aiLoading) {
+                        Text(if (aiIds == null) "✦ Распознать точнее с ИИ" else "✦ Распознано ИИ — обновить")
+                    }
+                    if (aiLoading) CircularProgressIndicator(Modifier.size(18.dp), strokeWidth = 2.dp)
+                }
             }
             if (suggestions.isNotEmpty()) {
                 Text(
@@ -142,7 +156,7 @@ fun HomeScreen(
             Spacer(Modifier.height(16.dp))
             val (submitInteraction, submitPress) = rememberSoftPress(0.96f)
             Button(
-                onClick = onSubmit,
+                onClick = { onSubmit(suggestions) },
                 enabled = canSubmit,
                 interactionSource = submitInteraction,
                 modifier = Modifier.fillMaxWidth().then(submitPress),

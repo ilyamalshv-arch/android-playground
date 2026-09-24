@@ -84,6 +84,49 @@ function tokensEqual(a, b) {
   return diff === 0;
 }
 
+// Reads the whole text and picks 1–4 states from the app's list. Returns only known ids.
+async function classify(body, env) {
+  const text = clip(body.text, LIMITS.note).trim();
+  const states = (Array.isArray(body.states) ? body.states : []).slice(0, 100)
+    .map((s) => ({ id: clip(s.id, 40), name: clip(s.name, 60) }))
+    .filter((s) => /^[a-z_]+$/.test(s.id));
+  if (!text || !states.length) return json({ error: "empty" }, 400);
+
+  const normalized = text.toLowerCase().replaceAll("ё", "е");
+  if (CRISIS.some((re) => re.test(normalized))) return json({ crisis: true });
+
+  const list = states.map((s) => `${s.id} — ${s.name}`).join("\n");
+  const prompt = `Список состояний (id — название):\n${list}\n\nТекст человека:\n"""\n${text}\n"""\n\n` +
+    "Выбери от 1 до 4 состояний из списка, которые точнее всего описывают то, что человек переживает в этом тексте. " +
+    "Учитывай весь текст, а не отдельные слова; конкретные состояния (например, похмелье, предательство) важнее общих. " +
+    'Ответь ТОЛЬКО JSON-массивом id по убыванию важности, например ["hangover","shame"]. Без пояснений.';
+  const model = MODELS[body.model] || env.MODEL || DEFAULT_MODEL;
+  try {
+    const result = await env.AI.run(model, {
+      messages: [
+        { role: "system", content: "Ты классификатор эмоциональных состояний. Отвечаешь только JSON-массивом строк." },
+        { role: "user", content: prompt },
+      ],
+      max_tokens: 60,
+      temperature: 0,
+    });
+    const raw = String(result?.response ?? result?.choices?.[0]?.message?.content ?? "");
+    const known = new Set(states.map((s) => s.id));
+    let ids = [];
+    const match = raw.match(/\[[\s\S]*?\]/);
+    if (match) {
+      try { ids = JSON.parse(match[0]); } catch { ids = []; }
+    }
+    if (!Array.isArray(ids) || !ids.length) ids = raw.match(/[a-z_]+/g) || [];
+    ids = [...new Set(ids.map(String))].filter((id) => known.has(id)).slice(0, 4);
+    return json({ ids });
+  } catch (e) {
+    const message = String(e?.message || e);
+    const quota = /4006|daily free allocation|neurons/i.test(message);
+    return json({ error: quota ? "quota" : "ai_failed" }, quota ? 429 : 502);
+  }
+}
+
 export default {
   async fetch(request, env) {
     const url = new URL(request.url);
@@ -93,7 +136,7 @@ export default {
     if (request.method === "GET" && url.pathname === "/health") {
       return json({ ok: true, ai: Boolean(env.AI), models: Object.keys(MODELS) });
     }
-    if (request.method !== "POST" || url.pathname !== "/reflect") {
+    if (request.method !== "POST" || (url.pathname !== "/reflect" && url.pathname !== "/classify")) {
       return json({ error: "not_found" }, 404);
     }
 
@@ -103,6 +146,8 @@ export default {
     } catch {
       return json({ error: "bad_json" }, 400);
     }
+
+    if (url.pathname === "/classify") return classify(body, env);
 
     const note = clip(body.note, LIMITS.note).trim();
     const emotions = (Array.isArray(body.emotions) ? body.emotions : []).slice(0, LIMITS.emotions)

@@ -77,12 +77,22 @@ object EmotionGuess {
         "melancholy" to w("меланхол", "светлая печаль", "светлая грусть", "осенн", "грустно, но хорошо"),
     )
 
-    /** Up to [limit] feelings, ordered by how many cues matched. */
-    fun guess(text: String, limit: Int = 3): List<String> {
+    // Broad feelings get matched by many everyday words («страшно», «грустно»); specific states
+    // («похмелье», «предательство») usually appear once but say much more — so they weigh more.
+    private val broad = setOf(
+        "anxiety", "fear", "sadness", "anger", "joy", "love", "hope", "shame", "guilt",
+        "confusion", "fatigue", "emptiness", "loneliness", "calm", "boredom",
+    )
+
+    /** Up to [limit] feelings, ordered by weighted number of cues. */
+    fun guess(text: String, limit: Int = 4): List<String> {
         val t = text.lowercase().replace('ё', 'е')
         if (t.isBlank()) return emptyList()
         return rules
-            .map { (id, patterns) -> id to patterns.sumOf { p -> p.findAll(t).count() } }
+            .map { (id, patterns) ->
+                val hits = patterns.sumOf { p -> p.findAll(t).count() }
+                id to if (id in broad) hits else hits * 3
+            }
             .filter { it.second > 0 }
             .sortedByDescending { it.second }
             .take(limit)

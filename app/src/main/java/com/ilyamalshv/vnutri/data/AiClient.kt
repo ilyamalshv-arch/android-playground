@@ -11,6 +11,7 @@ sealed interface AiReply {
     data class Text(val text: String) : AiReply
     data object Crisis : AiReply
     data class Failure(val message: String) : AiReply
+    data class States(val ids: List<String>) : AiReply
 }
 
 /**
@@ -20,6 +21,25 @@ sealed interface AiReply {
 class AiClient(private val settings: Settings) {
 
     suspend fun health(): AiReply = request("GET", "/health", null) { AiReply.Text("ok") }
+
+    /** Asks the model which of the app's states fit the whole text best. */
+    suspend fun classify(text: String): AiReply {
+        val body = JSONObject()
+            .put("text", text)
+            .put("model", settings.aiModel)
+            .put("states", JSONArray().apply {
+                Emotions.all.forEach { put(JSONObject().put("id", it.id).put("name", it.name)) }
+            })
+        return request("POST", "/classify", body.toString()) { json ->
+            when {
+                json.optBoolean("crisis") -> AiReply.Crisis
+                else -> {
+                    val arr = json.optJSONArray("ids") ?: JSONArray()
+                    AiReply.States(List(arr.length()) { arr.getString(it) })
+                }
+            }
+        }
+    }
 
     suspend fun reflect(
         emotions: List<EmotionMark>,

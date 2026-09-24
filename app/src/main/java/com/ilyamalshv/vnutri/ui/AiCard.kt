@@ -116,6 +116,7 @@ fun AiCard(
                 }
                 AiReply.Crisis -> onCrisis()
                 is AiReply.Failure -> error = result.message
+                is AiReply.States -> Unit
             }
         }
     }
