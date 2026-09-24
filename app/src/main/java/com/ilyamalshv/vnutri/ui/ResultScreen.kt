@@ -3,6 +3,7 @@ package com.ilyamalshv.vnutri.ui
 import com.ilyamalshv.vnutri.data.tr
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.PaddingValues
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
@@ -19,6 +20,7 @@ import androidx.compose.material3.Card
 import androidx.compose.material3.CardDefaults
 import androidx.compose.material3.FilterChip
 import androidx.compose.material3.MaterialTheme
+import androidx.compose.material3.OutlinedButton
 import androidx.compose.material3.OutlinedTextField
 import androidx.compose.material3.ScrollableTabRow
 import androidx.compose.material3.Scaffold
@@ -33,6 +35,7 @@ import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.saveable.rememberSaveable
 import androidx.compose.runtime.setValue
+import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 import com.ilyamalshv.vnutri.data.AiClient
@@ -41,8 +44,29 @@ import com.ilyamalshv.vnutri.data.Families
 import com.ilyamalshv.vnutri.data.JournalEntry
 import com.ilyamalshv.vnutri.data.Library
 import com.ilyamalshv.vnutri.data.Safety
+import com.ilyamalshv.vnutri.data.Lens
 import com.ilyamalshv.vnutri.data.SavedLens
+import com.ilyamalshv.vnutri.data.School
+import com.ilyamalshv.vnutri.sound.LocalFeedback
 import com.ilyamalshv.vnutri.data.Settings
+
+/**
+ * Three views that differ as much as possible: one school from each of three different families, chosen at
+ * random but stable for a given seed. Schools the person saved for this feeling come first.
+ */
+fun pickContrasting(all: List<Pair<School, Lens>>, savedIds: List<String>, seed: Long): List<Pair<School, Lens>> {
+    val rnd = kotlin.random.Random(seed)
+    val saved = all.filter { it.first.id in savedIds }
+    val rest = all.filter { it.first.id !in savedIds }.shuffled(rnd)
+    val picked = saved.take(3).toMutableList()
+    val usedFamilies = picked.map { it.first.family }.toMutableSet()
+    for (p in rest) {
+        if (picked.size >= 3) break
+        if (p.first.family !in usedFamilies) { picked += p; usedFamilies += p.first.family }
+    }
+    for (p in rest) { if (picked.size >= 3) break; if (p !in picked) picked += p }
+    return picked
+}
 
 @OptIn(ExperimentalLayoutApi::class)
 @Composable
@@ -58,12 +82,17 @@ fun ResultScreen(
 ) {
     var tab by rememberSaveable { mutableIntStateOf(0) }
     var family by rememberSaveable { mutableStateOf<String?>(null) }
+    var showAll by rememberSaveable { mutableStateOf(false) }
+    var shuffle by rememberSaveable { mutableIntStateOf(0) }
+    val feedback = LocalFeedback.current
     val expanded = remember { mutableStateMapOf<String, Boolean>() }
     var reflection by rememberSaveable { mutableStateOf(entry.reflection) }
     var reflectionSaved by remember { mutableStateOf(false) }
 
     val emotionId = entry.emotions.getOrNull(tab)?.emotionId ?: entry.emotions.first().emotionId
-    val lenses = library.lensesFor(emotionId).filter { family == null || it.first.family == family }
+    val all = library.lensesFor(emotionId)
+    val lenses = if (showAll) all.filter { family == null || it.first.family == family }
+    else pickContrasting(all, entry.saved.filter { it.emotionId == emotionId }.map { it.schoolId }, entry.id + shuffle * 7919L + emotionId.hashCode())
     val presentFamilies = Families.all.filter { f -> library.schools.any { it.family == f.id } }
 
     Scaffold(topBar = { BackTopBar(tr("Взгляды на чувства", "Views on feelings"), onBack) }) { padding ->
@@ -75,7 +104,7 @@ fun ResultScreen(
                     }
                 }
             }
-            LazyRow(
+            if (showAll) LazyRow(
                 contentPadding = PaddingValues(horizontal = 16.dp, vertical = 8.dp),
                 horizontalArrangement = Arrangement.spacedBy(8.dp),
             ) {
@@ -106,7 +135,7 @@ fun ResultScreen(
                 }
                 item {
                     Text(
-                        tr("Здесь нет правильного ответа. Прочитайте несколько взглядов и заметьте, какой из них отзывается.", "There is no right answer here. Read a few views and notice which one resonates."),
+                        tr("Три очень разных взгляда. Здесь нет правильного ответа — заметьте, какой отзывается.", "Three very different views. There is no right answer — notice which one resonates."),
                         style = MaterialTheme.typography.bodyMedium,
                         color = MaterialTheme.colorScheme.onSurfaceVariant,
                     )
@@ -146,6 +175,18 @@ fun ResultScreen(
                             style = MaterialTheme.typography.bodySmall,
                             color = MaterialTheme.colorScheme.onSurfaceVariant,
                         )
+                    }
+                }
+                item(key = "more") {
+                    Row(verticalAlignment = Alignment.CenterVertically, horizontalArrangement = Arrangement.spacedBy(8.dp)) {
+                        if (!showAll) {
+                            OutlinedButton(onClick = { feedback?.tap(); shuffle++; expanded.clear() }) {
+                                Text(tr("↻ Другие взгляды", "↻ Other views"))
+                            }
+                        }
+                        TextButton(onClick = { showAll = !showAll; family = null }) {
+                            Text(if (showAll) tr("Только три", "Just three") else tr("Все школы (${all.size})", "All schools (${all.size})"))
+                        }
                     }
                 }
                 if (lenses.isEmpty()) {
